@@ -27,7 +27,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
+      # Start from the latest commit on the branch, not the one that queued this run:
+      # an earlier run may have pushed new data while this one was waiting.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
@@ -52,11 +56,20 @@ jobs:
           git add site/data data
           if git diff --cached --quiet; then
             echo "No data changes."
-          else
-            git commit -m "Update rankings $(TZ=Asia/Taipei date +%F)"
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            exit 0
           fi
+          git commit -m "Update rankings $(TZ=Asia/Taipei date +%F)"
+          # This commit only touches generated data, so on a conflict keep this run's
+          # newer version (-X theirs is "the commit being replayed" during a rebase).
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt ${attempt} failed; retrying."
+            sleep 5
+          done
+          exit 1
 
       - uses: actions/configure-pages@v5
 
