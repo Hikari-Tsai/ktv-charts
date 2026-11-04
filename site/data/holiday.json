@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.holiday.com.tw/",
- "checked_at": "2026-11-04T14:48:33+08:00",
+ "checked_at": "2026-11-04T15:10:49+08:00",
  "errors": [],
  "charts": [
   {
@@ -171,7 +171,9 @@
      "song_no": "43028",
      "kkbox": "-p7X9j6RzoZVqvkHyk",
      "last_rank": 15,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/930758244"
     },
     {
      "rank": 15,
@@ -180,7 +182,9 @@
      "song_no": "40268",
      "kkbox": "4r_xmm-gSSJLqFsgxO",
      "last_rank": 14,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1429430104"
     },
     {
      "rank": 16,
@@ -189,7 +193,9 @@
      "song_no": "66834",
      "kkbox": "KmsMCHB4R1boPwV_A4",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/543849961"
     },
     {
      "rank": 17,
@@ -198,7 +204,9 @@
      "song_no": "50122",
      "kkbox": "Kt-FdiGlIXgP3adGzZ",
      "last_rank": 23,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1190504672"
     },
     {
      "rank": 18,
@@ -207,7 +215,9 @@
      "song_no": "47284",
      "kkbox": "8sXF4g7NV0ZqkyYDDr",
      "last_rank": 18,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/597217626"
     },
     {
      "rank": 19,
@@ -216,7 +226,9 @@
      "song_no": "21235",
      "kkbox": "Ha5sozRVE8K3abcsUM",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1770003012"
     },
     {
      "rank": 20,
@@ -225,7 +237,9 @@
      "song_no": "65585",
      "kkbox": "PX7TuBXL8IwsAmZoiG",
      "last_rank": 26,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/255921025"
     },
     {
      "rank": 21,
@@ -234,7 +248,9 @@
      "song_no": "52161",
      "kkbox": "D-_bCjCmldMik0Hokj",
      "last_rank": 19,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1462400556"
     },
     {
      "rank": 22,
@@ -243,7 +259,9 @@
      "song_no": "27349",
      "kkbox": "0pp0TYF1MinpWHxuUo",
      "last_rank": 21,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1592498330"
     },
     {
      "rank": 23,
@@ -263,7 +281,9 @@
      "song_no": "41354",
      "kkbox": "4piU7FHBiO7N5H8nfD",
      "last_rank": 29,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/930758230"
     },
     {
      "rank": 25,
@@ -272,7 +292,9 @@
      "song_no": "50616",
      "kkbox": "-mkR_YsjyaWqX6JguC",
      "last_rank": 30,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1834199249"
     },
     {
      "rank": 26,
@@ -281,7 +303,9 @@
      "song_no": "66961",
      "kkbox": "H-kONd1aCJ6qxluKUC",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1442648689"
     },
     {
      "rank": 27,
@@ -290,7 +314,9 @@
      "song_no": "21818",
      "kkbox": "-k_KArxjMveSYP0n7s",
      "last_rank": 27,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1811950828"
     },
     {
      "rank": 28,
@@ -308,7 +334,9 @@
      "song_no": "21780",
      "kkbox": "9YnRorQutUrZ3I2Jpm",
      "last_rank": 20,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1790602218"
     },
     {
      "rank": 30,
@@ -317,12 +345,14 @@
      "song_no": "27585",
      "kkbox": "TXSpgFxHAIGG3e047p",
      "last_rank": 46,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1616484709"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:08+08:00",
+   "fetched_at": "2026-11-04T15:10:23+08:00",
    "stale": false
   },
   {
@@ -506,7 +536,9 @@
      "song_no": "72710",
      "kkbox": "5a4mX7KDyKyO7_XPjg",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/870361601"
     },
     {
      "rank": 17,
@@ -535,7 +567,9 @@
      "song_no": "81511",
      "kkbox": "L_Fkru1p_NyBrHQR75",
      "last_rank": 32,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/1775889910"
     },
     {
      "rank": 20,
@@ -544,7 +578,9 @@
      "song_no": "77257",
      "kkbox": "4tET-qWILX0lEgcLOh",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/1524231249"
     },
     {
      "rank": 21,
@@ -553,7 +589,9 @@
      "song_no": "73640",
      "kkbox": "CsUzDx0d3ZiY3yBW-X",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/1754576706"
     },
     {
      "rank": 22,
@@ -562,7 +600,9 @@
      "song_no": "75668",
      "kkbox": "Go5dmcSQV7_OeMsm4u",
      "last_rank": 19,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/926174356"
     },
     {
      "rank": 23,
@@ -579,7 +619,9 @@
      "song_no": "77135",
      "kkbox": "OomwJN9K32Aqaw7VCH",
      "last_rank": 29,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/717098523"
     },
     {
      "rank": 25,
@@ -588,7 +630,9 @@
      "song_no": "76150",
      "kkbox": "Wn7faUMDwvj1xnKDBt",
      "last_rank": 20,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/379810345"
     },
     {
      "rank": 26,
@@ -597,7 +641,9 @@
      "song_no": "77226",
      "kkbox": "5XoepcRfELRueWQKaS",
      "last_rank": 23,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/1673893555"
     },
     {
      "rank": 27,
@@ -638,7 +684,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:11+08:00",
+   "fetched_at": "2026-11-04T15:10:27+08:00",
    "stale": false
   },
   {
@@ -810,7 +856,9 @@
      "song_no": "19179",
      "kkbox": "OqqZzB7_MMmVew0z-U",
      "last_rank": 14,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/723213063"
     },
     {
      "rank": 16,
@@ -839,7 +887,9 @@
      "song_no": "19116",
      "kkbox": "9aDz5ISd1jmuJte9kY",
      "last_rank": 19,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1443310612"
     },
     {
      "rank": 19,
@@ -848,7 +898,9 @@
      "song_no": "25280",
      "kkbox": "Ck_QTGpKnNz68TWVNn",
      "last_rank": 18,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1440803866"
     },
     {
      "rank": 20,
@@ -857,7 +909,9 @@
      "song_no": "24620",
      "kkbox": "T-2vO1v--xXCX9CIK7",
      "last_rank": 25,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1444116580"
     },
     {
      "rank": 21,
@@ -866,7 +920,9 @@
      "song_no": "19128",
      "kkbox": "KrCCTZRH6Il0AJKSYl",
      "last_rank": 22,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1061503473"
     },
     {
      "rank": 22,
@@ -875,7 +931,9 @@
      "song_no": "19175",
      "kkbox": "4qQmBG58WUFovXT9F7",
      "last_rank": 20,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1443394970"
     },
     {
      "rank": 23,
@@ -884,7 +942,9 @@
      "song_no": "19043",
      "kkbox": "9ZboLsgus_ZpFOhvCP",
      "last_rank": 31,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/894542926"
     },
     {
      "rank": 24,
@@ -893,7 +953,9 @@
      "song_no": "19109",
      "kkbox": "4mM-yV0Xf387oR8YO7",
      "last_rank": 21,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1049581689"
     },
     {
      "rank": 25,
@@ -902,7 +964,9 @@
      "song_no": "25081",
      "kkbox": "Cn49TXypUCArpOWAhy",
      "last_rank": 27,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1477799567"
     },
     {
      "rank": 26,
@@ -929,7 +993,9 @@
      "song_no": "24590",
      "kkbox": "So6gzmn81DbhaF6oF7",
      "last_rank": 23,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/543764956"
     },
     {
      "rank": 29,
@@ -952,7 +1018,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:15+08:00",
+   "fetched_at": "2026-11-04T15:10:30+08:00",
    "stale": false
   },
   {
@@ -1115,7 +1181,9 @@
      "song_no": "34244",
      "kkbox": "8ktw4LAIsZ01OlVpg7",
      "last_rank": 13,
-     "is_new": false
+     "is_new": false,
+     "genre": "Hard Rock",
+     "apple": "tw/528437613"
     },
     {
      "rank": 15,
@@ -1124,7 +1192,9 @@
      "song_no": "34304",
      "kkbox": "-qqCMrCQLDIxAgSfs_",
      "last_rank": 15,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/989874548"
     },
     {
      "rank": 16,
@@ -1144,7 +1214,9 @@
      "song_no": "37939",
      "kkbox": "KrIN7LRH6Il0COxtpT",
      "last_rank": 18,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/315025823"
     },
     {
      "rank": 18,
@@ -1153,7 +1225,9 @@
      "song_no": "37739",
      "kkbox": "KtybZeF1IXgP21Qix2",
      "last_rank": 19,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/282658482"
     },
     {
      "rank": 19,
@@ -1162,7 +1236,9 @@
      "song_no": "34357",
      "kkbox": "P_4aUFLaadNri01kNW",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "Dance",
+     "apple": "tw/1445141168"
     },
     {
      "rank": 20,
@@ -1171,7 +1247,9 @@
      "song_no": "37942",
      "kkbox": "GkfGUx7-nSw3SfawaF",
      "last_rank": 20,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/310505605"
     },
     {
      "rank": 21,
@@ -1180,7 +1258,9 @@
      "song_no": "34040",
      "kkbox": "CoU0ldf9HOVZgawpFZ",
      "last_rank": 22,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/268993517"
     },
     {
      "rank": 22,
@@ -1189,7 +1269,9 @@
      "song_no": "37369",
      "kkbox": "8ras_NWU59bDSRiywV",
      "last_rank": 21,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1642721873"
     },
     {
      "rank": 23,
@@ -1207,7 +1289,9 @@
      "song_no": "37568",
      "kkbox": "KtqDtWF1IXgP35OUW-",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "genre": "Soundtrack",
+     "apple": "tw/714526448"
     },
     {
      "rank": 25,
@@ -1216,7 +1300,9 @@
      "song_no": "34307",
      "kkbox": "WpNxGZRraMOw8kvhrr",
      "last_rank": 27,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1440650859"
     },
     {
      "rank": 26,
@@ -1252,7 +1338,9 @@
      "song_no": "37947",
      "kkbox": "GlhJVQTpylVNGQ46dU",
      "last_rank": 26,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/269573341"
     },
     {
      "rank": 30,
@@ -1266,7 +1354,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:18+08:00",
+   "fetched_at": "2026-11-04T15:10:34+08:00",
    "stale": false
   },
   {
@@ -1410,7 +1498,9 @@
      "song_no": "78441",
      "kkbox": "DYJwP3_7ri5YSDqhOK",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/75621413"
     },
     {
      "rank": 14,
@@ -1430,7 +1520,9 @@
      "song_no": "88594",
      "kkbox": "Dad4R9QZK9m6Hd-W0f",
      "last_rank": 14,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/1533778505"
     },
     {
      "rank": 16,
@@ -1439,7 +1531,9 @@
      "song_no": "88597",
      "kkbox": "X_gzft5-xGbE7tt474",
      "last_rank": 12,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/1536760546"
     },
     {
      "rank": 17,
@@ -1459,7 +1553,9 @@
      "song_no": "88361",
      "kkbox": "1XMW32Z19YZDwblHb6",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1440657253"
     },
     {
      "rank": 19,
@@ -1468,7 +1564,9 @@
      "song_no": "88186",
      "kkbox": "GlU4mPAJylVNHSdfZE",
      "last_rank": 21,
-     "is_new": false
+     "is_new": false,
+     "genre": "Enka",
+     "apple": "jp/1438593072"
     },
     {
      "rank": 20,
@@ -1477,7 +1575,9 @@
      "song_no": "88748",
      "kkbox": "GnmBaX02JNIVJiE7Yh",
      "last_rank": 35,
-     "is_new": false
+     "is_new": false,
+     "genre": "Kayokyoku",
+     "apple": "jp/1740094429"
     },
     {
      "rank": 21,
@@ -1519,7 +1619,9 @@
      "song_no": "89507",
      "kkbox": "8r0t9DKU59bDRfSO91",
      "last_rank": 19,
-     "is_new": false
+     "is_new": false,
+     "genre": "Kayokyoku",
+     "apple": "jp/1723351617"
     },
     {
      "rank": 25,
@@ -1528,7 +1630,9 @@
      "song_no": "89974",
      "kkbox": "TXHjsy83AIGG2uQ_NB",
      "last_rank": 29,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1061504231"
     },
     {
      "rank": 26,
@@ -1555,7 +1659,9 @@
      "song_no": "91993",
      "kkbox": "L_APuzr5_NyBptkdat",
      "last_rank": 32,
-     "is_new": false
+     "is_new": false,
+     "genre": "Enka",
+     "apple": "jp/1613465321"
     },
     {
      "rank": 29,
@@ -1580,7 +1686,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:21+08:00",
+   "fetched_at": "2026-11-04T15:10:37+08:00",
    "stale": false
   },
   {
@@ -1739,7 +1845,9 @@
      "song_no": "02061",
      "kkbox": "8tn8bqTDsnPsEdcq96",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1597704713"
     },
     {
      "rank": 15,
@@ -1748,7 +1856,9 @@
      "song_no": "02019",
      "kkbox": "OkxU1dW3wySdKvqQYR",
      "last_rank": 15,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/982223884"
     },
     {
      "rank": 16,
@@ -1757,7 +1867,9 @@
      "song_no": "02011",
      "kkbox": "KrbwmuaH6Il0AX6AZ0",
      "last_rank": 19,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1698412716"
     },
     {
      "rank": 17,
@@ -1775,7 +1887,9 @@
      "song_no": "02008",
      "kkbox": "-tyitbP5Z3RLs4DFhT",
      "last_rank": 18,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/854890817"
     },
     {
      "rank": 19,
@@ -1784,7 +1898,9 @@
      "song_no": "02021",
      "kkbox": "Or_QLbWFf78HXzo9vD",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1118367642"
     },
     {
      "rank": 20,
@@ -1793,7 +1909,9 @@
      "song_no": "02053",
      "kkbox": "GnWqszqGJNIVJy0dg5",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "Hip-Hop/Rap",
+     "apple": "tw/1608247201"
     },
     {
      "rank": 21,
@@ -1811,7 +1929,9 @@
      "song_no": "02015",
      "kkbox": "4rvqqf-gSSJLrVOLU0",
      "last_rank": 23,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1689324537"
     },
     {
      "rank": 23,
@@ -1820,7 +1940,9 @@
      "song_no": "02013",
      "kkbox": "0rj_GlQB97Udz_IMxP",
      "last_rank": 22,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1698411828"
     },
     {
      "rank": 24,
@@ -1829,7 +1951,9 @@
      "song_no": "02018",
      "kkbox": "XY4ZKNBCJrx2EzVq-c",
      "last_rank": 27,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1336761095"
     },
     {
      "rank": 25,
@@ -1847,7 +1971,9 @@
      "song_no": "02055",
      "kkbox": "Or7M9ae1f78HVXlmY2",
      "last_rank": 28,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1560769292"
     },
     {
      "rank": 27,
@@ -1886,7 +2012,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:25+08:00",
+   "fetched_at": "2026-11-04T15:10:40+08:00",
    "stale": false
   },
   {
@@ -2046,7 +2172,9 @@
      "song_no": "94542",
      "kkbox": "LYL-s0V0B5Nir5qT_r",
      "last_rank": 14,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1768317150"
     },
     {
      "rank": 15,
@@ -2062,12 +2190,14 @@
      "artist": "Trúc Nhân、Osad、Linh Cáo、Bùi Công Nam",
      "song_no": "94607",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1866665607"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:26+08:00",
+   "fetched_at": "2026-11-04T15:10:42+08:00",
    "stale": false
   },
   {
@@ -2219,7 +2349,9 @@
      "song_no": "02409",
      "kkbox": "OlODQL24S497behBma",
      "last_rank": 15,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1882412874"
     },
     {
      "rank": 14,
@@ -2228,7 +2360,9 @@
      "song_no": "03452",
      "kkbox": "WnHJAlYTwvj1xgn5fX",
      "last_rank": 10,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1813353826"
     },
     {
      "rank": 15,
@@ -2259,7 +2393,9 @@
      "song_no": "02663",
      "kkbox": "4ltjw9za9Z5EZV84OI",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/6771372863"
     },
     {
      "rank": 18,
@@ -2268,7 +2404,9 @@
      "song_no": "03433",
      "kkbox": "4oHlYl-KtWt5nP2QBJ",
      "last_rank": 18,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1886148162"
     },
     {
      "rank": 19,
@@ -2277,7 +2415,9 @@
      "song_no": "02410",
      "kkbox": "X_DCNAg-xGbE58FQp7",
      "last_rank": 14,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1868718645"
     },
     {
      "rank": 20,
@@ -2286,7 +2426,9 @@
      "song_no": "03445",
      "kkbox": "CkwO0s6qnNz6-gtD6q",
      "last_rank": 23,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/6800180368"
     },
     {
      "rank": 21,
@@ -2306,7 +2448,9 @@
      "song_no": "03589",
      "kkbox": "4sxQip4jOGRFhdwAfD",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Mandopop",
+     "apple": "tw/1767813585"
     },
     {
      "rank": 23,
@@ -2315,7 +2459,9 @@
      "song_no": "02526",
      "kkbox": "0mLTXTR8-zGvNRcbo9",
      "last_rank": 20,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/6807777958"
     },
     {
      "rank": 24,
@@ -2335,7 +2481,9 @@
      "song_no": "02694",
      "kkbox": "Cki2jW7KnNz6_LCNnm",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1854393258"
     },
     {
      "rank": 26,
@@ -2344,7 +2492,9 @@
      "song_no": "03029",
      "kkbox": "PX2biNDb8IwsAAN7kb",
      "last_rank": 30,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1787448196"
     },
     {
      "rank": 27,
@@ -2353,7 +2503,9 @@
      "song_no": "03440",
      "kkbox": "Ko0sWKKRP2VFtQEPsy",
      "last_rank": 27,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1891408114"
     },
     {
      "rank": 28,
@@ -2362,7 +2514,9 @@
      "song_no": "03237",
      "kkbox": "D_x6yW-6Otw-bqeJKl",
      "last_rank": 31,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/6764376440"
     },
     {
      "rank": 29,
@@ -2371,7 +2525,9 @@
      "song_no": "03227",
      "kkbox": "OpNLpcbQzUmSYRZ8hz",
      "last_rank": 36,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/6783215356"
     },
     {
      "rank": 30,
@@ -2385,7 +2541,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:30+08:00",
+   "fetched_at": "2026-11-04T15:10:45+08:00",
    "stale": false
   },
   {
@@ -2537,7 +2693,9 @@
      "song_no": "02902",
      "kkbox": "8tcsAGKjsnPsGTVIYD",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6814704608"
     },
     {
      "rank": 14,
@@ -2546,7 +2704,9 @@
      "song_no": "02907",
      "kkbox": "D_Oeus_KOtw-Y6ioID",
      "last_rank": 9,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6814705446"
     },
     {
      "rank": 15,
@@ -2555,7 +2715,9 @@
      "song_no": "02725",
      "kkbox": "L_HvgqzZ_NyBqvGurs",
      "last_rank": 10,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/6800675789"
     },
     {
      "rank": 16,
@@ -2564,7 +2726,9 @@
      "song_no": "02900",
      "kkbox": "KkNISgxz5hrtBMuet7",
      "last_rank": 14,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6814704609"
     },
     {
      "rank": 17,
@@ -2573,7 +2737,9 @@
      "song_no": "03075",
      "kkbox": "Cmy7wFgVtBWGqrMK-8",
      "last_rank": 19,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6814704613"
     },
     {
      "rank": 18,
@@ -2582,7 +2748,9 @@
      "song_no": "03606",
      "kkbox": "5aAPYQfjyKyO4CHvMd",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Tai-Pop",
+     "apple": "tw/6815194133"
     },
     {
      "rank": 19,
@@ -2591,7 +2759,9 @@
      "song_no": "02731",
      "kkbox": "LXUEbNjhU4Yl7i3HaJ",
      "last_rank": 20,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6767463258"
     },
     {
      "rank": 20,
@@ -2600,7 +2770,9 @@
      "song_no": "03082",
      "kkbox": "SlblthuLOx5G0G7viw",
      "last_rank": 15,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6814705445"
     },
     {
      "rank": 21,
@@ -2609,7 +2781,9 @@
      "song_no": "03604",
      "kkbox": "0tLt9YywKUfrBR_alR",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Tai-Pop",
+     "apple": "tw/6823510891"
     },
     {
      "rank": 22,
@@ -2627,7 +2801,9 @@
      "song_no": "03601",
      "kkbox": "1-3KvoAXWDhicsQewU",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Tai-Pop",
+     "apple": "tw/6823510892"
     },
     {
      "rank": 24,
@@ -2647,7 +2823,9 @@
      "song_no": "02730",
      "kkbox": "8r02XZNk59bDRgL0K-",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "Chinese",
+     "apple": "tw/1800275687"
     },
     {
      "rank": 26,
@@ -2656,7 +2834,9 @@
      "song_no": "03077",
      "kkbox": "Cr1SkDFRa7_3NpcUx3",
      "last_rank": 21,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6814704610"
     },
     {
      "rank": 27,
@@ -2673,7 +2853,9 @@
      "song_no": "03455",
      "kkbox": "La8cYi55zEPTjTQE0s",
      "last_rank": 30,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/6823510110"
     },
     {
      "rank": 29,
@@ -2682,7 +2864,9 @@
      "song_no": "03600",
      "kkbox": "H_Q8oOtY6JmyztIbVB",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Tai-Pop",
+     "apple": "tw/6823510112"
     },
     {
      "rank": 30,
@@ -2696,7 +2880,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T14:48:33+08:00",
+   "fetched_at": "2026-11-04T15:10:49+08:00",
    "stale": false
   }
  ]

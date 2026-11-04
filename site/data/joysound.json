@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.joysound.com/",
- "checked_at": "2026-11-04T14:48:53+08:00",
+ "checked_at": "2026-11-04T15:11:03+08:00",
  "errors": [],
  "charts": [
   {
@@ -168,7 +168,9 @@
      "artist": "マカロニえんぴつ",
      "song_url": "https://www.joysound.com/web/search/song/822780",
      "last_rank": 17,
-     "is_new": false
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1496731154"
     },
     {
      "rank": 16,
@@ -176,7 +178,9 @@
      "artist": "MONGOL800",
      "song_url": "https://www.joysound.com/web/search/song/21589",
      "last_rank": 15,
-     "is_new": false
+     "is_new": false,
+     "genre": "Alternative",
+     "apple": "jp/273169347"
     },
     {
      "rank": 17,
@@ -194,7 +198,9 @@
      "artist": "椎名林檎",
      "song_url": "https://www.joysound.com/web/search/song/19738",
      "last_rank": 16,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1384341683"
     },
     {
      "rank": 19,
@@ -222,7 +228,9 @@
      "artist": "=LOVE",
      "song_url": "https://www.joysound.com/web/search/song/1089203",
      "last_rank": 21,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1794066813"
     },
     {
      "rank": 22,
@@ -230,7 +238,9 @@
      "artist": "M!LK",
      "song_url": "https://www.joysound.com/web/search/song/1150854",
      "last_rank": 29,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1869537742"
     },
     {
      "rank": 23,
@@ -238,7 +248,9 @@
      "artist": "GReeeeN",
      "song_url": "https://www.joysound.com/web/search/song/117766",
      "last_rank": 27,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1440780922"
     },
     {
      "rank": 24,
@@ -246,7 +258,9 @@
      "artist": "aiko",
      "song_url": "https://www.joysound.com/web/search/song/21012",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1109986324"
     },
     {
      "rank": 25,
@@ -284,7 +298,9 @@
      "artist": "Superfly",
      "song_url": "https://www.joysound.com/web/search/song/113523",
      "last_rank": 33,
-     "is_new": false
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/279691859"
     },
     {
      "rank": 29,
@@ -292,7 +308,9 @@
      "artist": "HY",
      "song_url": "https://www.joysound.com/web/search/song/115215",
      "last_rank": 31,
-     "is_new": false
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/820248910"
     },
     {
      "rank": 30,
@@ -300,7 +318,9 @@
      "artist": "一青窈",
      "song_url": "https://www.joysound.com/web/search/song/27215",
      "last_rank": 28,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1444445589"
     },
     {
      "rank": 31,
@@ -326,7 +346,9 @@
      "artist": "back number",
      "song_url": "https://www.joysound.com/web/search/song/1094439",
      "last_rank": 37,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1808852932"
     },
     {
      "rank": 34,
@@ -424,7 +446,9 @@
      "song_url": "https://www.joysound.com/web/search/song/993540",
      "last_rank": 54,
      "is_new": false,
-     "kkbox": "9XBRIdzi3wYrDq5D6G"
+     "kkbox": "9XBRIdzi3wYrDq5D6G",
+     "genre": "J-Pop",
+     "apple": "tw/1781833058"
     },
     {
      "rank": 45,
@@ -440,7 +464,9 @@
      "artist": "AI",
      "song_url": "https://www.joysound.com/web/search/song/18487",
      "last_rank": 41,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1444118054"
     },
     {
      "rank": 47,
@@ -483,7 +509,9 @@
      "artist": "中西保志",
      "song_url": "https://www.joysound.com/web/search/song/4231",
      "last_rank": 36,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1679687728"
     },
     {
      "rank": 52,
@@ -698,7 +726,9 @@
      "artist": "YOASOBI",
      "song_url": "https://www.joysound.com/web/search/song/966944",
      "last_rank": 85,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1679278167"
     },
     {
      "rank": 77,
@@ -907,7 +937,7 @@
    ],
    "period_key": "2026-11-03",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T14:48:43+08:00",
+   "fetched_at": "2026-11-04T15:10:57+08:00",
    "stale": false
   },
   {
@@ -1047,7 +1077,9 @@
      "artist": "マカロニえんぴつ",
      "song_url": "https://www.joysound.com/web/search/song/822780",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/1496731154"
     },
     {
      "rank": 14,
@@ -1085,7 +1117,9 @@
      "artist": "椎名林檎",
      "song_url": "https://www.joysound.com/web/search/song/19738",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1384341683"
     },
     {
      "rank": 18,
@@ -1093,7 +1127,9 @@
      "artist": "=LOVE",
      "song_url": "https://www.joysound.com/web/search/song/1089203",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1794066813"
     },
     {
      "rank": 19,
@@ -1101,7 +1137,9 @@
      "artist": "MONGOL800",
      "song_url": "https://www.joysound.com/web/search/song/21589",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Alternative",
+     "apple": "jp/273169347"
     },
     {
      "rank": 20,
@@ -1109,7 +1147,9 @@
      "artist": "aiko",
      "song_url": "https://www.joysound.com/web/search/song/21012",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1109986324"
     },
     {
      "rank": 21,
@@ -1157,7 +1197,9 @@
      "artist": "M!LK",
      "song_url": "https://www.joysound.com/web/search/song/1150854",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1869537742"
     },
     {
      "rank": 26,
@@ -1165,7 +1207,9 @@
      "artist": "一青窈",
      "song_url": "https://www.joysound.com/web/search/song/27215",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1444445589"
     },
     {
      "rank": 27,
@@ -1173,7 +1217,9 @@
      "artist": "HY",
      "song_url": "https://www.joysound.com/web/search/song/115215",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/820248910"
     },
     {
      "rank": 28,
@@ -1189,7 +1235,9 @@
      "artist": "Superfly",
      "song_url": "https://www.joysound.com/web/search/song/113523",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/279691859"
     },
     {
      "rank": 30,
@@ -1197,7 +1245,9 @@
      "artist": "GReeeeN",
      "song_url": "https://www.joysound.com/web/search/song/117766",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1440780922"
     },
     {
      "rank": 31,
@@ -1225,7 +1275,9 @@
      "artist": "back number",
      "song_url": "https://www.joysound.com/web/search/song/1094439",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1808852932"
     },
     {
      "rank": 34,
@@ -1288,7 +1340,9 @@
      "artist": "中西保志",
      "song_url": "https://www.joysound.com/web/search/song/4231",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1679687728"
     },
     {
      "rank": 41,
@@ -1296,7 +1350,9 @@
      "artist": "AI",
      "song_url": "https://www.joysound.com/web/search/song/18487",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1444118054"
     },
     {
      "rank": 42,
@@ -1408,7 +1464,9 @@
      "song_url": "https://www.joysound.com/web/search/song/993540",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "9XBRIdzi3wYrDq5D6G"
+     "kkbox": "9XBRIdzi3wYrDq5D6G",
+     "genre": "J-Pop",
+     "apple": "tw/1781833058"
     },
     {
      "rank": 55,
@@ -1738,7 +1796,9 @@
      "artist": "YOASOBI",
      "song_url": "https://www.joysound.com/web/search/song/966944",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1679278167"
     },
     {
      "rank": 94,
@@ -1803,7 +1863,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T14:48:44+08:00",
+   "fetched_at": "2026-11-04T15:10:58+08:00",
    "stale": false
   },
   {
@@ -1943,7 +2003,9 @@
      "artist": "マカロニえんぴつ",
      "song_url": "https://www.joysound.com/web/search/song/822780",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/1496731154"
     },
     {
      "rank": 14,
@@ -1961,7 +2023,9 @@
      "artist": "MONGOL800",
      "song_url": "https://www.joysound.com/web/search/song/21589",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Alternative",
+     "apple": "jp/273169347"
     },
     {
      "rank": 16,
@@ -1969,7 +2033,9 @@
      "artist": "椎名林檎",
      "song_url": "https://www.joysound.com/web/search/song/19738",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1384341683"
     },
     {
      "rank": 17,
@@ -1977,7 +2043,9 @@
      "artist": "=LOVE",
      "song_url": "https://www.joysound.com/web/search/song/1089203",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1794066813"
     },
     {
      "rank": 18,
@@ -1985,7 +2053,9 @@
      "artist": "aiko",
      "song_url": "https://www.joysound.com/web/search/song/21012",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1109986324"
     },
     {
      "rank": 19,
@@ -2013,7 +2083,9 @@
      "artist": "M!LK",
      "song_url": "https://www.joysound.com/web/search/song/1150854",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1869537742"
     },
     {
      "rank": 22,
@@ -2041,7 +2113,9 @@
      "artist": "HY",
      "song_url": "https://www.joysound.com/web/search/song/115215",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/820248910"
     },
     {
      "rank": 25,
@@ -2049,7 +2123,9 @@
      "artist": "一青窈",
      "song_url": "https://www.joysound.com/web/search/song/27215",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1444445589"
     },
     {
      "rank": 26,
@@ -2067,7 +2143,9 @@
      "artist": "Superfly",
      "song_url": "https://www.joysound.com/web/search/song/113523",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/279691859"
     },
     {
      "rank": 28,
@@ -2075,7 +2153,9 @@
      "artist": "GReeeeN",
      "song_url": "https://www.joysound.com/web/search/song/117766",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1440780922"
     },
     {
      "rank": 29,
@@ -2174,7 +2254,9 @@
      "artist": "back number",
      "song_url": "https://www.joysound.com/web/search/song/1094439",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1808852932"
     },
     {
      "rank": 40,
@@ -2182,7 +2264,9 @@
      "artist": "AI",
      "song_url": "https://www.joysound.com/web/search/song/18487",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1444118054"
     },
     {
      "rank": 41,
@@ -2190,7 +2274,9 @@
      "artist": "中西保志",
      "song_url": "https://www.joysound.com/web/search/song/4231",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1679687728"
     },
     {
      "rank": 42,
@@ -2260,7 +2346,9 @@
      "song_url": "https://www.joysound.com/web/search/song/993540",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "9XBRIdzi3wYrDq5D6G"
+     "kkbox": "9XBRIdzi3wYrDq5D6G",
+     "genre": "J-Pop",
+     "apple": "tw/1781833058"
     },
     {
      "rank": 50,
@@ -2644,7 +2732,9 @@
      "artist": "YOASOBI",
      "song_url": "https://www.joysound.com/web/search/song/966944",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1679278167"
     },
     {
      "rank": 95,
@@ -2676,7 +2766,9 @@
      "artist": "大塚 愛",
      "song_url": "https://www.joysound.com/web/search/song/10029",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/972567334"
     },
     {
      "rank": 99,
@@ -2697,7 +2789,7 @@
    ],
    "period_key": "2026-10",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T14:48:47+08:00",
+   "fetched_at": "2026-11-04T15:10:59+08:00",
    "stale": false
   },
   {
@@ -2848,7 +2940,9 @@
      "artist": "YOASOBI",
      "song_url": "https://www.joysound.com/web/search/song/966944",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1679278167"
     },
     {
      "rank": 15,
@@ -2856,7 +2950,9 @@
      "artist": "大塚 愛",
      "song_url": "https://www.joysound.com/web/search/song/10029",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/972567334"
     },
     {
      "rank": 16,
@@ -2864,7 +2960,9 @@
      "artist": "いきものがかり",
      "song_url": "https://www.joysound.com/web/search/song/118932",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1536263347"
     },
     {
      "rank": 17,
@@ -2872,7 +2970,9 @@
      "artist": "忘れらんねえよ",
      "song_url": "https://www.joysound.com/web/search/song/1171396",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/6781198668"
     },
     {
      "rank": 18,
@@ -2890,7 +2990,9 @@
      "artist": "涼宮ハルヒ(C.V.平野綾)",
      "song_url": "https://www.joysound.com/web/search/song/85966",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1880591395"
     },
     {
      "rank": 20,
@@ -2898,7 +3000,9 @@
      "artist": "高橋洋子",
      "song_url": "https://www.joysound.com/web/search/song/14909",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/258926443"
     },
     {
      "rank": 21,
@@ -2906,7 +3010,9 @@
      "artist": "Creepy Nuts(R-指定&DJ松永)",
      "song_url": "https://www.joysound.com/web/search/song/1006478",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Hip-Hop/Rap",
+     "apple": "jp/1720332181"
     },
     {
      "rank": 22,
@@ -2925,7 +3031,9 @@
      "artist": "SEKAI NO OWARI",
      "song_url": "https://www.joysound.com/web/search/song/251945",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1550926491"
     },
     {
      "rank": 24,
@@ -2933,7 +3041,9 @@
      "artist": "Mrs. GREEN APPLE",
      "song_url": "https://www.joysound.com/web/search/song/1145389",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/1867354081"
     },
     {
      "rank": 25,
@@ -2941,7 +3051,9 @@
      "artist": "なとり",
      "song_url": "https://www.joysound.com/web/search/song/1146983",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1858168846"
     },
     {
      "rank": 26,
@@ -2949,7 +3061,9 @@
      "artist": "米津玄師",
      "song_url": "https://www.joysound.com/web/search/song/615369",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1537458310"
     },
     {
      "rank": 27,
@@ -3014,7 +3128,9 @@
      "artist": "Mrs. GREEN APPLE",
      "song_url": "https://www.joysound.com/web/search/song/768833",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/1471459432"
     },
     {
      "rank": 35,
@@ -3111,7 +3227,9 @@
      "artist": "SPYAIR",
      "song_url": "https://www.joysound.com/web/search/song/166703",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "jp/1535609758"
     },
     {
      "rank": 47,
@@ -3227,7 +3345,9 @@
      "song_url": "https://www.joysound.com/web/search/song/860557",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "Wt2UEWIwoKRKWQo8Ur"
+     "kkbox": "Wt2UEWIwoKRKWQo8Ur",
+     "genre": "J-Pop",
+     "apple": "tw/1544083979"
     },
     {
      "rank": 61,
@@ -3284,7 +3404,9 @@
      "song_url": "https://www.joysound.com/web/search/song/748873",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "GtovM6Ke-2a58p_KLO"
+     "kkbox": "GtovM6Ke-2a58p_KLO",
+     "genre": "Anime",
+     "apple": "tw/1537908359"
     },
     {
      "rank": 68,
@@ -3398,7 +3520,9 @@
      "artist": "神田沙也加、松たか子",
      "song_url": "https://www.joysound.com/web/search/song/405266",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Soundtrack",
+     "apple": "jp/1753806120"
     },
     {
      "rank": 82,
@@ -3510,7 +3634,9 @@
      "artist": "すりぃ",
      "song_url": "https://www.joysound.com/web/search/song/953268",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1737374705"
     },
     {
      "rank": 96,
@@ -3543,7 +3669,9 @@
      "song_url": "https://www.joysound.com/web/search/song/862275",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "GtovM6Ke-2a58p_KLO"
+     "kkbox": "GtovM6Ke-2a58p_KLO",
+     "genre": "Anime",
+     "apple": "tw/1537908359"
     },
     {
      "rank": 100,
@@ -3556,7 +3684,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T14:48:48+08:00",
+   "fetched_at": "2026-11-04T15:11:00+08:00",
    "stale": false
   },
   {
@@ -3715,7 +3843,9 @@
      "artist": "みきとP feat.鏡音リン",
      "song_url": "https://www.joysound.com/web/search/song/687340",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1597711849"
     },
     {
      "rank": 16,
@@ -3723,7 +3853,9 @@
      "artist": "ツミキ",
      "song_url": "https://www.joysound.com/web/search/song/884125",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1688513140"
     },
     {
      "rank": 17,
@@ -3749,7 +3881,9 @@
      "artist": "EasyPop feat.巡音ルカ、GUMI",
      "song_url": "https://www.joysound.com/web/search/song/163697",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1011665843"
     },
     {
      "rank": 20,
@@ -3757,7 +3891,9 @@
      "artist": "ピノキオピー",
      "song_url": "https://www.joysound.com/web/search/song/899998",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Electronic",
+     "apple": "jp/1585951058"
     },
     {
      "rank": 21,
@@ -3765,7 +3901,9 @@
      "artist": "40mP feat.初音ミク",
      "song_url": "https://www.joysound.com/web/search/song/409045",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/944116584"
     },
     {
      "rank": 22,
@@ -3773,7 +3911,9 @@
      "artist": "すりぃ",
      "song_url": "https://www.joysound.com/web/search/song/953268",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1737374705"
     },
     {
      "rank": 23,
@@ -3781,7 +3921,9 @@
      "artist": "DECO*27",
      "song_url": "https://www.joysound.com/web/search/song/582495",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1147145184"
     },
     {
      "rank": 24,
@@ -3789,7 +3931,9 @@
      "artist": "n-buna feat.初音ミク",
      "song_url": "https://www.joysound.com/web/search/song/491080",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1648869428"
     },
     {
      "rank": 25,
@@ -3797,7 +3941,9 @@
      "artist": "Neru",
      "song_url": "https://www.joysound.com/web/search/song/253411",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1858793961"
     },
     {
      "rank": 26,
@@ -3813,7 +3959,9 @@
      "artist": "40mP feat.初音ミク",
      "song_url": "https://www.joysound.com/web/search/song/185391",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1368260334"
     },
     {
      "rank": 28,
@@ -3925,7 +4073,9 @@
      "artist": "柊マグネタイト",
      "song_url": "https://www.joysound.com/web/search/song/1075484",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1780710477"
     },
     {
      "rank": 42,
@@ -4402,7 +4552,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T14:48:50+08:00",
+   "fetched_at": "2026-11-04T15:11:01+08:00",
    "stale": false
   },
   {
@@ -4555,7 +4705,9 @@
      "artist": "島倉千代子",
      "song_url": "https://www.joysound.com/web/search/song/2541",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/103823282"
     },
     {
      "rank": 15,
@@ -4563,7 +4715,9 @@
      "artist": "美空ひばり",
      "song_url": "https://www.joysound.com/web/search/song/356",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/474114949"
     },
     {
      "rank": 16,
@@ -4571,7 +4725,9 @@
      "artist": "八代亜紀",
      "song_url": "https://www.joysound.com/web/search/song/321",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/299045490"
     },
     {
      "rank": 17,
@@ -4579,7 +4735,9 @@
      "artist": "鳥羽一郎",
      "song_url": "https://www.joysound.com/web/search/song/355",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Kayokyoku",
+     "apple": "jp/552248097"
     },
     {
      "rank": 18,
@@ -4587,7 +4745,9 @@
      "artist": "ちあきなおみ",
      "song_url": "https://www.joysound.com/web/search/song/884",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Kayokyoku",
+     "apple": "jp/1747456068"
     },
     {
      "rank": 19,
@@ -4595,7 +4755,9 @@
      "artist": "川中美幸",
      "song_url": "https://www.joysound.com/web/search/song/16908",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/1862900560"
     },
     {
      "rank": 20,
@@ -4603,7 +4765,9 @@
      "artist": "細川たかし",
      "song_url": "https://www.joysound.com/web/search/song/816",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/103900931"
     },
     {
      "rank": 21,
@@ -4611,7 +4775,9 @@
      "artist": "テレサ・テン",
      "song_url": "https://www.joysound.com/web/search/song/2189",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1442425426"
     },
     {
      "rank": 22,
@@ -4619,7 +4785,9 @@
      "artist": "浜圭介/桂銀淑",
      "song_url": "https://www.joysound.com/web/search/song/320",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Kayokyoku",
+     "apple": "jp/1606852706"
     },
     {
      "rank": 23,
@@ -4627,7 +4795,9 @@
      "artist": "小林旭",
      "song_url": "https://www.joysound.com/web/search/song/2657",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Kayokyoku",
+     "apple": "jp/1536892283"
     },
     {
      "rank": 24,
@@ -4635,7 +4805,9 @@
      "artist": "平和勝次とダークホース",
      "song_url": "https://www.joysound.com/web/search/song/923",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/1870174333"
     },
     {
      "rank": 25,
@@ -4643,7 +4815,9 @@
      "artist": "渡哲也",
      "song_url": "https://www.joysound.com/web/search/song/990",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/1676882338"
     },
     {
      "rank": 26,
@@ -4651,7 +4825,9 @@
      "artist": "岩本公水",
      "song_url": "https://www.joysound.com/web/search/song/1185527",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/6794208341"
     },
     {
      "rank": 27,
@@ -4667,7 +4843,9 @@
      "artist": "水前寺清子",
      "song_url": "https://www.joysound.com/web/search/song/25636",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/1432343583"
     },
     {
      "rank": 29,
@@ -4675,7 +4853,9 @@
      "artist": "都はるみ/宮崎雅",
      "song_url": "https://www.joysound.com/web/search/song/917",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/962740703"
     },
     {
      "rank": 30,
@@ -4707,7 +4887,9 @@
      "artist": "岡本敦郎",
      "song_url": "https://www.joysound.com/web/search/song/18999",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Enka",
+     "apple": "jp/1018823692"
     },
     {
      "rank": 34,
@@ -4780,7 +4962,9 @@
      "song_url": "https://www.joysound.com/web/search/song/2616",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "GlU4mPAJylVNHSdfZE"
+     "kkbox": "GlU4mPAJylVNHSdfZE",
+     "genre": "Enka",
+     "apple": "jp/1438593072"
     },
     {
      "rank": 43,
@@ -4845,7 +5029,9 @@
      "song_url": "https://www.joysound.com/web/search/song/2135",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "1XMW32Z19YZDwblHb6"
+     "kkbox": "1XMW32Z19YZDwblHb6",
+     "genre": "J-Pop",
+     "apple": "jp/1440657253"
     },
     {
      "rank": 51,
@@ -4910,7 +5096,9 @@
      "song_url": "https://www.joysound.com/web/search/song/25544",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "L_APuzr5_NyBptkdat"
+     "kkbox": "L_APuzr5_NyBptkdat",
+     "genre": "Enka",
+     "apple": "jp/1613465321"
     },
     {
      "rank": 59,
@@ -5208,7 +5396,9 @@
      "artist": "橋幸夫/吉永小百合",
      "song_url": "https://www.joysound.com/web/search/song/25670",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Kayokyoku",
+     "apple": "jp/1598830333"
     },
     {
      "rank": 96,
@@ -5256,7 +5446,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T14:48:52+08:00",
+   "fetched_at": "2026-11-04T15:11:02+08:00",
    "stale": false
   },
   {
@@ -5429,7 +5619,9 @@
      "artist": "oasis",
      "song_url": "https://www.joysound.com/web/search/song/15175",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Alternative",
+     "apple": "tw/895127014"
     },
     {
      "rank": 17,
@@ -5437,7 +5629,9 @@
      "artist": "BON JOVI",
      "song_url": "https://www.joysound.com/web/search/song/23573",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Pop",
+     "apple": "tw/1440677670"
     },
     {
      "rank": 18,
@@ -5445,7 +5639,9 @@
      "artist": "AEROSMITH",
      "song_url": "https://www.joysound.com/web/search/song/18803",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Soundtrack",
+     "apple": "tw/217271368"
     },
     {
      "rank": 19,
@@ -5453,7 +5649,9 @@
      "artist": "ELVIS PRESLEY",
      "song_url": "https://www.joysound.com/web/search/song/8320",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "tw/217635636"
     },
     {
      "rank": 20,
@@ -5461,7 +5659,9 @@
      "artist": "BON JOVI",
      "song_url": "https://www.joysound.com/web/search/song/8416",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Hard Rock",
+     "apple": "tw/1422955211"
     },
     {
      "rank": 21,
@@ -5477,7 +5677,9 @@
      "artist": "BILLY JOEL",
      "song_url": "https://www.joysound.com/web/search/song/8412",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Pop",
+     "apple": "tw/259573440"
     },
     {
      "rank": 23,
@@ -5485,7 +5687,9 @@
      "artist": "MICHAEL JACKSON",
      "song_url": "https://www.joysound.com/web/search/song/13430",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Pop",
+     "apple": "tw/269573303"
     },
     {
      "rank": 24,
@@ -5493,7 +5697,9 @@
      "artist": "ARIANA GRANDE",
      "song_url": "https://www.joysound.com/web/search/song/411645",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Pop",
+     "apple": "tw/1440852687"
     },
     {
      "rank": 25,
@@ -5501,7 +5707,9 @@
      "artist": "QUEEN",
      "song_url": "https://www.joysound.com/web/search/song/22519",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Rock",
+     "apple": "tw/6781076777"
     },
     {
      "rank": 26,
@@ -5510,7 +5718,9 @@
      "song_url": "https://www.joysound.com/web/search/song/13431",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "GlhJVQTpylVNGQ46dU"
+     "kkbox": "GlhJVQTpylVNGQ46dU",
+     "genre": "Pop",
+     "apple": "tw/269573341"
     },
     {
      "rank": 27,
@@ -5571,7 +5781,9 @@
      "song_url": "https://www.joysound.com/web/search/song/8365",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "KtybZeF1IXgP21Qix2"
+     "kkbox": "KtybZeF1IXgP21Qix2",
+     "genre": "Pop",
+     "apple": "tw/282658482"
     },
     {
      "rank": 34,
@@ -5617,7 +5829,9 @@
      "song_url": "https://www.joysound.com/web/search/song/1059427",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "5Z2FoyPxsZjztw4Agl"
+     "kkbox": "5Z2FoyPxsZjztw4Agl",
+     "genre": "Pop",
+     "apple": "tw/1762656732"
     },
     {
      "rank": 39,
@@ -5725,7 +5939,9 @@
      "song_url": "https://www.joysound.com/web/search/song/893854",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "9a-GKKZN1jmuKSwdsz"
+     "kkbox": "9a-GKKZN1jmuKSwdsz",
+     "genre": "Pop",
+     "apple": "tw/1574968888"
     },
     {
      "rank": 52,
@@ -5758,7 +5974,9 @@
      "song_url": "https://www.joysound.com/web/search/song/11474",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "KrIN7LRH6Il0COxtpT"
+     "kkbox": "KrIN7LRH6Il0COxtpT",
+     "genre": "Pop",
+     "apple": "tw/315025823"
     },
     {
      "rank": 56,
@@ -5767,7 +5985,9 @@
      "song_url": "https://www.joysound.com/web/search/song/13432",
      "last_rank": null,
      "is_new": null,
-     "kkbox": "GkfGUx7-nSw3SfawaF"
+     "kkbox": "GkfGUx7-nSw3SfawaF",
+     "genre": "Pop",
+     "apple": "tw/310505605"
     },
     {
      "rank": 57,
@@ -6128,7 +6348,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T14:48:53+08:00",
+   "fetched_at": "2026-11-04T15:11:03+08:00",
    "stale": false
   }
  ]

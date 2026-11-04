@@ -8,6 +8,15 @@
   "name": "20Hz的呼吸",
   "status": "ok"
  },
+ "366日|hy": {
+  "artist": "HY",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 820248910,
+  "name": "366日",
+  "status": "ok"
+ },
  "addicted|jisoo": {
   "artist": "JISOO",
   "cc": "tw",
@@ -24,6 +33,15 @@
   "genre": "K-Pop",
   "id": 6815077320,
   "name": "After The Dream (夢嶼)",
+  "status": "ok"
+ },
+ "ahyeah|exid": {
+  "artist": "EXID",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 982223884,
+  "name": "Ah Yeah",
   "status": "ok"
  },
  "allaboutyou|閻奕格janiceyan": {
@@ -51,6 +69,24 @@
   "genre": "Christmas: Pop",
   "id": 1480780254,
   "name": "All I Want for Christmas Is You",
+  "status": "ok"
+ },
+ "alone|alanwalker": {
+  "artist": "Alan Walker",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Dance",
+  "id": 1445141168,
+  "name": "Alone",
+  "status": "ok"
+ },
+ "am1100|hy": {
+  "artist": "HY",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 820247853,
+  "name": "AM11:00",
   "status": "ok"
  },
  "anhluônnhưvậy|braycậubảo": {
@@ -89,6 +125,15 @@
   "name": "APT.",
   "status": "ok"
  },
+ "aslongasyouloveme|justinbieberbigsean": {
+  "artist": "Justin Bieber",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1440650859,
+  "name": "As Long As You Love Me (feat. Big Sean)",
+  "status": "ok"
+ },
  "awholenewworld|bradkaneandleasalonga": {
   "checked": "2026-11-04",
   "status": "none"
@@ -102,6 +147,24 @@
   "name": "A Whole New World (Soundtrack Version)",
   "status": "ok"
  },
+ "awholenewworld|peabobryson": {
+  "artist": "Peabo Bryson & 瑞姬娜貝爾",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Soundtrack",
+  "id": 714526448,
+  "name": "A Whole New World (Aladdin's Theme)",
+  "status": "ok"
+ },
+ "awholenewworld|peabobrysonreginabelle": {
+  "artist": "Peabo Bryson & 瑞姬娜貝爾",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Musicals",
+  "id": 1440722345,
+  "name": "A Whole New World (Aladdin's Theme) [Soundtrack Version]",
+  "status": "ok"
+ },
  "baby|justinbieber": {
   "artist": "Justin Bieber",
   "cc": "tw",
@@ -110,6 +173,10 @@
   "id": 1440662337,
   "name": "Baby (Acoustic Version)",
   "status": "ok"
+ },
+ "baby|東海": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "badgirlgoodgirl|missa": {
   "artist": "miss A",
@@ -156,6 +223,15 @@
   "name": "BANG BANG BANG",
   "status": "ok"
  },
+ "beatit|michaeljackson": {
+  "artist": "Michael Jackson",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 269573341,
+  "name": "Beat It",
+  "status": "ok"
+ },
  "beautyandabeatfeatnickiminaj|justinbieber": {
   "artist": "Justin Bieber",
   "cc": "tw",
@@ -192,6 +268,51 @@
   "name": "BiiiG",
   "status": "ok"
  },
+ "billiejean|michaeljackson": {
+  "artist": "Michael Jackson",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 310505605,
+  "name": "Billie Jean",
+  "status": "ok"
+ },
+ "birdyfly|陳忻玥": {
+  "artist": "陳忻玥",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6771372863,
+  "name": "Birdy Fly",
+  "status": "ok"
+ },
+ "birthdaywish|nmixx": {
+  "artist": "NMIXX",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6812956004,
+  "name": "Birthday Wish",
+  "status": "ok"
+ },
+ "blingbangbangborn|creepynuts": {
+  "artist": "Creepy Nuts",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Hip-Hop/Rap",
+  "id": 1720332181,
+  "name": "Bling-Bang-Bang-Born",
+  "status": "ok"
+ },
+ "bluesky|銀赫": {
+  "artist": "銀赫",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Dance",
+  "id": 6825676220,
+  "name": "Blue Sky",
+  "status": "ok"
+ },
  "bohemianrhapsody|queen": {
   "artist": "Queen",
   "cc": "tw",
@@ -200,6 +321,28 @@
   "id": 6781027645,
   "name": "Bohemian Rhapsody",
   "status": "ok"
+ },
+ "bokunohoshi|厲旭": {
+  "artist": "厲旭",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 6793429624,
+  "name": "Boku No Hoshi",
+  "status": "ok"
+ },
+ "breakfree|arianagrande": {
+  "artist": "Ariana Grande",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1440852687,
+  "name": "Break Free (feat. Zedd)",
+  "status": "ok"
+ },
+ "butterfly|和田光司": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "bàinàykhôngđểđidiễn|anhtúatus": {
   "artist": "Anh Tú Atus",
@@ -228,6 +371,33 @@
   "name": "Call Me Maybe",
   "status": "ok"
  },
+ "canthelpfallinginlove|elvispresley": {
+  "artist": "Elvis Aron Presley",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 217635636,
+  "name": "Can't Help Falling In Love",
+  "status": "ok"
+ },
+ "caramelpain|星街すいせい": {
+  "artist": "星街すいせい",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1789078179,
+  "name": "Caramel Pain",
+  "status": "ok"
+ },
+ "chandelier|sia": {
+  "artist": "Sia",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 989874548,
+  "name": "Chandelier",
+  "status": "ok"
+ },
  "chkchkboom|straykids": {
   "artist": "Stray Kids",
   "cc": "tw",
@@ -244,6 +414,24 @@
   "genre": "Dance",
   "id": 1839038852,
   "name": "Cho Em Gần Anh Thêm Chút Nữa",
+  "status": "ok"
+ },
+ "choom|babymonster": {
+  "artist": "BABYMONSTER",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Korean Hip-Hop",
+  "id": 6763988598,
+  "name": "CHOOM",
+  "status": "ok"
+ },
+ "christmasevel|straykids": {
+  "artist": "Stray Kids",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Hip-Hop/Rap",
+  "id": 1608247201,
+  "name": "Christmas EveL",
   "status": "ok"
  },
  "chếttrongem|thinhsuy": {
@@ -264,6 +452,15 @@
   "name": "CITRUS",
   "status": "ok"
  },
+ "complicated|avrillavigne": {
+  "artist": "Avril Lavigne",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 315025823,
+  "name": "Complicated",
+  "status": "ok"
+ },
  "crash|alldayproject": {
   "artist": "ALLDAY PROJECT",
   "cc": "tw",
@@ -271,6 +468,15 @@
   "genre": "K-Pop",
   "id": 6812155967,
   "name": "CRASH",
+  "status": "ok"
+ },
+ "cruelsummer|taylorswift": {
+  "artist": "Taylor Swift",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1468058171,
+  "name": "Cruel Summer",
   "status": "ok"
  },
  "crumbs|ive": {
@@ -318,6 +524,15 @@
   "name": "DAN DAN 心魅かれてく",
   "status": "ok"
  },
+ "dearmycrazysoulmate|iu": {
+  "artist": "IU",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6808583619,
+  "name": "Dear my crazy soulmate",
+  "status": "ok"
+ },
  "dearyou|宇宙人": {
   "artist": "宇宙人",
   "cc": "tw",
@@ -336,6 +551,33 @@
   "name": "DESERVE",
   "status": "ok"
  },
+ "die|ladygagabrunomars": {
+  "artist": "Lady Gaga & Bruno Mars",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1762656732,
+  "name": "Die With A Smile",
+  "status": "ok"
+ },
+ "dontlookbackinanger|oasis": {
+  "artist": "Oasis",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Alternative",
+  "id": 895127014,
+  "name": "Don't Look Back in Anger (Remastered)",
+  "status": "ok"
+ },
+ "dontstopmenow|queen": {
+  "artist": "Queen",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 6781076777,
+  "name": "Don't Stop Me Now",
+  "status": "ok"
+ },
  "drip|ateez": {
   "artist": "ATEEZ",
   "cc": "tw",
@@ -345,6 +587,15 @@
   "name": "Drip",
   "status": "ok"
  },
+ "everyheart|寶兒": {
+  "artist": "寶兒",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1061504231,
+  "name": "Every Heart",
+  "status": "ok"
+ },
  "everything|misia": {
   "artist": "MISIA",
   "cc": "tw",
@@ -352,6 +603,24 @@
   "genre": "Pop",
   "id": 101693517,
   "name": "Everything (星空のライヴ~The Best of Acoustic Ballade~)",
+  "status": "ok"
+ },
+ "expectations|oliviarodrigochappellroan": {
+  "artist": "Olivia Rodrigo",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1889992129,
+  "name": "expectations",
+  "status": "ok"
+ },
+ "expressmode|superjunior": {
+  "artist": "SUPER JUNIOR",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1822933222,
+  "name": "Express Mode",
   "status": "ok"
  },
  "faded|alanwalker": {
@@ -370,6 +639,15 @@
   "genre": "Pop",
   "id": 6804046959,
   "name": "FALLEN ANGEL",
+  "status": "ok"
+ },
+ "firestarter|kdaleagueoflegendsidlemimiwebb": {
+  "artist": "K/DA, League of Legends Music, i-dle & Mimi Webb",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6813197034,
+  "name": "FIRESTARTER (feat. Sophie Powers, MIYEON & SOYEON)",
   "status": "ok"
  },
  "firstlove|宇多田ヒカル": {
@@ -430,6 +708,24 @@
   "name": "Girls Girls Girls",
   "status": "ok"
  },
+ "glowmotion|ive": {
+  "artist": "IVE",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6827986400,
+  "name": "Glow Motion",
+  "status": "ok"
+ },
+ "godknows|涼宮ハルヒ": {
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1880591395,
+  "name": "God knows...",
+  "status": "ok"
+ },
  "golden|huntrx": {
   "artist": "HUNTR/X, EJAE, オードリー・ヌナ, REI AMI & KPop Demon Hunters Cast",
   "cc": "jp",
@@ -448,6 +744,15 @@
   "name": "Golden",
   "status": "ok"
  },
+ "goodbyebaby|missa": {
+  "artist": "miss A",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1698412716,
+  "name": "Good-bye Baby",
+  "status": "ok"
+ },
  "goodgoodbye|華莎": {
   "checked": "2026-11-04",
   "status": "none"
@@ -461,6 +766,15 @@
   "name": "Hands Up",
   "status": "ok"
  },
+ "happyhalloweenfeat鏡音リン|junky": {
+  "artist": "Junky",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1438493118,
+  "name": "Happy Halloween (feat. 鏡音リン)",
+  "status": "ok"
+ },
  "happyhalloween|junkyfeat鏡音リン": {
   "artist": "Junky",
   "cc": "jp",
@@ -470,6 +784,19 @@
   "name": "Happy Halloween (feat. 鏡音リン)",
   "status": "ok"
  },
+ "help|kobokanaeru": {
+  "artist": "Kobo Kanaeru",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1734962392,
+  "name": "HELP!!",
+  "status": "ok"
+ },
+ "hinhnhutathichnhau|doãnhiếu": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "holdmetight|陳忻玥張粹方": {
   "artist": "陳忻玥 & Dena",
   "cc": "tw",
@@ -477,6 +804,24 @@
   "genre": "Pop",
   "id": 1814207228,
   "name": "Hold Me Tight",
+  "status": "ok"
+ },
+ "homesweethome|gdragontaeyangdaesung": {
+  "artist": "G-DRAGON",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1794882500,
+  "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+  "status": "ok"
+ },
+ "honesty|billyjoel": {
+  "artist": "B. Joel",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 259573440,
+  "name": "Honesty",
   "status": "ok"
  },
  "hongkong|theweeknd": {
@@ -497,6 +842,15 @@
   "name": "Housewife",
   "status": "ok"
  },
+ "hurrah|にじさんじ": {
+  "artist": "にじさんじ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1637598227,
+  "name": "Hurrah!!",
+  "status": "ok"
+ },
  "idol|yoasobi": {
   "artist": "YOASOBI",
   "cc": "tw",
@@ -504,6 +858,15 @@
   "genre": "J-Pop",
   "id": 1688334537,
   "name": "Idol",
+  "status": "ok"
+ },
+ "idontwanttomissathing|aerosmith": {
+  "artist": "Aerosmith",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Soundtrack",
+  "id": 217271368,
+  "name": "I Don't Want to Miss a Thing",
   "status": "ok"
  },
  "iii|宝鐘マリンkobokanaeru": {
@@ -515,6 +878,19 @@
   "name": "I I I",
   "status": "ok"
  },
+ "ilikeyou|宋雨琦": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
+ "illbeback|2pm": {
+  "artist": "2PM",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1689324537,
+  "name": "I'll Be Back",
+  "status": "ok"
+ },
  "imgonnatoesa|soyeon": {
   "artist": "SOYEON",
   "cc": "tw",
@@ -522,6 +898,24 @@
   "genre": "K-Pop",
   "id": 6804744599,
   "name": "I’m gonna TOESA (feat. Kian84)",
+  "status": "ok"
+ },
+ "imyourtreasureboxあなたはマリンせんちょうをたからばこからみつけた|宝鐘マリン": {
+  "artist": "宝鐘マリン",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1635276994,
+  "name": "I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
+  "status": "ok"
+ },
+ "intheend|linkinpark": {
+  "artist": "LINKIN PARK",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Hard Rock",
+  "id": 528437613,
+  "name": "In the End",
   "status": "ok"
  },
  "irisout|米津玄師": {
@@ -533,6 +927,28 @@
   "name": "IRIS OUT",
   "status": "ok"
  },
+ "itsmylife|bonjovi": {
+  "artist": "Bon Jovi",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1440677670,
+  "name": "It's My Life",
+  "status": "ok"
+ },
+ "iwannaloveyou|superjunior": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
+ "iwannayouwanna|rofmao": {
+  "artist": "ROF-MAO",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1615138532,
+  "name": "I wanna! You wanna!",
+  "status": "ok"
+ },
  "iwantitthatway|backstreetboys": {
   "artist": "Backstreet Boys",
   "cc": "tw",
@@ -542,6 +958,10 @@
   "name": "I Want It That Way",
   "status": "ok"
  },
+ "iwillalwaysloveyou|whitneyhouston": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "janedoe|米津玄師宇多田ヒカル": {
   "artist": "米津玄師 & 宇多田ヒカル",
   "cc": "jp",
@@ -549,6 +969,15 @@
   "genre": "J-Pop",
   "id": 1840081736,
   "name": "JANE DOE",
+  "status": "ok"
+ },
+ "jumpingmachine|lbi利比": {
+  "artist": "LBI利比 & Tyson Yoshi",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1819908788,
+  "name": "Jumping Machine跳樓機 (with Tyson Yoshi)",
   "status": "ok"
  },
  "king|kanaria": {
@@ -560,6 +989,15 @@
   "name": "KING",
   "status": "ok"
  },
+ "knowmyname|truedamageleagueoflegendssofíareyesvicmensa": {
+  "artist": "True Damage, League of Legends Music, Sofía Reyes & Vic Mensa",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 6808424296,
+  "name": "Know My Name (feat. Coco Jones, SOYEON & i-dle)",
+  "status": "ok"
+ },
  "k歌之王|陳奕迅": {
   "artist": "陳奕迅",
   "cc": "tw",
@@ -567,6 +1005,24 @@
   "genre": "Mandopop",
   "id": 651456035,
   "name": "K歌之王",
+  "status": "ok"
+ },
+ "lastchristmas|wham": {
+  "artist": "Wham!",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 282658482,
+  "name": "Last Christmas",
+  "status": "ok"
+ },
+ "lemontree|foolsgarden": {
+  "artist": "Fool's Garden",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1642721873,
+  "name": "Lemon Tree",
   "status": "ok"
  },
  "lemon|米津玄師": {
@@ -605,6 +1061,60 @@
   "name": "Let It Go",
   "status": "ok"
  },
+ "letsdance|藝聲": {
+  "artist": "藝聲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6815077313,
+  "name": "Let's Dance",
+  "status": "ok"
+ },
+ "lie|exid": {
+  "artist": "EXID",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1118367642,
+  "name": "L.I.E",
+  "status": "ok"
+ },
+ "likejennie|jennie": {
+  "artist": "JENNIE",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1800281048,
+  "name": "like JENNIE",
+  "status": "ok"
+ },
+ "likewater|wendy": {
+  "artist": "WENDY",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1560769292,
+  "name": "Like Water",
+  "status": "ok"
+ },
+ "livinonaprayer|bonjovi": {
+  "artist": "Bon Jovi",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Hard Rock",
+  "id": 1422955211,
+  "name": "Livin' On a Prayer",
+  "status": "ok"
+ },
+ "lonelynight|藝聲": {
+  "artist": "藝聲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6815077041,
+  "name": "Lonely Night",
+  "status": "ok"
+ },
  "lookscankill|ive": {
   "artist": "IVE",
   "cc": "tw",
@@ -612,6 +1122,15 @@
   "genre": "K-Pop",
   "id": 6822369089,
   "name": "Looks Can Kill",
+  "status": "ok"
+ },
+ "loser|米津玄師": {
+  "artist": "米津玄師",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1537279545,
+  "name": "LOSER",
   "status": "ok"
  },
  "loversagain|exile": {
@@ -630,6 +1149,15 @@
   "genre": "Pop",
   "id": 1440670792,
   "name": "Love Story",
+  "status": "ok"
+ },
+ "lulu|mrsgreenapple": {
+  "artist": "Mrs. GREEN APPLE",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 1867354081,
+  "name": "lulu.",
   "status": "ok"
  },
  "lạlùng|vũ": {
@@ -663,6 +1191,10 @@
   "name": "MECHA-MECHA",
   "status": "ok"
  },
+ "meos|ateez": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "mirrormirror|ive": {
   "artist": "IVE",
   "cc": "tw",
@@ -680,6 +1212,10 @@
   "id": 6822513749,
   "name": "MISS ME",
   "status": "ok"
+ },
+ "myhappyending|avrillavigne": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "myheartwillgoon|celinedion": {
   "artist": "Céline Dion",
@@ -707,6 +1243,24 @@
   "name": "NEON",
   "status": "ok"
  },
+ "newtrick|rosé": {
+  "artist": "ROSÉ",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 6812894907,
+  "name": "new trick",
+  "status": "ok"
+ },
+ "nightdancer|imase": {
+  "artist": "imase",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1692762654,
+  "name": "NIGHT DANCER",
+  "status": "ok"
+ },
  "nothingsgonnachangemyloveforyou|方大同": {
   "artist": "方大同",
   "cc": "tw",
@@ -716,6 +1270,15 @@
   "name": "Nothing's Gonna Change My Love for You",
   "status": "ok"
  },
+ "numberonegirl|rosé": {
+  "artist": "ROSÉ",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1771105923,
+  "name": "number one girl",
+  "status": "ok"
+ },
  "nămquađãlàmgì|noophướcthịnh": {
   "artist": "Noo Phước Thịnh",
   "cc": "tw",
@@ -723,6 +1286,15 @@
   "genre": "Pop",
   "id": 1794651706,
   "name": "Năm Qua Đã Làm Gì",
+  "status": "ok"
+ },
+ "odoriko|vaundy": {
+  "artist": "Vaundy",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 1707058046,
+  "name": "odoriko",
   "status": "ok"
  },
  "patientzero|taylorswift": {
@@ -779,6 +1351,24 @@
   "name": "Poker Face",
   "status": "ok"
  },
+ "rpg|sekainoowari": {
+  "artist": "SEKAI NO OWARI",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1550926491,
+  "name": "RPG",
+  "status": "ok"
+ },
+ "rundevilrun|少女時代": {
+  "artist": "少女時代",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 854890817,
+  "name": "Run Devil Run",
+  "status": "ok"
+ },
  "sakihokorutokiomatsunowa|藝聲": {
   "artist": "藝聲",
   "cc": "tw",
@@ -815,6 +1405,15 @@
   "name": "SNAKESKIN",
   "status": "ok"
  },
+ "somethingjustlikethis|thechainsmokerscoldplay": {
+  "artist": "The Chainsmokers & Coldplay",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Dance",
+  "id": 1207120448,
+  "name": "Something Just Like This",
+  "status": "ok"
+ },
  "sorrysorry|superjunior": {
   "artist": "SUPER JUNIOR",
   "cc": "tw",
@@ -833,6 +1432,15 @@
   "name": "Spicy",
   "status": "ok"
  },
+ "stay|thekidlaroijustinbieber": {
+  "artist": "樂洛伊小子 & Justin Bieber",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1574968888,
+  "name": "STAY",
+  "status": "ok"
+ },
  "stay|倖田來未": {
   "artist": "倖田來未",
   "cc": "tw",
@@ -842,6 +1450,10 @@
   "name": "Stay",
   "status": "ok"
  },
+ "stay|宋雨琦": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "stellarstellar|星街すいせい": {
   "artist": "星街すいせい",
   "cc": "jp",
@@ -849,6 +1461,15 @@
   "genre": "J-Pop",
   "id": 1585332602,
   "name": "Stellar Stellar",
+  "status": "ok"
+ },
+ "story|ai": {
+  "artist": "AI",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1444118054,
+  "name": "Story",
   "status": "ok"
  },
  "supernova|aespa": {
@@ -887,6 +1508,51 @@
   "name": "That Should Be Me",
   "status": "ok"
  },
+ "theforestdwellers|藝聲": {
+  "artist": "藝聲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6815077319,
+  "name": "The Forest Dwellers",
+  "status": "ok"
+ },
+ "thehearties|mechatua": {
+  "artist": "MECHATU-A",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 6763516678,
+  "name": "The Hearties",
+  "status": "ok"
+ },
+ "thriller|michaeljackson": {
+  "artist": "Michael Jackson",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 269573303,
+  "name": "Thriller",
+  "status": "ok"
+ },
+ "tiamo|exile": {
+  "artist": "EXILE",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 341047975,
+  "name": "Ti Amo",
+  "status": "ok"
+ },
+ "timewillheal|藝聲": {
+  "artist": "藝聲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6815077314,
+  "name": "Time Will Heal",
+  "status": "ok"
+ },
  "tokyobon|黃明志二宮芽生": {
   "artist": "黃明志",
   "cc": "tw",
@@ -905,6 +1571,15 @@
   "name": "Top of the World",
   "status": "ok"
  },
+ "touch|missa": {
+  "artist": "miss A",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1698411828,
+  "name": "Touch",
+  "status": "ok"
+ },
  "toxictilltheend|rosé": {
   "artist": "ROSÉ",
   "cc": "tw",
@@ -914,6 +1589,10 @@
   "name": "toxic till the end",
   "status": "ok"
  },
+ "toxic|britneyspears": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "trainingseason|dualipa": {
   "artist": "Dua Lipa",
   "cc": "tw",
@@ -921,6 +1600,15 @@
   "genre": "Pop",
   "id": 1727526894,
   "name": "Training Season",
+  "status": "ok"
+ },
+ "turbulence|ateez": {
+  "artist": "ATEEZ",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1597704713,
+  "name": "Turbulence",
   "status": "ok"
  },
  "tếtnàyconsẽvề|bùicôngnam": {
@@ -968,6 +1656,24 @@
   "name": "Virtual to LIVE",
   "status": "ok"
  },
+ "volumeup|4minute": {
+  "artist": "4Minute",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1336761095,
+  "name": "Volume Up",
+  "status": "ok"
+ },
+ "wantedwanted|mrsgreenapple": {
+  "artist": "Mrs. GREEN APPLE",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 1440885553,
+  "name": "WanteD! WanteD!",
+  "status": "ok"
+ },
  "watchme|kdaleagueoflegends": {
   "artist": "K/DA, League of Legends Music, Mimi Webb & Sophie Powers",
   "cc": "tw",
@@ -975,6 +1681,15 @@
   "genre": "K-Pop",
   "id": 6814691433,
   "name": "WATCH ME",
+  "status": "ok"
+ },
+ "waybackhome|shaun": {
+  "artist": "SHAUN",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 1709260737,
+  "name": "Way Back Home (Japanese Ver.)",
   "status": "ok"
  },
  "whatmakesyoubeautiful|onedirection": {
@@ -986,6 +1701,15 @@
   "name": "What Makes You Beautiful",
   "status": "ok"
  },
+ "whenyouregone|avrillavigne": {
+  "artist": "Avril Lavigne",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 268993517,
+  "name": "When You're Gone",
+  "status": "ok"
+ },
  "windsoftime|藝聲": {
   "artist": "藝聲",
   "cc": "tw",
@@ -993,6 +1717,15 @@
   "genre": "K-Pop",
   "id": 6814696407,
   "name": "Winds of Time",
+  "status": "ok"
+ },
+ "xoayhèkháclạ|trúcnhânosadlinhcáobùicôngnam": {
+  "artist": "Trúc Nhân",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1866665607,
+  "name": "Xoay Hè Khác Lạ (feat. Bùi Công Nam, Linh Cáo & OSAD)",
   "status": "ok"
  },
  "yellow|coldplay": {
@@ -1022,6 +1755,24 @@
   "name": "Yes! 東京 (feat. ONE N' ONLY) [ONE N' ONLY ver. 体験入学]",
   "status": "ok"
  },
+ "youaremycrush|quânapnguyênjenda": {
+  "artist": "Quân A.P",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1768317150,
+  "name": "You Are My Crush",
+  "status": "ok"
+ },
+ "youreunderarrest|illit": {
+  "artist": "ILLIT",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "K-Pop",
+  "id": 6818511627,
+  "name": "You’re Under Arrest",
+  "status": "ok"
+ },
  "zoo|disneyshakiramichaelgiacchino": {
   "artist": "Shakira",
   "cc": "tw",
@@ -1031,6 +1782,10 @@
   "name": "Zoo",
   "status": "ok"
  },
+ "あ|mproducefeatia": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "あくあ色ぱれっと|湊あくあ": {
   "artist": "湊あくあ",
   "cc": "jp",
@@ -1038,6 +1793,15 @@
   "genre": "J-Pop",
   "id": 1528261916,
   "name": "#あくあ色ぱれっと",
+  "status": "ok"
+ },
+ "あの夢をなぞって|yoasobi": {
+  "artist": "YOASOBI",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1494399118,
+  "name": "あの夢をなぞって",
   "status": "ok"
  },
  "ありふれた世界の果てに|yao": {
@@ -1049,6 +1813,10 @@
   "name": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
   "status": "ok"
  },
+ "あゝ人生に涙あり|里見浩太朗横内正": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "いつかのメリークリスマス|bz": {
   "artist": "B'z",
   "cc": "jp",
@@ -1056,6 +1824,42 @@
   "genre": "Rock",
   "id": 75353680,
   "name": "いつかのメリークリスマス",
+  "status": "ok"
+ },
+ "いつでも夢を|橋幸夫吉永小百合": {
+  "artist": "橋幸夫 & 吉永小百合",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1598830333,
+  "name": "いつでも夢を",
+  "status": "ok"
+ },
+ "お富さん|春日八郎": {
+  "artist": "春日八郎",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1542299446,
+  "name": "お富さん",
+  "status": "ok"
+ },
+ "お座敷小唄|松尾和子和田弘とマヒナスターズ": {
+  "artist": "松尾和子 & 和田弘とマヒナスターズ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1672902742,
+  "name": "お座敷小唄",
+  "status": "ok"
+ },
+ "からくりピエロ|40mpfeat初音ミク": {
+  "artist": "40mP",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1368260334,
+  "name": "からくりピエロ",
   "status": "ok"
  },
  "きよしのズンドコ節|氷川きよし": {
@@ -1067,6 +1871,33 @@
   "name": "きよしのズンドコ節",
   "status": "ok"
  },
+ "きらり|藤井風": {
+  "artist": "藤井風",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1604318166,
+  "name": "きらり",
+  "status": "ok"
+ },
+ "くちなしの花|渡哲也": {
+  "artist": "渡哲也",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 1676882338,
+  "name": "くちなしの花",
+  "status": "ok"
+ },
+ "ここに幸あり|大津美子": {
+  "artist": "大津美子",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1729580641,
+  "name": "ここに幸あり",
+  "status": "ok"
+ },
  "さざんかの宿|大川栄策": {
   "artist": "大川栄策",
   "cc": "jp",
@@ -1074,6 +1905,15 @@
   "genre": "Enka",
   "id": 103834101,
   "name": "さざんかの宿",
+  "status": "ok"
+ },
+ "さよならの前に|aaa": {
+  "artist": "AAA",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 920303888,
+  "name": "さよならの前に",
   "status": "ok"
  },
  "さよならエレジー|菅田将暉": {
@@ -1134,6 +1974,19 @@
   "name": "つぐない",
   "status": "ok"
  },
+ "つぐない|鄧麗君": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
+ "とくべチュして|love": {
+  "artist": "=LOVE",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1794066813,
+  "name": "とくべチュ、して",
+  "status": "ok"
+ },
  "とびら開けて|神田沙也加津田英佑": {
   "artist": "神田沙也加 & 津田英佑",
   "cc": "jp",
@@ -1141,6 +1994,15 @@
   "genre": "Soundtrack",
   "id": 1753806121,
   "name": "とびら開けて",
+  "status": "ok"
+ },
+ "なんもねえ|忘れらんねえよ": {
+  "artist": "忘れらんねえよ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 6781198668,
+  "name": "なんもねえ",
   "status": "ok"
  },
  "ひまわりの約束|秦基博": {
@@ -1152,6 +2014,51 @@
   "name": "ひまわりの約束",
   "status": "ok"
  },
+ "ふたりの大阪|都はるみ宮崎雅": {
+  "artist": "都 はるみ/宮崎 雅",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 962740703,
+  "name": "ふたりの大阪",
+  "status": "ok"
+ },
+ "まつり|藤井風": {
+  "artist": "藤井 風",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1611482688,
+  "name": "まつり",
+  "status": "ok"
+ },
+ "みだれ髪|美空ひばり": {
+  "artist": "美空ひばり",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 474114949,
+  "name": "みだれ髪",
+  "status": "ok"
+ },
+ "もうどうなってもいいや|星街すいせい": {
+  "artist": "星街すいせい",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1807029473,
+  "name": "もうどうなってもいいや",
+  "status": "ok"
+ },
+ "アイドル|yoasobi": {
+  "artist": "YOASOBI",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1679278167,
+  "name": "アイドル",
+  "status": "ok"
+ },
  "アスノヨゾラ哨戒班|orangestarfeatia": {
   "artist": "Orangestar feat. IA",
   "cc": "jp",
@@ -1159,6 +2066,33 @@
   "genre": "Anime",
   "id": 985156221,
   "name": "アスノヨゾラ哨戒班 (feat. IA)",
+  "status": "ok"
+ },
+ "インフェルノ|mrsgreenapple": {
+  "artist": "Mrs. GREEN APPLE",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 1471459432,
+  "name": "インフェルノ",
+  "status": "ok"
+ },
+ "カブトムシ|aiko": {
+  "artist": "aiko",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1109986324,
+  "name": "カブトムシ",
+  "status": "ok"
+ },
+ "キセキ|greeeen": {
+  "artist": "GReeeeN",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1440780922,
+  "name": "キセキ",
   "status": "ok"
  },
  "クリスマスイブ|山下達郎": {
@@ -1186,6 +2120,15 @@
   "genre": "J-Pop",
   "id": 1538303081,
   "name": "サウダージ",
+  "status": "ok"
+ },
+ "サムライハート|spyair": {
+  "artist": "SPYAIR",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 1535609758,
+  "name": "サムライハート(Some Like It Hot!!)",
   "status": "ok"
  },
  "シャルル|バルーン": {
@@ -1233,6 +2176,24 @@
   "name": "スパークル (movie ver.)",
   "status": "ok"
  },
+ "セレナーデ|なとり": {
+  "artist": "なとり",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1858168846,
+  "name": "セレナーデ",
+  "status": "ok"
+ },
+ "ソワレ|星街すいせい": {
+  "artist": "星街すいせい",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1665044886,
+  "name": "ソワレ",
+  "status": "ok"
+ },
  "タッチ|岩崎良美": {
   "artist": "岩崎良美",
   "cc": "jp",
@@ -1269,6 +2230,15 @@
   "name": "テキトーリョク",
   "status": "ok"
  },
+ "テトリス|柊マグネタイト": {
+  "artist": "柊マグネタイト",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1780710477,
+  "name": "テトリス",
+  "status": "ok"
+ },
  "ドライフラワー|優里": {
   "artist": "優里",
   "cc": "jp",
@@ -1276,6 +2246,33 @@
   "genre": "Rock",
   "id": 1534620183,
   "name": "ドライフラワー",
+  "status": "ok"
+ },
+ "ハッピーシンセサイザ|easypopfeat巡音ルカgumi": {
+  "artist": "EasyPop",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1011665843,
+  "name": "ハッピーシンセサイザ (feat. 巡音ルカ & GUMI)",
+  "status": "ok"
+ },
+ "ハナミズキ|一青窈": {
+  "artist": "一青窈",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1444445589,
+  "name": "ハナミズキ",
+  "status": "ok"
+ },
+ "パタカラみそしる音頭で口腔体操|ごぼう先生": {
+  "artist": "ごぼう先生",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1473765708,
+  "name": "パタカラみそしる音頭",
   "status": "ok"
  },
  "ヒバナ|deco27": {
@@ -1296,6 +2293,33 @@
   "name": "ビビデバ",
   "status": "ok"
  },
+ "ピースサイン|米津玄師": {
+  "artist": "米津玄師",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1537458310,
+  "name": "ピースサイン - Peace Sign",
+  "status": "ok"
+ },
+ "フェイクプリンスリアルプリンセス|mechatua": {
+  "artist": "MECHATU-A",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 6789023817,
+  "name": "フェイクプリンス × リアルプリンセス",
+  "status": "ok"
+ },
+ "フォニイ|ツミキ": {
+  "artist": "ツミキ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1688513140,
+  "name": "フォニイ (feat. 可不)",
+  "status": "ok"
+ },
  "ブラッディグルービー|chronoir": {
   "artist": "ChroNoiR",
   "cc": "jp",
@@ -1314,6 +2338,33 @@
   "name": "ブリキノダンス",
   "status": "ok"
  },
+ "ブルーアンバー|backnumber": {
+  "artist": "back number",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1808852932,
+  "name": "ブルーアンバー",
+  "status": "ok"
+ },
+ "ブルーバード|いきものがかり": {
+  "artist": "いきものがかり",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1536263347,
+  "name": "ブルーバード",
+  "status": "ok"
+ },
+ "ブルーライトヨコハマ|いしだあゆみ": {
+  "artist": "いしだあゆみ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 299703401,
+  "name": "ブルー・ライト・ヨコハマ",
+  "status": "ok"
+ },
  "プロポーズ|内緒のピアス": {
   "artist": "内緒のピアス",
   "cc": "jp",
@@ -1321,6 +2372,15 @@
   "genre": "J-Pop",
   "id": 1705536695,
   "name": "プロポーズ",
+  "status": "ok"
+ },
+ "ホールニューワールド|石井一孝麻生かほ里": {
+  "artist": "石井一孝、吉野圭吾、岡幸二郎、戸井勝海 & 麻生かほ里",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Soundtrack",
+  "id": 1436998419,
+  "name": "ホール・ニュー・ワールド (新しい世界) [日本語バージョン]",
   "status": "ok"
  },
  "マリーゴールド|あいみょん": {
@@ -1350,6 +2410,15 @@
   "name": "ライラック",
   "status": "ok"
  },
+ "ラヴィ|すりぃ": {
+  "artist": "すりぃ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1737374705,
+  "name": "ラヴィ",
+  "status": "ok"
+ },
  "ラヴイズオーヴァー|欧陽菲菲": {
   "artist": "欧陽菲菲",
   "cc": "jp",
@@ -1363,6 +2432,24 @@
   "checked": "2026-11-04",
   "status": "none"
  },
+ "リンゴの唄|並木路子": {
+  "artist": "並木路子",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 935544016,
+  "name": "リンゴの唄",
+  "status": "ok"
+ },
+ "ルカルカナイトフィーバー|sam": {
+  "artist": "SAM(samfree)",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1016949822,
+  "name": "ルカルカ★ナイトフィーバー",
+  "status": "ok"
+ },
  "レクイエム|kanariafeat星街すいせい": {
   "artist": "Kanaria",
   "cc": "jp",
@@ -1372,6 +2459,15 @@
   "name": "レクイエム (feat. 星街すいせい)",
   "status": "ok"
  },
+ "ロウワー|ぬゆり": {
+  "artist": "ぬゆり",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1671144528,
+  "name": "ロウワー",
+  "status": "ok"
+ },
  "ロキ|みきとp": {
   "artist": "みきとP",
   "cc": "jp",
@@ -1379,6 +2475,33 @@
   "genre": "J-Pop",
   "id": 1648875851,
   "name": "ロキ",
+  "status": "ok"
+ },
+ "ロキ|みきとpfeat鏡音リン": {
+  "artist": "みきとP",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1597711849,
+  "name": "ロキ",
+  "status": "ok"
+ },
+ "ロストワンの号哭|neru": {
+  "artist": "Neru",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1858793961,
+  "name": "ロストワンの号哭",
+  "status": "ok"
+ },
+ "ロストワンの号哭|nerufeat鏡音リン": {
+  "artist": "Neru",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1333438584,
+  "name": "ロストワンの号哭",
   "status": "ok"
  },
  "ロミオとシンデレラ|doriko": {
@@ -1408,6 +2531,15 @@
   "name": "ロンリー・チャップリン (with Rats & Star)",
   "status": "ok"
  },
+ "一個人想著一個人|曾沛慈": {
+  "artist": "曾沛慈",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 597217626,
+  "name": "一個人想著一個人",
+  "status": "ok"
+ },
  "一夜情緣|吳勇濱蕭玉芬": {
   "artist": "吳勇濱 & 蕭玉芬",
   "cc": "tw",
@@ -1415,6 +2547,15 @@
   "genre": "Tai-Pop",
   "id": 6823510111,
   "name": "一夜情緣",
+  "status": "ok"
+ },
+ "一天一點愛戀|梁朝偉": {
+  "artist": "梁朝偉",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1750631769,
+  "name": "一天一點愛戀",
   "status": "ok"
  },
  "一旦ステイtonight|不破湊": {
@@ -1426,6 +2567,15 @@
   "name": "一旦ステイ TONIGHT",
   "status": "ok"
  },
+ "一曲微茫|郁可唯": {
+  "artist": "郁可唯",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Soundtrack",
+  "id": 6810567505,
+  "name": "一曲微茫(電視劇《蘭香如故》蘭香曲)",
+  "status": "ok"
+ },
  "一樣會愛上你|理想混蛋高爾宣osn": {
   "artist": "理想混蛋 & 高爾宣",
   "cc": "tw",
@@ -1433,6 +2583,15 @@
   "genre": "Mandopop",
   "id": 6800323526,
   "name": "一樣會愛上你",
+  "status": "ok"
+ },
+ "一起老去|薛凱琪": {
+  "artist": "薛凱琪",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 922444377,
+  "name": "一起老去 (電影 \"閨密\" 主題曲)",
   "status": "ok"
  },
  "一遍兩遍|8lak": {
@@ -1451,6 +2610,60 @@
   "genre": "Tai-Pop",
   "id": 6814705448,
   "name": "三生有幸",
+  "status": "ok"
+ },
+ "三百六十五歩のマーチ|水前寺清子": {
+  "artist": "水前寺清子",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 1432343583,
+  "name": "三百六十五歩のマーチ",
+  "status": "ok"
+ },
+ "上水的花|蕭煌奇": {
+  "artist": "蕭煌奇",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 870361601,
+  "name": "上水的花",
+  "status": "ok"
+ },
+ "上海灘|劉德華": {
+  "artist": "劉德華",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 894542926,
+  "name": "上海灘",
+  "status": "ok"
+ },
+ "下一站天后|twins": {
+  "artist": "Twins",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1061503473,
+  "name": "下一站天后",
+  "status": "ok"
+ },
+ "不冷|小宇cosmos": {
+  "artist": "小宇Cosmos",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1891408114,
+  "name": "不冷",
+  "status": "ok"
+ },
+ "不可boom|chronoir": {
+  "artist": "ChroNoiR",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Electronic",
+  "id": 1851118438,
+  "name": "不可Boom",
   "status": "ok"
  },
  "不愛就不愛|艾薇": {
@@ -1480,6 +2693,60 @@
   "name": "世界が終るまでは…",
   "status": "ok"
  },
+ "世界中の誰よりきっと|中山美穂wands": {
+  "artist": "WANDS",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1533778505,
+  "name": "世界中の誰よりきっと [WANDS 第5期ver.]",
+  "status": "ok"
+ },
+ "丸ノ内サディスティック|椎名林檎": {
+  "artist": "椎名林檎",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1384341683,
+  "name": "丸ノ内サディスティック",
+  "status": "ok"
+ },
+ "亂世巨星|陳小春": {
+  "artist": "陳小春",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 723213063,
+  "name": "亂世巨星",
+  "status": "ok"
+ },
+ "二輪草|川中美幸": {
+  "artist": "川中美幸",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 1862900560,
+  "name": "二輪草",
+  "status": "ok"
+ },
+ "人字拖|薛之謙": {
+  "artist": "薛之謙",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6764376440,
+  "name": "人字拖",
+  "status": "ok"
+ },
+ "人生いろいろ|島倉千代子": {
+  "artist": "島倉千代子",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 103823282,
+  "name": "人生いろいろ",
+  "status": "ok"
+ },
  "人生的歌|黃乙玲": {
   "artist": "黃乙玲",
   "cc": "tw",
@@ -1502,6 +2769,15 @@
   "name": "伊的身邊已經有別人2023 (feat. 血肉果汁機)",
   "status": "ok"
  },
+ "伏線|呆呆破": {
+  "artist": "呆呆破",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1751791797,
+  "name": "伏線",
+  "status": "ok"
+ },
  "伯方の塩|塩谷信廣": {
   "checked": "2026-11-04",
   "status": "none"
@@ -1513,6 +2789,24 @@
   "genre": "Mandopop",
   "id": 6778375501,
   "name": "何日君再來",
+  "status": "ok"
+ },
+ "作陣彼一暝|阿吉仔": {
+  "artist": "阿吉仔",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1754576706,
+  "name": "作陣彼一暝 (dj 版)",
+  "status": "ok"
+ },
+ "你愛誰|蕭玉芬": {
+  "artist": "蕭玉芬",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6814704610,
+  "name": "你愛誰",
   "status": "ok"
  },
  "你的香水味|周星杰": {
@@ -1533,6 +2827,15 @@
   "name": "你講的話",
   "status": "ok"
  },
+ "你離開我失控|黃俊榮amsden": {
+  "artist": "黃俊榮",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 6823209295,
+  "name": "你離開,我失控",
+  "status": "ok"
+ },
  "倒帶|蔡依林": {
   "artist": "JOLIN蔡依林",
   "cc": "tw",
@@ -1540,6 +2843,15 @@
   "genre": "Mandopop",
   "id": 556949926,
   "name": "倒帶",
+  "status": "ok"
+ },
+ "借名入局|劉宇寧": {
+  "artist": "劉宇寧",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Soundtrack",
+  "id": 6822439851,
+  "name": "借名入局 (《嫁金釵》電視劇嬈黛·主題曲/片頭曲)",
   "status": "ok"
  },
  "假如有如果|六哲": {
@@ -1551,6 +2863,46 @@
   "name": "假如有如果",
   "status": "ok"
  },
+ "假性愛|薇薇": {
+  "artist": "薇薇",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6819237091,
+  "name": "假性愛",
+  "status": "ok"
+ },
+ "做你的格|玖壹壹": {
+  "artist": "玖壹壹",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1775889910,
+  "name": "做你的格",
+  "status": "ok"
+ },
+ "偶像包袱|理想混蛋": {
+  "artist": "理想混蛋",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6807777958,
+  "name": "偶像包袱",
+  "status": "ok"
+ },
+ "傷心酒店|施文彬江蕙": {
+  "artist": "施文彬",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 926174356,
+  "name": "傷心酒店",
+  "status": "ok"
+ },
+ "像晴天像雨天|variousartists": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "像煙火愛過|單依純": {
   "artist": "單依純",
   "cc": "tw",
@@ -1558,6 +2910,15 @@
   "genre": "Mandopop",
   "id": 1842315470,
   "name": "像煙火愛過",
+  "status": "ok"
+ },
+ "兄弟船|鳥羽一郎": {
+  "artist": "鳥羽一郎",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 552248097,
+  "name": "兄弟船",
   "status": "ok"
  },
  "光輝歲月|beyond": {
@@ -1573,6 +2934,33 @@
   "checked": "2026-11-04",
   "status": "none"
  },
+ "再見的時候電影陽光女子合唱團主題曲再見版|洪佩瑜": {
+  "artist": "洪佩瑜",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1859952104,
+  "name": "再見的時候 (電影〈陽光女子合唱團〉主題曲-再見版)",
+  "status": "ok"
+ },
+ "別れの予感|テレサテン": {
+  "artist": "テレサ・テン",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1442425426,
+  "name": "別れの予感",
+  "status": "ok"
+ },
+ "別人的|徐若瑄": {
+  "artist": "徐若瑄",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1530546318,
+  "name": "別人的 (電影《孤味》片尾曲)",
+  "status": "ok"
+ },
  "別回頭|pamajor": {
   "artist": "PAMajor",
   "cc": "tw",
@@ -1581,6 +2969,10 @@
   "id": 1876281769,
   "name": "別回頭",
   "status": "ok"
+ },
+ "刺到整身軀|春風潤少970": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "北の旅人|石原裕次郎": {
   "artist": "石原裕次郎",
@@ -1591,6 +2983,24 @@
   "name": "北の旅人",
   "status": "ok"
  },
+ "北の流れ星|岩本公水": {
+  "artist": "岩本公水",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 6794208341,
+  "name": "北の流れ星",
+  "status": "ok"
+ },
+ "北ウイング|中森明菜": {
+  "artist": "中森明菜",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 903275833,
+  "name": "北ウイング",
+  "status": "ok"
+ },
  "北国の春|千昌夫": {
   "artist": "千昌夫",
   "cc": "jp",
@@ -1598,6 +3008,24 @@
   "genre": "Enka",
   "id": 276449309,
   "name": "北国の春",
+  "status": "ok"
+ },
+ "北空港|浜圭介桂銀淑": {
+  "artist": "浜圭介 & 桂 銀淑",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1606852706,
+  "name": "北空港",
+  "status": "ok"
+ },
+ "北酒場|細川たかし": {
+  "artist": "細川たかし",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 103900931,
+  "name": "北酒場",
   "status": "ok"
  },
  "千本桜|whiteflamefeat初音ミク": {
@@ -1636,6 +3064,15 @@
   "name": "友情歲月",
   "status": "ok"
  },
+ "友情歲月|陳小春": {
+  "artist": "陳小春",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1049581689,
+  "name": "友情歲月",
+  "status": "ok"
+ },
  "可是你知道嗎|jocelyn940": {
   "artist": "Jocelyn 9.4.0",
   "cc": "tw",
@@ -1652,6 +3089,15 @@
   "genre": "J-Pop",
   "id": 1688512736,
   "name": "命に嫌われている",
+  "status": "ok"
+ },
+ "命運的演歌|謝宜君柯俊傑": {
+  "artist": "謝宜君 & 柯俊傑",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6823510891,
+  "name": "命運的演歌",
   "status": "ok"
  },
  "咱到遮就為止|黃奇斌": {
@@ -1672,6 +3118,15 @@
   "name": "咲き誇れ",
   "status": "ok"
  },
+ "哇哩勒|欸你這週要幹嘛": {
+  "artist": "欸你這週要幹嘛",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6800675789,
+  "name": "哇哩勒",
+  "status": "ok"
+ },
  "喜歡你|beyond": {
   "checked": "2026-11-04",
   "status": "none"
@@ -1683,6 +3138,42 @@
   "genre": "Cantopop",
   "id": 908972123,
   "name": "喜歡你",
+  "status": "ok"
+ },
+ "喜歡妳|beyond": {
+  "artist": "Beyond",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1464504124,
+  "name": "喜歡妳",
+  "status": "ok"
+ },
+ "喝采|ちあきなおみ": {
+  "artist": "ちあきなおみ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1747456068,
+  "name": "喝采",
+  "status": "ok"
+ },
+ "四季の歌|芹洋子": {
+  "artist": "芹洋子",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Children's Music",
+  "id": 1449692875,
+  "name": "四季の歌",
+  "status": "ok"
+ },
+ "回憶刪不去|任夏": {
+  "artist": "任夏",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 6785850147,
+  "name": "回憶刪不去",
   "status": "ok"
  },
  "在這裡等你|告五人": {
@@ -1710,6 +3201,15 @@
   "genre": "J-Pop",
   "id": 1490256995,
   "name": "夜に駆ける",
+  "status": "ok"
+ },
+ "夜明けと蛍|nbunafeat初音ミク": {
+  "artist": "n-buna",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1648869428,
+  "name": "夜明けと蛍",
   "status": "ok"
  },
  "夜玫瑰|謝宜君": {
@@ -1748,6 +3248,15 @@
   "name": "夢中的情話",
   "status": "ok"
  },
+ "夢成空|謝宜君": {
+  "artist": "謝宜君",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6823510892,
+  "name": "夢成空",
+  "status": "ok"
+ },
  "大梦归|周深": {
   "artist": "周深",
   "cc": "jp",
@@ -1755,6 +3264,15 @@
   "genre": "Soundtrack",
   "id": 6810189174,
   "name": "大梦归",
+  "status": "ok"
+ },
+ "大阪しぐれ|都はるみ": {
+  "artist": "都 はるみ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 1438593072,
+  "name": "大阪しぐれ",
   "status": "ok"
  },
  "天ノ弱|164featgumi": {
@@ -1791,6 +3309,15 @@
   "genre": "Mandopop",
   "id": 1839368232,
   "name": "太陽與地球",
+  "status": "ok"
+ },
+ "失戀無罪|alin": {
+  "artist": "A-Lin",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 930758230,
+  "name": "失戀無罪",
   "status": "ok"
  },
  "奏|スキマスイッチ": {
@@ -1833,6 +3360,24 @@
   "name": "好心分手",
   "status": "ok"
  },
+ "如果可以|韋禮安": {
+  "artist": "韋禮安",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1592498330,
+  "name": "如果可以 (電影\"月老\"主題曲)",
+  "status": "ok"
+ },
+ "妄想感傷代償連盟|deco27": {
+  "artist": "DECO*27",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1147145184,
+  "name": "妄想感傷代償連盟",
+  "status": "ok"
+ },
  "季候風|王菲": {
   "artist": "王菲",
   "cc": "tw",
@@ -1840,6 +3385,33 @@
   "genre": "Cantopop",
   "id": 1463501764,
   "name": "季候風",
+  "status": "ok"
+ },
+ "守村人|薛之謙": {
+  "artist": "薛之謙",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1787930096,
+  "name": "守村人",
+  "status": "ok"
+ },
+ "宗右衛門町ブルース|平和勝次とダークホース": {
+  "artist": "平和勝次とダークホース",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 1870174333,
+  "name": "宗右衛門町ブルース",
+  "status": "ok"
+ },
+ "家家酒|家家": {
+  "artist": "家家",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1190504672,
+  "name": "家家酒",
   "status": "ok"
  },
  "富士山下|陳奕迅": {
@@ -1851,6 +3423,33 @@
   "name": "富士山下",
   "status": "ok"
  },
+ "寫一條歌寫你我爾爾|蕭煌奇": {
+  "artist": "蕭煌奇",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1559861816,
+  "name": "寫一條歌,寫你我爾爾 (feat. 茄子蛋)",
+  "status": "ok"
+ },
+ "對我祝福|許富凱": {
+  "artist": "許富凱",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1861692077,
+  "name": "對我祝福",
+  "status": "ok"
+ },
+ "對等關係|李榮浩": {
+  "artist": "李榮浩",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1655821308,
+  "name": "對等關係 (feat. 張惠妹)",
+  "status": "ok"
+ },
  "對等關係|李榮浩張惠妹": {
   "artist": "李榮浩",
   "cc": "tw",
@@ -1858,6 +3457,15 @@
   "genre": "Mandopop",
   "id": 1655821308,
   "name": "對等關係 (feat. 張惠妹)",
+  "status": "ok"
+ },
+ "小さな恋のうた|mongol800": {
+  "artist": "MONGOL800",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Alternative",
+  "id": 273169347,
+  "name": "小さな恋のうた",
   "status": "ok"
  },
  "少女レイ|みきとp": {
@@ -1887,6 +3495,15 @@
   "name": "居酒屋",
   "status": "ok"
  },
+ "川の流れのように2000|美空ひばり": {
+  "artist": "美空ひばり",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1723351617,
+  "name": "川の流れのように",
+  "status": "ok"
+ },
  "川の流れのように|美空ひばり": {
   "artist": "美空ひばり",
   "cc": "jp",
@@ -1914,6 +3531,24 @@
   "name": "從前你",
   "status": "ok"
  },
+ "心狠手辣|江蕙": {
+  "artist": "江蕙",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1444583865,
+  "name": "心狠手辣",
+  "status": "ok"
+ },
+ "心花開|李千娜": {
+  "artist": "李千娜",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1442431589,
+  "name": "心花開",
+  "status": "ok"
+ },
  "心裡有針|蕭煌奇": {
   "artist": "蕭煌奇",
   "cc": "tw",
@@ -1932,6 +3567,24 @@
   "name": "必巡 (三立戲劇《含笑食堂》片尾曲/《嘉慶君遊臺灣》片頭曲)",
   "status": "ok"
  },
+ "忘情水|玟靈玄佾": {
+  "artist": "玟靈",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6815194133,
+  "name": "忘情水 (feat. 玄佾)",
+  "status": "ok"
+ },
+ "怎說|auztin": {
+  "artist": "AuZTIN",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6825665451,
+  "name": "怎說",
+  "status": "ok"
+ },
  "思念佗位寄|周星杰": {
   "artist": "周星杰",
   "cc": "tw",
@@ -1939,6 +3592,24 @@
   "genre": "Tai-Pop",
   "id": 6817718973,
   "name": "思念佗位寄",
+  "status": "ok"
+ },
+ "怪我太貪心|楊不乖": {
+  "artist": "楊不乖",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1886148162,
+  "name": "怪我太貪心",
+  "status": "ok"
+ },
+ "怪物|yoasobi": {
+  "artist": "YOASOBI",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1544083979,
+  "name": "怪物",
   "status": "ok"
  },
  "怪獣|サカナクション": {
@@ -1959,6 +3630,69 @@
   "name": "怪獣の花唄",
   "status": "ok"
  },
+ "恋人ごっこ|マカロニえんぴつ": {
+  "artist": "マカロニえんぴつ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 1496731154,
+  "name": "恋人ごっこ",
+  "status": "ok"
+ },
+ "恋愛裁判|40mpfeat初音ミク": {
+  "artist": "40mP feat. 初音ミク",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 944116584,
+  "name": "恋愛裁判",
+  "status": "ok"
+ },
+ "恋音と雨空|aaa": {
+  "artist": "AAA",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1036056683,
+  "name": "恋音と雨空",
+  "status": "ok"
+ },
+ "恰恰心花開|陳隨意": {
+  "artist": "陳隨意",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6814705445,
+  "name": "恰恰心花開",
+  "status": "ok"
+ },
+ "想你的形影|草屯囝仔": {
+  "artist": "草屯囝仔",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1619919231,
+  "name": "想你的形影",
+  "status": "ok"
+ },
+ "想和你看五月的晚霞|陳華": {
+  "artist": "陳華",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1810572087,
+  "name": "想和你看五月的晚霞",
+  "status": "ok"
+ },
+ "愛が生まれた日|藤谷美和子大内義昭": {
+  "artist": "藤谷美和子 & 大内義昭",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1712831431,
+  "name": "愛が生まれた日",
+  "status": "ok"
+ },
  "愛のかたまり|kinkikids": {
   "artist": "KinKi Kids",
   "cc": "jp",
@@ -1966,6 +3700,15 @@
   "genre": "J-Pop",
   "id": 1810382629,
   "name": "愛のかたまり",
+  "status": "ok"
+ },
+ "愛をこめて花束を|superfly": {
+  "artist": "Superfly",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Rock",
+  "id": 279691859,
+  "name": "愛をこめて花束を",
   "status": "ok"
  },
  "愛上你不是我決定|蕭敬騰alin": {
@@ -1977,6 +3720,15 @@
   "name": "愛上你不是我決定 (feat. A-Lin)",
   "status": "ok"
  },
+ "愛到才知痛|黃乙玲": {
+  "artist": "黃乙玲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 717098523,
+  "name": "愛到才知痛",
+  "status": "ok"
+ },
  "愛到無命不知驚|王識賢": {
   "artist": "王識賢",
   "cc": "tw",
@@ -1986,6 +3738,15 @@
   "name": "愛到無命不知驚",
   "status": "ok"
  },
+ "愛包ダンスホール|himehina": {
+  "artist": "HIMEHINA",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1717719417,
+  "name": "愛包ダンスホール",
+  "status": "ok"
+ },
  "愛情你比我想的閣較偉大|茄子蛋": {
   "artist": "茄子蛋",
   "cc": "tw",
@@ -1993,6 +3754,33 @@
   "genre": "Soundtrack",
   "id": 1726977153,
   "name": "愛情你比我想的閣較偉大 (《當男人戀愛時》電影主題曲)",
+  "status": "ok"
+ },
+ "愛情是鹹酸甜|蕭玉芬": {
+  "artist": "蕭玉芬",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6814704608,
+  "name": "愛情是鹹酸甜",
+  "status": "ok"
+ },
+ "愛情的大壞蛋|美秀集團": {
+  "artist": "美秀集團",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1770003012,
+  "name": "愛情的大壞蛋",
+  "status": "ok"
+ },
+ "愛情限時批|伍佰萬芳": {
+  "artist": "伍佰 & 萬芳",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 379810345,
+  "name": "愛情限時批",
   "status": "ok"
  },
  "愛燦燦|美空ひばり": {
@@ -2013,6 +3801,69 @@
   "name": "愛甲心無留",
   "status": "ok"
  },
+ "愛甲超過|向蕙玲": {
+  "artist": "向蕙玲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1673893555,
+  "name": "愛甲超過",
+  "status": "ok"
+ },
+ "愛與痛的邊緣|王菲": {
+  "artist": "王菲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1477799567,
+  "name": "愛與痛的邊緣",
+  "status": "ok"
+ },
+ "愛請問怎麼走|alin": {
+  "artist": "A-Lin",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 930758244,
+  "name": "愛請問怎麼走",
+  "status": "ok"
+ },
+ "愛過的樣子|王艷薇": {
+  "artist": "王艷薇",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1882412874,
+  "name": "愛過的樣子",
+  "status": "ok"
+ },
+ "愛錯|王力宏": {
+  "artist": "王力宏",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1429430104,
+  "name": "愛錯",
+  "status": "ok"
+ },
+ "慢冷|梁靜茹": {
+  "artist": "梁靜茹",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1462400556,
+  "name": "慢冷",
+  "status": "ok"
+ },
+ "慣性溫柔|juiceboy": {
+  "artist": "Juice Boy",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6819742307,
+  "name": "慣性溫柔",
+  "status": "ok"
+ },
  "憨膽|琳誼ring": {
   "artist": "琳誼",
   "cc": "tw",
@@ -2020,6 +3871,33 @@
   "genre": "Mandopop",
   "id": 6819661934,
   "name": "憨膽",
+  "status": "ok"
+ },
+ "成熟的愛|官玥": {
+  "artist": "官玥",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6820056711,
+  "name": "成熟的愛",
+  "status": "ok"
+ },
+ "我不難過|孫燕姿": {
+  "artist": "孫燕姿",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 255921025,
+  "name": "我不難過",
+  "status": "ok"
+ },
+ "我們終究成了陌生人|陳曼曼": {
+  "artist": "陳曼曼",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1813353826,
+  "name": "我們終究成了陌生人",
   "status": "ok"
  },
  "我們都好嗎|禾羽kimi": {
@@ -2030,6 +3908,10 @@
   "id": 6820033864,
   "name": "我們都好嗎",
   "status": "ok"
+ },
+ "我只想|variousartists": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "我喜歡你|芒果醬mangojump": {
   "artist": "芒果醬",
@@ -2058,6 +3940,15 @@
   "name": "我懷念的",
   "status": "ok"
  },
+ "我是真的愛上你|王傑": {
+  "artist": "王傑",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 543849961,
+  "name": "我是真的愛上你",
+  "status": "ok"
+ },
  "我無嫁你無娶|丁姵均曾瑋中": {
   "artist": "丁姵均",
   "cc": "tw",
@@ -2076,6 +3967,24 @@
   "name": "我甘願重新愛過 (Feat.狗柏)",
   "status": "ok"
  },
+ "我還有個夢|小宇": {
+  "artist": "小宇 宋念宇",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6783215356,
+  "name": "我還有個夢",
+  "status": "ok"
+ },
+ "打上花火|daoko": {
+  "artist": "DAOKO×米津玄師",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1263790415,
+  "name": "打上花火",
+  "status": "ok"
+ },
  "抜錨|ナナホシ管弦楽団": {
   "artist": "ナナホシ管弦楽団",
   "cc": "jp",
@@ -2083,6 +3992,24 @@
   "genre": "Anime",
   "id": 1593988227,
   "name": "抜錨",
+  "status": "ok"
+ },
+ "抜錨|ナナホシ管弦楽団feat巡音ルカ": {
+  "artist": "ナナホシ管弦楽団",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1593988227,
+  "name": "抜錨",
+  "status": "ok"
+ },
+ "摯友|alin": {
+  "artist": "A-Lin",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1616484709,
+  "name": "摯友",
   "status": "ok"
  },
  "擱淺|周杰倫": {
@@ -2094,6 +4021,24 @@
   "name": "擱淺",
   "status": "ok"
  },
+ "敢愛敢擔當|吳勇濱": {
+  "artist": "吳勇濱",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6823510114,
+  "name": "敢愛敢擔當",
+  "status": "ok"
+ },
+ "數到十|曾沛慈": {
+  "artist": "曾沛慈",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1811950828,
+  "name": "數到十",
+  "status": "ok"
+ },
  "旅の夜風|霧島昇ミスコロムビア": {
   "artist": "霧島 昇",
   "cc": "jp",
@@ -2101,6 +4046,33 @@
   "genre": "Kayokyoku",
   "id": 1703935555,
   "name": "旅の夜風",
+  "status": "ok"
+ },
+ "昔の名前で出ています|小林旭": {
+  "artist": "小林 旭",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1536892283,
+  "name": "昔の名前で出ています",
+  "status": "ok"
+ },
+ "星影のワルツ|千昌夫": {
+  "artist": "千昌夫",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 1613465321,
+  "name": "星影のワルツ",
+  "status": "ok"
+ },
+ "昴|谷村新司": {
+  "artist": "谷村新司",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 306381118,
+  "name": "昴 (マカリイver.)",
   "status": "ok"
  },
  "時の流れに身をまかせ|テレサテン": {
@@ -2116,6 +4088,28 @@
   "checked": "2026-11-04",
   "status": "none"
  },
+ "晩餐歌|tuki": {
+  "artist": "tuki.",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1781833058,
+  "name": "晩餐歌 - Bansanka",
+  "status": "ok"
+ },
+ "晴天|周杰倫": {
+  "artist": "周杰倫",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 535824738,
+  "name": "晴天",
+  "status": "ok"
+ },
+ "暗裏著迷|劉德華": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "暗裡著迷|劉德華": {
   "artist": "劉德華",
   "cc": "tw",
@@ -2125,6 +4119,24 @@
   "name": "暗裡著迷",
   "status": "ok"
  },
+ "曖昧|王菲": {
+  "artist": "王菲",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1443352514,
+  "name": "曖昧",
+  "status": "ok"
+ },
+ "最後の雨|中西保志": {
+  "artist": "中西保志",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1679687728,
+  "name": "最後の雨",
+  "status": "ok"
+ },
  "最後一個謊|理想混蛋": {
   "artist": "理想混蛋",
   "cc": "tw",
@@ -2132,6 +4144,51 @@
   "genre": "Mandopop",
   "id": 6807777966,
   "name": "最後一個謊",
+  "status": "ok"
+ },
+ "月下美人|dytica": {
+  "artist": "Dytica",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 6789023810,
+  "name": "月下美人",
+  "status": "ok"
+ },
+ "月光下的皮囊|unus": {
+  "artist": "U:NUS",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6813399115,
+  "name": "月光下的皮囊 (影集《郵票與舒芙蕾》片尾曲)",
+  "status": "ok"
+ },
+ "月娘知影|翁鈺鈞": {
+  "artist": "翁鈺鈞",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6767463258,
+  "name": "月娘知影",
+  "status": "ok"
+ },
+ "有一種遺憾叫我們|于冬然": {
+  "artist": "于冬然",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1808336976,
+  "name": "有一種遺憾叫我們",
+  "status": "ok"
+ },
+ "有你有我|春風": {
+  "artist": "春風",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6776950633,
+  "name": "有你有我 (Feat.王識賢)",
   "status": "ok"
  },
  "未完成的約定|黃俊榮amsden": {
@@ -2170,6 +4227,33 @@
   "name": "東京ラプソディ",
   "status": "ok"
  },
+ "枝仔冰|庾澄慶": {
+  "artist": "庾澄慶",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6820003074,
+  "name": "枝仔冰",
+  "status": "ok"
+ },
+ "桜色舞うころ|中島美嘉": {
+  "artist": "中島美嘉",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1535611739,
+  "name": "桜色舞うころ (acoustic)",
+  "status": "ok"
+ },
+ "棉照被|許富凱": {
+  "artist": "許富凱",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1052983973,
+  "name": "棉照被",
+  "status": "ok"
+ },
  "極速|鄭伊健": {
   "artist": "鄭伊健",
   "cc": "tw",
@@ -2206,6 +4290,15 @@
   "name": "残酷な天使のテーゼ",
   "status": "ok"
  },
+ "每天愛你多一些|張學友": {
+  "artist": "張學友",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1444116580,
+  "name": "每天愛你多一些",
+  "status": "ok"
+ },
  "水平線|backnumber": {
   "artist": "back number",
   "cc": "jp",
@@ -2233,6 +4326,15 @@
   "name": "津軽海峡・冬景色",
   "status": "ok"
  },
+ "活著viva|謝霆鋒": {
+  "artist": "謝霆鋒",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 543764956,
+  "name": "活著Viva",
+  "status": "ok"
+ },
  "浪子回頭|茄子蛋": {
   "artist": "茄子蛋",
   "cc": "tw",
@@ -2249,6 +4351,15 @@
   "genre": "Mandopop",
   "id": 1726967549,
   "name": "浪流連",
+  "status": "ok"
+ },
+ "浪花節だよ人生は|木村友衛": {
+  "artist": "木村友衛",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1680426437,
+  "name": "浪花節だよ人生は",
   "status": "ok"
  },
  "浮誇|陳奕迅": {
@@ -2291,6 +4402,24 @@
   "name": "淚橋",
   "status": "ok"
  },
+ "淚海|許茹芸": {
+  "artist": "許茹芸",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1442648689,
+  "name": "淚海",
+  "status": "ok"
+ },
+ "深い森|doasinfinity": {
+  "artist": "Do As Infinity",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 75621413,
+  "name": "深い森",
+  "status": "ok"
+ },
  "満ちてゆく|藤井風": {
   "artist": "藤井 風",
   "cc": "jp",
@@ -2298,6 +4427,15 @@
   "genre": "J-Pop",
   "id": 1733130377,
   "name": "満ちてゆく",
+  "status": "ok"
+ },
+ "火花|lawa": {
+  "artist": "LAWA",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6800180368,
+  "name": "火花",
   "status": "ok"
  },
  "灰色と青|米津玄師": {
@@ -2309,6 +4447,24 @@
   "name": "灰色と青 ( + 菅田将暉 )",
   "status": "ok"
  },
+ "灰色軌跡|beyond": {
+  "artist": "Beyond",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1440803866,
+  "name": "灰色軌跡",
+  "status": "ok"
+ },
+ "炙愛|李杰明": {
+  "artist": "李杰明",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Pop",
+  "id": 1868718645,
+  "name": "炙愛 (最初)",
+  "status": "ok"
+ },
  "点描の唄|mrsgreenapple": {
   "artist": "Mrs. GREEN APPLE",
   "cc": "jp",
@@ -2316,6 +4472,15 @@
   "genre": "Rock",
   "id": 1408505419,
   "name": "点描の唄 (feat. 井上苑子)",
+  "status": "ok"
+ },
+ "為愛走天涯|蕭玉芬吳勇濱": {
+  "artist": "蕭玉芬 & 吳勇濱",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6814704609,
+  "name": "為愛走天涯",
   "status": "ok"
  },
  "無字的情批|黃乙玲": {
@@ -2345,6 +4510,42 @@
   "name": "無間道",
   "status": "ok"
  },
+ "爆裂愛してる|mlk": {
+  "artist": "M!LK",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1869537742,
+  "name": "爆裂愛してる",
+  "status": "ok"
+ },
+ "牽掛|曾沛慈": {
+  "artist": "曾沛慈",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6823562187,
+  "name": "牽掛",
+  "status": "ok"
+ },
+ "玉蝴蝶|謝霆鋒": {
+  "artist": "謝霆鋒",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 543763266,
+  "name": "玉蝴蝶",
+  "status": "ok"
+ },
+ "王道|葛葉": {
+  "artist": "葛葉",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 6784356613,
+  "name": "王道",
+  "status": "ok"
+ },
  "甘心替代你|鄭伊健": {
   "artist": "鄭伊健",
   "cc": "tw",
@@ -2352,6 +4553,15 @@
   "genre": "Cantopop",
   "id": 471953473,
   "name": "甘心替代你",
+  "status": "ok"
+ },
+ "生まれてはじめて|神田沙也加松たか子": {
+  "artist": "神田沙也加 & 松 たか子",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Soundtrack",
+  "id": 1753806120,
+  "name": "生まれてはじめて",
   "status": "ok"
  },
  "甲乙丙丁strangers|李佳薇": {
@@ -2390,6 +4600,24 @@
   "name": "痴心絕對",
   "status": "ok"
  },
+ "瘋子傻子|盧盧快閉嘴": {
+  "artist": "盧盧快閉嘴",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1854393258,
+  "name": "瘋子傻子",
+  "status": "ok"
+ },
+ "癡心為你|吳勇濱蕭玉芬": {
+  "artist": "吳勇濱 & 蕭玉芬",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6823510112,
+  "name": "癡心為你",
+  "status": "ok"
+ },
  "相依為命|陳小春": {
   "artist": "陳小春",
   "cc": "tw",
@@ -2421,6 +4649,15 @@
   "checked": "2026-11-04",
   "status": "none"
  },
+ "砂の惑星|ハチfeat初音ミク": {
+  "artist": "ハチ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1268503458,
+  "name": "砂の惑星 feat.初音ミク",
+  "status": "ok"
+ },
  "硝子の少年|kinkikids": {
   "artist": "KinKi Kids",
   "cc": "jp",
@@ -2439,6 +4676,28 @@
   "name": "祇想一生跟你走",
   "status": "ok"
  },
+ "神っぽいな|ピノキオピー": {
+  "artist": "ピノキオピー",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Electronic",
+  "id": 1585951058,
+  "name": "神っぽいな",
+  "status": "ok"
+ },
+ "空港|テレサテン": {
+  "artist": "テレサ・テン",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1440657253,
+  "name": "空港",
+  "status": "ok"
+ },
+ "空號|arieltsai": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
  "粛聖ロリ神レクイエム|しぐれうい": {
   "artist": "しぐれうい",
   "cc": "jp",
@@ -2446,6 +4705,24 @@
   "genre": "Anime",
   "id": 1622910871,
   "name": "粛聖!! ロリ神レクイエム☆",
+  "status": "ok"
+ },
+ "紅日|李克勤": {
+  "artist": "李克勤",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1443394970,
+  "name": "紅日",
+  "status": "ok"
+ },
+ "紅蓮華|lisa": {
+  "artist": "LiSA",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 1537908359,
+  "name": "紅蓮華",
   "status": "ok"
  },
  "細雪|五木ひろし": {
@@ -2511,6 +4788,33 @@
   "name": "老朋友",
   "status": "ok"
  },
+ "肆無忌憚|薛之謙": {
+  "artist": "薛之謙",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1787448196,
+  "name": "肆無忌憚",
+  "status": "ok"
+ },
+ "能不能把你挽留|朱俊衛": {
+  "artist": "朱俊衛",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1767813585,
+  "name": "能不能把你挽留",
+  "status": "ok"
+ },
+ "自信勇敢咱的名|滅火器": {
+  "artist": "滅火器",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1547404778,
+  "name": "自信勇敢咱的名",
+  "status": "ok"
+ },
  "自由的你|gem鄧紫棋": {
   "artist": "鄧紫棋",
   "cc": "tw",
@@ -2518,6 +4822,15 @@
   "genre": "Mandopop",
   "id": 6815092483,
   "name": "自由的你",
+  "status": "ok"
+ },
+ "舟唄|八代亜紀": {
+  "artist": "八代亜紀",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 299045490,
+  "name": "舟唄",
   "status": "ok"
  },
  "艾薇塔evita傳說對決艾薇塔主題曲|艾薇ivy": {
@@ -2529,6 +4842,15 @@
   "name": "艾薇塔 Evita《傳說對決 艾薇塔主題曲》",
   "status": "ok"
  },
+ "花|藤井風": {
+  "artist": "藤井 風",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1710724753,
+  "name": "花",
+  "status": "ok"
+ },
  "若無你我欲去佗位|黃奇斌": {
   "artist": "黃奇斌",
   "cc": "tw",
@@ -2536,6 +4858,15 @@
   "genre": "Mandopop",
   "id": 1824122176,
   "name": "若無你我欲去佗位",
+  "status": "ok"
+ },
+ "莎浪嘿|蕭玉芬": {
+  "artist": "蕭玉芬",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6814704613,
+  "name": "莎浪嘿",
   "status": "ok"
  },
  "莫用虛情來騙阮|周星杰": {
@@ -2547,6 +4878,37 @@
   "name": "莫用虛情來騙阮",
   "status": "ok"
  },
+ "菁仔五十|大台風樂團": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
+ "落雨聲|江蕙": {
+  "artist": "江蕙",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1524231249,
+  "name": "落雨聲",
+  "status": "ok"
+ },
+ "蕾|コブクロ": {
+  "artist": "コブクロ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 291873807,
+  "name": "蕾(つぼみ)",
+  "status": "ok"
+ },
+ "藍雨|張學友": {
+  "artist": "張學友",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1443310612,
+  "name": "藍雨",
+  "status": "ok"
+ },
  "虹|菅田将暉": {
   "artist": "菅田 将暉",
   "cc": "jp",
@@ -2554,6 +4916,42 @@
   "genre": "J-Pop",
   "id": 1537793754,
   "name": "虹",
+  "status": "ok"
+ },
+ "螺旋|9lana": {
+  "artist": "9Lana",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 6796579286,
+  "name": "螺旋 - RASEN - Acoustic Ver. -",
+  "status": "ok"
+ },
+ "街のサンドイッチマン|鶴田浩二": {
+  "artist": "鶴田浩二",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1592946539,
+  "name": "街のサンドイッチマン",
+  "status": "ok"
+ },
+ "裏町酒場|美空ひばり": {
+  "artist": "美空ひばり",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 474114928,
+  "name": "裏町酒場",
+  "status": "ok"
+ },
+ "襟裳岬|森進一": {
+  "artist": "森 進一",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1390954531,
+  "name": "襟裳岬",
   "status": "ok"
  },
  "西西里|周杰倫": {
@@ -2574,6 +4972,24 @@
   "name": "要去什麼地方",
   "status": "ok"
  },
+ "該怎麼|郁欣ivy": {
+  "artist": "郁欣Ivy",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 6822227438,
+  "name": "該怎麼",
+  "status": "ok"
+ },
+ "誰人陪我醉|吳勇濱": {
+  "artist": "吳勇濱",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6823510110,
+  "name": "誰人陪我醉",
+  "status": "ok"
+ },
  "講袂出喙的情話|許富凱": {
   "artist": "許富凱",
   "cc": "tw",
@@ -2582,6 +4998,19 @@
   "id": 1886663515,
   "name": "講袂出喙的情話",
   "status": "ok"
+ },
+ "護花使者|李克勤": {
+  "artist": "李克勤",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Cantopop",
+  "id": 1478244678,
+  "name": "護花使者",
+  "status": "ok"
+ },
+ "變廢為寶|薛之謙": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "越後獅子の唄|美空ひばり": {
   "artist": "美空ひばり",
@@ -2592,6 +5021,15 @@
   "name": "越後獅子の唄",
   "status": "ok"
  },
+ "跳樓機|lbi利比": {
+  "artist": "LBI利比",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1790602218,
+  "name": "跳樓機",
+  "status": "ok"
+ },
  "追|張國榮": {
   "artist": "張國榮",
   "cc": "tw",
@@ -2600,6 +5038,10 @@
   "id": 1756221725,
   "name": "追",
   "status": "ok"
+ },
+ "追追追|黃妃": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "這號人|徐暐翔vashhsu": {
   "artist": "徐暐翔",
@@ -2617,6 +5059,15 @@
   "genre": "J-Pop",
   "id": 1558067727,
   "name": "逢いたくていま",
+  "status": "ok"
+ },
+ "連名帶姓|張惠妹": {
+  "artist": "張惠妹",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1834199249,
+  "name": "連名帶姓",
   "status": "ok"
  },
  "運轉人生|邱軍": {
@@ -2645,6 +5096,10 @@
   "id": 1011720762,
   "name": "道",
   "status": "ok"
+ },
+ "那個男人|玄彬": {
+  "checked": "2026-11-04",
+  "status": "none"
  },
  "郎有情妹有意|陳隨意謝宜君": {
   "artist": "陳隨意 & 謝宜君",
@@ -2700,6 +5155,24 @@
   "name": "長崎の鐘",
   "status": "ok"
  },
+ "長崎は今日も雨だった|内山田洋とクールファイブ": {
+  "artist": "内山田洋とクール・ファイブ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Kayokyoku",
+  "id": 1740094429,
+  "name": "長崎は今日も雨だった",
+  "status": "ok"
+ },
+ "開始懂了|孫燕姿": {
+  "artist": "孫燕姿",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 298837675,
+  "name": "開始懂了",
+  "status": "ok"
+ },
  "閣愛妳一擺|茄子蛋": {
   "artist": "茄子蛋",
   "cc": "tw",
@@ -2707,6 +5180,15 @@
   "genre": "Tai-Pop",
   "id": 1726970401,
   "name": "閣愛妳一擺",
+  "status": "ok"
+ },
+ "阿嬤的話|蕭煌奇": {
+  "artist": "蕭煌奇",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 1494258598,
+  "name": "阿嬤的話",
   "status": "ok"
  },
  "阿爸的原諒|周星杰": {
@@ -2727,6 +5209,15 @@
   "name": "陀飛輪",
   "status": "ok"
  },
+ "陳桑|陳隨意": {
+  "artist": "陳隨意",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Tai-Pop",
+  "id": 6814705446,
+  "name": "陳桑",
+  "status": "ok"
+ },
  "離開我的依賴|王艷薇": {
   "artist": "王艷薇",
   "cc": "tw",
@@ -2734,6 +5225,24 @@
   "genre": "Mandopop",
   "id": 1794042592,
   "name": "離開我的依賴",
+  "status": "ok"
+ },
+ "離開的一路上|理想混蛋": {
+  "artist": "理想混蛋",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Mandopop",
+  "id": 1712228426,
+  "name": "離開的一路上",
+  "status": "ok"
+ },
+ "難破船|中森明菜": {
+  "artist": "中森明菜",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 294802499,
+  "name": "難破船",
   "status": "ok"
  },
  "雨愛|楊丞琳": {
@@ -2758,6 +5267,15 @@
   "name": "雪國",
   "status": "ok"
  },
+ "雲を抜け風下へ私だけ|ヨルシカ": {
+  "artist": "ヨルシカ",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Alternative",
+  "id": 6817316271,
+  "name": "雲を抜け風下へ私だけ",
+  "status": "ok"
+ },
  "雲中月圓|王識賢孫淑媚": {
   "artist": "王識賢 & 孫淑媚",
   "cc": "tw",
@@ -2776,7 +5294,29 @@
   "name": "青い山脈",
   "status": "ok"
  },
+ "青い珊瑚礁|松田聖子": {
+  "artist": "松田聖子",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1536760546,
+  "name": "青い珊瑚礁",
+  "status": "ok"
+ },
  "青春アミーゴ|修二と彰": {
+  "checked": "2026-11-04",
+  "status": "none"
+ },
+ "青春病|藤井風": {
+  "artist": "藤井 風",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 1537214263,
+  "name": "青春病",
+  "status": "ok"
+ },
+ "革命途中|ainatheend": {
   "checked": "2026-11-04",
   "status": "none"
  },
@@ -2789,6 +5329,15 @@
   "name": "革命道中 - On The Way",
   "status": "ok"
  },
+ "風中的美麗|翁鈺鈞": {
+  "artist": "翁鈺鈞",
+  "cc": "tw",
+  "checked": "2026-11-04",
+  "genre": "Chinese",
+  "id": 1800275687,
+  "name": "風中的美麗",
+  "status": "ok"
+ },
  "食虫植物|理芽": {
   "artist": "理芽",
   "cc": "jp",
@@ -2798,6 +5347,15 @@
   "name": "食虫植物",
   "status": "ok"
  },
+ "高原列車は行く|岡本敦郎": {
+  "artist": "岡本敦郎",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 1018823692,
+  "name": "高原列車は行く",
+  "status": "ok"
+ },
  "高嶺の花子さん|backnumber": {
   "artist": "back number",
   "cc": "jp",
@@ -2805,6 +5363,24 @@
   "genre": "J-Pop",
   "id": 1451577752,
   "name": "高嶺の花子さん",
+  "status": "ok"
+ },
+ "高校三年生|舟木一夫": {
+  "artist": "舟木一夫",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Enka",
+  "id": 288349228,
+  "name": "高校三年生",
+  "status": "ok"
+ },
+ "魂のルフラン|高橋洋子": {
+  "artist": "高橋洋子",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "Anime",
+  "id": 258926443,
+  "name": "魂のルフラン",
   "status": "ok"
  },
  "鹹酸苦汫|麋先生聖皓": {
@@ -2823,6 +5399,15 @@
   "genre": "Tai-Pop",
   "id": 6803466883,
   "name": "鹹酸苦汫 (feat.王識賢) [電影《網紅老爸》片尾曲]",
+  "status": "ok"
+ },
+ "黒毛和牛上塩タン焼680円|大塚愛": {
+  "artist": "大塚 愛",
+  "cc": "jp",
+  "checked": "2026-11-04",
+  "genre": "J-Pop",
+  "id": 972567334,
+  "name": "黒毛和牛上塩タン焼680円",
   "status": "ok"
  },
  "연애의조건|bestie": {
