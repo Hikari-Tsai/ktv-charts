@@ -45,6 +45,10 @@ const I18N = {
     empty: "這張榜沒有資料。",
     disclaimer: "資料取自各 KTV 與 KKBOX 官方網站公開頁面，著作權屬原網站所有。本站與各業者無關。",
     sources: "資料來源",
+    starCta: "在 GitHub 給我星星",
+    starAria: "到 GitHub 為這個專案按星星，目前 {n} 顆",
+    authorLabel: "作者",
+    sourceCode: "GitHub 原始碼",
   },
   en: {
     title: "KTV Song Rankings",
@@ -83,6 +87,10 @@ const I18N = {
     empty: "No data for this chart.",
     disclaimer: "Data comes from the public websites of each KTV operator and KKBOX; rights belong to the original sites. This site is not affiliated with any of them.",
     sources: "Sources",
+    starCta: "Star on GitHub",
+    starAria: "Star this project on GitHub ({n} stars so far)",
+    authorLabel: "Author",
+    sourceCode: "Source on GitHub",
   },
   ja: {
     title: "カラオケ人気ランキング",
@@ -121,6 +129,10 @@ const I18N = {
     empty: "このランキングにはデータがありません。",
     disclaimer: "データは各カラオケ事業者と KKBOX の公式サイトの公開ページから取得しています。権利は各サイトに帰属します。本サイトは各事業者とは関係ありません。",
     sources: "データ提供元",
+    starCta: "GitHub でスターをください",
+    starAria: "GitHub でこのプロジェクトにスターを付ける（現在 {n}）",
+    authorLabel: "作者",
+    sourceCode: "GitHub のソースコード",
   },
 };
 
@@ -339,6 +351,7 @@ function applyStaticText() {
     btn.setAttribute("aria-pressed", String(btn.dataset.lang === state.lang));
   }
   $("#genre-credit").textContent = t("genreCredit");
+  renderStars();
   const links = $("#source-links");
   links.replaceChildren(t("sources") + t("colon"));
   (state.index?.sources || []).forEach((s, i) => {
@@ -602,12 +615,39 @@ function setLang(lang) {
   render();
 }
 
+// Live star count from the GitHub API (60 requests/hour per visitor IP; failures are ignored).
+let starCount = null;
+
+async function loadStars() {
+  try {
+    const res = await fetch("https://api.github.com/repos/Hikari-Tsai/ktv-charts", {
+      headers: { Accept: "application/vnd.github+json" },
+    });
+    if (!res.ok) return;
+    const n = (await res.json()).stargazers_count;
+    if (Number.isInteger(n)) {
+      starCount = n;
+      renderStars();
+    }
+  } catch { /* offline or rate limited: keep the plain button */ }
+}
+
+function renderStars() {
+  const badge = $("#star-count");
+  const button = $("#star-btn");
+  if (starCount == null || !badge || !button) return;
+  badge.textContent = new Intl.NumberFormat(LOCALE[state.lang]).format(starCount);
+  badge.hidden = starCount === 0;
+  button.setAttribute("aria-label", t("starAria", { n: starCount }));
+}
+
 async function init() {
   state.lang = initialLang();
   for (const btn of document.querySelectorAll(".lang button")) {
     btn.addEventListener("click", () => setLang(btn.dataset.lang));
   }
   applyStaticText();
+  loadStars();
   showMessage(t("loading"));
   try {
     state.index = await getJson("data/index.json");
