@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KTV 點歌排行榜</title>
+  <meta name="description" content="好樂迪、錢櫃、JOYSOUND、DAM 每日更新的 KTV 點歌排行榜">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1 data-i18n="title">KTV 點歌排行榜</h1>
+      <p class="subtitle" data-i18n="subtitle">好樂迪、錢櫃、JOYSOUND、DAM 每日自動更新</p>
+    </div>
+    <div class="lang" role="group" aria-label="Language">
+      <button type="button" data-lang="zh" lang="zh-Hant">中文</button>
+      <button type="button" data-lang="en" lang="en">English</button>
+      <button type="button" data-lang="ja" lang="ja">日本語</button>
+    </div>
+  </header>
+
+  <main>
+    <nav id="sources" class="tabs" role="tablist" aria-label="KTV"></nav>
+    <nav id="charts" class="pills" aria-label="Charts"></nav>
+
+    <section id="meta" class="meta" aria-live="polite"></section>
+    <div id="notice" class="notice" role="status" hidden></div>
+
+    <div class="table-wrap">
+      <table id="ranking">
+        <thead>
+          <tr>
+            <th class="col-rank" scope="col" data-i18n="colRank">名次</th>
+            <th class="col-change" scope="col" data-i18n="colChange">升降</th>
+            <th class="col-song" scope="col" data-i18n="colSong">歌曲</th>
+            <th class="col-link" scope="col" data-i18n="colLink">YouTube</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <p id="empty" class="empty" hidden></p>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <p data-i18n="disclaimer">資料取自各 KTV 官方網站公開頁面，著作權屬原網站所有。本站與各 KTV 業者無關。</p>
+    <p id="source-links"></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+ "updated_at": "2026-11-04T10:01:11+08:00",
+ "sources": [
+  {
+   "id": "holiday",
+   "name": {
+    "zh": "好樂迪",
+    "en": "Holiday",
+    "ja": "好樂迪 (Holiday)"
+   },
+   "region": "tw",
+   "site_url": "https://www.holiday.com.tw/"
+  },
+  {
+   "id": "cashbox",
+   "name": {
+    "zh": "錢櫃",
+    "en": "Cashbox",
+    "ja": "錢櫃 (Cashbox)"
+   },
+   "region": "tw",
+   "site_url": "https://www.cashboxparty.com/"
+  },
+  {
+   "id": "joysound",
+   "name": {
+    "zh": "JOYSOUND",
+    "en": "JOYSOUND",
+    "ja": "JOYSOUND"
+   },
+   "region": "jp",
+   "site_url": "https://www.joysound.com/"
+  },
+  {
+   "id": "dam",
+   "name": {
+    "zh": "DAM",
+    "en": "DAM",
+    "ja": "DAM"
+   },
+   "region": "jp",
+   "site_url": "https://www.clubdam.com/"
+  }
+ ]
+}

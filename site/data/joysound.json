@@ -1,0 +1,5726 @@
+{
+ "source": "joysound",
+ "name": {
+  "zh": "JOYSOUND",
+  "en": "JOYSOUND",
+  "ja": "JOYSOUND"
+ },
+ "region": "jp",
+ "site_url": "https://www.joysound.com/",
+ "checked_at": "2026-11-04T09:58:48+08:00",
+ "errors": [],
+ "charts": [
+  {
+   "id": "all-daily",
+   "title": {
+    "zh": "綜合日榜",
+    "en": "Overall · Daily",
+    "ja": "総合 デイリー"
+   },
+   "period": "2026/11/02",
+   "source_url": "https://www.joysound.com/web/karaoke/ranking/all",
+   "rows": [
+    {
+     "rank": 1,
+     "title": "伯方の塩",
+     "artist": "塩谷信廣",
+     "song_url": "https://www.joysound.com/web/search/song/1143056",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 2,
+     "title": "残酷な天使のテーゼ",
+     "artist": "高橋洋子",
+     "song_url": "https://www.joysound.com/web/search/song/9629",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 3,
+     "title": "好きすぎて滅!",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1143475",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 4,
+     "title": "怪獣の花唄",
+     "artist": "Vaundy",
+     "song_url": "https://www.joysound.com/web/search/song/830943",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 5,
+     "title": "マリーゴールド",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/696651",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 6,
+     "title": "サウダージ",
+     "artist": "ポルノグラフィティ",
+     "song_url": "https://www.joysound.com/web/search/song/24592",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 7,
+     "title": "水平線",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/850206",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 8,
+     "title": "さよならエレジー",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/667498",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 9,
+     "title": "高嶺の花子さん",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/255170",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 10,
+     "title": "Yes! 東京",
+     "artist": "EBiDAN (恵比寿学園男子部)",
+     "song_url": "https://www.joysound.com/web/search/song/1188409",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "IRIS OUT",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/1122881",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 12,
+     "title": "ダーリン",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1051516",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 13,
+     "title": "ドライフラワー",
+     "artist": "優里",
+     "song_url": "https://www.joysound.com/web/search/song/856015",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 14,
+     "title": "クリスマスソング",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/542563",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 15,
+     "title": "小さな恋のうた",
+     "artist": "MONGOL800",
+     "song_url": "https://www.joysound.com/web/search/song/21589",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 16,
+     "title": "丸ノ内サディスティック",
+     "artist": "椎名林檎",
+     "song_url": "https://www.joysound.com/web/search/song/19738",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 17,
+     "title": "恋人ごっこ",
+     "artist": "マカロニえんぴつ",
+     "song_url": "https://www.joysound.com/web/search/song/822780",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 18,
+     "title": "奏(かなで)",
+     "artist": "スキマスイッチ",
+     "song_url": "https://www.joysound.com/web/search/song/27353",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 19,
+     "title": "しわあわせ",
+     "artist": "Vaundy",
+     "song_url": "https://www.joysound.com/web/search/song/876689",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 20,
+     "title": "チェリー",
+     "artist": "スピッツ",
+     "song_url": "https://www.joysound.com/web/search/song/9905",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 21,
+     "title": "とくべチュ、して",
+     "artist": "=LOVE",
+     "song_url": "https://www.joysound.com/web/search/song/1089203",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 22,
+     "title": "ひまわりの約束",
+     "artist": "秦 基博",
+     "song_url": "https://www.joysound.com/web/search/song/408793",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 23,
+     "title": "点描の唄 (feat. 井上苑子)",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/697675",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 24,
+     "title": "カブトムシ",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/21012",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 25,
+     "title": "ライラック",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1027580",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 26,
+     "title": "糸",
+     "artist": "中島みゆき",
+     "song_url": "https://www.joysound.com/web/search/song/7141",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 27,
+     "title": "キセキ",
+     "artist": "GReeeeN",
+     "song_url": "https://www.joysound.com/web/search/song/117766",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 28,
+     "title": "ハナミズキ",
+     "artist": "一青窈",
+     "song_url": "https://www.joysound.com/web/search/song/27215",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 29,
+     "title": "爆裂愛してる",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1150854",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 30,
+     "title": "シャルル",
+     "artist": "バルーン",
+     "song_url": "https://www.joysound.com/web/search/song/605438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 31,
+     "title": "366日",
+     "artist": "HY",
+     "song_url": "https://www.joysound.com/web/search/song/115215",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 32,
+     "title": "シングルベッド",
+     "artist": "シャ乱Q",
+     "song_url": "https://www.joysound.com/web/search/song/12438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 33,
+     "title": "愛をこめて花束を",
+     "artist": "Superfly",
+     "song_url": "https://www.joysound.com/web/search/song/113523",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 34,
+     "title": "革命道中 - On The Way",
+     "artist": "アイナ・ジ・エンド",
+     "song_url": "https://www.joysound.com/web/search/song/1112241",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 35,
+     "title": "アゲハ蝶",
+     "artist": "ポルノグラフィティ",
+     "song_url": "https://www.joysound.com/web/search/song/11598",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 36,
+     "title": "最後の雨",
+     "artist": "中西保志",
+     "song_url": "https://www.joysound.com/web/search/song/4231",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 37,
+     "title": "ブルーアンバー",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/1094439",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 38,
+     "title": "島人ぬ宝",
+     "artist": "BEGIN",
+     "song_url": "https://www.joysound.com/web/search/song/26392",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 39,
+     "title": "世界が終るまでは…",
+     "artist": "WANDS",
+     "song_url": "https://www.joysound.com/web/search/song/4447",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 40,
+     "title": "アイノカタチ feat. HIDE (GReeeeN)",
+     "artist": "MISIA",
+     "song_url": "https://www.joysound.com/web/search/song/701876",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 41,
+     "title": "Story",
+     "artist": "AI",
+     "song_url": "https://www.joysound.com/web/search/song/18487",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 42,
+     "title": "大阪LOVER",
+     "artist": "DREAMS COME TRUE",
+     "song_url": "https://www.joysound.com/web/search/song/99587",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 43,
+     "title": "タッチ",
+     "artist": "岩崎良美",
+     "song_url": "https://www.joysound.com/web/search/song/968",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 44,
+     "title": "シンデレラボーイ",
+     "artist": "Saucy Dog",
+     "song_url": "https://www.joysound.com/web/search/song/891126",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 45,
+     "title": "ヒロイン",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/415696",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 46,
+     "title": "Lemon",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/669975",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 47,
+     "title": "メロディー",
+     "artist": "玉置浩二",
+     "song_url": "https://www.joysound.com/web/search/song/14128",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 48,
+     "title": "Pretender",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/746956",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 49,
+     "title": "愛のかたまり",
+     "artist": "KinKi Kids",
+     "song_url": "https://www.joysound.com/web/search/song/21558",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 50,
+     "title": "怪獣",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/1058418",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 51,
+     "title": "スパークル [original ver.]",
+     "artist": "RADWIMPS",
+     "song_url": "https://www.joysound.com/web/search/song/593638",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 52,
+     "title": "I LOVE YOU",
+     "artist": "尾崎豊",
+     "song_url": "https://www.joysound.com/web/search/song/1087",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 53,
+     "title": "ただ君に晴れ",
+     "artist": "ヨルシカ",
+     "song_url": "https://www.joysound.com/web/search/song/685161",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "晩餐歌",
+     "artist": "tuki.",
+     "song_url": "https://www.joysound.com/web/search/song/993540",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 55,
+     "title": "津軽海峡・冬景色",
+     "artist": "石川さゆり",
+     "song_url": "https://www.joysound.com/web/search/song/929",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 56,
+     "title": "ケセラセラ",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/970963",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 57,
+     "title": "気まぐれロマンティック",
+     "artist": "いきものがかり",
+     "song_url": "https://www.joysound.com/web/search/song/125233",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 58,
+     "title": "ハレンチ",
+     "artist": "ちゃんみな",
+     "song_url": "https://www.joysound.com/web/search/song/895247",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 59,
+     "title": "花束",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/167177",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 60,
+     "title": "シルエット",
+     "artist": "KANA-BOON",
+     "song_url": "https://www.joysound.com/web/search/song/414532",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 61,
+     "title": "虹",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/856017",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 62,
+     "title": "ハッピーエンド",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/595366",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "イケナイ太陽",
+     "artist": "ORANGE RANGE",
+     "song_url": "https://www.joysound.com/web/search/song/106491",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 64,
+     "title": "First Love",
+     "artist": "宇多田ヒカル",
+     "song_url": "https://www.joysound.com/web/search/song/19722",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 65,
+     "title": "KissHug",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/120310",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 66,
+     "title": "裸の心",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/832478",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 67,
+     "title": "チャンカパーナ",
+     "artist": "NEWS",
+     "song_url": "https://www.joysound.com/web/search/song/231795",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 68,
+     "title": "115万キロのフィルム",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/686423",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 69,
+     "title": "歌うたいのバラッド",
+     "artist": "斉藤和義",
+     "song_url": "https://www.joysound.com/web/search/song/16773",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 70,
+     "title": "恋",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/223630",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 71,
+     "title": "TSUNAMI",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/23147",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 72,
+     "title": "いとしのエリー",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2214",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 73,
+     "title": "3月9日",
+     "artist": "レミオロメン",
+     "song_url": "https://www.joysound.com/web/search/song/27341",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 74,
+     "title": "栄光の架橋",
+     "artist": "ゆず",
+     "song_url": "https://www.joysound.com/web/search/song/28298",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 75,
+     "title": "Love so sweet",
+     "artist": "嵐",
+     "song_url": "https://www.joysound.com/web/search/song/97159",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 76,
+     "title": "夜の踊り子",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/233083",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 77,
+     "title": "青と夏",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/697674",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 78,
+     "title": "君はロックを聴かない",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/637674",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "魔法の絨毯",
+     "artist": "川崎鷹也",
+     "song_url": "https://www.joysound.com/web/search/song/851919",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 80,
+     "title": "新宝島",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/530711",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "わたがし",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/230627",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "チェックのワンピース",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/421460",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 83,
+     "title": "時の流れに身をまかせ",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/930",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 84,
+     "title": "天体観測",
+     "artist": "BUMP OF CHICKEN",
+     "song_url": "https://www.joysound.com/web/search/song/25263",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 85,
+     "title": "アイドル",
+     "artist": "YOASOBI",
+     "song_url": "https://www.joysound.com/web/search/song/966944",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "夢をかなえてドラえもん",
+     "artist": "mao",
+     "song_url": "https://www.joysound.com/web/search/song/104333",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 87,
+     "title": "Soranji",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/943699",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 88,
+     "title": "雪の華",
+     "artist": "中島美嘉",
+     "song_url": "https://www.joysound.com/web/search/song/27799",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 89,
+     "title": "花束のかわりにメロディーを",
+     "artist": "清水翔太",
+     "song_url": "https://www.joysound.com/web/search/song/540305",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 90,
+     "title": "白い恋人達",
+     "artist": "桑田佳祐",
+     "song_url": "https://www.joysound.com/web/search/song/21378",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 91,
+     "title": "真夏の果実",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2759",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 92,
+     "title": "DAN DAN 心魅かれてく",
+     "artist": "FIELD OF VIEW",
+     "song_url": "https://www.joysound.com/web/search/song/9906",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 93,
+     "title": "さくらんぼ",
+     "artist": "大塚 愛",
+     "song_url": "https://www.joysound.com/web/search/song/27150",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 94,
+     "title": "HANABI",
+     "artist": "Mr.Children",
+     "song_url": "https://www.joysound.com/web/search/song/121447",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 95,
+     "title": "上を向いて歩こう",
+     "artist": "坂本九",
+     "song_url": "https://www.joysound.com/web/search/song/4054",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 96,
+     "title": "川の流れのように",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/961",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 97,
+     "title": "愛を伝えたいだとか",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/616946",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 98,
+     "title": "少女レイ",
+     "artist": "みきとP feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/701104",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 99,
+     "title": "時空超えてユニバース",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1192056",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 100,
+     "title": "夜に駆ける",
+     "artist": "YOASOBI",
+     "song_url": "https://www.joysound.com/web/search/song/817479",
+     "last_rank": null,
+     "is_new": null
+    }
+   ],
+   "period_key": "2026-11-02",
+   "rank_change": "history",
+   "fetched_at": "2026-11-04T09:58:40+08:00",
+   "stale": false
+  },
+  {
+   "id": "all-weekly",
+   "title": {
+    "zh": "綜合週榜",
+    "en": "Overall · Weekly",
+    "ja": "総合 週間"
+   },
+   "period": "2026/10/26 ~ 2026/11/01",
+   "source_url": "https://www.joysound.com/web/karaoke/ranking/all/weekly",
+   "rows": [
+    {
+     "rank": 1,
+     "title": "伯方の塩",
+     "artist": "塩谷信廣",
+     "song_url": "https://www.joysound.com/web/search/song/1143056",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 2,
+     "title": "残酷な天使のテーゼ",
+     "artist": "高橋洋子",
+     "song_url": "https://www.joysound.com/web/search/song/9629",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 3,
+     "title": "好きすぎて滅!",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1143475",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 4,
+     "title": "怪獣の花唄",
+     "artist": "Vaundy",
+     "song_url": "https://www.joysound.com/web/search/song/830943",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 5,
+     "title": "マリーゴールド",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/696651",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 6,
+     "title": "サウダージ",
+     "artist": "ポルノグラフィティ",
+     "song_url": "https://www.joysound.com/web/search/song/24592",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 7,
+     "title": "水平線",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/850206",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 8,
+     "title": "さよならエレジー",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/667498",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 9,
+     "title": "高嶺の花子さん",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/255170",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 10,
+     "title": "Yes! 東京",
+     "artist": "EBiDAN (恵比寿学園男子部)",
+     "song_url": "https://www.joysound.com/web/search/song/1188409",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "ドライフラワー",
+     "artist": "優里",
+     "song_url": "https://www.joysound.com/web/search/song/856015",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 12,
+     "title": "IRIS OUT",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/1122881",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 13,
+     "title": "恋人ごっこ",
+     "artist": "マカロニえんぴつ",
+     "song_url": "https://www.joysound.com/web/search/song/822780",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 14,
+     "title": "クリスマスソング",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/542563",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 15,
+     "title": "ダーリン",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1051516",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 16,
+     "title": "しわあわせ",
+     "artist": "Vaundy",
+     "song_url": "https://www.joysound.com/web/search/song/876689",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 17,
+     "title": "丸ノ内サディスティック",
+     "artist": "椎名林檎",
+     "song_url": "https://www.joysound.com/web/search/song/19738",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 18,
+     "title": "とくべチュ、して",
+     "artist": "=LOVE",
+     "song_url": "https://www.joysound.com/web/search/song/1089203",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 19,
+     "title": "小さな恋のうた",
+     "artist": "MONGOL800",
+     "song_url": "https://www.joysound.com/web/search/song/21589",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 20,
+     "title": "カブトムシ",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/21012",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 21,
+     "title": "ひまわりの約束",
+     "artist": "秦 基博",
+     "song_url": "https://www.joysound.com/web/search/song/408793",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 22,
+     "title": "奏(かなで)",
+     "artist": "スキマスイッチ",
+     "song_url": "https://www.joysound.com/web/search/song/27353",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 23,
+     "title": "チェリー",
+     "artist": "スピッツ",
+     "song_url": "https://www.joysound.com/web/search/song/9905",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 24,
+     "title": "点描の唄 (feat. 井上苑子)",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/697675",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 25,
+     "title": "爆裂愛してる",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1150854",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 26,
+     "title": "ハナミズキ",
+     "artist": "一青窈",
+     "song_url": "https://www.joysound.com/web/search/song/27215",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 27,
+     "title": "366日",
+     "artist": "HY",
+     "song_url": "https://www.joysound.com/web/search/song/115215",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 28,
+     "title": "糸",
+     "artist": "中島みゆき",
+     "song_url": "https://www.joysound.com/web/search/song/7141",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 29,
+     "title": "愛をこめて花束を",
+     "artist": "Superfly",
+     "song_url": "https://www.joysound.com/web/search/song/113523",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 30,
+     "title": "キセキ",
+     "artist": "GReeeeN",
+     "song_url": "https://www.joysound.com/web/search/song/117766",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 31,
+     "title": "シャルル",
+     "artist": "バルーン",
+     "song_url": "https://www.joysound.com/web/search/song/605438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 32,
+     "title": "ライラック",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1027580",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 33,
+     "title": "ブルーアンバー",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/1094439",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 34,
+     "title": "シングルベッド",
+     "artist": "シャ乱Q",
+     "song_url": "https://www.joysound.com/web/search/song/12438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 35,
+     "title": "世界が終るまでは…",
+     "artist": "WANDS",
+     "song_url": "https://www.joysound.com/web/search/song/4447",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 36,
+     "title": "島人ぬ宝",
+     "artist": "BEGIN",
+     "song_url": "https://www.joysound.com/web/search/song/26392",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 37,
+     "title": "アイノカタチ feat. HIDE (GReeeeN)",
+     "artist": "MISIA",
+     "song_url": "https://www.joysound.com/web/search/song/701876",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 38,
+     "title": "アゲハ蝶",
+     "artist": "ポルノグラフィティ",
+     "song_url": "https://www.joysound.com/web/search/song/11598",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 39,
+     "title": "革命道中 - On The Way",
+     "artist": "アイナ・ジ・エンド",
+     "song_url": "https://www.joysound.com/web/search/song/1112241",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 40,
+     "title": "最後の雨",
+     "artist": "中西保志",
+     "song_url": "https://www.joysound.com/web/search/song/4231",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 41,
+     "title": "Story",
+     "artist": "AI",
+     "song_url": "https://www.joysound.com/web/search/song/18487",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 42,
+     "title": "シンデレラボーイ",
+     "artist": "Saucy Dog",
+     "song_url": "https://www.joysound.com/web/search/song/891126",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 43,
+     "title": "大阪LOVER",
+     "artist": "DREAMS COME TRUE",
+     "song_url": "https://www.joysound.com/web/search/song/99587",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 44,
+     "title": "ヒロイン",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/415696",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 45,
+     "title": "Pretender",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/746956",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 46,
+     "title": "Lemon",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/669975",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 47,
+     "title": "タッチ",
+     "artist": "岩崎良美",
+     "song_url": "https://www.joysound.com/web/search/song/968",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 48,
+     "title": "KissHug",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/120310",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 49,
+     "title": "ただ君に晴れ",
+     "artist": "ヨルシカ",
+     "song_url": "https://www.joysound.com/web/search/song/685161",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 50,
+     "title": "恋",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/223630",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 51,
+     "title": "愛のかたまり",
+     "artist": "KinKi Kids",
+     "song_url": "https://www.joysound.com/web/search/song/21558",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 52,
+     "title": "気まぐれロマンティック",
+     "artist": "いきものがかり",
+     "song_url": "https://www.joysound.com/web/search/song/125233",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 53,
+     "title": "裸の心",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/832478",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "晩餐歌",
+     "artist": "tuki.",
+     "song_url": "https://www.joysound.com/web/search/song/993540",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 55,
+     "title": "メロディー",
+     "artist": "玉置浩二",
+     "song_url": "https://www.joysound.com/web/search/song/14128",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 56,
+     "title": "ハッピーエンド",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/595366",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 57,
+     "title": "ケセラセラ",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/970963",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 58,
+     "title": "花束",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/167177",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 59,
+     "title": "怪獣",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/1058418",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 60,
+     "title": "I LOVE YOU",
+     "artist": "尾崎豊",
+     "song_url": "https://www.joysound.com/web/search/song/1087",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 61,
+     "title": "スパークル [original ver.]",
+     "artist": "RADWIMPS",
+     "song_url": "https://www.joysound.com/web/search/song/593638",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 62,
+     "title": "First Love",
+     "artist": "宇多田ヒカル",
+     "song_url": "https://www.joysound.com/web/search/song/19722",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "シルエット",
+     "artist": "KANA-BOON",
+     "song_url": "https://www.joysound.com/web/search/song/414532",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 64,
+     "title": "ハレンチ",
+     "artist": "ちゃんみな",
+     "song_url": "https://www.joysound.com/web/search/song/895247",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 65,
+     "title": "イケナイ太陽",
+     "artist": "ORANGE RANGE",
+     "song_url": "https://www.joysound.com/web/search/song/106491",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 66,
+     "title": "わたがし",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/230627",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 67,
+     "title": "115万キロのフィルム",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/686423",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 68,
+     "title": "虹",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/856017",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 69,
+     "title": "チャンカパーナ",
+     "artist": "NEWS",
+     "song_url": "https://www.joysound.com/web/search/song/231795",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 70,
+     "title": "歌うたいのバラッド",
+     "artist": "斉藤和義",
+     "song_url": "https://www.joysound.com/web/search/song/16773",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 71,
+     "title": "津軽海峡・冬景色",
+     "artist": "石川さゆり",
+     "song_url": "https://www.joysound.com/web/search/song/929",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 72,
+     "title": "TSUNAMI",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/23147",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 73,
+     "title": "君はロックを聴かない",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/637674",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 74,
+     "title": "3月9日",
+     "artist": "レミオロメン",
+     "song_url": "https://www.joysound.com/web/search/song/27341",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 75,
+     "title": "チェックのワンピース",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/421460",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 76,
+     "title": "いとしのエリー",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2214",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 77,
+     "title": "栄光の架橋",
+     "artist": "ゆず",
+     "song_url": "https://www.joysound.com/web/search/song/28298",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 78,
+     "title": "Love so sweet",
+     "artist": "嵐",
+     "song_url": "https://www.joysound.com/web/search/song/97159",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "魔法の絨毯",
+     "artist": "川崎鷹也",
+     "song_url": "https://www.joysound.com/web/search/song/851919",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 80,
+     "title": "青と夏",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/697674",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "夢をかなえてドラえもん",
+     "artist": "mao",
+     "song_url": "https://www.joysound.com/web/search/song/104333",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 82,
+     "title": "DAN DAN 心魅かれてく",
+     "artist": "FIELD OF VIEW",
+     "song_url": "https://www.joysound.com/web/search/song/9906",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 83,
+     "title": "新宝島",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/530711",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 84,
+     "title": "花束のかわりにメロディーを",
+     "artist": "清水翔太",
+     "song_url": "https://www.joysound.com/web/search/song/540305",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 85,
+     "title": "愛を伝えたいだとか",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/616946",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "HANABI",
+     "artist": "Mr.Children",
+     "song_url": "https://www.joysound.com/web/search/song/121447",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 87,
+     "title": "天体観測",
+     "artist": "BUMP OF CHICKEN",
+     "song_url": "https://www.joysound.com/web/search/song/25263",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 88,
+     "title": "Soranji",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/943699",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 89,
+     "title": "さくらんぼ",
+     "artist": "大塚 愛",
+     "song_url": "https://www.joysound.com/web/search/song/27150",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 90,
+     "title": "時空超えてユニバース",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1192056",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 91,
+     "title": "真夏の果実",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2759",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 92,
+     "title": "幸せ",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/220472",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 93,
+     "title": "アイドル",
+     "artist": "YOASOBI",
+     "song_url": "https://www.joysound.com/web/search/song/966944",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 94,
+     "title": "secret base ～君がくれたもの～",
+     "artist": "ZONE",
+     "song_url": "https://www.joysound.com/web/search/song/11755",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 95,
+     "title": "雪の華",
+     "artist": "中島美嘉",
+     "song_url": "https://www.joysound.com/web/search/song/27799",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 96,
+     "title": "夜の踊り子",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/233083",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 97,
+     "title": "トリセツ",
+     "artist": "西野カナ",
+     "song_url": "https://www.joysound.com/web/search/song/533366",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 98,
+     "title": "瞬き",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/650257",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 99,
+     "title": "少女レイ",
+     "artist": "みきとP feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/701104",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 100,
+     "title": "時の流れに身をまかせ",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/930",
+     "last_rank": null,
+     "is_new": null
+    }
+   ],
+   "period_key": "2026-10-26_2026-11-01",
+   "rank_change": "history",
+   "fetched_at": "2026-11-04T09:58:41+08:00",
+   "stale": false
+  },
+  {
+   "id": "all-monthly",
+   "title": {
+    "zh": "綜合月榜",
+    "en": "Overall · Monthly",
+    "ja": "総合 月間"
+   },
+   "period": "2026/10",
+   "source_url": "https://www.joysound.com/web/karaoke/ranking/all/monthly",
+   "rows": [
+    {
+     "rank": 1,
+     "title": "伯方の塩",
+     "artist": "塩谷信廣",
+     "song_url": "https://www.joysound.com/web/search/song/1143056",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 2,
+     "title": "好きすぎて滅!",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1143475",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 3,
+     "title": "残酷な天使のテーゼ",
+     "artist": "高橋洋子",
+     "song_url": "https://www.joysound.com/web/search/song/9629",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 4,
+     "title": "怪獣の花唄",
+     "artist": "Vaundy",
+     "song_url": "https://www.joysound.com/web/search/song/830943",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 5,
+     "title": "マリーゴールド",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/696651",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 6,
+     "title": "サウダージ",
+     "artist": "ポルノグラフィティ",
+     "song_url": "https://www.joysound.com/web/search/song/24592",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 7,
+     "title": "水平線",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/850206",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 8,
+     "title": "さよならエレジー",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/667498",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 9,
+     "title": "高嶺の花子さん",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/255170",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 10,
+     "title": "IRIS OUT",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/1122881",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "ドライフラワー",
+     "artist": "優里",
+     "song_url": "https://www.joysound.com/web/search/song/856015",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 12,
+     "title": "Yes! 東京",
+     "artist": "EBiDAN (恵比寿学園男子部)",
+     "song_url": "https://www.joysound.com/web/search/song/1188409",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 13,
+     "title": "恋人ごっこ",
+     "artist": "マカロニえんぴつ",
+     "song_url": "https://www.joysound.com/web/search/song/822780",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 14,
+     "title": "ダーリン",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1051516",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 15,
+     "title": "小さな恋のうた",
+     "artist": "MONGOL800",
+     "song_url": "https://www.joysound.com/web/search/song/21589",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 16,
+     "title": "丸ノ内サディスティック",
+     "artist": "椎名林檎",
+     "song_url": "https://www.joysound.com/web/search/song/19738",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 17,
+     "title": "とくべチュ、して",
+     "artist": "=LOVE",
+     "song_url": "https://www.joysound.com/web/search/song/1089203",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 18,
+     "title": "カブトムシ",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/21012",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 19,
+     "title": "ひまわりの約束",
+     "artist": "秦 基博",
+     "song_url": "https://www.joysound.com/web/search/song/408793",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 20,
+     "title": "点描の唄 (feat. 井上苑子)",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/697675",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 21,
+     "title": "爆裂愛してる",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1150854",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 22,
+     "title": "チェリー",
+     "artist": "スピッツ",
+     "song_url": "https://www.joysound.com/web/search/song/9905",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 23,
+     "title": "奏(かなで)",
+     "artist": "スキマスイッチ",
+     "song_url": "https://www.joysound.com/web/search/song/27353",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 24,
+     "title": "366日",
+     "artist": "HY",
+     "song_url": "https://www.joysound.com/web/search/song/115215",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 25,
+     "title": "ハナミズキ",
+     "artist": "一青窈",
+     "song_url": "https://www.joysound.com/web/search/song/27215",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 26,
+     "title": "クリスマスソング",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/542563",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 27,
+     "title": "愛をこめて花束を",
+     "artist": "Superfly",
+     "song_url": "https://www.joysound.com/web/search/song/113523",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 28,
+     "title": "キセキ",
+     "artist": "GReeeeN",
+     "song_url": "https://www.joysound.com/web/search/song/117766",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 29,
+     "title": "糸",
+     "artist": "中島みゆき",
+     "song_url": "https://www.joysound.com/web/search/song/7141",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 30,
+     "title": "シャルル",
+     "artist": "バルーン",
+     "song_url": "https://www.joysound.com/web/search/song/605438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 31,
+     "title": "ライラック",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1027580",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 32,
+     "title": "革命道中 - On The Way",
+     "artist": "アイナ・ジ・エンド",
+     "song_url": "https://www.joysound.com/web/search/song/1112241",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 33,
+     "title": "アゲハ蝶",
+     "artist": "ポルノグラフィティ",
+     "song_url": "https://www.joysound.com/web/search/song/11598",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 34,
+     "title": "シングルベッド",
+     "artist": "シャ乱Q",
+     "song_url": "https://www.joysound.com/web/search/song/12438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 35,
+     "title": "島人ぬ宝",
+     "artist": "BEGIN",
+     "song_url": "https://www.joysound.com/web/search/song/26392",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 36,
+     "title": "世界が終るまでは…",
+     "artist": "WANDS",
+     "song_url": "https://www.joysound.com/web/search/song/4447",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 37,
+     "title": "アイノカタチ feat. HIDE (GReeeeN)",
+     "artist": "MISIA",
+     "song_url": "https://www.joysound.com/web/search/song/701876",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 38,
+     "title": "シンデレラボーイ",
+     "artist": "Saucy Dog",
+     "song_url": "https://www.joysound.com/web/search/song/891126",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 39,
+     "title": "ブルーアンバー",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/1094439",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 40,
+     "title": "Story",
+     "artist": "AI",
+     "song_url": "https://www.joysound.com/web/search/song/18487",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 41,
+     "title": "最後の雨",
+     "artist": "中西保志",
+     "song_url": "https://www.joysound.com/web/search/song/4231",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 42,
+     "title": "ただ君に晴れ",
+     "artist": "ヨルシカ",
+     "song_url": "https://www.joysound.com/web/search/song/685161",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 43,
+     "title": "Lemon",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/669975",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 44,
+     "title": "Pretender",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/746956",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 45,
+     "title": "大阪LOVER",
+     "artist": "DREAMS COME TRUE",
+     "song_url": "https://www.joysound.com/web/search/song/99587",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 46,
+     "title": "タッチ",
+     "artist": "岩崎良美",
+     "song_url": "https://www.joysound.com/web/search/song/968",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 47,
+     "title": "KissHug",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/120310",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 48,
+     "title": "恋",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/223630",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 49,
+     "title": "晩餐歌",
+     "artist": "tuki.",
+     "song_url": "https://www.joysound.com/web/search/song/993540",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 50,
+     "title": "ハッピーエンド",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/595366",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 51,
+     "title": "ケセラセラ",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/970963",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 52,
+     "title": "しわあわせ",
+     "artist": "Vaundy",
+     "song_url": "https://www.joysound.com/web/search/song/876689",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 53,
+     "title": "怪獣",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/1058418",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "スパークル [original ver.]",
+     "artist": "RADWIMPS",
+     "song_url": "https://www.joysound.com/web/search/song/593638",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 55,
+     "title": "気まぐれロマンティック",
+     "artist": "いきものがかり",
+     "song_url": "https://www.joysound.com/web/search/song/125233",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 56,
+     "title": "裸の心",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/832478",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 57,
+     "title": "花束",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/167177",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 58,
+     "title": "ハレンチ",
+     "artist": "ちゃんみな",
+     "song_url": "https://www.joysound.com/web/search/song/895247",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 59,
+     "title": "シルエット",
+     "artist": "KANA-BOON",
+     "song_url": "https://www.joysound.com/web/search/song/414532",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 60,
+     "title": "愛のかたまり",
+     "artist": "KinKi Kids",
+     "song_url": "https://www.joysound.com/web/search/song/21558",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 61,
+     "title": "I LOVE YOU",
+     "artist": "尾崎豊",
+     "song_url": "https://www.joysound.com/web/search/song/1087",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 62,
+     "title": "ヒロイン",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/415696",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "メロディー",
+     "artist": "玉置浩二",
+     "song_url": "https://www.joysound.com/web/search/song/14128",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 64,
+     "title": "イケナイ太陽",
+     "artist": "ORANGE RANGE",
+     "song_url": "https://www.joysound.com/web/search/song/106491",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 65,
+     "title": "わたがし",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/230627",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 66,
+     "title": "First Love",
+     "artist": "宇多田ヒカル",
+     "song_url": "https://www.joysound.com/web/search/song/19722",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 67,
+     "title": "115万キロのフィルム",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/686423",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 68,
+     "title": "虹",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/856017",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 69,
+     "title": "TSUNAMI",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/23147",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 70,
+     "title": "チャンカパーナ",
+     "artist": "NEWS",
+     "song_url": "https://www.joysound.com/web/search/song/231795",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 71,
+     "title": "3月9日",
+     "artist": "レミオロメン",
+     "song_url": "https://www.joysound.com/web/search/song/27341",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 72,
+     "title": "歌うたいのバラッド",
+     "artist": "斉藤和義",
+     "song_url": "https://www.joysound.com/web/search/song/16773",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 73,
+     "title": "いとしのエリー",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2214",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 74,
+     "title": "青と夏",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/697674",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 75,
+     "title": "Love so sweet",
+     "artist": "嵐",
+     "song_url": "https://www.joysound.com/web/search/song/97159",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 76,
+     "title": "チェックのワンピース",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/421460",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 77,
+     "title": "津軽海峡・冬景色",
+     "artist": "石川さゆり",
+     "song_url": "https://www.joysound.com/web/search/song/929",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 78,
+     "title": "君はロックを聴かない",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/637674",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "夜の踊り子",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/233083",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 80,
+     "title": "魔法の絨毯",
+     "artist": "川崎鷹也",
+     "song_url": "https://www.joysound.com/web/search/song/851919",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "栄光の架橋",
+     "artist": "ゆず",
+     "song_url": "https://www.joysound.com/web/search/song/28298",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 82,
+     "title": "夢をかなえてドラえもん",
+     "artist": "mao",
+     "song_url": "https://www.joysound.com/web/search/song/104333",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 83,
+     "title": "時空超えてユニバース",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1192056",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 84,
+     "title": "新宝島",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/530711",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 85,
+     "title": "DAN DAN 心魅かれてく",
+     "artist": "FIELD OF VIEW",
+     "song_url": "https://www.joysound.com/web/search/song/9906",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "secret base ～君がくれたもの～",
+     "artist": "ZONE",
+     "song_url": "https://www.joysound.com/web/search/song/11755",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 87,
+     "title": "愛を伝えたいだとか",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/616946",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 88,
+     "title": "真夏の果実",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2759",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 89,
+     "title": "天体観測",
+     "artist": "BUMP OF CHICKEN",
+     "song_url": "https://www.joysound.com/web/search/song/25263",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 90,
+     "title": "Soranji",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/943699",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 91,
+     "title": "HANABI",
+     "artist": "Mr.Children",
+     "song_url": "https://www.joysound.com/web/search/song/121447",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 92,
+     "title": "花束のかわりにメロディーを",
+     "artist": "清水翔太",
+     "song_url": "https://www.joysound.com/web/search/song/540305",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 93,
+     "title": "少女レイ",
+     "artist": "みきとP feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/701104",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 94,
+     "title": "アイドル",
+     "artist": "YOASOBI",
+     "song_url": "https://www.joysound.com/web/search/song/966944",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 95,
+     "title": "幸せ",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/220472",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 96,
+     "title": "HOT LIMIT",
+     "artist": "T.M.Revolution",
+     "song_url": "https://www.joysound.com/web/search/song/17588",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 97,
+     "title": "さくらんぼ",
+     "artist": "大塚 愛",
+     "song_url": "https://www.joysound.com/web/search/song/27150",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 98,
+     "title": "黒毛和牛上塩タン焼680円",
+     "artist": "大塚 愛",
+     "song_url": "https://www.joysound.com/web/search/song/10029",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 99,
+     "title": "トリセツ",
+     "artist": "西野カナ",
+     "song_url": "https://www.joysound.com/web/search/song/533366",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 100,
+     "title": "プラネタリウム",
+     "artist": "大塚 愛",
+     "song_url": "https://www.joysound.com/web/search/song/18643",
+     "last_rank": null,
+     "is_new": null
+    }
+   ],
+   "period_key": "2026-10",
+   "rank_change": "history",
+   "fetched_at": "2026-11-04T09:58:42+08:00",
+   "stale": false
+  },
+  {
+   "id": "anime-weekly",
+   "title": {
+    "zh": "動畫週榜",
+    "en": "Anime · Weekly",
+    "ja": "アニメ 週間"
+   },
+   "period": "2026/10/26 ~ 2026/11/01",
+   "source_url": "https://www.joysound.com/web/karaoke/ranking/anime/weekly",
+   "rows": [
+    {
+     "rank": 1,
+     "title": "残酷な天使のテーゼ",
+     "artist": "高橋洋子",
+     "song_url": "https://www.joysound.com/web/search/song/9629",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 2,
+     "title": "IRIS OUT",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/1122881",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 3,
+     "title": "ひまわりの約束",
+     "artist": "秦 基博",
+     "song_url": "https://www.joysound.com/web/search/song/408793",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 4,
+     "title": "ライラック",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1027580",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 5,
+     "title": "シングルベッド",
+     "artist": "シャ乱Q",
+     "song_url": "https://www.joysound.com/web/search/song/12438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 6,
+     "title": "世界が終るまでは…",
+     "artist": "WANDS",
+     "song_url": "https://www.joysound.com/web/search/song/4447",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 7,
+     "title": "革命道中 - On The Way",
+     "artist": "アイナ・ジ・エンド",
+     "song_url": "https://www.joysound.com/web/search/song/1112241",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 8,
+     "title": "タッチ",
+     "artist": "岩崎良美",
+     "song_url": "https://www.joysound.com/web/search/song/968",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 9,
+     "title": "怪獣",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/1058418",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 10,
+     "title": "シルエット",
+     "artist": "KANA-BOON",
+     "song_url": "https://www.joysound.com/web/search/song/414532",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "虹",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/856017",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 12,
+     "title": "夢をかなえてドラえもん",
+     "artist": "mao",
+     "song_url": "https://www.joysound.com/web/search/song/104333",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 13,
+     "title": "DAN DAN 心魅かれてく",
+     "artist": "FIELD OF VIEW",
+     "song_url": "https://www.joysound.com/web/search/song/9906",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 14,
+     "title": "アイドル",
+     "artist": "YOASOBI",
+     "song_url": "https://www.joysound.com/web/search/song/966944",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 15,
+     "title": "黒毛和牛上塩タン焼680円",
+     "artist": "大塚 愛",
+     "song_url": "https://www.joysound.com/web/search/song/10029",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 16,
+     "title": "ブルーバード",
+     "artist": "いきものがかり",
+     "song_url": "https://www.joysound.com/web/search/song/118932",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 17,
+     "title": "なんもねえ",
+     "artist": "忘れらんねえよ",
+     "song_url": "https://www.joysound.com/web/search/song/1171396",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 18,
+     "title": "unravel",
+     "artist": "TK from 凛として時雨",
+     "song_url": "https://www.joysound.com/web/search/song/408317",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 19,
+     "title": "God knows...",
+     "artist": "涼宮ハルヒ(C.V.平野綾)",
+     "song_url": "https://www.joysound.com/web/search/song/85966",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 20,
+     "title": "魂のルフラン",
+     "artist": "高橋洋子",
+     "song_url": "https://www.joysound.com/web/search/song/14909",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 21,
+     "title": "Bling-Bang-Bang-Born",
+     "artist": "Creepy Nuts(R-指定&DJ松永)",
+     "song_url": "https://www.joysound.com/web/search/song/1006478",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 22,
+     "title": "JANE DOE",
+     "artist": "米津玄師，宇多田ヒカル",
+     "song_url": "https://www.joysound.com/web/search/song/1130949",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 23,
+     "title": "RPG",
+     "artist": "SEKAI NO OWARI",
+     "song_url": "https://www.joysound.com/web/search/song/251945",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 24,
+     "title": "lulu.",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1145389",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 25,
+     "title": "セレナーデ",
+     "artist": "なとり",
+     "song_url": "https://www.joysound.com/web/search/song/1146983",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 26,
+     "title": "ピースサイン",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/615369",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 27,
+     "title": "炎",
+     "artist": "LiSA",
+     "song_url": "https://www.joysound.com/web/search/song/849071",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 28,
+     "title": "シュガーソングとビターステップ",
+     "artist": "UNISON SQUARE GARDEN",
+     "song_url": "https://www.joysound.com/web/search/song/420975",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 29,
+     "title": "ハルノヒ",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/740133",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 30,
+     "title": "私は最強 (ウタ from ONE PIECE FILM RED)",
+     "artist": "Ado",
+     "song_url": "https://www.joysound.com/web/search/song/930605",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 31,
+     "title": "花になって",
+     "artist": "緑黄色社会",
+     "song_url": "https://www.joysound.com/web/search/song/997235",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 32,
+     "title": "Let It Go～ありのままで～",
+     "artist": "松たか子",
+     "song_url": "https://www.joysound.com/web/search/song/405267",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 33,
+     "title": "Butter-Fly",
+     "artist": "和田光司",
+     "song_url": "https://www.joysound.com/web/search/song/20237",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 34,
+     "title": "インフェルノ",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/768833",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 35,
+     "title": "クスシキ",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/1092456",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 36,
+     "title": "晴る",
+     "artist": "ヨルシカ",
+     "song_url": "https://www.joysound.com/web/search/song/1008181",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 37,
+     "title": "そばかす",
+     "artist": "JUDY AND MARY",
+     "song_url": "https://www.joysound.com/web/search/song/9812",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 38,
+     "title": "ムーンライト伝説",
+     "artist": "DALI",
+     "song_url": "https://www.joysound.com/web/search/song/7662",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 39,
+     "title": "月光花",
+     "artist": "Janne Da Arc",
+     "song_url": "https://www.joysound.com/web/search/song/10434",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 40,
+     "title": "おジャ魔女カーニバル!!",
+     "artist": "MAHO堂",
+     "song_url": "https://www.joysound.com/web/search/song/20517",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 41,
+     "title": "メリッサ",
+     "artist": "ポルノグラフィティ",
+     "song_url": "https://www.joysound.com/web/search/song/27804",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 42,
+     "title": "君の知らない物語",
+     "artist": "supercell",
+     "song_url": "https://www.joysound.com/web/search/song/133769",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 43,
+     "title": "花に亡霊",
+     "artist": "ヨルシカ",
+     "song_url": "https://www.joysound.com/web/search/song/831037",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 44,
+     "title": "残響散歌",
+     "artist": "Aimer",
+     "song_url": "https://www.joysound.com/web/search/song/899466",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 45,
+     "title": "ミックスナッツ",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/915913",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 46,
+     "title": "サムライハート(Some Like It Hot!!)",
+     "artist": "SPYAIR",
+     "song_url": "https://www.joysound.com/web/search/song/166703",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 47,
+     "title": "とびら開けて",
+     "artist": "神田沙也加、津田英佑",
+     "song_url": "https://www.joysound.com/web/search/song/405307",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 48,
+     "title": "島のうた (セイレーンver.)",
+     "artist": "セイレーン (CV.鈴木みのり) 、人魚 (CV.大木咲絵子、七瀬彩夏)",
+     "song_url": "https://www.joysound.com/web/search/song/1197670",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 49,
+     "title": "ルージュの伝言",
+     "artist": "松任谷由実",
+     "song_url": "https://www.joysound.com/web/search/song/947",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 50,
+     "title": "創聖のアクエリオン",
+     "artist": "AKINO",
+     "song_url": "https://www.joysound.com/web/search/song/57356",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 51,
+     "title": "あぶく",
+     "artist": "ヨルシカ",
+     "song_url": "https://www.joysound.com/web/search/song/1172734",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 52,
+     "title": "ホール・ニュー・ワールド",
+     "artist": "ディズニー",
+     "song_url": "https://www.joysound.com/web/search/song/22760",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 53,
+     "title": "アンパンマンのマーチ",
+     "artist": "ドリーミング",
+     "song_url": "https://www.joysound.com/web/search/song/7684",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "前前前世 (movie ver.)",
+     "artist": "RADWIMPS",
+     "song_url": "https://www.joysound.com/web/search/song/575333",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 55,
+     "title": "KICK BACK",
+     "artist": "米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/947657",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 56,
+     "title": "ライオン",
+     "artist": "May'n/中島愛",
+     "song_url": "https://www.joysound.com/web/search/song/126992",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 57,
+     "title": "ウィーアー!",
+     "artist": "きただにひろし",
+     "song_url": "https://www.joysound.com/web/search/song/25784",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 58,
+     "title": "Get Wild",
+     "artist": "TM NETWORK(TMN)",
+     "song_url": "https://www.joysound.com/web/search/song/2043",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 59,
+     "title": "Cry Baby",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/875231",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 60,
+     "title": "怪物",
+     "artist": "YOASOBI",
+     "song_url": "https://www.joysound.com/web/search/song/860557",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 61,
+     "title": "心絵",
+     "artist": "ロードオブメジャー",
+     "song_url": "https://www.joysound.com/web/search/song/10150",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 62,
+     "title": "コネクト",
+     "artist": "ClariS",
+     "song_url": "https://www.joysound.com/web/search/song/160892",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "手紙 ～拝啓 十五の君へ～",
+     "artist": "アンジェラ・アキ",
+     "song_url": "https://www.joysound.com/web/search/song/121451",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 64,
+     "title": "最高到達点",
+     "artist": "SEKAI NO OWARI",
+     "song_url": "https://www.joysound.com/web/search/song/985197",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 65,
+     "title": "only my railgun",
+     "artist": "fripSide",
+     "song_url": "https://www.joysound.com/web/search/song/145103",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 66,
+     "title": "青のすみか",
+     "artist": "キタニタツヤ",
+     "song_url": "https://www.joysound.com/web/search/song/976111",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 67,
+     "title": "紅蓮華",
+     "artist": "LiSA",
+     "song_url": "https://www.joysound.com/web/search/song/748873",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 68,
+     "title": "勇気100%",
+     "artist": "光GENJI",
+     "song_url": "https://www.joysound.com/web/search/song/4259",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 69,
+     "title": "AIZO",
+     "artist": "King Gnu",
+     "song_url": "https://www.joysound.com/web/search/song/1149866",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 70,
+     "title": "打上花火",
+     "artist": "DAOKO × 米津玄師",
+     "song_url": "https://www.joysound.com/web/search/song/633038",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 71,
+     "title": "嘘",
+     "artist": "シド",
+     "song_url": "https://www.joysound.com/web/search/song/130837",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 72,
+     "title": "相思相愛",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/1024843",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 73,
+     "title": "イエスタデイ",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/775891",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 74,
+     "title": "友よ～この先もずっと・・・",
+     "artist": "ケツメイシ",
+     "song_url": "https://www.joysound.com/web/search/song/564514",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 75,
+     "title": "ひとりごつ",
+     "artist": "ハチワレ(CV:田中誠人)",
+     "song_url": "https://www.joysound.com/web/search/song/932173",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 76,
+     "title": "裸の勇者",
+     "artist": "Vaundy",
+     "song_url": "https://www.joysound.com/web/search/song/908968",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 77,
+     "title": "君をのせて",
+     "artist": "井上あずみ",
+     "song_url": "https://www.joysound.com/web/search/song/5409",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 78,
+     "title": "やさしさに包まれたなら",
+     "artist": "松任谷由実",
+     "song_url": "https://www.joysound.com/web/search/song/7754",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "悪魔の子",
+     "artist": "ヒグチアイ",
+     "song_url": "https://www.joysound.com/web/search/song/908004",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 80,
+     "title": "departure!",
+     "artist": "小野正利",
+     "song_url": "https://www.joysound.com/web/search/song/220058",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "生まれてはじめて",
+     "artist": "神田沙也加、松たか子",
+     "song_url": "https://www.joysound.com/web/search/song/405266",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 82,
+     "title": "カーテンコール",
+     "artist": "優里",
+     "song_url": "https://www.joysound.com/web/search/song/1053455",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 83,
+     "title": "限界突破×サバイバー",
+     "artist": "氷川きよし",
+     "song_url": "https://www.joysound.com/web/search/song/613300",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 84,
+     "title": "風になる",
+     "artist": "つじあやの",
+     "song_url": "https://www.joysound.com/web/search/song/22232",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 85,
+     "title": "渡月橋 ～君 想ふ～",
+     "artist": "倉木麻衣",
+     "song_url": "https://www.joysound.com/web/search/song/618582",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "机さする",
+     "artist": "青木遥",
+     "song_url": "https://www.joysound.com/web/search/song/1197667",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 87,
+     "title": "世界は恋に落ちている",
+     "artist": "CHiCO with HoneyWorks",
+     "song_url": "https://www.joysound.com/web/search/song/408823",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 88,
+     "title": "逆夢",
+     "artist": "King Gnu",
+     "song_url": "https://www.joysound.com/web/search/song/905697",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 89,
+     "title": "初恋",
+     "artist": "村下孝蔵",
+     "song_url": "https://www.joysound.com/web/search/song/2784",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 90,
+     "title": "らしさ",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/1124319",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 91,
+     "title": "ザッツ!超常",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1210014",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 92,
+     "title": "YELL",
+     "artist": "いきものがかり",
+     "song_url": "https://www.joysound.com/web/search/song/142876",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 93,
+     "title": "A Whole New World",
+     "artist": "Brad Kane and Lea Salonga",
+     "song_url": "https://www.joysound.com/web/search/song/158022",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 94,
+     "title": "逆光 (ウタ from ONE PIECE FILM RED)",
+     "artist": "Ado",
+     "song_url": "https://www.joysound.com/web/search/song/931426",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 95,
+     "title": "ラヴィ",
+     "artist": "すりぃ",
+     "song_url": "https://www.joysound.com/web/search/song/953268",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 96,
+     "title": "新時代 (ウタ from ONE PIECE FILM RED)",
+     "artist": "Ado",
+     "song_url": "https://www.joysound.com/web/search/song/929807",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 97,
+     "title": "オレンジ",
+     "artist": "SPYAIR",
+     "song_url": "https://www.joysound.com/web/search/song/1008176",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 98,
+     "title": "好きになった人",
+     "artist": "都はるみ",
+     "song_url": "https://www.joysound.com/web/search/song/25682",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 99,
+     "title": "紅蓮華 -アニメ映像 ver.-",
+     "artist": "LiSA",
+     "song_url": "https://www.joysound.com/web/search/song/862275",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 100,
+     "title": "SWEET MEMORIES",
+     "artist": "松田聖子",
+     "song_url": "https://www.joysound.com/web/search/song/2152",
+     "last_rank": null,
+     "is_new": null
+    }
+   ],
+   "period_key": "2026-10-26_2026-11-01",
+   "rank_change": "history",
+   "fetched_at": "2026-11-04T09:58:44+08:00",
+   "stale": false
+  },
+  {
+   "id": "vocaloid-weekly",
+   "title": {
+    "zh": "VOCALOID週榜",
+    "en": "VOCALOID · Weekly",
+    "ja": "ボカロ 週間"
+   },
+   "period": "2026/10/26 ~ 2026/11/01",
+   "source_url": "https://www.joysound.com/web/karaoke/ranking/vocaloid/weekly",
+   "rows": [
+    {
+     "rank": 1,
+     "title": "シャルル",
+     "artist": "バルーン",
+     "song_url": "https://www.joysound.com/web/search/song/605438",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 2,
+     "title": "少女レイ",
+     "artist": "みきとP feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/701104",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 3,
+     "title": "千本桜",
+     "artist": "WhiteFlame feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/184791",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 4,
+     "title": "酔いどれ知らず",
+     "artist": "Kanaria",
+     "song_url": "https://www.joysound.com/web/search/song/927715",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 5,
+     "title": "ロミオとシンデレラ",
+     "artist": "doriko",
+     "song_url": "https://www.joysound.com/web/search/song/133637",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 6,
+     "title": "モニタリング",
+     "artist": "DECO*27",
+     "song_url": "https://www.joysound.com/web/search/song/1062551",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 7,
+     "title": "Happy Halloween",
+     "artist": "Junky feat.鏡音リン",
+     "song_url": "https://www.joysound.com/web/search/song/658686",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 8,
+     "title": "ブリキノダンス",
+     "artist": "日向電工",
+     "song_url": "https://www.joysound.com/web/search/song/559648",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 9,
+     "title": "ヒバナ",
+     "artist": "DECO*27",
+     "song_url": "https://www.joysound.com/web/search/song/643417",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 10,
+     "title": "プロポーズ",
+     "artist": "内緒のピアス",
+     "song_url": "https://www.joysound.com/web/search/song/984703",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "抜錨",
+     "artist": "ナナホシ管弦楽団",
+     "song_url": "https://www.joysound.com/web/search/song/964539",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 12,
+     "title": "天ノ弱",
+     "artist": "164 feat.GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/173618",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 13,
+     "title": "アスノヨゾラ哨戒班",
+     "artist": "Orangestar feat.IA",
+     "song_url": "https://www.joysound.com/web/search/song/415098",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 14,
+     "title": "KING",
+     "artist": "Kanaria",
+     "song_url": "https://www.joysound.com/web/search/song/849119",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 15,
+     "title": "ロキ",
+     "artist": "みきとP feat.鏡音リン",
+     "song_url": "https://www.joysound.com/web/search/song/687340",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 16,
+     "title": "フォニイ",
+     "artist": "ツミキ",
+     "song_url": "https://www.joysound.com/web/search/song/884125",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 17,
+     "title": "命に嫌われている",
+     "artist": "カンザキイオリ",
+     "song_url": "https://www.joysound.com/web/search/song/727672",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 18,
+     "title": "あ",
+     "artist": "M PRODUCE feat.IA",
+     "song_url": "https://www.joysound.com/web/search/song/532838",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 19,
+     "title": "ハッピーシンセサイザ",
+     "artist": "EasyPop feat.巡音ルカ、GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/163697",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 20,
+     "title": "神っぽいな",
+     "artist": "ピノキオピー",
+     "song_url": "https://www.joysound.com/web/search/song/899998",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 21,
+     "title": "恋愛裁判",
+     "artist": "40mP feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/409045",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 22,
+     "title": "ラヴィ",
+     "artist": "すりぃ",
+     "song_url": "https://www.joysound.com/web/search/song/953268",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 23,
+     "title": "妄想感傷代償連盟",
+     "artist": "DECO*27",
+     "song_url": "https://www.joysound.com/web/search/song/582495",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 24,
+     "title": "夜明けと蛍",
+     "artist": "n-buna feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/491080",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 25,
+     "title": "ロストワンの号哭",
+     "artist": "Neru",
+     "song_url": "https://www.joysound.com/web/search/song/253411",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 26,
+     "title": "ロウワー",
+     "artist": "ぬゆり feat.flower",
+     "song_url": "https://www.joysound.com/web/search/song/907760",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 27,
+     "title": "からくりピエロ",
+     "artist": "40mP feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/185391",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 28,
+     "title": "夜もすがら君想ふ",
+     "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/408403",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 29,
+     "title": "ヴァンパイア",
+     "artist": "DECO*27",
+     "song_url": "https://www.joysound.com/web/search/song/871940",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 30,
+     "title": "乙女解剖",
+     "artist": "DECO*27",
+     "song_url": "https://www.joysound.com/web/search/song/742855",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 31,
+     "title": "ドラマツルギー",
+     "artist": "Eve",
+     "song_url": "https://www.joysound.com/web/search/song/658695",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 32,
+     "title": "ヴィラン",
+     "artist": "てにをは feat.flower",
+     "song_url": "https://www.joysound.com/web/search/song/828176",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 33,
+     "title": "高音厨音域テスト",
+     "artist": "木村わいP feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/408038",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 34,
+     "title": "右肩の蝶〈レンver.〉",
+     "artist": "のりP feat.鏡音レン",
+     "song_url": "https://www.joysound.com/web/search/song/143658",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 35,
+     "title": "テレキャスタービーボーイ(long ver.)",
+     "artist": "すりぃ",
+     "song_url": "https://www.joysound.com/web/search/song/865497",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 36,
+     "title": "きゅうくらりん",
+     "artist": "いよわ feat.可不(KAFU)",
+     "song_url": "https://www.joysound.com/web/search/song/898885",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 37,
+     "title": "ゴーストルール",
+     "artist": "DECO*27",
+     "song_url": "https://www.joysound.com/web/search/song/561878",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 38,
+     "title": "ワールドイズマイン",
+     "artist": "supercell",
+     "song_url": "https://www.joysound.com/web/search/song/134538",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 39,
+     "title": "メランコリック",
+     "artist": "Junky feat.鏡音リン",
+     "song_url": "https://www.joysound.com/web/search/song/154693",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 40,
+     "title": "六兆年と一夜物語",
+     "artist": "kemu",
+     "song_url": "https://www.joysound.com/web/search/song/230148",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 41,
+     "title": "テトリス",
+     "artist": "柊マグネタイト",
+     "song_url": "https://www.joysound.com/web/search/song/1075484",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 42,
+     "title": "分かっちゃいないね",
+     "artist": "monet",
+     "song_url": "https://www.joysound.com/web/search/song/1118229",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 43,
+     "title": "脳漿炸裂ガール",
+     "artist": "れるりり feat.初音ミク、GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/246931",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 44,
+     "title": "アンノウン・マザーグース",
+     "artist": "wowaka feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/643416",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 45,
+     "title": "コールボーイ",
+     "artist": "syudou feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/748025",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 46,
+     "title": "ノンブレス・オブリージュ",
+     "artist": "ピノキオピー",
+     "song_url": "https://www.joysound.com/web/search/song/883090",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 47,
+     "title": "メルト",
+     "artist": "supercell",
+     "song_url": "https://www.joysound.com/web/search/song/134537",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 48,
+     "title": "ベノム",
+     "artist": "かいりきベア",
+     "song_url": "https://www.joysound.com/web/search/song/711507",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 49,
+     "title": "砂の惑星 feat.初音ミク",
+     "artist": "ハチ",
+     "song_url": "https://www.joysound.com/web/search/song/619048",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 50,
+     "title": "地球最後の告白を",
+     "artist": "kemu",
+     "song_url": "https://www.joysound.com/web/search/song/244133",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 51,
+     "title": "グッバイ宣言",
+     "artist": "Chinozo",
+     "song_url": "https://www.joysound.com/web/search/song/846013",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 52,
+     "title": "とても素敵な六月でした",
+     "artist": "Eight",
+     "song_url": "https://www.joysound.com/web/search/song/655910",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 53,
+     "title": "いーあるふぁんくらぶ",
+     "artist": "みきとP feat.GUMI、鏡音リン",
+     "song_url": "https://www.joysound.com/web/search/song/244157",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "だれかの心臓になれたなら",
+     "artist": "ユリイ・カノン feat.GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/685331",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 55,
+     "title": "太陽系デスコ",
+     "artist": "ナユタン星人",
+     "song_url": "https://www.joysound.com/web/search/song/613988",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 56,
+     "title": "ドーナツホール 2024",
+     "artist": "ハチ",
+     "song_url": "https://www.joysound.com/web/search/song/1067916",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 57,
+     "title": "神のまにまに",
+     "artist": "れるりり feat.初音ミク、鏡音リン、GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/406753",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 58,
+     "title": "エゴロック(long ver.)",
+     "artist": "すりぃ",
+     "song_url": "https://www.joysound.com/web/search/song/897258",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 59,
+     "title": "オーバーライド",
+     "artist": "吉田夜世",
+     "song_url": "https://www.joysound.com/web/search/song/1017343",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 60,
+     "title": "マトリョシカ",
+     "artist": "ハチ feat.初音ミク、GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/185968",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 61,
+     "title": "雨とペトラ",
+     "artist": "バルーン",
+     "song_url": "https://www.joysound.com/web/search/song/619287",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 62,
+     "title": "ジャンキーナイトタウンオーケストラ",
+     "artist": "すりぃ",
+     "song_url": "https://www.joysound.com/web/search/song/822111",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "東京テディベア",
+     "artist": "Neru",
+     "song_url": "https://www.joysound.com/web/search/song/219999",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 64,
+     "title": "サマータイムレコード",
+     "artist": "じん feat.IA",
+     "song_url": "https://www.joysound.com/web/search/song/255516",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 65,
+     "title": "ぼくのかみさま",
+     "artist": "羽生まゐご",
+     "song_url": "https://www.joysound.com/web/search/song/1078998",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 66,
+     "title": "回る空うさぎ",
+     "artist": "Orangestar feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/605925",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 67,
+     "title": "ローリンガール",
+     "artist": "wowaka feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/154595",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 68,
+     "title": "アイデンティティ",
+     "artist": "Kanaria",
+     "song_url": "https://www.joysound.com/web/search/song/917774",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 69,
+     "title": "ビターチョコデコレーション",
+     "artist": "syudou feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/738106",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 70,
+     "title": "フィクサー",
+     "artist": "ぬゆり feat.flower",
+     "song_url": "https://www.joysound.com/web/search/song/626190",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 71,
+     "title": "ジェヘナ",
+     "artist": "wotaku",
+     "song_url": "https://www.joysound.com/web/search/song/804354",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 72,
+     "title": "マーシャル・マキシマイザー",
+     "artist": "柊マグネタイト",
+     "song_url": "https://www.joysound.com/web/search/song/898887",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 73,
+     "title": "Booo!",
+     "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+     "song_url": "https://www.joysound.com/web/search/song/719565",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 74,
+     "title": "デビットビット",
+     "artist": "アボガド6",
+     "song_url": "https://www.joysound.com/web/search/song/1204712",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 75,
+     "title": "独りんぼエンヴィー",
+     "artist": "koyori(電ポルP)",
+     "song_url": "https://www.joysound.com/web/search/song/249032",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 76,
+     "title": "初音ミクの消失",
+     "artist": "cosMo@暴走P feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/159170",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 77,
+     "title": "ダーリンダンス",
+     "artist": "かいりきベア",
+     "song_url": "https://www.joysound.com/web/search/song/852712",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 78,
+     "title": "ウミユリ海底譚",
+     "artist": "n-buna feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/406954",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "パンダヒーロー",
+     "artist": "ハチ feat.GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/185967",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "ヤミタイガール",
+     "artist": "れるりり feat.GUMI",
+     "song_url": "https://www.joysound.com/web/search/song/851121",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "熱異常",
+     "artist": "いよわ feat.足立レイ",
+     "song_url": "https://www.joysound.com/web/search/song/954819",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 82,
+     "title": "エンヴィーベイビー",
+     "artist": "Kanaria",
+     "song_url": "https://www.joysound.com/web/search/song/875192",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 83,
+     "title": "いますぐ輪廻",
+     "artist": "なきそ",
+     "song_url": "https://www.joysound.com/web/search/song/1065012",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 84,
+     "title": "少女A",
+     "artist": "椎名もた",
+     "song_url": "https://www.joysound.com/web/search/song/419093",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 85,
+     "title": "デリヘル呼んだら君が来た",
+     "artist": "ナナホシ管弦楽団 feat.初音ミク、IA",
+     "song_url": "https://www.joysound.com/web/search/song/409033",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "キュートなカノジョ feat.可不(KAFU)",
+     "artist": "syudou",
+     "song_url": "https://www.joysound.com/web/search/song/876372",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 87,
+     "title": "DAYBREAK FRONTLINE",
+     "artist": "Orangestar feat.IA",
+     "song_url": "https://www.joysound.com/web/search/song/605926",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 88,
+     "title": "エイリアンエイリアン",
+     "artist": "ナユタン星人",
+     "song_url": "https://www.joysound.com/web/search/song/575003",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 89,
+     "title": "妄想税",
+     "artist": "DECO*27",
+     "song_url": "https://www.joysound.com/web/search/song/300225",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 90,
+     "title": "シャンティ",
+     "artist": "wotaku",
+     "song_url": "https://www.joysound.com/web/search/song/899869",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 91,
+     "title": "ナンセンス文学",
+     "artist": "Eve",
+     "song_url": "https://www.joysound.com/web/search/song/637975",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 92,
+     "title": "浴槽とネオンテトラ",
+     "artist": "REISAI",
+     "song_url": "https://www.joysound.com/web/search/song/891002",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 93,
+     "title": "のだ",
+     "artist": "大漠波新",
+     "song_url": "https://www.joysound.com/web/search/song/1006225",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 94,
+     "title": "magnet",
+     "artist": "minato(流星P) feat.初音ミク、巡音ルカ",
+     "song_url": "https://www.joysound.com/web/search/song/143103",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 95,
+     "title": "愛して愛して愛して",
+     "artist": "きくお",
+     "song_url": "https://www.joysound.com/web/search/song/536812",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 96,
+     "title": "Mrs.Pumpkinの滑稽な夢",
+     "artist": "ハチ feat.初音ミク",
+     "song_url": "https://www.joysound.com/web/search/song/157417",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 97,
+     "title": "今はいいんだよ。",
+     "artist": "MIMI",
+     "song_url": "https://www.joysound.com/web/search/song/963229",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 98,
+     "title": "メズマライザー",
+     "artist": "サツキ",
+     "song_url": "https://www.joysound.com/web/search/song/1039915",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 99,
+     "title": "告白",
+     "artist": "内緒のピアス",
+     "song_url": "https://www.joysound.com/web/search/song/1174233",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 100,
+     "title": "D/N/A",
+     "artist": "Azari",
+     "song_url": "https://www.joysound.com/web/search/song/1101182",
+     "last_rank": null,
+     "is_new": null
+    }
+   ],
+   "period_key": "2026-10-26_2026-11-01",
+   "rank_change": "history",
+   "fetched_at": "2026-11-04T09:58:45+08:00",
+   "stale": false
+  },
+  {
+   "id": "enka-weekly",
+   "title": {
+    "zh": "演歌週榜",
+    "en": "Enka · Weekly",
+    "ja": "演歌 週間"
+   },
+   "period": "2026/10/26 ~ 2026/11/01",
+   "source_url": "https://www.joysound.com/web/karaoke/ranking/enka/weekly",
+   "rows": [
+    {
+     "rank": 1,
+     "title": "津軽海峡・冬景色",
+     "artist": "石川さゆり",
+     "song_url": "https://www.joysound.com/web/search/song/929",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 2,
+     "title": "時の流れに身をまかせ",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/930",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 3,
+     "title": "天城越え",
+     "artist": "石川さゆり",
+     "song_url": "https://www.joysound.com/web/search/song/958",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 4,
+     "title": "川の流れのように",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/961",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 5,
+     "title": "酒よ",
+     "artist": "吉幾三",
+     "song_url": "https://www.joysound.com/web/search/song/982",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 6,
+     "title": "つぐない",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/2188",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 7,
+     "title": "愛燦燦",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/2607",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 8,
+     "title": "北の旅人",
+     "artist": "石原裕次郎",
+     "song_url": "https://www.joysound.com/web/search/song/334",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 9,
+     "title": "さざんかの宿",
+     "artist": "大川栄策",
+     "song_url": "https://www.joysound.com/web/search/song/328",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 10,
+     "title": "北国の春",
+     "artist": "千昌夫",
+     "song_url": "https://www.joysound.com/web/search/song/343",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "雪國",
+     "artist": "吉幾三",
+     "song_url": "https://www.joysound.com/web/search/song/2226",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 12,
+     "title": "居酒屋",
+     "artist": "五木ひろし/木の実ナナ",
+     "song_url": "https://www.joysound.com/web/search/song/353",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 13,
+     "title": "銀座の恋の物語",
+     "artist": "石原裕次郎/牧村旬子",
+     "song_url": "https://www.joysound.com/web/search/song/25504",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 14,
+     "title": "人生いろいろ",
+     "artist": "島倉千代子",
+     "song_url": "https://www.joysound.com/web/search/song/2541",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 15,
+     "title": "みだれ髪",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/356",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 16,
+     "title": "舟唄",
+     "artist": "八代亜紀",
+     "song_url": "https://www.joysound.com/web/search/song/321",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 17,
+     "title": "兄弟船",
+     "artist": "鳥羽一郎",
+     "song_url": "https://www.joysound.com/web/search/song/355",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 18,
+     "title": "喝采",
+     "artist": "ちあきなおみ",
+     "song_url": "https://www.joysound.com/web/search/song/884",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 19,
+     "title": "二輪草",
+     "artist": "川中美幸",
+     "song_url": "https://www.joysound.com/web/search/song/16908",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 20,
+     "title": "北酒場",
+     "artist": "細川たかし",
+     "song_url": "https://www.joysound.com/web/search/song/816",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 21,
+     "title": "別れの予感",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/2189",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 22,
+     "title": "北空港",
+     "artist": "浜圭介/桂銀淑",
+     "song_url": "https://www.joysound.com/web/search/song/320",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 23,
+     "title": "昔の名前で出ています",
+     "artist": "小林旭",
+     "song_url": "https://www.joysound.com/web/search/song/2657",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 24,
+     "title": "宗右衛門町ブルース",
+     "artist": "平和勝次とダークホース",
+     "song_url": "https://www.joysound.com/web/search/song/923",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 25,
+     "title": "くちなしの花",
+     "artist": "渡哲也",
+     "song_url": "https://www.joysound.com/web/search/song/990",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 26,
+     "title": "北の流れ星",
+     "artist": "岩本公水",
+     "song_url": "https://www.joysound.com/web/search/song/1185527",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 27,
+     "title": "好きになった人",
+     "artist": "都はるみ",
+     "song_url": "https://www.joysound.com/web/search/song/25682",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 28,
+     "title": "三百六十五歩のマーチ",
+     "artist": "水前寺清子",
+     "song_url": "https://www.joysound.com/web/search/song/25636",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 29,
+     "title": "ふたりの大阪",
+     "artist": "都はるみ/宮崎雅",
+     "song_url": "https://www.joysound.com/web/search/song/917",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 30,
+     "title": "愛人",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/2187",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 31,
+     "title": "真赤な太陽",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/2212",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 32,
+     "title": "ほんまやで☆なんでやねん☆しらんけど",
+     "artist": "モナキ",
+     "song_url": "https://www.joysound.com/web/search/song/1163355",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 33,
+     "title": "高原列車は行く",
+     "artist": "岡本敦郎",
+     "song_url": "https://www.joysound.com/web/search/song/18999",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 34,
+     "title": "大阪ラプソディー",
+     "artist": "海原千里・万里",
+     "song_url": "https://www.joysound.com/web/search/song/1771",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 35,
+     "title": "酔歌",
+     "artist": "吉幾三",
+     "song_url": "https://www.joysound.com/web/search/song/2475",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 36,
+     "title": "夜明けのブルース",
+     "artist": "五木ひろし",
+     "song_url": "https://www.joysound.com/web/search/song/227004",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 37,
+     "title": "また君に恋してる",
+     "artist": "坂本冬美",
+     "song_url": "https://www.joysound.com/web/search/song/147762",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 38,
+     "title": "月がとっても青いから",
+     "artist": "菅原都々子",
+     "song_url": "https://www.joysound.com/web/search/song/25514",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 39,
+     "title": "雪椿",
+     "artist": "小林幸子",
+     "song_url": "https://www.joysound.com/web/search/song/2245",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 40,
+     "title": "夢芝居",
+     "artist": "梅沢富美男",
+     "song_url": "https://www.joysound.com/web/search/song/909",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 41,
+     "title": "港町十三番地",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/25640",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 42,
+     "title": "大阪しぐれ",
+     "artist": "都はるみ",
+     "song_url": "https://www.joysound.com/web/search/song/2616",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 43,
+     "title": "赤いハンカチ",
+     "artist": "石原裕次郎",
+     "song_url": "https://www.joysound.com/web/search/song/25500",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 44,
+     "title": "北の漁場",
+     "artist": "北島三郎",
+     "song_url": "https://www.joysound.com/web/search/song/2628",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 45,
+     "title": "珍島物語",
+     "artist": "天童よしみ",
+     "song_url": "https://www.joysound.com/web/search/song/9892",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 46,
+     "title": "アメリカ橋",
+     "artist": "山川豊",
+     "song_url": "https://www.joysound.com/web/search/song/17123",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 47,
+     "title": "ノラ",
+     "artist": "門倉有希",
+     "song_url": "https://www.joysound.com/web/search/song/21410",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 48,
+     "title": "みちづれ",
+     "artist": "牧村三枝子",
+     "song_url": "https://www.joysound.com/web/search/song/991",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 49,
+     "title": "夜霧よ今夜も有難う",
+     "artist": "石原裕次郎",
+     "song_url": "https://www.joysound.com/web/search/song/848",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 50,
+     "title": "空港",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/2135",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 51,
+     "title": "まつり",
+     "artist": "北島三郎",
+     "song_url": "https://www.joysound.com/web/search/song/2726",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 52,
+     "title": "氷雨",
+     "artist": "日野美歌",
+     "song_url": "https://www.joysound.com/web/search/song/74831",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 53,
+     "title": "みちのくひとり旅",
+     "artist": "山本譲二",
+     "song_url": "https://www.joysound.com/web/search/song/2627",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "夢追い酒",
+     "artist": "渥美二郎",
+     "song_url": "https://www.joysound.com/web/search/song/2731",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 55,
+     "title": "3年目の浮気",
+     "artist": "ヒロシ&キーボー",
+     "song_url": "https://www.joysound.com/web/search/song/2199",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 56,
+     "title": "北の宿から",
+     "artist": "都はるみ",
+     "song_url": "https://www.joysound.com/web/search/song/908",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 57,
+     "title": "ふたり酒",
+     "artist": "川中美幸",
+     "song_url": "https://www.joysound.com/web/search/song/2210",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 58,
+     "title": "星影のワルツ",
+     "artist": "千昌夫",
+     "song_url": "https://www.joysound.com/web/search/song/25544",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 59,
+     "title": "古城",
+     "artist": "三橋美智也",
+     "song_url": "https://www.joysound.com/web/search/song/25562",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 60,
+     "title": "バス・ストップ",
+     "artist": "平浩二",
+     "song_url": "https://www.joysound.com/web/search/song/2670",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 61,
+     "title": "流恋草",
+     "artist": "香西かおり",
+     "song_url": "https://www.joysound.com/web/search/song/3177",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 62,
+     "title": "奥飛騨慕情",
+     "artist": "竜鉄也",
+     "song_url": "https://www.joysound.com/web/search/song/828",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "河内おとこ節",
+     "artist": "中村美律子",
+     "song_url": "https://www.joysound.com/web/search/song/3089",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "情炎",
+     "artist": "吉幾三",
+     "song_url": "https://www.joysound.com/web/search/song/9427",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 65,
+     "title": "熱き心に",
+     "artist": "小林旭",
+     "song_url": "https://www.joysound.com/web/search/song/2587",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 66,
+     "title": "矢切の渡し",
+     "artist": "細川たかし",
+     "song_url": "https://www.joysound.com/web/search/song/1780",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 67,
+     "title": "旅路",
+     "artist": "天童よしみ",
+     "song_url": "https://www.joysound.com/web/search/song/1152678",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 68,
+     "title": "二人でお酒を",
+     "artist": "梓みちよ",
+     "song_url": "https://www.joysound.com/web/search/song/2099",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 69,
+     "title": "氷雨",
+     "artist": "佳山明生",
+     "song_url": "https://www.joysound.com/web/search/song/1011",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 70,
+     "title": "王将",
+     "artist": "村田英雄",
+     "song_url": "https://www.joysound.com/web/search/song/25637",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 71,
+     "title": "すきま風",
+     "artist": "杉良太郎",
+     "song_url": "https://www.joysound.com/web/search/song/2239",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 72,
+     "title": "愛の終着駅",
+     "artist": "八代亜紀",
+     "song_url": "https://www.joysound.com/web/search/song/831",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 73,
+     "title": "想いで迷子",
+     "artist": "趙容弼(チョー・ヨンピル)",
+     "song_url": "https://www.joysound.com/web/search/song/2840",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 74,
+     "title": "じょんから女節",
+     "artist": "長山洋子",
+     "song_url": "https://www.joysound.com/web/search/song/20249",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 75,
+     "title": "きよしのズンドコ節",
+     "artist": "氷川きよし",
+     "song_url": "https://www.joysound.com/web/search/song/21663",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 76,
+     "title": "心凍らせて",
+     "artist": "高山厳",
+     "song_url": "https://www.joysound.com/web/search/song/4045",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 77,
+     "title": "吾亦紅",
+     "artist": "すぎもとまさと",
+     "song_url": "https://www.joysound.com/web/search/song/114757",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 78,
+     "title": "長良川艶歌",
+     "artist": "五木ひろし",
+     "song_url": "https://www.joysound.com/web/search/song/341",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "愛のままで…",
+     "artist": "秋元順子",
+     "song_url": "https://www.joysound.com/web/search/song/112790",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 80,
+     "title": "ブランデーグラス",
+     "artist": "石原裕次郎",
+     "song_url": "https://www.joysound.com/web/search/song/911",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "別れの一本杉",
+     "artist": "春日八郎",
+     "song_url": "https://www.joysound.com/web/search/song/3250",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 82,
+     "title": "今夜は離さない",
+     "artist": "橋幸夫/安倍里葎子",
+     "song_url": "https://www.joysound.com/web/search/song/2644",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 83,
+     "title": "南部蝉しぐれ",
+     "artist": "福田こうへい",
+     "song_url": "https://www.joysound.com/web/search/song/159015",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 84,
+     "title": "命くれない",
+     "artist": "瀬川瑛子",
+     "song_url": "https://www.joysound.com/web/search/song/2531",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 85,
+     "title": "二輪草",
+     "artist": "川中美幸/弦哲也",
+     "song_url": "https://www.joysound.com/web/search/song/18356",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "赤いグラス",
+     "artist": "アイ・ジョージ/志摩ちなみ",
+     "song_url": "https://www.joysound.com/web/search/song/25499",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 87,
+     "title": "柔(やわら)",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/25679",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 88,
+     "title": "恋の町札幌",
+     "artist": "石原裕次郎",
+     "song_url": "https://www.joysound.com/web/search/song/319",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 89,
+     "title": "恋の終わりの名古屋にひとり",
+     "artist": "水森かおり",
+     "song_url": "https://www.joysound.com/web/search/song/1160268",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 90,
+     "title": "あゝ人生に涙あり",
+     "artist": "里見浩太朗/横内正",
+     "song_url": "https://www.joysound.com/web/search/song/4749",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 91,
+     "title": "越冬つばめ",
+     "artist": "森昌子",
+     "song_url": "https://www.joysound.com/web/search/song/2615",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 92,
+     "title": "女の港",
+     "artist": "大月みやこ",
+     "song_url": "https://www.joysound.com/web/search/song/325",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 93,
+     "title": "夕焼け雲",
+     "artist": "千昌夫",
+     "song_url": "https://www.joysound.com/web/search/song/2667",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 94,
+     "title": "鳴門海流",
+     "artist": "三山ひろし",
+     "song_url": "https://www.joysound.com/web/search/song/1181768",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 95,
+     "title": "いつでも夢を",
+     "artist": "橋幸夫/吉永小百合",
+     "song_url": "https://www.joysound.com/web/search/song/25670",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 96,
+     "title": "細雪",
+     "artist": "五木ひろし",
+     "song_url": "https://www.joysound.com/web/search/song/916",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 97,
+     "title": "釜山港へ帰れ",
+     "artist": "渥美二郎",
+     "song_url": "https://www.joysound.com/web/search/song/2236",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 98,
+     "title": "帰ってこいよ",
+     "artist": "松村和子",
+     "song_url": "https://www.joysound.com/web/search/song/998",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 99,
+     "title": "悲恋傷～ひれんしょう～",
+     "artist": "真木ことみ",
+     "song_url": "https://www.joysound.com/web/search/song/1199247",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 100,
+     "title": "倖せさがして",
+     "artist": "五木ひろし",
+     "song_url": "https://www.joysound.com/web/search/song/2529",
+     "last_rank": null,
+     "is_new": null
+    }
+   ],
+   "period_key": "2026-10-26_2026-11-01",
+   "rank_change": "history",
+   "fetched_at": "2026-11-04T09:58:46+08:00",
+   "stale": false
+  },
+  {
+   "id": "foreign-weekly",
+   "title": {
+    "zh": "西洋週榜",
+    "en": "Western · Weekly",
+    "ja": "洋楽 週間"
+   },
+   "period": "2026/10/26 ~ 2026/11/01",
+   "source_url": "https://www.joysound.com/web/karaoke/ranking/foreign/weekly",
+   "rows": [
+    {
+     "rank": 1,
+     "title": "MY HEART WILL GO ON(LOVE THEME FROM 'TITANIC')",
+     "artist": "CELINE DION",
+     "song_url": "https://www.joysound.com/web/search/song/17140",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 2,
+     "title": "A Whole New World",
+     "artist": "Brad Kane and Lea Salonga",
+     "song_url": "https://www.joysound.com/web/search/song/158022",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 3,
+     "title": "Golden",
+     "artist": "HUNTR/X (EJAE， Audrey Nuna， and REI AMI)",
+     "song_url": "https://www.joysound.com/web/search/song/1120985",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 4,
+     "title": "DANCING QUEEN",
+     "artist": "ABBA",
+     "song_url": "https://www.joysound.com/web/search/song/8299",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 5,
+     "title": "SHAPE OF YOU",
+     "artist": "Ed Sheeran",
+     "song_url": "https://www.joysound.com/web/search/song/608504",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 6,
+     "title": "I Want It That Way",
+     "artist": "backstreet boys",
+     "song_url": "https://www.joysound.com/web/search/song/20529",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 7,
+     "title": "Let It Go",
+     "artist": "Idina Menzel",
+     "song_url": "https://www.joysound.com/web/search/song/405177",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 8,
+     "title": "LET IT BE",
+     "artist": "THE BEATLES",
+     "song_url": "https://www.joysound.com/web/search/song/599",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 9,
+     "title": "Beauty And A Beat feat.Nicki Minaj",
+     "artist": "JUSTIN BIEBER",
+     "song_url": "https://www.joysound.com/web/search/song/233432",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 10,
+     "title": "What Makes You Beautiful",
+     "artist": "ONE DIRECTION",
+     "song_url": "https://www.joysound.com/web/search/song/233488",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "TOP OF THE WORLD",
+     "artist": "CARPENTERS",
+     "song_url": "https://www.joysound.com/web/search/song/486",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 11,
+     "title": "YESTERDAY ONCE MORE",
+     "artist": "CARPENTERS",
+     "song_url": "https://www.joysound.com/web/search/song/2370",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 13,
+     "title": "All I Want For Christmas Is You",
+     "artist": "MARIAH CAREY",
+     "song_url": "https://www.joysound.com/web/search/song/12572",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 14,
+     "title": "Call Me Maybe",
+     "artist": "Carly Rae Jepsen",
+     "song_url": "https://www.joysound.com/web/search/song/241626",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 15,
+     "title": "BOHEMIAN RHAPSODY",
+     "artist": "QUEEN",
+     "song_url": "https://www.joysound.com/web/search/song/22518",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 16,
+     "title": "DON'T LOOK BACK IN ANGER",
+     "artist": "oasis",
+     "song_url": "https://www.joysound.com/web/search/song/15175",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 17,
+     "title": "IT'S MY LIFE",
+     "artist": "BON JOVI",
+     "song_url": "https://www.joysound.com/web/search/song/23573",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 18,
+     "title": "I DON'T WANT TO MISS A THING",
+     "artist": "AEROSMITH",
+     "song_url": "https://www.joysound.com/web/search/song/18803",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 19,
+     "title": "CAN'T HELP FALLING IN LOVE",
+     "artist": "ELVIS PRESLEY",
+     "song_url": "https://www.joysound.com/web/search/song/8320",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 20,
+     "title": "LIVIN' ON A PRAYER",
+     "artist": "BON JOVI",
+     "song_url": "https://www.joysound.com/web/search/song/8416",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 21,
+     "title": "MY WAY",
+     "artist": "FRANK SINATRA",
+     "song_url": "https://www.joysound.com/web/search/song/16707",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 22,
+     "title": "HONESTY",
+     "artist": "BILLY JOEL",
+     "song_url": "https://www.joysound.com/web/search/song/8412",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 23,
+     "title": "THRILLER",
+     "artist": "MICHAEL JACKSON",
+     "song_url": "https://www.joysound.com/web/search/song/13430",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 24,
+     "title": "BREAK FREE (FT. ZEDD)",
+     "artist": "ARIANA GRANDE",
+     "song_url": "https://www.joysound.com/web/search/song/411645",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 25,
+     "title": "DON'T STOP ME NOW",
+     "artist": "QUEEN",
+     "song_url": "https://www.joysound.com/web/search/song/22519",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 26,
+     "title": "BEAT IT",
+     "artist": "MICHAEL JACKSON",
+     "song_url": "https://www.joysound.com/web/search/song/13431",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 27,
+     "title": "YESTERDAY",
+     "artist": "THE BEATLES",
+     "song_url": "https://www.joysound.com/web/search/song/2268",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 28,
+     "title": "PERFECT",
+     "artist": "Ed Sheeran",
+     "song_url": "https://www.joysound.com/web/search/song/611802",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 29,
+     "title": "I WILL ALWAYS LOVE YOU",
+     "artist": "WHITNEY HOUSTON",
+     "song_url": "https://www.joysound.com/web/search/song/3068",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 30,
+     "title": "HOTEL CALIFORNIA",
+     "artist": "EAGLES",
+     "song_url": "https://www.joysound.com/web/search/song/8355",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 31,
+     "title": "BABY FEAT. LUDACRIS",
+     "artist": "JUSTIN BIEBER",
+     "song_url": "https://www.joysound.com/web/search/song/150840",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 32,
+     "title": "We Are The World",
+     "artist": "USA for AFRICA",
+     "song_url": "https://www.joysound.com/web/search/song/13463",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 33,
+     "title": "LAST CHRISTMAS(PUDDING MIX)",
+     "artist": "WHAM!",
+     "song_url": "https://www.joysound.com/web/search/song/8365",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 34,
+     "title": "CAN'T TAKE MY EYES OFF YOU (SINGLE VERSION)",
+     "artist": "BOYS TOWN GANG",
+     "song_url": "https://www.joysound.com/web/search/song/12400",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 35,
+     "title": "BAD ROMANCE",
+     "artist": "LADY GAGA",
+     "song_url": "https://www.joysound.com/web/search/song/145048",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 36,
+     "title": "I NEED TO BE IN LOVE",
+     "artist": "CARPENTERS",
+     "song_url": "https://www.joysound.com/web/search/song/15878",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 37,
+     "title": "LOVE STORY",
+     "artist": "TAYLOR SWIFT",
+     "song_url": "https://www.joysound.com/web/search/song/146551",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 38,
+     "title": "Die With A Smile",
+     "artist": "lady gaga，Bruno Mars",
+     "song_url": "https://www.joysound.com/web/search/song/1059427",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 39,
+     "title": "CREEP",
+     "artist": "RADIOHEAD",
+     "song_url": "https://www.joysound.com/web/search/song/23454",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 40,
+     "title": "SUGAR",
+     "artist": "MAROON5",
+     "song_url": "https://www.joysound.com/web/search/song/419530",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 41,
+     "title": "TAKE ME HOME，COUNTRY ROADS",
+     "artist": "JOHN DENVER",
+     "song_url": "https://www.joysound.com/web/search/song/64451",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 42,
+     "title": "Wonderwall",
+     "artist": "oasis",
+     "song_url": "https://www.joysound.com/web/search/song/15424",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 43,
+     "title": "HEY JUDE",
+     "artist": "THE BEATLES",
+     "song_url": "https://www.joysound.com/web/search/song/536",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 44,
+     "title": "Just The Way You Are",
+     "artist": "Bruno Mars",
+     "song_url": "https://www.joysound.com/web/search/song/161762",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 45,
+     "title": "SEE YOU AGAIN",
+     "artist": "WIZ KHALIFA (feat. CHARLIE PUTH)",
+     "song_url": "https://www.joysound.com/web/search/song/493758",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 46,
+     "title": "STAND BY ME",
+     "artist": "BEN E.KING",
+     "song_url": "https://www.joysound.com/web/search/song/8478",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 47,
+     "title": "ZOMBIE",
+     "artist": "THE CRANBERRIES",
+     "song_url": "https://www.joysound.com/web/search/song/39397",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 48,
+     "title": "ALWAYS REMEMBER US THIS WAY",
+     "artist": "LADY GAGA",
+     "song_url": "https://www.joysound.com/web/search/song/712271",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 49,
+     "title": "SEPTEMBER",
+     "artist": "EARTH，WIND&FIRE",
+     "song_url": "https://www.joysound.com/web/search/song/8293",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 50,
+     "title": "LOVE YOURSELF",
+     "artist": "JUSTIN BIEBER",
+     "song_url": "https://www.joysound.com/web/search/song/549639",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 51,
+     "title": "STAY",
+     "artist": "The Kid LAROI & Justin Bieber",
+     "song_url": "https://www.joysound.com/web/search/song/893854",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 52,
+     "title": "2002",
+     "artist": "ANNE-MARIE",
+     "song_url": "https://www.joysound.com/web/search/song/688099",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 53,
+     "title": "You Raise Me Up",
+     "artist": "Celtic Woman",
+     "song_url": "https://www.joysound.com/web/search/song/80567",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "(THEY LONG TO BE) CLOSE TO YOU",
+     "artist": "CARPENTERS",
+     "song_url": "https://www.joysound.com/web/search/song/8423",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 54,
+     "title": "Complicated",
+     "artist": "Avril Lavigne",
+     "song_url": "https://www.joysound.com/web/search/song/11474",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 56,
+     "title": "BILLIE JEAN",
+     "artist": "MICHAEL JACKSON",
+     "song_url": "https://www.joysound.com/web/search/song/13432",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 57,
+     "title": "TO LOVE YOU MORE",
+     "artist": "CELINE DION with special guests KRYZLER&KOMPANY",
+     "song_url": "https://www.joysound.com/web/search/song/9596",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 58,
+     "title": "WE ARE NEVER EVER GETTING BACK TOGETHER",
+     "artist": "TAYLOR SWIFT",
+     "song_url": "https://www.joysound.com/web/search/song/245129",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 59,
+     "title": "TAKE ME HOME COUNTRY ROADS",
+     "artist": "OLIVIA NEWTON-JOHN",
+     "song_url": "https://www.joysound.com/web/search/song/8373",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 60,
+     "title": "BRIDGE OVER TROUBLED WATER",
+     "artist": "SIMON&GARFUNKEL",
+     "song_url": "https://www.joysound.com/web/search/song/3459",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 61,
+     "title": "TEETH",
+     "artist": "5 SECONDS OF SUMMER",
+     "song_url": "https://www.joysound.com/web/search/song/791242",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 62,
+     "title": "ROLLING IN THE DEEP",
+     "artist": "ADELE",
+     "song_url": "https://www.joysound.com/web/search/song/162977",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 63,
+     "title": "WHEN THE SAINTS GO MARCHING IN",
+     "artist": "LOUIS ARMSTRONG",
+     "song_url": "https://www.joysound.com/web/search/song/1703",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 64,
+     "title": "IF WE HOLD ON TOGETHER",
+     "artist": "DIANA ROSS",
+     "song_url": "https://www.joysound.com/web/search/song/8409",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 65,
+     "title": "I WAS BORN TO LOVE YOU",
+     "artist": "QUEEN",
+     "song_url": "https://www.joysound.com/web/search/song/9862",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 66,
+     "title": "NUMB",
+     "artist": "LINKIN PARK",
+     "song_url": "https://www.joysound.com/web/search/song/40545",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 67,
+     "title": "CARELESS WHISPER",
+     "artist": "WHAM!",
+     "song_url": "https://www.joysound.com/web/search/song/8363",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 68,
+     "title": "BASKET CASE",
+     "artist": "GREEN DAY",
+     "song_url": "https://www.joysound.com/web/search/song/13816",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 69,
+     "title": "FLY ME TO THE MOON (IN OTHER WORDS)",
+     "artist": "FRANK SINATRA",
+     "song_url": "https://www.joysound.com/web/search/song/411966",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 70,
+     "title": "IMAGINE",
+     "artist": "JOHN LENNON",
+     "song_url": "https://www.joysound.com/web/search/song/8470",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 71,
+     "title": "Payphone feat.Wiz Khalifa",
+     "artist": "MAROON5",
+     "song_url": "https://www.joysound.com/web/search/song/231346",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 72,
+     "title": "Thinking Out Loud",
+     "artist": "Ed Sheeran",
+     "song_url": "https://www.joysound.com/web/search/song/530688",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 73,
+     "title": "JUST THE WAY YOU ARE",
+     "artist": "BILLY JOEL",
+     "song_url": "https://www.joysound.com/web/search/song/8342",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 74,
+     "title": "THE ROSE(SINGLE VERSION)",
+     "artist": "BETTE MIDLER",
+     "song_url": "https://www.joysound.com/web/search/song/15008",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 75,
+     "title": "UNCHAINED MELODY",
+     "artist": "THE RIGHTEOUS BROTHERS",
+     "song_url": "https://www.joysound.com/web/search/song/8319",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 76,
+     "title": "I WANT YOU BACK",
+     "artist": "The Jackson 5",
+     "song_url": "https://www.joysound.com/web/search/song/37338",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 77,
+     "title": "The Lazy Song",
+     "artist": "Bruno Mars",
+     "song_url": "https://www.joysound.com/web/search/song/172964",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 78,
+     "title": "Insane",
+     "artist": "Black Gryph0n & Baasik",
+     "song_url": "https://www.joysound.com/web/search/song/1023657",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 79,
+     "title": "PIANO MAN",
+     "artist": "BILLY JOEL",
+     "song_url": "https://www.joysound.com/web/search/song/15401",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 80,
+     "title": "THERE'S NOTHING HOLDIN' ME BACK",
+     "artist": "Shawn Mendes",
+     "song_url": "https://www.joysound.com/web/search/song/637817",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 81,
+     "title": "You Belong With ME",
+     "artist": "TAYLOR SWIFT",
+     "song_url": "https://www.joysound.com/web/search/song/149536",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 82,
+     "title": "SHAKE IT OFF",
+     "artist": "TAYLOR SWIFT",
+     "song_url": "https://www.joysound.com/web/search/song/414352",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 83,
+     "title": "I See the Light",
+     "artist": "Mandy Moore and Zachary Levi",
+     "song_url": "https://www.joysound.com/web/search/song/164533",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 84,
+     "title": "ONE LAST TIME",
+     "artist": "ARIANA GRANDE",
+     "song_url": "https://www.joysound.com/web/search/song/471717",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 85,
+     "title": "OB-LA-DI，OB-LA-DA",
+     "artist": "THE BEATLES",
+     "song_url": "https://www.joysound.com/web/search/song/6533",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "This Is Me",
+     "artist": "Keala Settle & The Greatest Showman Ensemble",
+     "song_url": "https://www.joysound.com/web/search/song/663903",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 86,
+     "title": "REWRITE THE STARS",
+     "artist": "Zac Efron & Zendaya",
+     "song_url": "https://www.joysound.com/web/search/song/681410",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 88,
+     "title": "WAKA WAKA(THIS TIME FOR AFRICA)",
+     "artist": "SHAKIRA featuring Freshly ground",
+     "song_url": "https://www.joysound.com/web/search/song/222683",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 89,
+     "title": "Zoo",
+     "artist": "SHAKIRA",
+     "song_url": "https://www.joysound.com/web/search/song/1140874",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 90,
+     "title": "RISK IT ALL",
+     "artist": "Bruno Mars",
+     "song_url": "https://www.joysound.com/web/search/song/1168067",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 91,
+     "title": "Closer feat.Halsey",
+     "artist": "THE CHAINSMOKERS",
+     "song_url": "https://www.joysound.com/web/search/song/582362",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 92,
+     "title": "I JUST CALLED TO SAY I LOVE YOU",
+     "artist": "STEVIE WONDER",
+     "song_url": "https://www.joysound.com/web/search/song/4944",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 93,
+     "title": "MR. BRIGHTSIDE",
+     "artist": "THE KILLERS",
+     "song_url": "https://www.joysound.com/web/search/song/201635",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 94,
+     "title": "GOOD TIME (with Carly Rae Jepsen)",
+     "artist": "OWL CITY",
+     "song_url": "https://www.joysound.com/web/search/song/242093",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 95,
+     "title": "One Thing",
+     "artist": "ONE DIRECTION",
+     "song_url": "https://www.joysound.com/web/search/song/242713",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 96,
+     "title": "SHALLOW",
+     "artist": "LADY GAGA，BRADLEY COOPER",
+     "song_url": "https://www.joysound.com/web/search/song/712292",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 97,
+     "title": "BEAUTY AND THE BEAST",
+     "artist": "Ariana Grande and John Legend",
+     "song_url": "https://www.joysound.com/web/search/song/611879",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 98,
+     "title": "THIS LOVE",
+     "artist": "MAROON5",
+     "song_url": "https://www.joysound.com/web/search/song/52614",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 99,
+     "title": "DESPERADO",
+     "artist": "EAGLES",
+     "song_url": "https://www.joysound.com/web/search/song/65008",
+     "last_rank": null,
+     "is_new": null
+    },
+    {
+     "rank": 100,
+     "title": "DON'T STOP BELIEVIN'",
+     "artist": "JOURNEY",
+     "song_url": "https://www.joysound.com/web/search/song/24410",
+     "last_rank": null,
+     "is_new": null
+    }
+   ],
+   "period_key": "2026-10-26_2026-11-01",
+   "rank_change": "history",
+   "fetched_at": "2026-11-04T09:58:48+08:00",
+   "stale": false
+  }
+ ]
+}
