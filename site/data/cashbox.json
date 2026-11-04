@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-04T15:10:55+08:00",
+ "checked_at": "2026-11-04T15:34:33+08:00",
  "errors": [],
  "charts": [
   {
@@ -313,7 +313,9 @@
      "song_no": "55545",
      "last_rank": 25,
      "is_new": false,
-     "kkbox": "OqEcceqfMMmVfOc6Xh"
+     "kkbox": "OqEcceqfMMmVfOc6Xh",
+     "genre": "Mandopop",
+     "apple": "tw/1671925506"
     },
     {
      "rank": 28,
@@ -344,12 +346,14 @@
      "song_no": "53726",
      "last_rank": 28,
      "is_new": false,
-     "kkbox": "0oJguUXXhv4OTIL7y3"
+     "kkbox": "0oJguUXXhv4OTIL7y3",
+     "genre": "Mandopop",
+     "apple": "tw/1766456183"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:51+08:00",
+   "fetched_at": "2026-11-04T15:34:29+08:00",
    "stale": false
   },
   {
@@ -660,7 +664,9 @@
      "song_no": "76124",
      "last_rank": 26,
      "is_new": false,
-     "kkbox": "LXC89y3RU4Yl51WzAv"
+     "kkbox": "LXC89y3RU4Yl51WzAv",
+     "genre": "Taiwanese Folk",
+     "apple": "tw/1689528098"
     },
     {
      "rank": 29,
@@ -668,7 +674,9 @@
      "artist": "張清芳",
      "song_no": "76675",
      "last_rank": 30,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/1722002879"
     },
     {
      "rank": 30,
@@ -677,12 +685,14 @@
      "song_no": "71724",
      "last_rank": 22,
      "is_new": false,
-     "kkbox": "T_qRi6PJ6ZmfU5CD6E"
+     "kkbox": "T_qRi6PJ6ZmfU5CD6E",
+     "genre": "Tai-Pop",
+     "apple": "tw/905209961"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:51+08:00",
+   "fetched_at": "2026-11-04T15:34:29+08:00",
    "stale": false
   },
   {
@@ -983,7 +993,9 @@
      "artist": "張學友",
      "song_no": "19346",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Cantopop",
+     "apple": "tw/1480627544"
     },
     {
      "rank": 28,
@@ -992,7 +1004,9 @@
      "song_no": "19004",
      "last_rank": 27,
      "is_new": false,
-     "kkbox": "-sXlK_5Tgs1-D0D9Sz"
+     "kkbox": "-sXlK_5Tgs1-D0D9Sz",
+     "genre": "Cantopop",
+     "apple": "tw/1816674595"
     },
     {
      "rank": 29,
@@ -1000,7 +1014,9 @@
      "artist": "郭富城",
      "song_no": "25276",
      "last_rank": 21,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/201659625"
     },
     {
      "rank": 30,
@@ -1009,12 +1025,14 @@
      "song_no": "06024",
      "last_rank": 28,
      "is_new": false,
-     "kkbox": "Orpq8_UVf78HWeQCTE"
+     "kkbox": "Orpq8_UVf78HWeQCTE",
+     "genre": "Cantopop",
+     "apple": "tw/446760995"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:53+08:00",
+   "fetched_at": "2026-11-04T15:34:31+08:00",
    "stale": false
   },
   {
@@ -1305,7 +1323,9 @@
      "artist": "渥美二郎",
      "song_no": "89326",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Enka",
+     "apple": "jp/947246586"
     },
     {
      "rank": 28,
@@ -1313,7 +1333,9 @@
      "artist": "サザンオールスターズ",
      "song_no": "89420",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/949250892"
     },
     {
      "rank": 29,
@@ -1321,7 +1343,9 @@
      "artist": "大塚愛",
      "song_no": "78246",
      "last_rank": 30,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/250610812"
     },
     {
      "rank": 30,
@@ -1330,12 +1354,14 @@
      "song_no": "89679",
      "last_rank": null,
      "is_new": true,
-     "kkbox": "ClDYry84FKtg0U_GZz"
+     "kkbox": "ClDYry84FKtg0U_GZz",
+     "genre": "J-Pop",
+     "apple": "tw/73795313"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:53+08:00",
+   "fetched_at": "2026-11-04T15:34:31+08:00",
    "stale": false
   },
   {
@@ -1632,7 +1658,9 @@
      "artist": "George Michael",
      "song_no": "37911",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Pop",
+     "apple": "tw/429945616"
     },
     {
      "rank": 28,
@@ -1640,7 +1668,9 @@
      "artist": "Coldplay",
      "song_no": "34238",
      "last_rank": 25,
-     "is_new": false
+     "is_new": false,
+     "genre": "Alternative",
+     "apple": "tw/1122778616"
     },
     {
      "rank": 29,
@@ -1660,12 +1690,14 @@
      "song_no": "34333",
      "last_rank": null,
      "is_new": true,
-     "kkbox": "GpPtOrk--IKc3C34W3"
+     "kkbox": "GpPtOrk--IKc3C34W3",
+     "genre": "Pop",
+     "apple": "tw/1565284244"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:53+08:00",
+   "fetched_at": "2026-11-04T15:34:31+08:00",
    "stale": false
   },
   {
@@ -1951,7 +1983,9 @@
      "artist": "承桓",
      "song_no": "03481",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Mandopop",
+     "apple": "tw/6777277213"
     },
     {
      "rank": 27,
@@ -1959,7 +1993,9 @@
      "artist": "蕭景鴻(阿弟)",
      "song_no": "03130",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Mandopop",
+     "apple": "tw/6784145723"
     },
     {
      "rank": 28,
@@ -1967,7 +2003,9 @@
      "artist": "洋瀾一",
      "song_no": "03479",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Mandopop",
+     "apple": "tw/1762418608"
     },
     {
      "rank": 29,
@@ -1975,7 +2013,9 @@
      "artist": "楊世暄 Sam Yang",
      "song_no": "03012",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "genre": "Singer/Songwriter",
+     "apple": "tw/1851930672"
     },
     {
      "rank": 30,
@@ -1983,12 +2023,14 @@
      "artist": "任夏",
      "song_no": "03194",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Pop",
+     "apple": "tw/6784721573"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:55+08:00",
+   "fetched_at": "2026-11-04T15:34:33+08:00",
    "stale": false
   },
   {
@@ -2291,7 +2333,9 @@
      "artist": "李佳燕",
      "song_no": "03535",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Soundtrack",
+     "apple": "tw/6824452174"
     },
     {
      "rank": 28,
@@ -2310,7 +2354,9 @@
      "artist": "玟靈、陳偉強",
      "song_no": "03404",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Tai-Pop",
+     "apple": "tw/6815194131"
     },
     {
      "rank": 30,
@@ -2318,12 +2364,14 @@
      "artist": "謝舒騏、許峻榮",
      "song_no": "02811",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Tai-Pop",
+     "apple": "tw/6800565664"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:55+08:00",
+   "fetched_at": "2026-11-04T15:34:33+08:00",
    "stale": false
   }
  ]

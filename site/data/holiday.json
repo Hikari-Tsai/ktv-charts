@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.holiday.com.tw/",
- "checked_at": "2026-11-04T15:10:49+08:00",
+ "checked_at": "2026-11-04T15:34:27+08:00",
  "errors": [],
  "charts": [
   {
@@ -325,7 +325,9 @@
      "song_no": "48102",
      "kkbox": "OrrN7xf1f78HUummTI",
      "last_rank": 22,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1579903651"
     },
     {
      "rank": 29,
@@ -352,7 +354,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:23+08:00",
+   "fetched_at": "2026-11-04T15:34:02+08:00",
    "stale": false
   },
   {
@@ -652,7 +654,9 @@
      "song_no": "71724",
      "kkbox": "T_qRi6PJ6ZmfU5CD6E",
      "last_rank": 22,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/905209961"
     },
     {
      "rank": 28,
@@ -661,7 +665,9 @@
      "song_no": "76124",
      "kkbox": "Kr2dXAfn6Il0DKnvsC",
      "last_rank": 28,
-     "is_new": false
+     "is_new": false,
+     "genre": "Taiwanese Folk",
+     "apple": "tw/1689528098"
     },
     {
      "rank": 29,
@@ -670,7 +676,9 @@
      "song_no": "15025",
      "kkbox": "Cp5v3JSPXVWGtp8A9W",
      "last_rank": 31,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1442057187"
     },
     {
      "rank": 30,
@@ -679,12 +687,14 @@
      "song_no": "73119",
      "kkbox": "KpFKMaF0sGgkomc3NV",
      "last_rank": 25,
-     "is_new": false
+     "is_new": false,
+     "genre": "Tai-Pop",
+     "apple": "tw/957649145"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:27+08:00",
+   "fetched_at": "2026-11-04T15:34:05+08:00",
    "stale": false
   },
   {
@@ -975,7 +985,9 @@
      "song_no": "19084",
      "kkbox": "5Z3uefbxsZjzvXNg9s",
      "last_rank": 26,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1442919993"
     },
     {
      "rank": 27,
@@ -984,7 +996,9 @@
      "song_no": "01030",
      "kkbox": "Orpq8_UVf78HWeQCTE",
      "last_rank": 36,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/446760995"
     },
     {
      "rank": 28,
@@ -1004,7 +1018,9 @@
      "song_no": "23836",
      "kkbox": "LY_73gc0B5Nirgh34r",
      "last_rank": 29,
-     "is_new": false
+     "is_new": false,
+     "genre": "Cantopop",
+     "apple": "tw/1442451443"
     },
     {
      "rank": 30,
@@ -1018,7 +1034,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:30+08:00",
+   "fetched_at": "2026-11-04T15:34:09+08:00",
    "stale": false
   },
   {
@@ -1311,7 +1327,9 @@
      "song_no": "34285",
      "kkbox": "4rqD2Q-gSSJLqr_VC7",
      "last_rank": 23,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/482734115"
     },
     {
      "rank": 27,
@@ -1320,7 +1338,9 @@
      "song_no": "37952",
      "kkbox": "8rceGrek59bDS0HmQH",
      "last_rank": 29,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1559523359"
     },
     {
      "rank": 28,
@@ -1329,7 +1349,9 @@
      "song_no": "37565",
      "kkbox": "8qoyEFO8YrrZPJwLZK",
      "last_rank": 30,
-     "is_new": false
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "tw/158618063"
     },
     {
      "rank": 29,
@@ -1349,12 +1371,14 @@
      "song_no": "34333",
      "kkbox": "GpPtOrk--IKc3C34W3",
      "last_rank": 31,
-     "is_new": false
+     "is_new": false,
+     "genre": "Pop",
+     "apple": "tw/1565284244"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:34+08:00",
+   "fetched_at": "2026-11-04T15:34:12+08:00",
    "stale": false
   },
   {
@@ -1650,7 +1674,9 @@
      "song_no": "89277",
      "kkbox": "KnwXkj08KmKv4kYcBu",
      "last_rank": 20,
-     "is_new": false
+     "is_new": false,
+     "genre": "R&B/Soul",
+     "apple": "tw/1534588175"
     },
     {
      "rank": 28,
@@ -1670,7 +1696,9 @@
      "song_no": "89679",
      "kkbox": "ClDYry84FKtg0U_GZz",
      "last_rank": 18,
-     "is_new": false
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/73795313"
     },
     {
      "rank": 30,
@@ -1686,7 +1714,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:37+08:00",
+   "fetched_at": "2026-11-04T15:34:16+08:00",
    "stale": false
   },
   {
@@ -1990,7 +2018,9 @@
      "song_no": "02057",
      "kkbox": "H_lxzi4Y6JmywMXU3s",
      "last_rank": 26,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/854893925"
     },
     {
      "rank": 29,
@@ -1999,7 +2029,9 @@
      "song_no": "02051",
      "kkbox": "8npy5RulMjx8TVO3C7",
      "last_rank": 29,
-     "is_new": false
+     "is_new": false,
+     "genre": "K-Pop",
+     "apple": "tw/1860255674"
     },
     {
      "rank": 30,
@@ -2012,7 +2044,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:40+08:00",
+   "fetched_at": "2026-11-04T15:34:19+08:00",
    "stale": false
   },
   {
@@ -2197,7 +2229,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:42+08:00",
+   "fetched_at": "2026-11-04T15:34:20+08:00",
    "stale": false
   },
   {
@@ -2536,12 +2568,14 @@
      "song_no": "02717",
      "kkbox": "WqN3mKpaTPWt7X_G5d",
      "last_rank": 26,
-     "is_new": false
+     "is_new": false,
+     "genre": "Mandopop",
+     "apple": "tw/1849630188"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:45+08:00",
+   "fetched_at": "2026-11-04T15:34:23+08:00",
    "stale": false
   },
   {
@@ -2875,12 +2909,14 @@
      "song_no": "03612",
      "kkbox": "_-58PJ_-B8cu1-9AOE",
      "last_rank": null,
-     "is_new": true
+     "is_new": true,
+     "genre": "Soundtrack",
+     "apple": "tw/6819242815"
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T15:10:49+08:00",
+   "fetched_at": "2026-11-04T15:34:27+08:00",
    "stale": false
   }
  ]
