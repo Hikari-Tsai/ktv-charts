@@ -5,7 +5,7 @@
 
 **網站：<https://hikari-tsai.github.io/ktv-charts/>**
 
-彙整台灣與日本四家 KTV 的點歌排行榜，每天由 GitHub Actions 自動抓取並發布成靜態網頁。
+彙整台灣與日本四家 KTV 的點歌排行榜，加上 KKBOX 風雲榜的串流排行，每天由 GitHub Actions 自動抓取並發布成靜態網頁。
 
 | 地區 | KTV | 收錄榜單 |
 |---|---|---|
@@ -13,13 +13,14 @@
 | 台灣 | 錢櫃 | 國、台、粵、日、英語點播，國台語新歌 |
 | 日本 | JOYSOUND | 綜合日／週／月榜，動畫、VOCALOID、演歌、西洋週榜 |
 | 日本 | DAM | 綜合日／週／月榜，急上昇、動畫、VOCALOID、VTuber、演歌、外國曲、對唱週榜 |
+| 台灣 | KKBOX（串流） | 華語、台語、西洋、日語、韓語、粵語單曲日榜與週榜，華語新歌週榜 |
 
 ## 功能
 
-- **四家 33 張榜**：台灣每榜 30 名，日本每榜 100 名。
+- **五個來源 46 張榜**：好樂迪與錢櫃每榜 30 名，JOYSOUND 與 DAM 每榜 100 名，KKBOX 每榜 50 名。
 - **三種語言**：中文、English、日本語，純前端即時切換，預設中文。選擇會記在瀏覽器裡，也可以用 `?lang=en` 或 `?lang=ja` 直接指定。
 - **在YouTube搜尋**：每一首歌都附連結，以「歌名 歌手」當關鍵字開啟 `https://www.youtube.com/results?search_query=`。
-- **名次升降**：台灣兩家使用官方提供的上週名次；日本兩家由本站比對前一期快照自行計算，第一次收錄時顯示「–」。
+- **名次升降**：好樂迪、錢櫃與 KKBOX 使用官方提供的上期名次；日本兩家由本站比對前一期快照自行計算，第一次收錄時顯示「–」。
 - **可直接分享**：網址 hash 記錄目前的 KTV 與榜單，例如 `#dam/anime-weekly`。
 - **容錯**：某張榜抓取失敗時保留上一次的資料並在頁面標示，其他榜照常更新。
 - **手機與深色模式**：版面支援窄螢幕，配色跟隨系統的深淺色設定。
@@ -29,7 +30,7 @@
 ```
 GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
   ├─ 跑單元測試
-  ├─ python -m scraper        抓四家資料
+  ├─ python -m scraper        抓五個來源的資料
   │    ├─ site/data/*.json    網頁讀取的最新資料
   │    └─ data/history/       每張榜每一期的快照
   ├─ 有變動才 commit 回 main
@@ -46,7 +47,7 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 
 ```
 scraper/               Python 抓取程式
-  sources/             四家各一個模組：holiday、cashbox、joysound、dam
+  sources/             每個來源一個模組：holiday、cashbox、joysound、dam、kkbox
   history.py           歷史快照與升降計算
   net.py               HTTP 請求、重試與請求間隔
   __main__.py          進入點，寫出 site/data/*.json
@@ -71,7 +72,7 @@ docs/                  API 手冊
 python3 -m scraper
 ```
 
-只抓某幾家，可用的 id 有 `holiday`、`cashbox`、`joysound`、`dam`：
+只抓某幾家，可用的 id 有 `holiday`、`cashbox`、`joysound`、`dam`、`kkbox`：
 
 ```bash
 python3 -m scraper holiday dam
@@ -98,7 +99,7 @@ python3 -m http.server 8000 -d site
 
 如果 Settings → Actions → General 的 Workflow permissions 被設成唯讀，請改成 Read and write，否則工作流程無法提交資料。
 
-## 新增一家 KTV
+## 新增一個來源
 
 1. 在 `scraper/sources/` 新增模組，定義 `SOURCE` 與 `JOBS`。格式見 `scraper/sources/__init__.py` 的說明。
 2. 把模組加進同一檔案的 `ALL` 清單。
@@ -107,7 +108,7 @@ python3 -m http.server 8000 -d site
 
 ## 免責聲明
 
-- 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）沒有任何關係。
+- 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）、KKBOX 沒有任何關係。
 - 排行榜資料取自各家官方網站的公開頁面與網站內部介面，著作權與相關權利屬原網站所有。這些介面沒有官方文件，網站改版時可能失效。
 - 如果你要自行部署或轉載資料，請先確認各網站的使用條款，並保留來源標示與連回官網的連結。
 

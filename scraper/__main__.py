@@ -77,6 +77,7 @@ def run_source(module, history: History) -> tuple[dict, int, int]:
         "source": src["id"],
         "name": src["name"],
         "region": src["region"],
+        "kind": src.get("kind", "ktv"),
         "site_url": src["site_url"],
         "checked_at": now_iso(),
         "errors": errors,
@@ -105,7 +106,8 @@ def main(argv: list[str] | None = None) -> int:
     index = {
         "updated_at": now_iso(),
         "sources": [
-            {k: m.SOURCE[k] for k in ("id", "name", "region", "site_url")} for m in ALL
+            {**{k: m.SOURCE[k] for k in ("id", "name", "region", "site_url")}, "kind": m.SOURCE.get("kind", "ktv")}
+            for m in ALL
         ],
     }
     (SITE_DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

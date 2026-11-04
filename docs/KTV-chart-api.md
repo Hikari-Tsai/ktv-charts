@@ -1,7 +1,7 @@
-# 台灣與日本 KTV 點歌排行榜 API 手冊
+# 台灣與日本 KTV 點歌排行榜與 KKBOX 風雲榜 API 手冊
 
 整理日期：2026-11-03
-涵蓋：台灣 好樂迪（holiday.com.tw）、錢櫃（cashboxparty.com）、星聚點（newcbparty.com，附錄）；日本 JOYSOUND（joysound.com）、DAM（clubdam.com）
+涵蓋：台灣 好樂迪（holiday.com.tw）、錢櫃（cashboxparty.com）、星聚點（newcbparty.com，附錄）；日本 JOYSOUND（joysound.com）、DAM（clubdam.com）；串流 KKBOX 風雲榜（kma.kkbox.com）
 
 > **注意**
 > 這些端點是各家官網前端 JavaScript 使用的內部 AJAX 介面，官方並未公開文件，也沒有承諾相容性。
@@ -644,6 +644,114 @@ for sid in ("ranking-daily", "ranking-weekly", "ranking-monthly"):
 - **沒有升降欄位**：兩家頁面都只有本期名次。要算升降要自己保存上一期的結果。
 - **抓取頻率**：日榜每天一次、週榜每週一次就夠；JOYSOUND 頁面約 400～600 KB，DAM 約 360 KB，不要輪詢。
 
+---
+
+## 7. KKBOX 風雲榜（串流）
+
+### 7.1 端點
+
+KKBOX 風雲榜網頁 kma.kkbox.com/charts 的前端用一組不需登入的 JSON 介面載入榜單。它和 KKBOX Open API 是兩回事，後者要申請 client 憑證並走 OAuth。
+
+```
+GET https://kma.kkbox.com/charts/api/v1/{period}?terr=tw&lang=tc&type={type}&category={category}&limit=50
+User-Agent: <任意瀏覽器 UA>
+```
+
+不需要 Cookie、Referer 或登入。
+
+| `period` | 說明 |
+|---|---|
+| `daily` | 日榜 |
+| `weekly` | 週榜，週五到週四 |
+| `yearly` | 年度累積榜（本站未收錄） |
+| `hourly` | 即時榜（本站未收錄） |
+
+| 參數 | 說明 |
+|---|---|
+| `terr` | 地區：`tw`、`hk`、`sg`、`jp` |
+| `lang` | 名稱語言，`tc` 為繁體中文 |
+| `type` | `song` 單曲，`newrelease` 新歌 |
+| `category` | 曲風 id，見 7.2 |
+| `date` | 選填，`YYYY-MM-DD`；省略時回最新一期。週榜填該週的週四 |
+| `limit` | 筆數，**不帶時只回 5 筆**，上限 50 |
+
+### 7.2 曲風清單
+
+```
+GET https://kma.kkbox.com/charts/api/v1/{daily|weekly}/categories?terr=tw&lang=tc&type=song
+```
+
+回傳每個曲風的 `category_id`、`category_name`、`start_date`、`end_date`。日榜有 6 種，週榜另有原聲帶、電子、嘻哈等共 17 種。
+
+| `category` | 曲風 |
+|---|---|
+| 297 | 華語 |
+| 304 | 台語 |
+| 390 | 西洋 |
+| 308 | 日語 |
+| 314 | 韓語 |
+| 320 | 粵語 |
+
+### 7.3 回應
+
+```json
+{
+  "code": 0,
+  "message": "",
+  "data": {
+    "date": "2026-10-29",
+    "charts": {
+      "song": [{
+        "rankings": {"this_period": 1, "last_period": 1},
+        "song_id": "GptIJ2y--IKc1ewMvC",
+        "song_name": "甲乙丙丁Strangers - 你我怎麼兩清",
+        "artist_name": "李佳薇 (Jess Lee)",
+        "album_name": "甲乙丙丁Strangers",
+        "song_url": "https://www.kkbox.com/tw/tc/song/GptIJ2y--IKc1ewMvC",
+        "cover_image": {"small": "https://i.kfs.io/...160x160.jpg", "normal": "https://i.kfs.io/...500x500.jpg"},
+        "release_date": 1783440000
+      }]
+    },
+    "playlist_id": {"song": "..."}
+  }
+}
+```
+
+| 欄位 | 說明 |
+|---|---|
+| `code` | `0` 成功，**有時是數字、有時是字串**，比對前先轉字串；`104` 曲風 id 錯誤等，`data` 會是空陣列 |
+| `data.date` | 這一期的日期。週榜是週四，統計區間是往前 6 天的週五到這天 |
+| `data.charts.{type}` | 歌曲陣列，key 與請求的 `type` 相同 |
+| `rankings.this_period` | 本期名次 |
+| `rankings.last_period` | 上期名次；新進榜是 `null` |
+| `song_name` / `artist_name` | 歌名與歌手，常帶副標或英文名，例如「李佳薇 (Jess Lee)」 |
+| `song_url` | KKBOX 歌曲頁 |
+
+週期的換算來自前端程式：2016-01-01 起週榜以週五開頭、週四結尾，更早的資料是週日到週六。
+
+### 7.4 範例
+
+```python
+import json, urllib.request
+
+def kkbox_chart(period="weekly", category=297, type_="song"):
+    url = (f"https://kma.kkbox.com/charts/api/v1/{period}"
+           f"?terr=tw&lang=tc&type={type_}&category={category}&limit=50")
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        payload = json.load(r)
+    if str(payload.get("code")) != "0":   # sometimes 0, sometimes "0"
+        raise RuntimeError(f"code={payload.get('code')} {payload.get('message')}")
+    data = payload["data"]
+    return data["date"], data["charts"][type_]
+
+date, rows = kkbox_chart("weekly", 297)
+print("週榜截至", date)
+for r in rows[:10]:
+    rk = r["rankings"]
+    print(rk["this_period"], r["song_name"], "-", r["artist_name"], f"(上期 {rk['last_period'] or 'NEW'})")
+```
+
 ## 附錄 A：星聚點（newcbparty.com）
 
 沒有 AJAX API，榜單是伺服器端輸出的靜態 HTML，**而且資料停在 2024/10/04～10/08，之後未更新**，不建議當資料源。
@@ -680,3 +788,5 @@ GET https://www.newcbparty.com/billboard.php?p=<n>
 | JOYSOUND | HTTP 404 | 不存在的 genre/period 組合（例如 `/all/daily`） |
 | JOYSOUND | HTTP 307 | 帶 `RSC: 1` 標頭請求 |
 | DAM | HTTP 301 | `/index.html` 會轉到目錄路徑，跟著轉即可 |
+| KKBOX | `code: 104`, `data: []` | 曲風 id 不存在 |
+| KKBOX | 只回 5 筆 | 沒帶 `limit` |

@@ -87,7 +87,7 @@ h1 { margin: 0; font-size: 1.6rem; letter-spacing: 0.01em; }
 
 .tabs {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(104px, 1fr));
   gap: 8px;
   margin-bottom: 12px;
 }

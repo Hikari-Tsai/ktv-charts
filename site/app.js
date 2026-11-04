@@ -11,7 +11,7 @@ const I18N = {
   zh: {
     title: "KTV 點歌排行榜",
     colon: "：",
-    subtitle: "好樂迪、錢櫃、JOYSOUND、DAM 每日自動更新",
+    subtitle: "好樂迪、錢櫃、JOYSOUND、DAM 與 KKBOX 每日自動更新",
     colRank: "名次",
     colChange: "升降",
     colSong: "歌曲",
@@ -20,6 +20,7 @@ const I18N = {
     ytAria: "在 YouTube 搜尋「{q}」",
     region_tw: "台灣",
     region_jp: "日本",
+    streaming: "串流",
     period: "集計期間",
     fetched: "抓取時間",
     official: "官方頁面",
@@ -32,13 +33,13 @@ const I18N = {
     loading: "載入中…",
     loadError: "資料載入失敗，請稍後再試。",
     empty: "這張榜沒有資料。",
-    disclaimer: "資料取自各 KTV 官方網站公開頁面，著作權屬原網站所有。本站與各 KTV 業者無關。",
+    disclaimer: "資料取自各 KTV 與 KKBOX 官方網站公開頁面，著作權屬原網站所有。本站與各業者無關。",
     sources: "資料來源",
   },
   en: {
     title: "KTV Song Rankings",
     colon: ": ",
-    subtitle: "Holiday KTV, Cashbox, JOYSOUND and DAM, updated daily",
+    subtitle: "Holiday KTV, Cashbox, JOYSOUND, DAM and KKBOX, updated daily",
     colRank: "Rank",
     colChange: "Move",
     colSong: "Song",
@@ -47,6 +48,7 @@ const I18N = {
     ytAria: "Search YouTube for “{q}”",
     region_tw: "Taiwan",
     region_jp: "Japan",
+    streaming: "Streaming",
     period: "Period",
     fetched: "Fetched",
     official: "Official page",
@@ -59,13 +61,13 @@ const I18N = {
     loading: "Loading…",
     loadError: "Could not load data. Please try again later.",
     empty: "No data for this chart.",
-    disclaimer: "Data comes from each KTV operator's public website; rights belong to the original sites. This site is not affiliated with any KTV operator.",
+    disclaimer: "Data comes from the public websites of each KTV operator and KKBOX; rights belong to the original sites. This site is not affiliated with any of them.",
     sources: "Sources",
   },
   ja: {
     title: "カラオケ人気ランキング",
     colon: "：",
-    subtitle: "好樂迪・錢櫃・JOYSOUND・DAM を毎日自動更新",
+    subtitle: "好樂迪・錢櫃・JOYSOUND・DAM・KKBOX を毎日自動更新",
     colRank: "順位",
     colChange: "変動",
     colSong: "曲",
@@ -74,6 +76,7 @@ const I18N = {
     ytAria: "YouTube で「{q}」を検索",
     region_tw: "台湾",
     region_jp: "日本",
+    streaming: "ストリーミング",
     period: "集計期間",
     fetched: "取得日時",
     official: "公式ページ",
@@ -86,7 +89,7 @@ const I18N = {
     loading: "読み込み中…",
     loadError: "データを読み込めませんでした。しばらくしてから再度お試しください。",
     empty: "このランキングにはデータがありません。",
-    disclaimer: "データは各カラオケ事業者の公式サイトの公開ページから取得しています。権利は各サイトに帰属します。本サイトは各事業者とは関係ありません。",
+    disclaimer: "データは各カラオケ事業者と KKBOX の公式サイトの公開ページから取得しています。権利は各サイトに帰属します。本サイトは各事業者とは関係ありません。",
     sources: "データ提供元",
   },
 };
@@ -218,7 +221,7 @@ function renderSourceTabs() {
         onclick: () => selectSource(s.id),
       },
       el("span", { text: pick(s.name).replace(/\s*\(.*\)$/, "") }),
-      el("span", { class: "region", text: t("region_" + s.region) }))
+      el("span", { class: "region", text: t("region_" + s.region) + (s.kind === "streaming" ? " · " + t("streaming") : "") }))
     )
   );
 }

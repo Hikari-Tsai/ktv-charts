@@ -8,7 +8,7 @@ from unittest import mock
 
 import scraper.__main__ as main
 from scraper.history import History, period_key, song_key
-from scraper.sources import dam, joysound
+from scraper.sources import dam, joysound, kkbox
 
 
 class PeriodKeyTest(unittest.TestCase):
@@ -89,6 +89,36 @@ class DamParseTest(unittest.TestCase):
         self.assertEqual(dam.derive_period("2026/11/01", "weekly"), "2026/10/25 ~ 2026/10/31")
         self.assertEqual(dam.derive_period("2026/11/04", "daily"), "2026/11/03")
         self.assertEqual(dam.derive_period("2026/11/01", "monthly"), "2026/10/01 ~ 2026/10/31")
+
+
+class KkboxParseTest(unittest.TestCase):
+    PAYLOAD = {"code": 0, "data": {"date": "2026-10-29", "charts": {"song": [
+        {"rankings": {"this_period": 2, "last_period": None}, "song_name": "New", "artist_name": "B",
+         "song_url": "https://www.kkbox.com/tw/tc/song/b"},
+        {"rankings": {"this_period": 1, "last_period": 3}, "song_name": "Up", "artist_name": "A",
+         "song_url": "https://www.kkbox.com/tw/tc/song/a"},
+    ]}}}
+
+    def test_parse(self):
+        date, rows = kkbox.parse(self.PAYLOAD, "song")
+        self.assertEqual(date, "2026-10-29")
+        self.assertEqual([(r["rank"], r["last_rank"], r["is_new"]) for r in rows], [(1, 3, False), (2, None, True)])
+
+    def test_string_success_code(self):
+        payload = dict(self.PAYLOAD, code="0")
+        self.assertEqual(len(kkbox.parse(payload, "song")[1]), 2)
+
+    def test_error_code(self):
+        with self.assertRaises(RuntimeError):
+            kkbox.parse({"code": 104, "data": []}, "song")
+
+    def test_weekly_period_is_friday_to_thursday(self):
+        self.assertEqual(kkbox.derive_period("weekly", "2026-10-29"), "2026/10/23 ~ 2026/10/29")
+        self.assertEqual(kkbox.derive_period("daily", "2026-11-03"), "2026/11/03")
+
+    def test_titles(self):
+        self.assertEqual(kkbox.chart_title("weekly", "song", 297)["zh"], "華語單曲週榜")
+        self.assertEqual(kkbox.chart_title("daily", "song", 390)["en"], "Western · Daily")
 
 
 class FallbackTest(unittest.TestCase):
