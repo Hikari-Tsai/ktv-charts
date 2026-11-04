@@ -20,6 +20,7 @@
 - **五個來源 46 張榜**：好樂迪與錢櫃每榜 30 名，JOYSOUND 與 DAM 每榜 100 名，KKBOX 每榜 50 名。
 - **三種語言**：中文、English、日本語，純前端即時切換，預設中文。選擇會記在瀏覽器裡，也可以用 `?lang=en` 或 `?lang=ja` 直接指定。
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
+- **BPM**：歌手後面標出歌曲速度，用 [Beat This!](https://github.com/CPJKU/beat_this) 模型的 ONNX 版本 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 分析 iTunes 的 30 秒試聽估算。
 - **三個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」。
   - YouTube 以「歌名 歌手」當關鍵字開啟 `https://www.youtube.com/results?search_query=`。
   - 點「Apple Music 試聽」或「KKBOX 試聽」會在該首歌下方展開官方嵌入播放器，同時只開一個，再點一次收起。按住 Ctrl 或 ⌘ 點擊則改為開新分頁。
@@ -43,11 +44,13 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
   ├─ python -m scraper.enrich 查詢新歌的曲風與 Apple Music 曲目，每次最多 300 首
   │    ├─ data/itunes.json    查詢結果快取，查不到的歌 30 天後重試
   │    └─ data/kkbox-ids.json 歌名歌手對應的 KKBOX 曲目 ID
+  ├─ python -m scraper.bpm    用 Beat This! 分析試聽音訊的 BPM，每次最多 300 首
+  │    └─ data/bpm.json       BPM 永久快取
   ├─ 有變動才 commit 回 main
   └─ 部署 site/ 到 GitHub Pages
 ```
 
-- 抓取程式只用 Python 標準函式庫，不需要安裝任何套件。
+- 排行榜與曲風查詢只用 Python 標準函式庫；只有 BPM 分析需要 ffmpeg、numpy 與 onnxruntime。
 - 網頁是純 HTML、CSS、JavaScript，沒有框架也沒有建置步驟。
 - 每個請求間隔 1 秒，每天只執行一次。iTunes 每分鐘約限 20 次請求，所以查詢間隔 3.2 秒，只查沒看過的歌。
 - 曲風查詢失敗不會影響排行榜更新，只是當天少一些標籤。
@@ -63,6 +66,7 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 | Apple Music 試聽 | iTunes 比對到的 `trackId` | 嵌入 `https://embed.music.apple.com/{tw 或 jp}/song/{trackId}`，可試聽 30 秒 |
 | KKBOX 試聽 | KKBOX 風雲榜的 `song_id`，以及好樂迪排行榜 `songurl` 裡的 KKBOX 曲目 ID | 嵌入 KKBOX 官方 widget。其他來源的同一首歌依歌名歌手套用 |
 | 在YouTube搜尋 | 歌名與歌手 | 開啟 YouTube 搜尋結果，不指定特定影片 |
+| BPM | Beat This! 模型分析 iTunes 30 秒試聽 | 見下方「BPM 怎麼算」 |
 
 **顏色**：每個曲風有固定的色相，三種語言下顏色一致。不在對照表裡的曲風顯示英文原名，顏色由名稱算出，每次都相同。
 
@@ -81,6 +85,19 @@ KKBOX 曲目 ID 的跨來源對應：歌名歌手正規化後完全相同就套�
 
 這些都是相似度判斷，不是百分之百準確。同名同歌手的不同版本可能選錯，歌手在 iTunes 上的寫法差太多也可能查不到。前兩批在 GitHub 上查了 600 首，找到 559 首。
 
+### BPM 怎麼算
+
+模型是 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx)，CPJKU 的 Beat This! final0 轉成的 ONNX 版本，MIT 授權，版本固定在 `e2c0d43` 並驗證 SHA-256。前後處理照 [aaatmy/bpm-detector](https://huggingface.co/spaces/aaatmy/bpm-detector) 的程式移植成 Python：
+
+1. 用 iTunes lookup 取得已比對曲目的 30 秒試聽，ffmpeg 轉成 22,050 Hz 單聲道。
+2. 計算 128 維 log-mel 頻譜：1,024 點 FFT、hop 441、Slaney 濾波器，取 `log1p(1000 × mel)`。
+3. 每 1,500 幀切一塊送進模型，前後各留 6 幀重疊，得到每幀的節拍與重拍機率。
+4. 挑出局部峰值當節拍。節拍間隔穩定時用等距網格擬合，不穩定時取平均間隔，換算成 BPM。
+
+只有已經對到 iTunes 曲目的歌才會分析。結果存進 `data/bpm.json`，跟曲風快取一樣永久保存、只增不減；iTunes 對到的曲目換了，BPM 才會重算。
+
+限制：只看 30 秒試聽，速度有變化的歌只代表那一段；節拍偵測可能抓成實際速度的一半或兩倍。
+
 ## 分批查詢機制
 
 iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 首，所以查詢分成多次 Action 執行完成。
@@ -94,6 +111,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 | 被 iTunes 限流 | 收到 403 時當次停止，已查到的結果保留 |
 | 查不到的歌 | 30 天後重試；已找到的歌永遠不再查 |
 | 失敗時 | 查詢步驟設成失敗也繼續，排行榜照常發布，只是少一些標籤 |
+| BPM 分析 | 同樣的規則：每次最多 300 首或 20 分鐘，排名高的先做，每 10 首存一次 |
 
 **什麼時候會執行**：每天排程一次；推送 `site/`、`scraper/`、`tests/` 或工作流程檔的變更時；以及在 Actions 頁面按 **Run workflow** 手動執行。目前不會自己再開一次 Action 接續，所以首次補齊約需 5 次執行。之後每天新進榜的歌約 10 到 30 首，一次就能查完。想加快補齊，可以手動多執行幾次；同一時間只會跑一個，其他會排隊。
 
@@ -101,7 +119,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 gh workflow run update.yml
 ```
 
-**時間限制**：查詢步驟的上限 25 分鐘，低於整個 job 設定的 45 分鐘，也遠低於 GitHub 單一 job 的 6 小時上限，所以不會因為歌曲太多而逾時。
+**時間限制**：曲風查詢最多 25 分鐘，BPM 分析最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 75 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
 
 ## 專案結構
 
@@ -111,6 +129,7 @@ scraper/               Python 抓取程式
   history.py           歷史快照與升降計算
   match.py             歌名歌手正規化與相似度
   enrich.py            曲風、Apple Music 與 KKBOX 連結
+  bpm.py               Beat This! BPM 分析，需要 ffmpeg、numpy、onnxruntime
   net.py               HTTP 請求、重試與請求間隔
   __main__.py          進入點，寫出 site/data/*.json
 site/                  靜態網頁，原樣發布到 GitHub Pages
@@ -121,6 +140,8 @@ site/                  靜態網頁，原樣發布到 GitHub Pages
 data/history/          歷史快照
 data/itunes.json       iTunes 查詢快取
 data/kkbox-ids.json    KKBOX 曲目 ID
+data/bpm.json          BPM 快取
+requirements-bpm.txt   BPM 分析需要的套件
 tests/                 離線單元測試
 docs/                  API 手冊
 .github/workflows/     每日排程與部署
@@ -154,6 +175,16 @@ python3 -m unittest discover -s tests -t .
 python3 -m scraper.enrich --max 300
 ```
 
+分析 BPM。需要先安裝 ffmpeg，第一次執行會從 Hugging Face 下載約 82 MB 的模型到 `.cache/beat-this/`：
+
+```bash
+python3 -m pip install -r requirements-bpm.txt
+```
+
+```bash
+python3 -m scraper.bpm --max 50
+```
+
 預覽網頁，然後打開 <http://localhost:8000/>：
 
 ```bash
@@ -185,4 +216,4 @@ python3 -m http.server 8000 -d site
 
 ## 授權
 
-程式碼以 [MIT License](LICENSE) 授權。按鈕上的 Apple Music 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
+程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。按鈕上的 Apple Music 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。

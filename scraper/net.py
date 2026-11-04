@@ -37,6 +37,11 @@ def _open(req: urllib.request.Request) -> bytes:
     raise RuntimeError(f"{req.get_method()} {req.full_url} failed: {last_error}")
 
 
+def get_bytes(url: str, headers: dict[str, str] | None = None) -> bytes:
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
+    return _open(req)
+
+
 def get_text(url: str, headers: dict[str, str] | None = None) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
     return _open(req).decode("utf-8", errors="replace")

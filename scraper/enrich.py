@@ -29,6 +29,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SITE_DATA = ROOT / "site" / "data"
 ITUNES_CACHE = ROOT / "data" / "itunes.json"
 KKBOX_IDS = ROOT / "data" / "kkbox-ids.json"
+BPM_CACHE = ROOT / "data" / "bpm.json"  # written by scraper.bpm
 
 SOURCES = ["holiday", "cashbox", "joysound", "dam", "kkbox"]
 REGION = {"holiday": "tw", "cashbox": "tw", "kkbox": "tw", "joysound": "jp", "dam": "jp"}
@@ -166,10 +167,16 @@ def candidates(sites: dict[str, dict], cache: dict, today: dt.date) -> list[dict
         entry = cache.get(key)
         if entry:
             if entry.get("status") == "ok":
-                continue
-            checked = dt.date.fromisoformat(entry.get("checked", "1970-01-01"))
-            if (today - checked).days < RETRY_DAYS:
-                continue
+                # Re-check only matches that look like another version (live, acoustic...)
+                # of a song whose own title doesn't, at most once per RETRY_DAYS.
+                suspect = match.is_bad_version(entry.get("name")) and not match.is_bad_version(row.get("title"))
+                rechecked = dt.date.fromisoformat(entry.get("rechecked", "1970-01-01"))
+                if not suspect or (today - rechecked).days < RETRY_DAYS:
+                    continue
+            else:
+                checked = dt.date.fromisoformat(entry.get("checked", "1970-01-01"))
+                if (today - checked).days < RETRY_DAYS:
+                    continue
         cur = best.get(key)
         if cur is None or row["rank"] < cur["rank"]:
             best[key] = {"key": key, "title": row.get("title"), "artist": row.get("artist"),
@@ -210,7 +217,9 @@ def lookup(todo: list[dict], cache: dict, max_songs: int, budget: float, save_ev
                 "artist": hit.get("artistName"),
                 "checked": today,
             }
-        elif cache.get(item["key"], {}).get("status") != "ok":
+        elif cache.get(item["key"], {}).get("status") == "ok":
+            cache[item["key"]]["rechecked"] = today  # keep the old match; don't downgrade
+        else:
             cache[item["key"]] = {"status": "none", "checked": today}
         if stats["looked_up"] % save_every == 0:
             save_cache(ITUNES_CACHE, cache)
@@ -239,13 +248,14 @@ def fuzzy_kkbox(key: str, index: dict[str, list[tuple[str, str]]]) -> str | None
     return hits.pop() if len(hits) == 1 else None
 
 
-def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict) -> dict:
-    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0}
+def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | None = None) -> dict:
+    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0, "bpm": 0}
+    bpm = bpm or {}
     prefix_index = _prefix_index(kkbox_ids)
     for _, _, row in iter_rows(sites):
         counts["rows"] += 1
         key = match.song_key(row.get("title"), row.get("artist"))
-        for field in ("genre", "apple"):
+        for field in ("genre", "apple", "bpm"):
             row.pop(field, None)
         entry = cache.get(key) if not key.startswith("|") else None
         if entry and entry.get("status") == "ok":
@@ -255,6 +265,10 @@ def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict) -> dict:
             if entry.get("id") and entry.get("cc"):
                 row["apple"] = f"{entry['cc']}/{entry['id']}"
                 counts["apple"] += 1
+        tempo = bpm.get(key) if not key.startswith("|") else None
+        if tempo and tempo.get("status") == "ok" and tempo.get("bpm"):
+            row["bpm"] = round(tempo["bpm"])
+            counts["bpm"] += 1
         if not row.get("kkbox") and not key.startswith("|"):
             kid = kkbox_ids.get(key) or fuzzy_kkbox(key, prefix_index)
             if kid:
@@ -277,7 +291,7 @@ def apply_files(site_dir: Path = SITE_DATA) -> dict:
     kkbox_ids = load_cache(KKBOX_IDS)
     if collect_kkbox_ids(sites, kkbox_ids):
         save_cache(KKBOX_IDS, kkbox_ids)
-    counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids)
+    counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids, load_cache(BPM_CACHE))
     write_sites(sites, site_dir)
     return counts
 

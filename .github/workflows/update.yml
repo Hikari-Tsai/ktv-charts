@@ -11,6 +11,7 @@ on:
       - "site/**"
       - "scraper/**"
       - "tests/**"
+      - "requirements-bpm.txt"
       - ".github/workflows/update.yml"
 
 permissions:
@@ -25,7 +26,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 75
     steps:
       # Start from the latest commit on the branch, not the one that queued this run:
       # an earlier run may have pushed new data while this one was waiting.
@@ -36,6 +37,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-bpm.txt
 
       - name: Run tests
         run: python -m unittest discover -s tests -t .
@@ -47,7 +50,29 @@ jobs:
       # A failure here only means fewer tags today; the rankings still publish.
       - name: Look up genres and listen links
         continue-on-error: true
+        timeout-minutes: 30
         run: python -m scraper.enrich --max 300 --budget 1500
+
+      # BPM uses the Beat This! ONNX model (aaatmy/beat-this-onnx) on iTunes previews.
+      - name: Install BPM tools
+        id: bpm-tools
+        continue-on-error: true
+        timeout-minutes: 10
+        run: |
+          command -v ffmpeg || { sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends ffmpeg; }
+          python -m pip install -q -r requirements-bpm.txt
+
+      - name: Cache Beat This! model
+        uses: actions/cache@v4
+        with:
+          path: .cache/beat-this
+          key: beat-this-e2c0d4376fac8141905a8312c1b327849751d59c
+
+      - name: Detect BPM
+        if: steps.bpm-tools.outcome == 'success'
+        continue-on-error: true
+        timeout-minutes: 25
+        run: python -m scraper.bpm --max 300 --budget 1200
 
       - name: Commit data
         run: |

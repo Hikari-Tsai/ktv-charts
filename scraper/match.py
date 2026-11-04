@@ -12,7 +12,7 @@ _FEAT = re.compile(r"\s+(feat\.?|ft\.?|featuring|with)\s+.*$", re.I)
 _ARTIST_SPLIT = re.compile(r"\s*(?:、|,|，|&|＆|/|／|×|\+|;|\s(?:feat\.?|ft\.?)\s)\s*", re.I)
 _NON_WORD = re.compile(r"[\W_]+")
 _BAD_VERSION = re.compile(
-    r"\b(live|instrumental|inst\.?|karaoke|off\s*vocal|backing\s*track|remix|acoustic ver|tv\s*size|cover)\b"
+    r"\b(live|instrumental|inst\.?|karaoke|off\s*vocal|backing\s*track|remix|acoustic(\s*ver(sion)?)?|tv\s*size|cover)\b"
     r"|カラオケ|オフボーカル|伴奏|純音樂|演奏|ライブ|現場",
     re.I,
 )

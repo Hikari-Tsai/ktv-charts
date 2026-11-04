@@ -209,6 +209,19 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
 .song-title a:hover { text-decoration: underline; }
 .song-sub { color: var(--muted); font-size: 0.85rem; overflow-wrap: anywhere; }
 .song-no { font-variant-numeric: tabular-nums; margin-left: 6px; opacity: 0.85; white-space: nowrap; display: inline-block; }
+.bpm {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 0 6px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  color: var(--text);
+  white-space: nowrap;
+}
 
 .tag {
   --h: 0;

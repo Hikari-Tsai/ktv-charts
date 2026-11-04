@@ -26,7 +26,8 @@ const I18N = {
     closePlayer: "再點一次收起播放器",
     searchHint: "沒有找到對應曲目，改為搜尋「{q}」",
     genreHint: "曲風：{g}（Apple Music 分類）",
-    genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API。",
+    genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API；BPM 由 Beat This! 模型分析 30 秒試聽估算。",
+    bpmHint: "由 Beat This! 模型分析 30 秒試聽估算，可能是實際速度的一半或兩倍",
     region_tw: "台灣",
     region_jp: "日本",
     streaming: "串流",
@@ -63,7 +64,8 @@ const I18N = {
     closePlayer: "Click again to close the player",
     searchHint: "No matching track found; searches for “{q}”",
     genreHint: "Genre: {g} (Apple Music category)",
-    genreCredit: "Genres and Apple Music links come from the iTunes Search API.",
+    genreCredit: "Genres and Apple Music links come from the iTunes Search API; BPM is estimated from 30-second previews with the Beat This! model.",
+    bpmHint: "Estimated from a 30-second preview with the Beat This! model; may be half or double the real tempo",
     region_tw: "Taiwan",
     region_jp: "Japan",
     streaming: "Streaming",
@@ -100,7 +102,8 @@ const I18N = {
     closePlayer: "もう一度押すとプレーヤーを閉じます",
     searchHint: "該当曲が見つからないため「{q}」を検索します",
     genreHint: "ジャンル：{g}（Apple Music の分類）",
-    genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API から取得しています。",
+    genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API から取得し、BPM は Beat This! モデルで 30 秒の試聴音源から推定しています。",
+    bpmHint: "Beat This! モデルで 30 秒の試聴音源から推定。実際のテンポの半分または倍の場合があります",
     region_tw: "台湾",
     region_jp: "日本",
     streaming: "ストリーミング",
@@ -443,6 +446,7 @@ function songCell(row) {
     : row.title;
   const sub = el("div", { class: "song-sub" }, row.artist || "");
   if (row.song_no) sub.append(el("span", { class: "song-no", title: t("songNo"), text: `#${row.song_no}` }));
+  if (row.bpm) sub.append(el("span", { class: "bpm", title: t("bpmHint"), text: `${row.bpm} BPM` }));
   const head = el("div", { class: "song-title" }, titleNode);
   const tag = genreTag(row);
   if (tag) head.append(" ", tag);

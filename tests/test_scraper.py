@@ -9,7 +9,7 @@ from unittest import mock
 import datetime as dt
 
 import scraper.__main__ as main
-from scraper import enrich, match
+from scraper import bpm, enrich, match
 from scraper.history import History, period_key, song_key
 from scraper.sources import dam, joysound, kkbox
 
@@ -220,6 +220,48 @@ class CacheTest(unittest.TestCase):
     def test_missing_cache_is_empty(self):
         with tempfile.TemporaryDirectory() as tmp:
             self.assertEqual(enrich.load_cache(Path(tmp) / "none.json"), {})
+
+
+class BpmTest(unittest.TestCase):
+    def test_chunk_starts_match_space(self):
+        self.assertEqual(bpm.chunk_starts(1000), [-6])
+        self.assertEqual(bpm.chunk_starts(1501), [-6, 7])           # 30 s preview: two chunks
+        self.assertEqual(bpm.chunk_starts(3000), [-6, 1482, 1506])
+
+    def test_peaks_and_dedupe(self):
+        logits = [-1.0] * 100
+        for f in (10, 35, 60, 85):
+            logits[f] = 2.0
+        logits[61] = 2.0  # plateau of two frames -> one beat at their mean
+        self.assertEqual(bpm.peaks(logits), [0.2, 0.7, 60.5 / 50, 1.7])
+
+    def test_constant_tempo(self):
+        beats = [i * 0.5 for i in range(16)]        # 120 BPM, a downbeat every 4 beats
+        down = beats[::4]
+        r = bpm.estimate_tempo(beats, down)
+        self.assertEqual((r["bpm"], r["mode"], r["signature"]), (120.0, "constant", 4))
+
+    def test_too_few_beats(self):
+        self.assertIsNone(bpm.estimate_tempo([1.0], []))
+
+    def test_new_itunes_match_triggers_reanalysis(self):
+        sites = {"holiday": {"charts": [{"id": "a", "rows": [{"rank": 1, "title": "Baby", "artist": "Justin Bieber"}]}]}}
+        key = match.song_key("Baby", "Justin Bieber")
+        itunes = {key: {"status": "ok", "id": 2, "cc": "tw"}}
+        done = {key: {"status": "ok", "track": "tw/2", "bpm": 65}}
+        self.assertEqual(bpm.candidates(sites, itunes, done, dt.date(2026, 11, 4)), [])
+        stale = {key: {"status": "ok", "track": "tw/1", "bpm": 130}}
+        self.assertEqual(len(bpm.candidates(sites, itunes, stale, dt.date(2026, 11, 4))), 1)
+
+
+class RecheckTest(unittest.TestCase):
+    def test_suspect_version_is_rechecked_once(self):
+        sites = {"holiday": {"charts": [{"id": "a", "rows": [{"rank": 1, "title": "Creep", "artist": "Radiohead"}]}]}}
+        key = match.song_key("Creep", "Radiohead")
+        cache = {key: {"status": "ok", "name": "Creep (Acoustic)", "checked": "2026-11-01"}}
+        self.assertEqual(len(enrich.candidates(sites, cache, dt.date(2026, 11, 4))), 1)
+        cache[key]["rechecked"] = "2026-11-03"
+        self.assertEqual(enrich.candidates(sites, cache, dt.date(2026, 11, 4)), [])
 
 
 class FallbackTest(unittest.TestCase):
