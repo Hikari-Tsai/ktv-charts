@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.clubdam.com/",
- "checked_at": "2026-11-04T20:29:37+08:00",
+ "checked_at": "2026-11-04T21:30:33+08:00",
  "errors": [],
  "charts": [
   {
@@ -1124,7 +1124,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1440792118"
+     "apple": "jp/1440792118",
+     "bpm": 87
     },
     {
      "rank": 93,
@@ -1171,7 +1172,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1156375396"
+     "apple": "jp/1156375396",
+     "bpm": 158
     },
     {
      "rank": 97,
@@ -1194,7 +1196,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1537750619"
+     "apple": "jp/1537750619",
+     "bpm": 77
     },
     {
      "rank": 99,
@@ -1205,7 +1208,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Hip-Hop/Rap",
-     "apple": "jp/1443314142"
+     "apple": "jp/1443314142",
+     "bpm": 85
     },
     {
      "rank": 100,
@@ -1222,7 +1226,7 @@
    ],
    "period_key": "2026-11-03",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:28+08:00",
+   "fetched_at": "2026-11-04T21:30:23+08:00",
    "stale": false
   },
   {
@@ -2340,7 +2344,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1536186630"
+     "apple": "jp/1536186630",
+     "bpm": 74
     },
     {
      "rank": 93,
@@ -2399,7 +2404,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1537750619"
+     "apple": "jp/1537750619",
+     "bpm": 77
     },
     {
      "rank": 98,
@@ -2423,7 +2429,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/1440746483"
+     "apple": "jp/1440746483",
+     "bpm": 111
     },
     {
      "rank": 100,
@@ -2440,7 +2447,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:28+08:00",
+   "fetched_at": "2026-11-04T21:30:23+08:00",
    "stale": false
   },
   {
@@ -3521,7 +3528,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1537750619"
+     "apple": "jp/1537750619",
+     "bpm": 77
     },
     {
      "rank": 90,
@@ -3580,7 +3588,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1536186630"
+     "apple": "jp/1536186630",
+     "bpm": 74
     },
     {
      "rank": 95,
@@ -3603,7 +3612,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/1440746483"
+     "apple": "jp/1440746483",
+     "bpm": 111
     },
     {
      "rank": 97,
@@ -3626,7 +3636,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1440792118"
+     "apple": "jp/1440792118",
+     "bpm": 87
     },
     {
      "rank": 99,
@@ -3649,12 +3660,13 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/305785884"
+     "apple": "jp/305785884",
+     "bpm": 84
     }
    ],
    "period_key": "2026-10-01_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:28+08:00",
+   "fetched_at": "2026-11-04T21:30:23+08:00",
    "stale": false
   },
   {
@@ -4725,7 +4737,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Enka",
-     "apple": "jp/1432337312"
+     "apple": "jp/1432337312",
+     "bpm": 89
     },
     {
      "rank": 90,
@@ -4736,7 +4749,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Kayokyoku",
-     "apple": "jp/1783716143"
+     "apple": "jp/1783716143",
+     "bpm": 120
     },
     {
      "rank": 91,
@@ -4747,7 +4761,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1841823360"
+     "apple": "jp/1841823360",
+     "bpm": 138
     },
     {
      "rank": 92,
@@ -4758,7 +4773,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/508372562"
+     "apple": "jp/508372562",
+     "bpm": 114
     },
     {
      "rank": 93,
@@ -4814,7 +4830,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Kayokyoku",
-     "apple": "jp/1440771140"
+     "apple": "jp/1440771140",
+     "bpm": 71
     },
     {
      "rank": 98,
@@ -4825,7 +4842,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1348205599"
+     "apple": "jp/1348205599",
+     "bpm": 160
     },
     {
      "rank": 99,
@@ -4849,12 +4867,13 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/989824416"
+     "apple": "jp/989824416",
+     "bpm": 78
     }
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:29+08:00",
+   "fetched_at": "2026-11-04T21:30:25+08:00",
    "stale": false
   },
   {
@@ -5964,7 +5983,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/1536374943"
+     "apple": "jp/1536374943",
+     "bpm": 190
     },
     {
      "rank": 93,
@@ -5975,7 +5995,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1538262381"
+     "apple": "jp/1538262381",
+     "bpm": 123
     },
     {
      "rank": 94,
@@ -6007,7 +6028,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Soundtrack",
-     "apple": "jp/1549781226"
+     "apple": "jp/1549781226",
+     "bpm": 131
     },
     {
      "rank": 97,
@@ -6042,7 +6064,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/1536357607"
+     "apple": "jp/1536357607",
+     "bpm": 173
     },
     {
      "rank": 100,
@@ -6053,12 +6076,13 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Anime",
-     "apple": "jp/6792290934"
+     "apple": "jp/6792290934",
+     "bpm": 134
     }
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:31+08:00",
+   "fetched_at": "2026-11-04T21:30:26+08:00",
    "stale": false
   },
   {
@@ -7137,7 +7161,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1794967656"
+     "apple": "jp/1794967656",
+     "bpm": 203
     },
     {
      "rank": 92,
@@ -7160,7 +7185,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/1332595713"
+     "apple": "jp/1332595713",
+     "bpm": 185
     },
     {
      "rank": 94,
@@ -7171,7 +7197,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Anime",
-     "apple": "jp/1701094176"
+     "apple": "jp/1701094176",
+     "bpm": 158
     },
     {
      "rank": 95,
@@ -7182,7 +7209,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Anime",
-     "apple": "jp/1659812867"
+     "apple": "jp/1659812867",
+     "bpm": 135
     },
     {
      "rank": 96,
@@ -7193,7 +7221,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Anime",
-     "apple": "jp/1648877028"
+     "apple": "jp/1648877028",
+     "bpm": 74
     },
     {
      "rank": 97,
@@ -7204,7 +7233,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Anime",
-     "apple": "jp/6776638102"
+     "apple": "jp/6776638102",
+     "bpm": 95
     },
     {
      "rank": 98,
@@ -7224,7 +7254,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Anime",
-     "apple": "jp/766397057"
+     "apple": "jp/766397057",
+     "bpm": 120
     },
     {
      "rank": 100,
@@ -7241,7 +7272,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:32+08:00",
+   "fetched_at": "2026-11-04T21:30:28+08:00",
    "stale": false
   },
   {
@@ -8341,7 +8372,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/6810595280"
+     "apple": "jp/6810595280",
+     "bpm": 119
     },
     {
      "rank": 92,
@@ -8352,7 +8384,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1818285073"
+     "apple": "jp/1818285073",
+     "bpm": 123
     },
     {
      "rank": 93,
@@ -8363,7 +8396,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1800404887"
+     "apple": "jp/1800404887",
+     "bpm": 103
     },
     {
      "rank": 94,
@@ -8374,7 +8408,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1580886351"
+     "apple": "jp/1580886351",
+     "bpm": 183
     },
     {
      "rank": 95,
@@ -8385,7 +8420,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1791041445"
+     "apple": "jp/1791041445",
+     "bpm": 170
     },
     {
      "rank": 96,
@@ -8396,7 +8432,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1769305967"
+     "apple": "jp/1769305967",
+     "bpm": 144
     },
     {
      "rank": 97,
@@ -8407,7 +8444,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Hip-Hop/Rap",
-     "apple": "jp/1852707917"
+     "apple": "jp/1852707917",
+     "bpm": 145
     },
     {
      "rank": 97,
@@ -8418,7 +8456,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1808602518"
+     "apple": "jp/1808602518",
+     "bpm": 141
     },
     {
      "rank": 99,
@@ -8429,7 +8468,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1503485083"
+     "apple": "jp/1503485083",
+     "bpm": 162
     },
     {
      "rank": 100,
@@ -8440,12 +8480,13 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1793522715"
+     "apple": "jp/1793522715",
+     "bpm": 80
     }
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:33+08:00",
+   "fetched_at": "2026-11-04T21:30:29+08:00",
    "stale": false
   },
   {
@@ -9559,7 +9600,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Kayokyoku",
-     "apple": "jp/896503487"
+     "apple": "jp/896503487",
+     "bpm": 66
     },
     {
      "rank": 93,
@@ -9583,7 +9625,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Enka",
-     "apple": "jp/567652749"
+     "apple": "jp/567652749",
+     "bpm": 99
     },
     {
      "rank": 95,
@@ -9594,7 +9637,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Kayokyoku",
-     "apple": "jp/1646217984"
+     "apple": "jp/1646217984",
+     "bpm": 137
     },
     {
      "rank": 96,
@@ -9659,7 +9703,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:35+08:00",
+   "fetched_at": "2026-11-04T21:30:30+08:00",
    "stale": false
   },
   {
@@ -10791,7 +10835,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "R&B/Soul",
-     "apple": "tw/255343130"
+     "apple": "tw/255343130",
+     "bpm": 118
     },
     {
      "rank": 96,
@@ -10802,7 +10847,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "tw/1640102584"
+     "apple": "tw/1640102584",
+     "bpm": 129
     },
     {
      "rank": 97,
@@ -10813,7 +10859,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Soundtrack",
-     "apple": "tw/1442721925"
+     "apple": "tw/1442721925",
+     "bpm": 81
     },
     {
      "rank": 98,
@@ -10824,7 +10871,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Soundtrack",
-     "apple": "tw/1434371887"
+     "apple": "tw/1434371887",
+     "bpm": 96
     },
     {
      "rank": 99,
@@ -10835,7 +10883,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Pop",
-     "apple": "jp/712347159"
+     "apple": "jp/712347159",
+     "bpm": 112
     },
     {
      "rank": 100,
@@ -10846,12 +10895,13 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Pop",
-     "apple": "tw/1866732797"
+     "apple": "tw/1866732797",
+     "bpm": 86
     }
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:36+08:00",
+   "fetched_at": "2026-11-04T21:30:32+08:00",
    "stale": false
   },
   {
@@ -11914,7 +11964,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Kayokyoku",
-     "apple": "jp/1136539460"
+     "apple": "jp/1136539460",
+     "bpm": 116
     },
     {
      "rank": 90,
@@ -11925,7 +11976,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1445118709"
+     "apple": "jp/1445118709",
+     "bpm": 125
     },
     {
      "rank": 91,
@@ -11936,7 +11988,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/1548406507"
+     "apple": "jp/1548406507",
+     "bpm": 79
     },
     {
      "rank": 92,
@@ -11947,7 +12000,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Enka",
-     "apple": "jp/1597301762"
+     "apple": "jp/1597301762",
+     "bpm": 106
     },
     {
      "rank": 93,
@@ -11958,7 +12012,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Kayokyoku",
-     "apple": "jp/160620050"
+     "apple": "jp/160620050",
+     "bpm": 122
     },
     {
      "rank": 94,
@@ -11969,7 +12024,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1810399790"
+     "apple": "jp/1810399790",
+     "bpm": 125
     },
     {
      "rank": 95,
@@ -11980,7 +12036,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Rock",
-     "apple": "jp/1536479348"
+     "apple": "jp/1536479348",
+     "bpm": 136
     },
     {
      "rank": 96,
@@ -11991,7 +12048,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1780907436"
+     "apple": "jp/1780907436",
+     "bpm": 74
     },
     {
      "rank": 97,
@@ -12002,7 +12060,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1810378480"
+     "apple": "jp/1810378480",
+     "bpm": 127
     },
     {
      "rank": 98,
@@ -12013,7 +12072,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/772944903"
+     "apple": "jp/772944903",
+     "bpm": 75
     },
     {
      "rank": 99,
@@ -12024,7 +12084,8 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1440748210"
+     "apple": "jp/1440748210",
+     "bpm": 72
     },
     {
      "rank": 100,
@@ -12035,12 +12096,13 @@
      "last_rank": null,
      "is_new": null,
      "genre": "J-Pop",
-     "apple": "jp/1770273730"
+     "apple": "jp/1770273730",
+     "bpm": 86
     }
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-04T20:29:37+08:00",
+   "fetched_at": "2026-11-04T21:30:33+08:00",
    "stale": false
   }
  ]
