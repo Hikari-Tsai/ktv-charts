@@ -2,12 +2,12 @@
  "source": "holiday",
  "name": {
   "zh": "好樂迪",
-  "en": "Holiday KTV",
-  "ja": "好樂迪 (Holiday KTV)"
+  "en": "Holiday",
+  "ja": "好樂迪 (Holiday)"
  },
  "region": "tw",
  "site_url": "https://www.holiday.com.tw/",
- "checked_at": "2026-11-04T09:58:35+08:00",
+ "checked_at": "2026-11-04T10:06:41+08:00",
  "errors": [],
  "charts": [
   {
@@ -263,7 +263,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:18+08:00",
+   "fetched_at": "2026-11-04T10:06:13+08:00",
    "stale": false
   },
   {
@@ -519,7 +519,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:20+08:00",
+   "fetched_at": "2026-11-04T10:06:17+08:00",
    "stale": false
   },
   {
@@ -775,7 +775,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:23+08:00",
+   "fetched_at": "2026-11-04T10:06:20+08:00",
    "stale": false
   },
   {
@@ -1031,7 +1031,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:25+08:00",
+   "fetched_at": "2026-11-04T10:06:26+08:00",
    "stale": false
   },
   {
@@ -1287,7 +1287,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:27+08:00",
+   "fetched_at": "2026-11-04T10:06:29+08:00",
    "stale": false
   },
   {
@@ -1543,7 +1543,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:29+08:00",
+   "fetched_at": "2026-11-04T10:06:32+08:00",
    "stale": false
   },
   {
@@ -1687,7 +1687,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:30+08:00",
+   "fetched_at": "2026-11-04T10:06:34+08:00",
    "stale": false
   },
   {
@@ -1943,7 +1943,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:33+08:00",
+   "fetched_at": "2026-11-04T10:06:37+08:00",
    "stale": false
   },
   {
@@ -2199,7 +2199,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T09:58:35+08:00",
+   "fetched_at": "2026-11-04T10:06:41+08:00",
    "stale": false
   }
  ]
