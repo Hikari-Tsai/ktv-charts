@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "streaming",
  "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
- "checked_at": "2026-11-04T18:05:40+08:00",
+ "checked_at": "2026-11-04T18:33:35+08:00",
  "errors": [],
  "charts": [
   {
@@ -333,7 +333,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "TV Soundtrack",
-     "apple": "tw/1874801993"
+     "apple": "tw/1874801993",
+     "bpm": 76
     },
     {
      "rank": 28,
@@ -380,7 +381,8 @@
      "last_rank": 31,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1671925506"
+     "apple": "tw/1671925506",
+     "bpm": 69
     },
     {
      "rank": 32,
@@ -403,7 +405,8 @@
      "last_rank": 74,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1561723724"
+     "apple": "tw/1561723724",
+     "bpm": 74
     },
     {
      "rank": 34,
@@ -459,7 +462,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1766456183"
+     "apple": "tw/1766456183",
+     "bpm": 75
     },
     {
      "rank": 39,
@@ -518,7 +522,8 @@
      "last_rank": 69,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1017697311"
+     "apple": "tw/1017697311",
+     "bpm": 79
     },
     {
      "rank": 44,
@@ -541,7 +546,8 @@
      "last_rank": 54,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1053567928"
+     "apple": "tw/1053567928",
+     "bpm": 136
     },
     {
      "rank": 46,
@@ -564,7 +570,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1624001324"
+     "apple": "tw/1624001324",
+     "bpm": 82
     },
     {
      "rank": 48,
@@ -605,7 +612,7 @@
    ],
    "period_key": "2026-11-03",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:17+08:00",
+   "fetched_at": "2026-11-04T18:33:12+08:00",
    "stale": false
   },
   {
@@ -942,7 +949,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1671925506"
+     "apple": "tw/1671925506",
+     "bpm": 69
     },
     {
      "rank": 29,
@@ -1034,7 +1042,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1624001324"
+     "apple": "tw/1624001324",
+     "bpm": 82
     },
     {
      "rank": 37,
@@ -1045,7 +1054,8 @@
      "last_rank": 10,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6812635396"
+     "apple": "tw/6812635396",
+     "bpm": 116
     },
     {
      "rank": 38,
@@ -1086,7 +1096,8 @@
      "last_rank": 51,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1678416852"
+     "apple": "tw/1678416852",
+     "bpm": 124
     },
     {
      "rank": 42,
@@ -1121,7 +1132,8 @@
      "last_rank": 52,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1766456183"
+     "apple": "tw/1766456183",
+     "bpm": 75
     },
     {
      "rank": 45,
@@ -1132,7 +1144,8 @@
      "last_rank": 54,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/536030695"
+     "apple": "tw/536030695",
+     "bpm": 108
     },
     {
      "rank": 46,
@@ -1155,7 +1168,8 @@
      "last_rank": 48,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1880274139"
+     "apple": "tw/1880274139",
+     "bpm": 67
     },
     {
      "rank": 48,
@@ -1178,7 +1192,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "TV Soundtrack",
-     "apple": "tw/1874801993"
+     "apple": "tw/1874801993",
+     "bpm": 76
     },
     {
      "rank": 50,
@@ -1194,7 +1209,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:19+08:00",
+   "fetched_at": "2026-11-04T18:33:13+08:00",
    "stale": false
   },
   {
@@ -1540,7 +1555,8 @@
      "last_rank": 28,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1442057187"
+     "apple": "tw/1442057187",
+     "bpm": 72
     },
     {
      "rank": 29,
@@ -1551,7 +1567,8 @@
      "last_rank": 25,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1386014644"
+     "apple": "tw/1386014644",
+     "bpm": 82
     },
     {
      "rank": 30,
@@ -1586,7 +1603,8 @@
      "last_rank": 24,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1837261626"
+     "apple": "tw/1837261626",
+     "bpm": 119
     },
     {
      "rank": 33,
@@ -1609,7 +1627,8 @@
      "last_rank": 37,
      "is_new": false,
      "genre": "Taiwanese Folk",
-     "apple": "tw/1827700669"
+     "apple": "tw/1827700669",
+     "bpm": 144
     },
     {
      "rank": 35,
@@ -1620,7 +1639,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1048869748"
+     "apple": "tw/1048869748",
+     "bpm": 76
     },
     {
      "rank": 36,
@@ -1631,7 +1651,8 @@
      "last_rank": 38,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1859554870"
+     "apple": "tw/1859554870",
+     "bpm": 67
     },
     {
      "rank": 37,
@@ -1651,7 +1672,8 @@
      "last_rank": 43,
      "is_new": false,
      "genre": "Taiwanese Folk",
-     "apple": "tw/1689528098"
+     "apple": "tw/1689528098",
+     "bpm": 94
     },
     {
      "rank": 39,
@@ -1662,7 +1684,8 @@
      "last_rank": 44,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/717096767"
+     "apple": "tw/717096767",
+     "bpm": 66
     },
     {
      "rank": 40,
@@ -1673,7 +1696,8 @@
      "last_rank": 35,
      "is_new": false,
      "genre": "Chinese",
-     "apple": "tw/6767456674"
+     "apple": "tw/6767456674",
+     "bpm": 66
     },
     {
      "rank": 41,
@@ -1684,7 +1708,8 @@
      "last_rank": 45,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/379810435"
+     "apple": "tw/379810435",
+     "bpm": 65
     },
     {
      "rank": 42,
@@ -1695,7 +1720,8 @@
      "last_rank": 46,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1772802849"
+     "apple": "tw/1772802849",
+     "bpm": 73
     },
     {
      "rank": 43,
@@ -1706,7 +1732,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1538171676"
+     "apple": "tw/1538171676",
+     "bpm": 90
     },
     {
      "rank": 44,
@@ -1717,7 +1744,8 @@
      "last_rank": 42,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1048871279"
+     "apple": "tw/1048871279",
+     "bpm": 69
     },
     {
      "rank": 45,
@@ -1737,7 +1765,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1189062753"
+     "apple": "tw/1189062753",
+     "bpm": 86
     },
     {
      "rank": 47,
@@ -1748,7 +1777,8 @@
      "last_rank": 56,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1080880430"
+     "apple": "tw/1080880430",
+     "bpm": 95
     },
     {
      "rank": 48,
@@ -1759,7 +1789,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1510114888"
+     "apple": "tw/1510114888",
+     "bpm": 135
     },
     {
      "rank": 49,
@@ -1770,7 +1801,8 @@
      "last_rank": 47,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1846559996"
+     "apple": "tw/1846559996",
+     "bpm": 115
     },
     {
      "rank": 50,
@@ -1781,12 +1813,13 @@
      "last_rank": 48,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/905215581"
+     "apple": "tw/905215581",
+     "bpm": 84
     }
    ],
    "period_key": "2026-11-03",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:21+08:00",
+   "fetched_at": "2026-11-04T18:33:16+08:00",
    "stale": false
   },
   {
@@ -2141,7 +2174,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1442057187"
+     "apple": "tw/1442057187",
+     "bpm": 72
     },
     {
      "rank": 30,
@@ -2152,7 +2186,8 @@
      "last_rank": 26,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1837261626"
+     "apple": "tw/1837261626",
+     "bpm": 119
     },
     {
      "rank": 31,
@@ -2163,7 +2198,8 @@
      "last_rank": 28,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1386014644"
+     "apple": "tw/1386014644",
+     "bpm": 82
     },
     {
      "rank": 32,
@@ -2186,7 +2222,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "Taiwanese Folk",
-     "apple": "tw/1827700669"
+     "apple": "tw/1827700669",
+     "bpm": 144
     },
     {
      "rank": 34,
@@ -2197,7 +2234,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "Chinese",
-     "apple": "tw/6767456674"
+     "apple": "tw/6767456674",
+     "bpm": 66
     },
     {
      "rank": 35,
@@ -2220,7 +2258,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "Taiwanese Folk",
-     "apple": "tw/1689528098"
+     "apple": "tw/1689528098",
+     "bpm": 94
     },
     {
      "rank": 37,
@@ -2231,7 +2270,8 @@
      "last_rank": 51,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1048871279"
+     "apple": "tw/1048871279",
+     "bpm": 69
     },
     {
      "rank": 38,
@@ -2242,7 +2282,8 @@
      "last_rank": 70,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/6815194342"
+     "apple": "tw/6815194342",
+     "bpm": 68
     },
     {
      "rank": 39,
@@ -2253,7 +2294,8 @@
      "last_rank": 38,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1859554870"
+     "apple": "tw/1859554870",
+     "bpm": 67
     },
     {
      "rank": 40,
@@ -2264,7 +2306,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1746679989"
+     "apple": "tw/1746679989",
+     "bpm": 116
     },
     {
      "rank": 41,
@@ -2275,7 +2318,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1048869748"
+     "apple": "tw/1048869748",
+     "bpm": 76
     },
     {
      "rank": 42,
@@ -2286,7 +2330,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/379810435"
+     "apple": "tw/379810435",
+     "bpm": 65
     },
     {
      "rank": 43,
@@ -2297,7 +2342,8 @@
      "last_rank": 66,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/905215581"
+     "apple": "tw/905215581",
+     "bpm": 84
     },
     {
      "rank": 44,
@@ -2308,7 +2354,8 @@
      "last_rank": 43,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1492392343"
+     "apple": "tw/1492392343",
+     "bpm": 77
     },
     {
      "rank": 45,
@@ -2319,7 +2366,8 @@
      "last_rank": 49,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1772802849"
+     "apple": "tw/1772802849",
+     "bpm": 73
     },
     {
      "rank": 46,
@@ -2330,7 +2378,8 @@
      "last_rank": 57,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1689556693"
+     "apple": "tw/1689556693",
+     "bpm": 64
     },
     {
      "rank": 47,
@@ -2341,7 +2390,8 @@
      "last_rank": 47,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/717096767"
+     "apple": "tw/717096767",
+     "bpm": 66
     },
     {
      "rank": 48,
@@ -2352,7 +2402,8 @@
      "last_rank": 42,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1846559996"
+     "apple": "tw/1846559996",
+     "bpm": 115
     },
     {
      "rank": 49,
@@ -2363,7 +2414,8 @@
      "last_rank": 45,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/1189062753"
+     "apple": "tw/1189062753",
+     "bpm": 86
     },
     {
      "rank": 50,
@@ -2379,7 +2431,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:23+08:00",
+   "fetched_at": "2026-11-04T18:33:17+08:00",
    "stale": false
   },
   {
@@ -2722,7 +2774,8 @@
      "last_rank": 26,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6820694260"
+     "apple": "tw/6820694260",
+     "bpm": 104
     },
     {
      "rank": 29,
@@ -2745,7 +2798,8 @@
      "last_rank": 38,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1440829613"
+     "apple": "tw/1440829613",
+     "bpm": 100
     },
     {
      "rank": 31,
@@ -2780,7 +2834,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "Soundtrack",
-     "apple": "tw/1434372043"
+     "apple": "tw/1434372043",
+     "bpm": 66
     },
     {
      "rank": 34,
@@ -2791,7 +2846,8 @@
      "last_rank": 31,
      "is_new": false,
      "genre": "Hip-Hop/Rap",
-     "apple": "tw/1029609244"
+     "apple": "tw/1029609244",
+     "bpm": 82
     },
     {
      "rank": 35,
@@ -2826,7 +2882,8 @@
      "last_rank": 48,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1193701400"
+     "apple": "tw/1193701400",
+     "bpm": 190
     },
     {
      "rank": 38,
@@ -2837,7 +2894,8 @@
      "last_rank": 37,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1869130804"
+     "apple": "tw/1869130804",
+     "bpm": 115
     },
     {
      "rank": 39,
@@ -2848,7 +2906,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6816901425"
+     "apple": "tw/6816901425",
+     "bpm": 77
     },
     {
      "rank": 40,
@@ -2859,7 +2918,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "Alternative",
-     "apple": "tw/1536561036"
+     "apple": "tw/1536561036",
+     "bpm": 110
     },
     {
      "rank": 41,
@@ -2870,7 +2930,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1137789930"
+     "apple": "tw/1137789930",
+     "bpm": 100
     },
     {
      "rank": 42,
@@ -2881,7 +2942,8 @@
      "last_rank": 35,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6820341520"
+     "apple": "tw/6820341520",
+     "bpm": 77
     },
     {
      "rank": 43,
@@ -2892,7 +2954,8 @@
      "last_rank": 44,
      "is_new": false,
      "genre": "Dance",
-     "apple": "tw/1136768508"
+     "apple": "tw/1136768508",
+     "bpm": 103
     },
     {
      "rank": 44,
@@ -2930,7 +2993,8 @@
      "last_rank": 46,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1659828259"
+     "apple": "tw/1659828259",
+     "bpm": 63
     },
     {
      "rank": 48,
@@ -2941,7 +3005,8 @@
      "last_rank": 62,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1468910018"
+     "apple": "tw/1468910018",
+     "bpm": 117
     },
     {
      "rank": 49,
@@ -2952,7 +3017,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6827357438"
+     "apple": "tw/6827357438",
+     "bpm": 89
     },
     {
      "rank": 50,
@@ -2963,12 +3029,13 @@
      "last_rank": 51,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/578054244"
+     "apple": "tw/578054244",
+     "bpm": 109
     }
    ],
    "period_key": "2026-11-03",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:25+08:00",
+   "fetched_at": "2026-11-04T18:33:20+08:00",
    "stale": false
   },
   {
@@ -3311,7 +3378,8 @@
      "last_rank": 31,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1440829613"
+     "apple": "tw/1440829613",
+     "bpm": 100
     },
     {
      "rank": 29,
@@ -3322,7 +3390,8 @@
      "last_rank": 23,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6812633060"
+     "apple": "tw/6812633060",
+     "bpm": 126
     },
     {
      "rank": 30,
@@ -3333,7 +3402,8 @@
      "last_rank": 29,
      "is_new": false,
      "genre": "Hip-Hop/Rap",
-     "apple": "tw/1029609244"
+     "apple": "tw/1029609244",
+     "bpm": 82
     },
     {
      "rank": 31,
@@ -3344,7 +3414,8 @@
      "last_rank": 37,
      "is_new": false,
      "genre": "Children’s Music",
-     "apple": "tw/1264976429"
+     "apple": "tw/1264976429",
+     "bpm": 118
     },
     {
      "rank": 32,
@@ -3355,7 +3426,8 @@
      "last_rank": 27,
      "is_new": false,
      "genre": "Soundtrack",
-     "apple": "tw/1434372043"
+     "apple": "tw/1434372043",
+     "bpm": 66
     },
     {
      "rank": 33,
@@ -3366,7 +3438,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1137789930"
+     "apple": "tw/1137789930",
+     "bpm": 100
     },
     {
      "rank": 34,
@@ -3386,7 +3459,8 @@
      "last_rank": 46,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6768469976"
+     "apple": "tw/6768469976",
+     "bpm": 116
     },
     {
      "rank": 36,
@@ -3397,7 +3471,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1869130804"
+     "apple": "tw/1869130804",
+     "bpm": 115
     },
     {
      "rank": 37,
@@ -3408,7 +3483,8 @@
      "last_rank": 57,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1709555102"
+     "apple": "tw/1709555102",
+     "bpm": 125
     },
     {
      "rank": 38,
@@ -3419,7 +3495,8 @@
      "last_rank": 22,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6820341520"
+     "apple": "tw/6820341520",
+     "bpm": 77
     },
     {
      "rank": 39,
@@ -3430,7 +3507,8 @@
      "last_rank": 33,
      "is_new": false,
      "genre": "Alternative",
-     "apple": "tw/1536561036"
+     "apple": "tw/1536561036",
+     "bpm": 110
     },
     {
      "rank": 40,
@@ -3441,7 +3519,8 @@
      "last_rank": 25,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1659828259"
+     "apple": "tw/1659828259",
+     "bpm": 63
     },
     {
      "rank": 41,
@@ -3452,7 +3531,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Pop",
-     "apple": "tw/545728187"
+     "apple": "tw/545728187",
+     "bpm": 95
     },
     {
      "rank": 42,
@@ -3463,7 +3543,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1822714116"
+     "apple": "tw/1822714116",
+     "bpm": 133
     },
     {
      "rank": 43,
@@ -3486,7 +3567,8 @@
      "last_rank": 35,
      "is_new": false,
      "genre": "Dance",
-     "apple": "tw/1136768508"
+     "apple": "tw/1136768508",
+     "bpm": 103
     },
     {
      "rank": 45,
@@ -3527,7 +3609,8 @@
      "last_rank": 52,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1193701400"
+     "apple": "tw/1193701400",
+     "bpm": 190
     },
     {
      "rank": 49,
@@ -3538,7 +3621,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/578054244"
+     "apple": "tw/578054244",
+     "bpm": 109
     },
     {
      "rank": 50,
@@ -3554,7 +3638,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:27+08:00",
+   "fetched_at": "2026-11-04T18:33:21+08:00",
    "stale": false
   },
   {
@@ -3885,7 +3969,8 @@
      "last_rank": 22,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1555177261"
+     "apple": "jp/1555177261",
+     "bpm": 86
     },
     {
      "rank": 28,
@@ -3908,7 +3993,8 @@
      "last_rank": 27,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1611482698"
+     "apple": "jp/1611482698",
+     "bpm": 69
     },
     {
      "rank": 30,
@@ -3952,7 +4038,8 @@
      "last_rank": 33,
      "is_new": false,
      "genre": "Rock",
-     "apple": "tw/1838917139"
+     "apple": "tw/1838917139",
+     "bpm": 87
     },
     {
      "rank": 34,
@@ -3975,7 +4062,8 @@
      "last_rank": 32,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1505498777"
+     "apple": "jp/1505498777",
+     "bpm": 90
     },
     {
      "rank": 36,
@@ -3986,7 +4074,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1538275670"
+     "apple": "tw/1538275670",
+     "bpm": 122
     },
     {
      "rank": 37,
@@ -4009,7 +4098,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1653922188"
+     "apple": "tw/1653922188",
+     "bpm": 163
     },
     {
      "rank": 39,
@@ -4020,7 +4110,8 @@
      "last_rank": 43,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1593438803"
+     "apple": "tw/1593438803",
+     "bpm": 90
     },
     {
      "rank": 40,
@@ -4055,7 +4146,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1459216694"
+     "apple": "tw/1459216694",
+     "bpm": 92
     },
     {
      "rank": 43,
@@ -4078,7 +4170,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1707001466"
+     "apple": "tw/1707001466",
+     "bpm": 215
     },
     {
      "rank": 45,
@@ -4101,7 +4194,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1600223385"
+     "apple": "tw/1600223385",
+     "bpm": 163
     },
     {
      "rank": 47,
@@ -4112,7 +4206,8 @@
      "last_rank": 65,
      "is_new": false,
      "genre": "Alternative",
-     "apple": "tw/1860538548"
+     "apple": "tw/1860538548",
+     "bpm": 182
     },
     {
      "rank": 48,
@@ -4123,7 +4218,8 @@
      "last_rank": 45,
      "is_new": false,
      "genre": "Anime",
-     "apple": "jp/1531847485"
+     "apple": "jp/1531847485",
+     "bpm": 76
     },
     {
      "rank": 49,
@@ -4143,12 +4239,13 @@
      "last_rank": 57,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/6809425429"
+     "apple": "jp/6809425429",
+     "bpm": 91
     }
    ],
    "period_key": "2026-11-03",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:29+08:00",
+   "fetched_at": "2026-11-04T18:33:23+08:00",
    "stale": false
   },
   {
@@ -4488,7 +4585,8 @@
      "last_rank": 28,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1459216694"
+     "apple": "tw/1459216694",
+     "bpm": 92
     },
     {
      "rank": 29,
@@ -4499,7 +4597,8 @@
      "last_rank": 29,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1707001466"
+     "apple": "tw/1707001466",
+     "bpm": 215
     },
     {
      "rank": 30,
@@ -4510,7 +4609,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1593438803"
+     "apple": "tw/1593438803",
+     "bpm": 90
     },
     {
      "rank": 31,
@@ -4521,7 +4621,8 @@
      "last_rank": 31,
      "is_new": false,
      "genre": "Anime",
-     "apple": "jp/1531847485"
+     "apple": "jp/1531847485",
+     "bpm": 76
     },
     {
      "rank": 32,
@@ -4532,7 +4633,8 @@
      "last_rank": 27,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/6809425429"
+     "apple": "jp/6809425429",
+     "bpm": 91
     },
     {
      "rank": 33,
@@ -4543,7 +4645,8 @@
      "last_rank": 32,
      "is_new": false,
      "genre": "Rock",
-     "apple": "tw/1838917139"
+     "apple": "tw/1838917139",
+     "bpm": 87
     },
     {
      "rank": 34,
@@ -4575,7 +4678,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1564444512"
+     "apple": "tw/1564444512",
+     "bpm": 100
     },
     {
      "rank": 37,
@@ -4586,7 +4690,8 @@
      "last_rank": 33,
      "is_new": false,
      "genre": "Alternative",
-     "apple": "tw/1860538548"
+     "apple": "tw/1860538548",
+     "bpm": 182
     },
     {
      "rank": 38,
@@ -4597,7 +4702,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1645308331"
+     "apple": "tw/1645308331",
+     "bpm": 170
     },
     {
      "rank": 39,
@@ -4620,7 +4726,8 @@
      "last_rank": 37,
      "is_new": false,
      "genre": "Alternative",
-     "apple": "tw/1716523329"
+     "apple": "tw/1716523329",
+     "bpm": 117
     },
     {
      "rank": 41,
@@ -4640,7 +4747,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1542182540"
+     "apple": "tw/1542182540",
+     "bpm": 130
     },
     {
      "rank": 43,
@@ -4651,7 +4759,8 @@
      "last_rank": 43,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1541851056"
+     "apple": "tw/1541851056",
+     "bpm": 100
     },
     {
      "rank": 44,
@@ -4662,7 +4771,8 @@
      "last_rank": 53,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1893502381"
+     "apple": "tw/1893502381",
+     "bpm": 110
     },
     {
      "rank": 45,
@@ -4682,7 +4792,8 @@
      "last_rank": 46,
      "is_new": false,
      "genre": "Rock",
-     "apple": "tw/1647112151"
+     "apple": "tw/1647112151",
+     "bpm": 148
     },
     {
      "rank": 47,
@@ -4693,7 +4804,8 @@
      "last_rank": 57,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1893502690"
+     "apple": "tw/1893502690",
+     "bpm": 80
     },
     {
      "rank": 48,
@@ -4704,7 +4816,8 @@
      "last_rank": 58,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "tw/1893502389"
+     "apple": "tw/1893502389",
+     "bpm": 150
     },
     {
      "rank": 49,
@@ -4715,7 +4828,8 @@
      "last_rank": 47,
      "is_new": false,
      "genre": "Alternative",
-     "apple": "jp/1721450223"
+     "apple": "jp/1721450223",
+     "bpm": 204
     },
     {
      "rank": 50,
@@ -4732,7 +4846,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:31+08:00",
+   "fetched_at": "2026-11-04T18:33:26+08:00",
    "stale": false
   },
   {
@@ -5084,7 +5198,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077042"
+     "apple": "tw/6815077042",
+     "bpm": 108
     },
     {
      "rank": 30,
@@ -5119,7 +5234,8 @@
      "last_rank": 27,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1893599773"
+     "apple": "tw/1893599773",
+     "bpm": 128
     },
     {
      "rank": 33,
@@ -5130,7 +5246,8 @@
      "last_rank": 33,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1887194026"
+     "apple": "tw/1887194026",
+     "bpm": 147
     },
     {
      "rank": 34,
@@ -5141,7 +5258,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1772644601"
+     "apple": "tw/1772644601",
+     "bpm": 126
     },
     {
      "rank": 35,
@@ -5152,7 +5270,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077318"
+     "apple": "tw/6815077318",
+     "bpm": 114
     },
     {
      "rank": 36,
@@ -5163,7 +5282,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "K-Pop",
-     "apple": "tw/6818392536"
+     "apple": "tw/6818392536",
+     "bpm": 166
     },
     {
      "rank": 37,
@@ -5174,7 +5294,8 @@
      "last_rank": 35,
      "is_new": false,
      "genre": "Dance",
-     "apple": "tw/1893249616"
+     "apple": "tw/1893249616",
+     "bpm": 119
     },
     {
      "rank": 38,
@@ -5185,7 +5306,8 @@
      "last_rank": 37,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077317"
+     "apple": "tw/6815077317",
+     "bpm": 85
     },
     {
      "rank": 39,
@@ -5196,7 +5318,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1346470976"
+     "apple": "tw/1346470976",
+     "bpm": 126
     },
     {
      "rank": 40,
@@ -5207,7 +5330,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/531263700"
+     "apple": "tw/531263700",
+     "bpm": 139
     },
     {
      "rank": 41,
@@ -5218,7 +5342,8 @@
      "last_rank": 47,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6786950843"
+     "apple": "tw/6786950843",
+     "bpm": 123
     },
     {
      "rank": 42,
@@ -5229,7 +5354,8 @@
      "last_rank": 38,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1314246442"
+     "apple": "tw/1314246442",
+     "bpm": 71
     },
     {
      "rank": 43,
@@ -5240,7 +5366,8 @@
      "last_rank": 43,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077316"
+     "apple": "tw/6815077316",
+     "bpm": 132
     },
     {
      "rank": 44,
@@ -5251,7 +5378,8 @@
      "last_rank": 44,
      "is_new": false,
      "genre": "Dance",
-     "apple": "tw/1773262055"
+     "apple": "tw/1773262055",
+     "bpm": 120
     },
     {
      "rank": 45,
@@ -5274,7 +5402,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1820264147"
+     "apple": "tw/1820264147",
+     "bpm": 126
     },
     {
      "rank": 47,
@@ -5285,7 +5414,8 @@
      "last_rank": 48,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1822933227"
+     "apple": "tw/1822933227",
+     "bpm": 90
     },
     {
      "rank": 48,
@@ -5296,7 +5426,8 @@
      "last_rank": 49,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1822933223"
+     "apple": "tw/1822933223",
+     "bpm": 128
     },
     {
      "rank": 49,
@@ -5307,7 +5438,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1822933226"
+     "apple": "tw/1822933226",
+     "bpm": 70
     },
     {
      "rank": 50,
@@ -5318,12 +5450,13 @@
      "last_rank": 46,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1824672652"
+     "apple": "tw/1824672652",
+     "bpm": 145
     }
    ],
    "period_key": "2026-11-03",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:33+08:00",
+   "fetched_at": "2026-11-04T18:33:27+08:00",
    "stale": false
   },
   {
@@ -5666,7 +5799,8 @@
      "last_rank": 12,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/531263700"
+     "apple": "tw/531263700",
+     "bpm": 139
     },
     {
      "rank": 29,
@@ -5677,7 +5811,8 @@
      "last_rank": 24,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077042"
+     "apple": "tw/6815077042",
+     "bpm": 108
     },
     {
      "rank": 30,
@@ -5688,7 +5823,8 @@
      "last_rank": 22,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1893599773"
+     "apple": "tw/1893599773",
+     "bpm": 128
     },
     {
      "rank": 31,
@@ -5699,7 +5835,8 @@
      "last_rank": 32,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077317"
+     "apple": "tw/6815077317",
+     "bpm": 85
     },
     {
      "rank": 32,
@@ -5710,7 +5847,8 @@
      "last_rank": 15,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1314246442"
+     "apple": "tw/1314246442",
+     "bpm": 71
     },
     {
      "rank": 33,
@@ -5721,7 +5859,8 @@
      "last_rank": 23,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1887194026"
+     "apple": "tw/1887194026",
+     "bpm": 147
     },
     {
      "rank": 34,
@@ -5741,7 +5880,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1820264147"
+     "apple": "tw/1820264147",
+     "bpm": 126
     },
     {
      "rank": 36,
@@ -5764,7 +5904,8 @@
      "last_rank": 16,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1346470976"
+     "apple": "tw/1346470976",
+     "bpm": 126
     },
     {
      "rank": 38,
@@ -5775,7 +5916,8 @@
      "last_rank": 35,
      "is_new": false,
      "genre": "Dance",
-     "apple": "tw/1773262055"
+     "apple": "tw/1773262055",
+     "bpm": 120
     },
     {
      "rank": 39,
@@ -5786,7 +5928,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077318"
+     "apple": "tw/6815077318",
+     "bpm": 114
     },
     {
      "rank": 40,
@@ -5797,7 +5940,8 @@
      "last_rank": 38,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6815077316"
+     "apple": "tw/6815077316",
+     "bpm": 132
     },
     {
      "rank": 41,
@@ -5808,7 +5952,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "Dance",
-     "apple": "tw/1893249616"
+     "apple": "tw/1893249616",
+     "bpm": 119
     },
     {
      "rank": 42,
@@ -5819,7 +5964,8 @@
      "last_rank": 18,
      "is_new": false,
      "genre": "Hip-Hop/Rap",
-     "apple": "tw/1314236146"
+     "apple": "tw/1314236146",
+     "bpm": 90
     },
     {
      "rank": 43,
@@ -5830,7 +5976,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1772644601"
+     "apple": "tw/1772644601",
+     "bpm": 126
     },
     {
      "rank": 44,
@@ -5841,7 +5988,8 @@
      "last_rank": 19,
      "is_new": false,
      "genre": "Korean Rock",
-     "apple": "tw/6814323073"
+     "apple": "tw/6814323073",
+     "bpm": 87
     },
     {
      "rank": 45,
@@ -5852,7 +6000,8 @@
      "last_rank": 20,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1337452975"
+     "apple": "tw/1337452975",
+     "bpm": 125
     },
     {
      "rank": 46,
@@ -5863,7 +6012,8 @@
      "last_rank": 42,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1824672652"
+     "apple": "tw/1824672652",
+     "bpm": 145
     },
     {
      "rank": 47,
@@ -5874,7 +6024,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/6786950843"
+     "apple": "tw/6786950843",
+     "bpm": 123
     },
     {
      "rank": 48,
@@ -5894,7 +6045,8 @@
      "last_rank": 60,
      "is_new": false,
      "genre": "K-Pop",
-     "apple": "tw/1822933223"
+     "apple": "tw/1822933223",
+     "bpm": 128
     },
     {
      "rank": 50,
@@ -5910,7 +6062,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:35+08:00",
+   "fetched_at": "2026-11-04T18:33:29+08:00",
    "stale": false
   },
   {
@@ -6253,7 +6405,8 @@
      "last_rank": 30,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/905172867"
+     "apple": "tw/905172867",
+     "bpm": 119
     },
     {
      "rank": 29,
@@ -6288,7 +6441,8 @@
      "last_rank": 45,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/667921833"
+     "apple": "tw/667921833",
+     "bpm": 124
     },
     {
      "rank": 32,
@@ -6299,7 +6453,8 @@
      "last_rank": 35,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1443304352"
+     "apple": "tw/1443304352",
+     "bpm": 80
     },
     {
      "rank": 33,
@@ -6334,7 +6489,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Cantopop",
-     "apple": "tw/1443655397"
+     "apple": "tw/1443655397",
+     "bpm": 126
     },
     {
      "rank": 36,
@@ -6345,7 +6501,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1443274396"
+     "apple": "tw/1443274396",
+     "bpm": 67
     },
     {
      "rank": 37,
@@ -6368,7 +6525,8 @@
      "last_rank": 33,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/201576167"
+     "apple": "tw/201576167",
+     "bpm": 72
     },
     {
      "rank": 39,
@@ -6379,7 +6537,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/667921841"
+     "apple": "tw/667921841",
+     "bpm": 130
     },
     {
      "rank": 40,
@@ -6390,7 +6549,8 @@
      "last_rank": 54,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1477799827"
+     "apple": "tw/1477799827",
+     "bpm": 66
     },
     {
      "rank": 41,
@@ -6401,7 +6561,8 @@
      "last_rank": 41,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1444066136"
+     "apple": "tw/1444066136",
+     "bpm": 136
     },
     {
      "rank": 42,
@@ -6412,7 +6573,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1443311494"
+     "apple": "tw/1443311494",
+     "bpm": 71
     },
     {
      "rank": 43,
@@ -6435,7 +6597,8 @@
      "last_rank": 46,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1477799575"
+     "apple": "tw/1477799575",
+     "bpm": 80
     },
     {
      "rank": 45,
@@ -6458,7 +6621,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1442640792"
+     "apple": "tw/1442640792",
+     "bpm": 68
     },
     {
      "rank": 47,
@@ -6469,7 +6633,8 @@
      "last_rank": 49,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1443331206"
+     "apple": "tw/1443331206",
+     "bpm": 150
     },
     {
      "rank": 48,
@@ -6503,12 +6668,13 @@
      "last_rank": 48,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1816674595"
+     "apple": "tw/1816674595",
+     "bpm": 76
     }
    ],
    "period_key": "2026-11-03",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:36+08:00",
+   "fetched_at": "2026-11-04T18:33:32+08:00",
    "stale": false
   },
   {
@@ -6863,7 +7029,8 @@
      "last_rank": 28,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/1443304352"
+     "apple": "tw/1443304352",
+     "bpm": 80
     },
     {
      "rank": 30,
@@ -6874,7 +7041,8 @@
      "last_rank": 20,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/905172867"
+     "apple": "tw/905172867",
+     "bpm": 119
     },
     {
      "rank": 31,
@@ -6897,7 +7065,8 @@
      "last_rank": 42,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/667921841"
+     "apple": "tw/667921841",
+     "bpm": 130
     },
     {
      "rank": 33,
@@ -6908,7 +7077,8 @@
      "last_rank": 31,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1444066136"
+     "apple": "tw/1444066136",
+     "bpm": 136
     },
     {
      "rank": 34,
@@ -6919,7 +7089,8 @@
      "last_rank": 37,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/667921833"
+     "apple": "tw/667921833",
+     "bpm": 124
     },
     {
      "rank": 35,
@@ -6942,7 +7113,8 @@
      "last_rank": 36,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/201576167"
+     "apple": "tw/201576167",
+     "bpm": 72
     },
     {
      "rank": 37,
@@ -6953,7 +7125,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1816674595"
+     "apple": "tw/1816674595",
+     "bpm": 76
     },
     {
      "rank": 38,
@@ -6988,7 +7161,8 @@
      "last_rank": 38,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1443375474"
+     "apple": "tw/1443375474",
+     "bpm": 125
     },
     {
      "rank": 41,
@@ -6999,7 +7173,8 @@
      "last_rank": 49,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1477799827"
+     "apple": "tw/1477799827",
+     "bpm": 66
     },
     {
      "rank": 42,
@@ -7010,7 +7185,8 @@
      "last_rank": 32,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1443311494"
+     "apple": "tw/1443311494",
+     "bpm": 71
     },
     {
      "rank": 43,
@@ -7021,7 +7197,8 @@
      "last_rank": 29,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1442640792"
+     "apple": "tw/1442640792",
+     "bpm": 68
     },
     {
      "rank": 44,
@@ -7032,7 +7209,8 @@
      "last_rank": 47,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1443274396"
+     "apple": "tw/1443274396",
+     "bpm": 67
     },
     {
      "rank": 45,
@@ -7043,7 +7221,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/1443331206"
+     "apple": "tw/1443331206",
+     "bpm": 150
     },
     {
      "rank": 46,
@@ -7066,7 +7245,8 @@
      "last_rank": 52,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1818539836"
+     "apple": "tw/1818539836",
+     "bpm": 82
     },
     {
      "rank": 48,
@@ -7077,7 +7257,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "Cantopop",
-     "apple": "tw/1477799575"
+     "apple": "tw/1477799575",
+     "bpm": 80
     },
     {
      "rank": 49,
@@ -7105,7 +7286,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:38+08:00",
+   "fetched_at": "2026-11-04T18:33:33+08:00",
    "stale": false
   },
   {
@@ -7424,7 +7605,8 @@
      "last_rank": 34,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6805034252"
+     "apple": "tw/6805034252",
+     "bpm": 71
     },
     {
      "rank": 28,
@@ -7435,7 +7617,8 @@
      "last_rank": 38,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6818047121"
+     "apple": "tw/6818047121",
+     "bpm": 140
     },
     {
      "rank": 29,
@@ -7446,7 +7629,8 @@
      "last_rank": 58,
      "is_new": false,
      "genre": "Soundtrack",
-     "apple": "tw/6822182141"
+     "apple": "tw/6822182141",
+     "bpm": 104
     },
     {
      "rank": 30,
@@ -7457,7 +7641,8 @@
      "last_rank": 28,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6822570630"
+     "apple": "tw/6822570630",
+     "bpm": 152
     },
     {
      "rank": 31,
@@ -7468,7 +7653,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Mandopop",
-     "apple": "tw/6823581943"
+     "apple": "tw/6823581943",
+     "bpm": 127
     },
     {
      "rank": 32,
@@ -7479,7 +7665,8 @@
      "last_rank": 43,
      "is_new": false,
      "genre": "Pop",
-     "apple": "tw/6815656278"
+     "apple": "tw/6815656278",
+     "bpm": 100
     },
     {
      "rank": 33,
@@ -7490,7 +7677,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Mandopop",
-     "apple": "tw/6822986773"
+     "apple": "tw/6822986773",
+     "bpm": 130
     },
     {
      "rank": 34,
@@ -7519,7 +7707,8 @@
      "last_rank": 39,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6819214577"
+     "apple": "tw/6819214577",
+     "bpm": 72
     },
     {
      "rank": 37,
@@ -7530,7 +7719,8 @@
      "last_rank": 93,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6821861811"
+     "apple": "tw/6821861811",
+     "bpm": 105
     },
     {
      "rank": 38,
@@ -7541,7 +7731,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Soundtrack",
-     "apple": "tw/6822442326"
+     "apple": "tw/6822442326",
+     "bpm": 132
     },
     {
      "rank": 39,
@@ -7552,7 +7743,8 @@
      "last_rank": 50,
      "is_new": false,
      "genre": "Soundtrack",
-     "apple": "tw/6817093975"
+     "apple": "tw/6817093975",
+     "bpm": 88
     },
     {
      "rank": 40,
@@ -7563,7 +7755,8 @@
      "last_rank": 62,
      "is_new": false,
      "genre": "Tai-Pop",
-     "apple": "tw/6815194342"
+     "apple": "tw/6815194342",
+     "bpm": 68
     },
     {
      "rank": 41,
@@ -7574,7 +7767,8 @@
      "last_rank": 49,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6818855864"
+     "apple": "tw/6818855864",
+     "bpm": 109
     },
     {
      "rank": 42,
@@ -7597,7 +7791,8 @@
      "last_rank": 88,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6819964537"
+     "apple": "tw/6819964537",
+     "bpm": 68
     },
     {
      "rank": 44,
@@ -7608,7 +7803,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Mandopop",
-     "apple": "tw/6824864663"
+     "apple": "tw/6824864663",
+     "bpm": 77
     },
     {
      "rank": 45,
@@ -7619,7 +7815,8 @@
      "last_rank": 40,
      "is_new": false,
      "genre": "Mandopop",
-     "apple": "tw/6819181341"
+     "apple": "tw/6819181341",
+     "bpm": 122
     },
     {
      "rank": 46,
@@ -7639,7 +7836,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Mandopop",
-     "apple": "tw/6822695885"
+     "apple": "tw/6822695885",
+     "bpm": 114
     },
     {
      "rank": 48,
@@ -7659,7 +7857,8 @@
      "last_rank": null,
      "is_new": true,
      "genre": "Mandopop",
-     "apple": "tw/6823044468"
+     "apple": "tw/6823044468",
+     "bpm": 101
     },
     {
      "rank": 50,
@@ -7675,7 +7874,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-04T18:05:40+08:00",
+   "fetched_at": "2026-11-04T18:33:35+08:00",
    "stale": false
   }
  ]
