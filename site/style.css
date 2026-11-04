@@ -250,7 +250,7 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
 .btn.yt { --c: var(--yt); }
 .btn.apple { --c: var(--apple); }
 .btn.kkbox { --c: var(--kkbox); }
-.btn.search { border-style: dashed; opacity: 0.8; }
+.btn.search { --c: var(--muted); border-style: dashed; }
 
 .empty { padding: 24px; text-align: center; color: var(--muted); margin: 0; }
 
