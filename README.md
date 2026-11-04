@@ -66,7 +66,7 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 | Apple Music 試聽 | iTunes 比對到的 `trackId` | 嵌入 `https://embed.music.apple.com/{tw 或 jp}/song/{trackId}`，可試聽 30 秒 |
 | KKBOX 試聽 | KKBOX 風雲榜的 `song_id`，以及好樂迪排行榜 `songurl` 裡的 KKBOX 曲目 ID | 嵌入 KKBOX 官方 widget。其他來源的同一首歌依歌名歌手套用 |
 | 在YouTube搜尋 | 歌名與歌手 | 開啟 YouTube 搜尋結果，不指定特定影片 |
-| BPM | Beat This! 模型分析 iTunes 30 秒試聽 | 見下方「BPM 怎麼算」 |
+| BPM | Beat This! 模型分析 iTunes 30 秒試聽 | 見下方「BPM 識別方式」 |
 
 **顏色**：每個曲風有固定的色相，三種語言下顏色一致。不在對照表裡的曲風顯示英文原名，顏色由名稱算出，每次都相同。
 
@@ -85,18 +85,80 @@ KKBOX 曲目 ID 的跨來源對應：歌名歌手正規化後完全相同就套�
 
 這些都是相似度判斷，不是百分之百準確。同名同歌手的不同版本可能選錯，歌手在 iTunes 上的寫法差太多也可能查不到。前兩批在 GitHub 上查了 600 首，找到 559 首。
 
-### BPM 怎麼算
+## BPM 識別方式
 
-模型是 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx)，CPJKU 的 Beat This! final0 轉成的 ONNX 版本，MIT 授權，版本固定在 `e2c0d43` 並驗證 SHA-256。前後處理照 [aaatmy/bpm-detector](https://huggingface.co/spaces/aaatmy/bpm-detector) 的程式移植成 Python：
+每首歌的 BPM 是用 Beat This! 節拍偵測模型分析 iTunes 的 30 秒試聽估算的。程式在 `scraper/bpm.py`，前後處理逐段移植自 [aaatmy/bpm-detector](https://huggingface.co/spaces/aaatmy/bpm-detector) Space 的 JavaScript，所以結果應與該 Space 一致。
 
-1. 用 iTunes lookup 取得已比對曲目的 30 秒試聽，ffmpeg 轉成 22,050 Hz 單聲道。
-2. 計算 128 維 log-mel 頻譜：1,024 點 FFT、hop 441、Slaney 濾波器，取 `log1p(1000 × mel)`。
-3. 每 1,500 幀切一塊送進模型，前後各留 6 幀重疊，得到每幀的節拍與重拍機率。
-4. 挑出局部峰值當節拍。節拍間隔穩定時用等距網格擬合，不穩定時取平均間隔，換算成 BPM。
+### 模型
 
-只有已經對到 iTunes 曲目的歌才會分析。結果存進 `data/bpm.json`，跟曲風快取一樣永久保存、只增不減；iTunes 對到的曲目換了，BPM 才會重算。
+| 項目 | 內容 |
+|---|---|
+| 模型 | [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 的 `beat-this-final0.onnx`，約 82 MB |
+| 來源 | [CPJKU/beat_this](https://github.com/CPJKU/beat_this) 的 final0 預訓練權重轉成 ONNX，不是重新訓練 |
+| 版本 | 固定在 commit `e2c0d43`，下載後驗證 SHA-256 `e5e37b7d…c1b078` |
+| 輸入 | log-mel 頻譜，形狀 `[1, 幀數, 128]` |
+| 輸出 | `beat` 與 `downbeat`，每一幀是節拍與重拍的 logit，形狀 `[1, 幀數]` |
+| 執行 | onnxruntime CPU，不需要 GPU |
+| 授權 | MIT，版權屬 Institute of Computational Perception, JKU Linz |
 
-限制：只看 30 秒試聽，速度有變化的歌只代表那一段；節拍偵測可能抓成實際速度的一半或兩倍。
+### 流程
+
+1. **選歌**：只分析已經對到 iTunes 曲目的歌，依各榜最佳名次由高到低處理。快取裡已有結果、而且對到的曲目沒變的歌會跳過。
+2. **取得試聽**：用 iTunes lookup 一次查最多 100 個曲目 ID，取得 30 秒試聽的 `previewUrl`。請求間隔 3.2 秒，和曲風查詢共用 Apple 每分鐘約 20 次的額度。
+3. **解碼**：用 ffmpeg 把 m4a 轉成 22,050 Hz 單聲道的 32 位元浮點數。整段幾乎無聲時不分析。
+4. **頻譜**：
+   - 用 1,024 點 FFT 計算頻譜，搭配週期性 Hann 視窗。
+   - hop 是 441 個取樣點，換算成每秒 50 幀；30 秒約 1,501 幀。
+   - 兩端以反射方式補值，振幅除以 √1,024。
+   - 套上 `frontend.json` 的 128 個 Slaney mel 濾波器，最後取 `log1p(1000 × mel)`。
+5. **推論**：
+   - 每 1,500 幀切成一塊送進模型，相鄰兩塊重疊，每塊邊緣各 6 幀不採用。30 秒的試聽會切成兩塊。
+   - 從最後一塊往前寫回，重疊處以較前面的一塊為準，和原始實作的 keep_first 一致。
+6. **找節拍**：
+   - logit 大於 0、而且是前後各 3 幀（共 7 幀）中最大值的位置，就當成一個峰值。
+   - 相距不超過 1 幀的峰值合併成一個，取平均位置。
+   - 幀號除以 50 得到秒數。重拍用同樣方式找，再對齊到最近的節拍。
+7. **算速度**：
+   - **拍號**：至少 3 個重拍，而且每兩個重拍之間的節拍數都相同，才判定拍號，例如 4 代表 4 拍一小節。
+   - **constant**：至少 5 拍、拍號穩定、對節拍時間做線性迴歸後最大誤差不超過 30 毫秒，就用迴歸得到的拍長。
+   - **variable**：至少 5 拍但最大誤差超過 30 毫秒，代表速度有變化，改用平均拍長。
+   - **average**：不到 5 拍，或誤差在 30 毫秒內但拍號不穩定，也用平均拍長。
+   - 平均拍長是「最後一拍減第一拍，再除以拍數減一」。BPM 等於 60 除以拍長（秒）。
+   - 少於 2 拍時無法估算，記為「節拍太少」。
+8. **存檔**：結果寫進 `data/bpm.json`，網頁顯示四捨五入後的整數 BPM。
+
+### 快取欄位
+
+| 欄位 | 說明 |
+|---|---|
+| `status` | `ok` 表示有 BPM；`none` 表示沒有，原因寫在 `reason` |
+| `reason` | `no_preview` 沒有試聽，`few_beats` 節拍太少；兩種都會在 30 天後重試 |
+| `bpm` | 主要 BPM，依上面的 constant、variable、average 規則算出 |
+| `avg_bpm` | 整段偵測到的節拍的平均 BPM |
+| `mode` | `constant`、`variable` 或 `average` |
+| `signature` | 每小節的拍數，無法判定時是 `null` |
+| `beats` | 偵測到的節拍數 |
+| `track` | 分析用的 iTunes 曲目，格式 `地區/trackId`；曲目換了就會重算 |
+| `model` | 使用的模型，目前是 `beat-this-final0` |
+| `checked` | 分析日期 |
+
+### 實測對照
+
+| 歌曲 | 估算 BPM | 一般公開的速度 |
+|---|---|---|
+| APT. | 149 | 149 |
+| First Love | 90 | 90 |
+| My Heart Will Go On | 99 | 約 99 |
+| Lemon | 91 | 87 |
+
+### 限制
+
+- **只看 30 秒**：試聽通常是副歌附近的片段，速度有變化的歌只代表那一段。
+- **半速或倍速**：節拍偵測可能抓到實際速度的一半或兩倍，例如目前最高值 280 很可能是倍速。網頁上 BPM 的提示文字有說明這點。
+- **對錯版本**：iTunes 對到 live、remix 等不同版本時，BPM 會是那個版本的速度。對到的曲目被更正後會自動重算。
+- **和 Space 的差異**：Space 用瀏覽器重取樣，這裡用 ffmpeg，數值可能有極小差距。
+
+在本機重算的方法見「本機開發」。
 
 ## 分批查詢機制
 
