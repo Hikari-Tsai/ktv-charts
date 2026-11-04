@@ -12,6 +12,14 @@
   --warn-bg: #fff7e0;
   --warn-text: #7a5300;
   --yt: #d81f26;
+  --apple: #d6224a;
+  --kkbox: #0a8fb3;
+  --tag-s: 85%;
+  --tag-l: 93%;
+  --tag-ts: 55%;
+  --tag-tl: 30%;
+  --tag-bs: 60%;
+  --tag-bl: 82%;
   --radius: 10px;
   color-scheme: light;
 }
@@ -31,6 +39,14 @@
     --warn-bg: #3a2f10;
     --warn-text: #f5d37a;
     --yt: #ff4d4d;
+    --apple: #ff5a7a;
+    --kkbox: #38c6ee;
+    --tag-s: 35%;
+    --tag-l: 21%;
+    --tag-ts: 85%;
+    --tag-tl: 78%;
+    --tag-bs: 35%;
+    --tag-bl: 32%;
     color-scheme: dark;
   }
 }
@@ -194,22 +210,47 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
 .song-sub { color: var(--muted); font-size: 0.85rem; overflow-wrap: anywhere; }
 .song-no { font-variant-numeric: tabular-nums; margin-left: 6px; opacity: 0.85; white-space: nowrap; display: inline-block; }
 
-.col-link { width: 1%; white-space: nowrap; }
-.yt {
+.tag {
+  --h: 0;
+  display: inline-block;
+  vertical-align: 1px;
+  margin-left: 2px;
+  padding: 0 7px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.6;
+  white-space: nowrap;
+  background: hsl(var(--h) var(--tag-s) var(--tag-l));
+  color: hsl(var(--h) var(--tag-ts) var(--tag-tl));
+  border: 1px solid hsl(var(--h) var(--tag-bs) var(--tag-bl));
+}
+
+.song-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+.btn {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  color: var(--yt);
+  gap: 5px;
+  color: var(--c);
   text-decoration: none;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   font-weight: 600;
-  padding: 4px 10px;
+  padding: 2px 9px;
   border: 1px solid currentColor;
   border-radius: 999px;
   white-space: nowrap;
 }
-.yt:hover { background: var(--yt); color: #fff; }
-.yt svg { width: 14px; height: 14px; flex: 0 0 auto; }
+.btn:hover { background: var(--c); color: #fff; }
+.btn svg { width: 13px; height: 13px; flex: 0 0 auto; }
+.btn.yt { --c: var(--yt); }
+.btn.apple { --c: var(--apple); }
+.btn.kkbox { --c: var(--kkbox); }
+.btn.search { border-style: dashed; opacity: 0.8; }
 
 .empty { padding: 24px; text-align: center; color: var(--muted); margin: 0; }
 
@@ -233,6 +274,7 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
   td.col-rank { font-size: 0.95rem; }
   .song-title { font-size: 0.92rem; }
   .song-sub { font-size: 0.78rem; }
-  .yt { padding: 3px 7px; font-size: 0.72rem; gap: 4px; }
-  .yt svg { display: none; }
+  .song-links { gap: 5px; }
+  .btn { padding: 2px 7px; font-size: 0.72rem; }
+  .btn svg { display: none; }
 }

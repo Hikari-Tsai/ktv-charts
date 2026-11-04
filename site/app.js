@@ -18,6 +18,13 @@ const I18N = {
     colLink: "YouTube",
     ytSearch: "在YouTube搜尋",
     ytAria: "在 YouTube 搜尋「{q}」",
+    appleListen: "Apple Music 試聽",
+    appleSearch: "Apple Music 搜尋",
+    kkboxListen: "KKBOX 試聽",
+    kkboxSearch: "KKBOX 搜尋",
+    searchHint: "沒有找到對應曲目，改為搜尋「{q}」",
+    genreHint: "曲風：{g}（Apple Music 分類）",
+    genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API。",
     region_tw: "台灣",
     region_jp: "日本",
     streaming: "串流",
@@ -46,6 +53,13 @@ const I18N = {
     colLink: "YouTube",
     ytSearch: "Search on YouTube",
     ytAria: "Search YouTube for “{q}”",
+    appleListen: "Listen on Apple Music",
+    appleSearch: "Search Apple Music",
+    kkboxListen: "Listen on KKBOX",
+    kkboxSearch: "Search KKBOX",
+    searchHint: "No matching track found; searches for “{q}”",
+    genreHint: "Genre: {g} (Apple Music category)",
+    genreCredit: "Genres and Apple Music links come from the iTunes Search API.",
     region_tw: "Taiwan",
     region_jp: "Japan",
     streaming: "Streaming",
@@ -74,6 +88,13 @@ const I18N = {
     colLink: "YouTube",
     ytSearch: "YouTubeで検索",
     ytAria: "YouTube で「{q}」を検索",
+    appleListen: "Apple Music で試聴",
+    appleSearch: "Apple Music で検索",
+    kkboxListen: "KKBOX で試聴",
+    kkboxSearch: "KKBOX で検索",
+    searchHint: "該当曲が見つからないため「{q}」を検索します",
+    genreHint: "ジャンル：{g}（Apple Music の分類）",
+    genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API から取得しています。",
     region_tw: "台湾",
     region_jp: "日本",
     streaming: "ストリーミング",
@@ -158,6 +179,95 @@ function el(tag, attrs = {}, ...children) {
   return node;
 }
 
+/* Genre names come from iTunes in English; hue picks the tag colour. Unknown genres
+   keep the English name and get a stable colour from a hash of the name. */
+const GENRES = {
+  "Pop": { zh: "流行", ja: "ポップ", h: 330 },
+  "Mandopop": { zh: "華語流行", ja: "華語ポップ", h: 350 },
+  "Cantopop": { zh: "粵語流行", ja: "広東語ポップ", h: 15 },
+  "Tai-Pop": { zh: "台語流行", ja: "台湾語ポップ", h: 28 },
+  "J-Pop": { zh: "J-Pop", ja: "J-Pop", h: 300 },
+  "K-Pop": { zh: "K-Pop", ja: "K-Pop", h: 275 },
+  "Kayokyoku": { zh: "歌謠曲", ja: "歌謡曲", h: 40 },
+  "Enka": { zh: "演歌", ja: "演歌", h: 45 },
+  "Anime": { zh: "動畫", ja: "アニメ", h: 190 },
+  "Rock": { zh: "搖滾", ja: "ロック", h: 5 },
+  "Hard Rock": { zh: "硬式搖滾", ja: "ハードロック", h: 0 },
+  "Metal": { zh: "金屬", ja: "メタル", h: 0 },
+  "Punk": { zh: "龐克", ja: "パンク", h: 10 },
+  "Alternative": { zh: "另類", ja: "オルタナティブ", h: 20 },
+  "Indie Pop": { zh: "獨立流行", ja: "インディーポップ", h: 320 },
+  "Hip-Hop/Rap": { zh: "嘻哈／饒舌", ja: "ヒップホップ／ラップ", h: 255 },
+  "Hip-Hop": { zh: "嘻哈", ja: "ヒップホップ", h: 255 },
+  "Rap": { zh: "饒舌", ja: "ラップ", h: 250 },
+  "R&B/Soul": { zh: "R&B／靈魂", ja: "R&B／ソウル", h: 230 },
+  "Soul": { zh: "靈魂樂", ja: "ソウル", h: 230 },
+  "Electronic": { zh: "電子", ja: "エレクトロニック", h: 180 },
+  "Dance": { zh: "舞曲", ja: "ダンス", h: 170 },
+  "House": { zh: "浩室", ja: "ハウス", h: 175 },
+  "Soundtrack": { zh: "原聲帶", ja: "サウンドトラック", h: 140 },
+  "Original Score": { zh: "配樂", ja: "スコア", h: 145 },
+  "Musicals": { zh: "音樂劇", ja: "ミュージカル", h: 150 },
+  "Singer/Songwriter": { zh: "創作歌手", ja: "シンガーソングライター", h: 95 },
+  "Folk": { zh: "民謠", ja: "フォーク", h: 85 },
+  "Country": { zh: "鄉村", ja: "カントリー", h: 70 },
+  "Jazz": { zh: "爵士", ja: "ジャズ", h: 50 },
+  "Blues": { zh: "藍調", ja: "ブルース", h: 215 },
+  "Classical": { zh: "古典", ja: "クラシック", h: 205 },
+  "Vocal": { zh: "人聲", ja: "ヴォーカル", h: 60 },
+  "Easy Listening": { zh: "輕音樂", ja: "イージーリスニング", h: 120 },
+  "New Age": { zh: "新世紀", ja: "ニューエイジ", h: 160 },
+  "Reggae": { zh: "雷鬼", ja: "レゲエ", h: 110 },
+  "Latin": { zh: "拉丁", ja: "ラテン", h: 35 },
+  "World": { zh: "世界音樂", ja: "ワールド", h: 100 },
+  "Children's Music": { zh: "兒童音樂", ja: "キッズ", h: 55 },
+  "Holiday": { zh: "節慶", ja: "ホリデー", h: 125 },
+  "Christmas": { zh: "聖誕", ja: "クリスマス", h: 125 },
+};
+
+function genreInfo(name) {
+  const g = GENRES[name];
+  if (g) return { label: state.lang === "en" ? name : g[state.lang], hue: g.h };
+  let hash = 0;
+  for (const ch of name) hash = (hash * 31 + ch.codePointAt(0)) % 360;
+  return { label: name, hue: hash };
+}
+
+function sourceRegion() {
+  return state.index?.sources.find((s) => s.id === state.source)?.region || "tw";
+}
+
+function songQuery(row) {
+  return [row.title, row.artist].filter(Boolean).join(" ");
+}
+
+function appleLink(row) {
+  if (row.apple) {
+    const [cc, id] = row.apple.split("/");
+    return { href: `https://music.apple.com/${cc}/song/${id}`, label: t("appleListen"), direct: true };
+  }
+  return {
+    href: `https://music.apple.com/${sourceRegion()}/search?term=` + encodeURIComponent(songQuery(row)),
+    label: t("appleSearch"),
+    direct: false,
+  };
+}
+
+function kkboxLink(row) {
+  if (row.kkbox) {
+    return {
+      href: "https://widget.kkbox.com/v1/?id=" + encodeURIComponent(row.kkbox) + "&type=song&terr=tw&lang=tc&autoplay=true",
+      label: t("kkboxListen"),
+      direct: true,
+    };
+  }
+  return {
+    href: "https://www.kkbox.com/tw/tc/search?q=" + encodeURIComponent(songQuery(row)),
+    label: t("kkboxSearch"),
+    direct: false,
+  };
+}
+
 const YT_ICON =
   '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .6 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2 2.1c2 .5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8ZM9.7 15.1V8.9l5.8 3.1-5.8 3.1Z"/></svg>';
 
@@ -202,6 +312,7 @@ function applyStaticText() {
   for (const btn of document.querySelectorAll(".lang button")) {
     btn.setAttribute("aria-pressed", String(btn.dataset.lang === state.lang));
   }
+  $("#genre-credit").textContent = t("genreCredit");
   const links = $("#source-links");
   links.replaceChildren(t("sources") + t("colon"));
   (state.index?.sources || []).forEach((s, i) => {
@@ -253,27 +364,50 @@ function changeCell(row, chart) {
   return el("span", { class: "same", title, text: "→" });
 }
 
+function genreTag(row) {
+  if (!row.genre) return null;
+  const g = genreInfo(row.genre);
+  const tag = el("span", { class: "tag", title: t("genreHint", { g: g.label }), text: g.label });
+  tag.style.setProperty("--h", String(g.hue));
+  return tag;
+}
+
 function songCell(row) {
   const titleNode = row.song_url
     ? el("a", { href: row.song_url, target: "_blank", rel: "noopener", text: row.title })
     : row.title;
   const sub = el("div", { class: "song-sub" }, row.artist || "");
   if (row.song_no) sub.append(el("span", { class: "song-no", title: t("songNo"), text: `#${row.song_no}` }));
-  return [el("div", { class: "song-title" }, titleNode), sub];
+  const head = el("div", { class: "song-title" }, titleNode);
+  const tag = genreTag(row);
+  if (tag) head.append(" ", tag);
+  return [head, sub, linkRow(row)];
 }
 
-function linkCell(row) {
-  const q = [row.title, row.artist].filter(Boolean).join(" ");
-  const a = el("a", {
-    class: "yt",
+function linkRow(row) {
+  const q = songQuery(row);
+  const yt = el("a", {
+    class: "btn yt",
     href: youtubeUrl(row),
     target: "_blank",
     rel: "noopener",
     "aria-label": t("ytAria", { q }),
   });
-  a.innerHTML = YT_ICON;
-  a.append(el("span", { class: "yt-label", text: t("ytSearch") }));
-  return a;
+  yt.innerHTML = YT_ICON;
+  yt.append(el("span", { text: t("ytSearch") }));
+
+  const links = [yt];
+  for (const [cls, info] of [["apple", appleLink(row)], ["kkbox", kkboxLink(row)]]) {
+    links.push(el("a", {
+      class: `btn ${cls}${info.direct ? "" : " search"}`,
+      href: info.href,
+      target: "_blank",
+      rel: "noopener",
+      title: info.direct ? null : t("searchHint", { q }),
+      text: info.label,
+    }));
+  }
+  return el("div", { class: "song-links" }, ...links);
 }
 
 function renderChart(data) {
@@ -314,8 +448,7 @@ function renderChart(data) {
       el("tr", {},
         el("td", { class: "col-rank", text: String(row.rank) }),
         el("td", { class: "col-change" }, changeCell(row, chart)),
-        el("td", { class: "col-song" }, ...songCell(row)),
-        el("td", { class: "col-link" }, linkCell(row)))
+        el("td", { class: "col-song" }, ...songCell(row)))
     );
   }
   tbody.replaceChildren(frag);

@@ -25,7 +25,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -39,11 +39,17 @@ jobs:
       - name: Fetch rankings
         run: python -m scraper
 
+      # iTunes allows about 20 requests a minute, so new songs are looked up in batches.
+      # A failure here only means fewer tags today; the rankings still publish.
+      - name: Look up genres and listen links
+        continue-on-error: true
+        run: python -m scraper.enrich --max 300 --budget 1500
+
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/data data/history
+          git add site/data data
           if git diff --cached --quiet; then
             echo "No data changes."
           else

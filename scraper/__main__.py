@@ -16,6 +16,7 @@ import sys
 import traceback
 from pathlib import Path
 
+from . import enrich
 from .history import History, period_key
 from .sources import ALL
 
@@ -111,6 +112,8 @@ def main(argv: list[str] | None = None) -> int:
         ],
     }
     (SITE_DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    counts = enrich.apply_files(SITE_DATA)  # genres and links from caches; no network
+    print("annotated rows: " + ", ".join(f"{k}={v}" for k, v in counts.items()))
     print(f"done: {total_ok}/{total_jobs} jobs succeeded")
     return 0 if total_ok else 1
 

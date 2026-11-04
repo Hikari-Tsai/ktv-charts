@@ -74,6 +74,7 @@ def parse(payload: dict, type_: str) -> tuple[str | None, list[dict]]:
             "title": item.get("song_name", ""),
             "artist": item.get("artist_name", ""),
             "song_url": item.get("song_url"),
+            "kkbox": item.get("song_id") or None,
             "last_rank": last,
             "is_new": last is None,
         })

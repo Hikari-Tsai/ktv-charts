@@ -1,4 +1,4 @@
-# 台灣與日本 KTV 點歌排行榜與 KKBOX 風雲榜 API 手冊
+# 台灣與日本 KTV 點歌排行榜、KKBOX 風雲榜與 iTunes 曲風 API 手冊
 
 整理日期：2026-11-03
 涵蓋：台灣 好樂迪（holiday.com.tw）、錢櫃（cashboxparty.com）、星聚點（newcbparty.com，附錄）；日本 JOYSOUND（joysound.com）、DAM（clubdam.com）；串流 KKBOX 風雲榜（kma.kkbox.com）
@@ -752,6 +752,48 @@ for r in rows[:10]:
     print(rk["this_period"], r["song_name"], "-", r["artist_name"], f"(上期 {rk['last_period'] or 'NEW'})")
 ```
 
+---
+
+## 8. iTunes Search API（曲風與 Apple Music 連結）
+
+這是 Apple 官方公開、不需要金鑰的搜尋介面。本站用它取得曲風與 Apple Music 曲目 ID。
+
+```
+GET https://itunes.apple.com/search?term={歌名 歌手}&country={tw|jp}&media=music&entity=song&limit=10&lang=en_us
+```
+
+| 參數 | 說明 |
+|---|---|
+| `term` | 關鍵字。本站用去掉括號與副標的歌名，加第一位歌手 |
+| `country` | 商店地區。台灣來源先查 `tw`，日本來源先查 `jp`，查不到再換另一區 |
+| `lang` | 加 `en_us` 讓 `primaryGenreName` 固定是英文，例如 `Mandopop`、`Tai-Pop`、`Enka`、`Anime`；不加會回傳該地區的語言 |
+| `limit` | 回傳筆數，本站取 10 筆再自己挑 |
+
+回應的 `results[]` 中，本站使用：
+
+| 欄位 | 用途 |
+|---|---|
+| `trackName` / `artistName` | 比對是否為同一首歌 |
+| `primaryGenreName` | 曲風標籤 |
+| `trackId` | 組成 `https://music.apple.com/{country}/song/{trackId}` 試聽連結 |
+| `collectionName` | 排除 live、伴奏、卡拉 OK 等版本 |
+
+比對規則：歌名相似度至少 0.85，歌手相似度至少 0.6；排除 live、instrumental、karaoke、カラオケ、伴奏等版本；歌名與查詢完全相同的結果優先，例如會選「怪獣の花唄」而不是「怪獣の花唄 - replica -」。
+
+限制與注意：
+
+- 頻率約每分鐘 20 次，超過會回 403。本站每次請求間隔 3.2 秒，被擋時當次停止並保留已查到的結果。
+- 曲風是商店分類，粒度粗，台語歌也可能標成 Mandopop。
+- 同一首歌在不同版本可能有不同曲風。
+
+### KKBOX 試聽 widget
+
+```
+https://widget.kkbox.com/v1/?id={KKBOX song id}&type=song&terr=tw&lang=tc&autoplay=true
+```
+
+KKBOX 曲目 ID 的來源：KKBOX 風雲榜回應的 `song_id`，以及好樂迪排行榜 `songurl` 欄位裡的 `id` 參數。
+
 ## 附錄 A：星聚點（newcbparty.com）
 
 沒有 AJAX API，榜單是伺服器端輸出的靜態 HTML，**而且資料停在 2024/10/04～10/08，之後未更新**，不建議當資料源。
@@ -790,3 +832,4 @@ GET https://www.newcbparty.com/billboard.php?p=<n>
 | DAM | HTTP 301 | `/index.html` 會轉到目錄路徑，跟著轉即可 |
 | KKBOX | `code: 104`, `data: []` | 曲風 id 不存在 |
 | KKBOX | 只回 5 筆 | 沒帶 `limit` |
+| iTunes | HTTP 403 | 超過每分鐘約 20 次的頻率限制 |

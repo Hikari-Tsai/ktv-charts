@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 import urllib.parse
 
 from ..net import post_json_array
@@ -56,11 +57,13 @@ def fetch_chart(ltype: str, title: dict) -> dict:
         if not item.get("id"):
             continue
         last = _int_or_none(item.get("lastweek"))
+        kk = re.search(r"[?&]id=([A-Za-z0-9_-]+)", item.get("songurl") or "")
         rows.append({
             "rank": int(item["thisweek"]),
             "title": item["songname"],
             "artist": item["singer"],
             "song_no": item["id"],
+            "kkbox": kk.group(1) if kk else None,  # KKBOX song id from the preview widget link
             "last_rank": last,
             "is_new": last is None,
         })

@@ -6,7 +6,10 @@ import unittest
 from pathlib import Path
 from unittest import mock
 
+import datetime as dt
+
 import scraper.__main__ as main
+from scraper import enrich, match
 from scraper.history import History, period_key, song_key
 from scraper.sources import dam, joysound, kkbox
 
@@ -119,6 +122,81 @@ class KkboxParseTest(unittest.TestCase):
     def test_titles(self):
         self.assertEqual(kkbox.chart_title("weekly", "song", 297)["zh"], "華語單曲週榜")
         self.assertEqual(kkbox.chart_title("daily", "song", 390)["en"], "Western · Daily")
+
+
+class MatchTest(unittest.TestCase):
+    def test_same_song_across_sources(self):
+        self.assertEqual(match.song_key("APT.", "ROSÉ、Bruno Mars"), match.song_key("APT.", "ROSÉ & Bruno Mars"))
+        self.assertEqual(match.song_key("對等關係", "李榮浩、張惠妹(aMEI)"), match.song_key("對等關係", "李榮浩、張惠妹"))
+        self.assertEqual(match.song_key("沒有人像我一樣 - 影集主題曲", "宇宙人 (Cosmos People)"),
+                         match.song_key("沒有人像我一樣", "宇宙人"))
+
+    def test_first_artist(self):
+        self.assertEqual(match.first_artist("ROSÉ、Bruno Mars"), "ROSÉ")
+        self.assertEqual(match.first_artist("Max Liu"), "Max Liu")
+
+    def test_bad_version(self):
+        self.assertTrue(match.is_bad_version("Lemon (Live)"))
+        self.assertTrue(match.is_bad_version("怪獣の花唄 (カラオケ)"))
+        self.assertFalse(match.is_bad_version("怪獣の花唄 - replica -"))
+
+
+class ItunesPickTest(unittest.TestCase):
+    def r(self, name, artist, genre="Rock", tid=1, coll=""):
+        return {"kind": "song", "trackName": name, "artistName": artist, "primaryGenreName": genre,
+                "trackId": tid, "collectionName": coll}
+
+    def test_prefers_exact_title_over_alternate_version(self):
+        res = [self.r("怪獣の花唄 - replica -", "Vaundy", tid=1), self.r("怪獣の花唄", "Vaundy", tid=2)]
+        self.assertEqual(enrich.pick_best(res, "怪獣の花唄", "Vaundy")["trackId"], 2)
+
+    def test_rejects_live_and_wrong_artist(self):
+        res = [self.r("Lemon (Live)", "米津玄師", tid=1), self.r("Lemon", "Someone Else", tid=2)]
+        self.assertIsNone(enrich.pick_best(res, "Lemon", "米津玄師"))
+
+    def test_matches_artist_with_alias(self):
+        res = [self.r("甲乙丙丁Strangers", "李佳薇", genre="Mandopop", tid=9)]
+        self.assertEqual(enrich.pick_best(res, "甲乙丙丁Strangers - 你我怎麼兩清", "李佳薇 (Jess Lee)")["trackId"], 9)
+
+
+class EnrichTest(unittest.TestCase):
+    def sites(self):
+        return {
+            "kkbox": {"charts": [{"id": "a", "rows": [
+                {"rank": 1, "title": "甲乙丙丁Strangers - 你我怎麼兩清", "artist": "李佳薇 (Jess Lee)", "kkbox": "KID1"}]}]},
+            "holiday": {"charts": [{"id": "b", "rows": [
+                {"rank": 3, "title": "甲乙丙丁", "artist": "李佳薇"},
+                {"rank": 1, "title": "擱淺", "artist": "周杰倫"}]}]},
+        }
+
+    def test_candidates_order_and_retry(self):
+        sites = self.sites()
+        today = dt.date(2026, 11, 4)
+        cache = {match.song_key("擱淺", "周杰倫"): {"status": "none", "checked": "2026-11-01"}}
+        keys = [c["key"] for c in enrich.candidates(sites, cache, today)]
+        self.assertNotIn(match.song_key("擱淺", "周杰倫"), keys)  # not found 3 days ago: wait
+        cache[match.song_key("擱淺", "周杰倫")]["checked"] = "2026-09-01"
+        keys = [c["key"] for c in enrich.candidates(sites, cache, today)]
+        self.assertEqual(len(keys), 3)
+        self.assertEqual(keys[-1], match.song_key("甲乙丙丁", "李佳薇"))  # best rank is 3, so it goes last
+
+    def test_annotate_genre_apple_and_kkbox(self):
+        sites = self.sites()
+        known = {}
+        enrich.collect_kkbox_ids(sites, known)
+        cache = {match.song_key("擱淺", "周杰倫"): {"status": "ok", "genre": "Mandopop", "id": 42, "cc": "tw"}}
+        counts = enrich.annotate(sites, cache, known)
+        holiday = sites["holiday"]["charts"][0]["rows"]
+        self.assertEqual(holiday[0]["kkbox"], "KID1")          # prefix match to KKBOX's longer title
+        self.assertEqual(holiday[1]["genre"], "Mandopop")
+        self.assertEqual(holiday[1]["apple"], "tw/42")
+        self.assertNotIn("kkbox", holiday[1])
+        self.assertEqual(counts["kkbox"], 2)
+
+    def test_fuzzy_needs_unique_match(self):
+        index = {"artist": [("abcde", "X"), ("abcdf", "Y")]}
+        self.assertIsNone(enrich.fuzzy_kkbox("abc|artist", index))
+        self.assertEqual(enrich.fuzzy_kkbox("abcdeplus|artist", {"artist": [("abcde", "X")]}), "X")
 
 
 class FallbackTest(unittest.TestCase):
