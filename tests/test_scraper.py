@@ -199,6 +199,29 @@ class EnrichTest(unittest.TestCase):
         self.assertEqual(enrich.fuzzy_kkbox("abcdeplus|artist", {"artist": [("abcde", "X")]}), "X")
 
 
+class CacheTest(unittest.TestCase):
+    def test_save_never_drops_existing_entries(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "c.json"
+            enrich.save_cache(path, {"a": {"status": "ok"}, "b": {"status": "none"}})
+            enrich.save_cache(path, {"b": {"status": "ok"}, "c": {"status": "ok"}})  # "a" missing here
+            data = enrich.load_cache(path)
+            self.assertEqual(set(data), {"a", "b", "c"})
+            self.assertEqual(data["b"]["status"], "ok")
+
+    def test_corrupt_cache_is_never_overwritten(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "c.json"
+            path.write_text("{not json", encoding="utf-8")
+            with self.assertRaises(RuntimeError):
+                enrich.save_cache(path, {"a": {"status": "ok"}})
+            self.assertEqual(path.read_text(encoding="utf-8"), "{not json")
+
+    def test_missing_cache_is_empty(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            self.assertEqual(enrich.load_cache(Path(tmp) / "none.json"), {})
+
+
 class FallbackTest(unittest.TestCase):
     def test_failed_job_keeps_previous_chart(self):
         def boom():

@@ -59,6 +59,28 @@ def _save(path: Path, data, compact: bool = False) -> None:
     path.write_text(text + "\n", encoding="utf-8")
 
 
+def load_cache(path: Path) -> dict:
+    """Caches are permanent. A missing file is empty; an unreadable one stops the run
+    instead of being treated as empty and overwritten."""
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"{path} is not valid JSON; refusing to touch it: {exc}") from exc
+    if not isinstance(data, dict):
+        raise RuntimeError(f"{path} is not a JSON object; refusing to touch it")
+    return data
+
+
+def save_cache(path: Path, data: dict) -> None:
+    """Append-only save: entries already on disk are kept even if `data` lacks them.
+    An existing key is only replaced by a newer lookup of the same song."""
+    merged = {**load_cache(path), **data}
+    data.update(merged)
+    _save(path, merged)
+
+
 def load_sites(site_dir: Path = SITE_DATA) -> dict[str, dict]:
     out = {}
     for src in SOURCES:
@@ -188,10 +210,10 @@ def lookup(todo: list[dict], cache: dict, max_songs: int, budget: float, save_ev
                 "artist": hit.get("artistName"),
                 "checked": today,
             }
-        else:
+        elif cache.get(item["key"], {}).get("status") != "ok":
             cache[item["key"]] = {"status": "none", "checked": today}
         if stats["looked_up"] % save_every == 0:
-            _save(ITUNES_CACHE, cache)
+            save_cache(ITUNES_CACHE, cache)
             print(f"  ... {stats['looked_up']} looked up, {stats['found']} found", flush=True)
     return stats
 
@@ -252,10 +274,10 @@ def write_sites(sites: dict[str, dict], site_dir: Path = SITE_DATA) -> None:
 def apply_files(site_dir: Path = SITE_DATA) -> dict:
     """No network: refresh KKBOX ids and annotate every row from the caches."""
     sites = load_sites(site_dir)
-    kkbox_ids = _load(KKBOX_IDS, {})
+    kkbox_ids = load_cache(KKBOX_IDS)
     if collect_kkbox_ids(sites, kkbox_ids):
-        _save(KKBOX_IDS, kkbox_ids)
-    counts = annotate(sites, _load(ITUNES_CACHE, {}), kkbox_ids)
+        save_cache(KKBOX_IDS, kkbox_ids)
+    counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids)
     write_sites(sites, site_dir)
     return counts
 
@@ -269,11 +291,11 @@ def main(argv: list[str] | None = None) -> int:
 
     if not args.no_network:
         sites = load_sites()
-        cache = _load(ITUNES_CACHE, {})
+        cache = load_cache(ITUNES_CACHE)
         todo = candidates(sites, cache, dt.datetime.now(TZ).date())
         print(f"{len(todo)} songs need a lookup; doing up to {args.max}", flush=True)
         stats = lookup(todo, cache, args.max, args.budget)
-        _save(ITUNES_CACHE, cache)
+        save_cache(ITUNES_CACHE, cache)
         print(f"looked up {stats['looked_up']}, found {stats['found']}"
               + (" (stopped: rate limited)" if stats["rate_limited"] else ""))
     counts = apply_files()

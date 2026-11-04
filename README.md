@@ -49,6 +49,7 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 - 網頁是純 HTML、CSS、JavaScript，沒有框架也沒有建置步驟。
 - 每個請求間隔 1 秒，每天只執行一次。iTunes 每分鐘約限 20 次請求，所以查詢間隔 3.2 秒，只查沒看過的歌。
 - 曲風查詢失敗不會影響排行榜更新，只是當天少一些標籤。
+- `data/itunes.json` 與 `data/kkbox-ids.json` 是永久快取，只增不減：已找到的歌不會再查，也不會被之後的查詢結果降級；快取檔讀不出來時程式會停止查詢，不會覆寫它。所有版本也都保留在 git 歷史裡。
 
 各家端點、參數與頁面結構的細節見 [docs/KTV-chart-api.md](docs/KTV-chart-api.md)。
 

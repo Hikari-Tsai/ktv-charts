@@ -112,8 +112,11 @@ def main(argv: list[str] | None = None) -> int:
         ],
     }
     (SITE_DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    counts = enrich.apply_files(SITE_DATA)  # genres and links from caches; no network
-    print("annotated rows: " + ", ".join(f"{k}={v}" for k, v in counts.items()))
+    try:
+        counts = enrich.apply_files(SITE_DATA)  # genres and links from caches; no network
+        print("annotated rows: " + ", ".join(f"{k}={v}" for k, v in counts.items()))
+    except Exception as exc:  # noqa: BLE001 - tags are optional; rankings must still publish
+        print(f"::warning title=Genre tags skipped::{exc}", file=sys.stderr)
     print(f"done: {total_ok}/{total_jobs} jobs succeeded")
     return 0 if total_ok else 1
 
