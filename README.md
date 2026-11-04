@@ -22,8 +22,10 @@
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
 - **三個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」。
   - YouTube 以「歌名 歌手」當關鍵字開啟 `https://www.youtube.com/results?search_query=`。
-  - Apple Music 連到 iTunes 比對到的曲目頁，可以試聽 30 秒。
-  - KKBOX 開啟官方試聽 widget。曲目 ID 來自 KKBOX 排行榜與好樂迪資料，再依歌名歌手套用到其他來源。
+  - 點「Apple Music 試聽」或「KKBOX 試聽」會在該首歌下方展開官方嵌入播放器，同時只開一個，再點一次收起。按住 Ctrl 或 ⌘ 點擊則改為開新分頁。
+  - Apple Music 播放器使用 `embed.music.apple.com`，未登入時播放 30 秒試聽。
+  - KKBOX 播放器使用官方 widget。曲目 ID 來自 KKBOX 排行榜與好樂迪資料，再依歌名歌手套用到其他來源。
+  - 播放器只在點擊時才載入，不會一次載入整張榜。瀏覽器可能擋下自動播放，這時要在播放器裡再按一次播放。
   - 找不到對應曲目時，Apple Music 與 KKBOX 改成灰色虛線框的「搜尋」連結。
 - **名次升降**：好樂迪、錢櫃與 KKBOX 使用官方提供的上期名次；日本兩家由本站比對前一期快照自行計算，第一次收錄時顯示「–」。
 - **可直接分享**：網址 hash 記錄目前的 KTV 與榜單，例如 `#dam/anime-weekly`。
@@ -58,8 +60,8 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 | 項目 | 來源 | 說明 |
 |---|---|---|
 | 曲風標籤 | iTunes Search API 回傳的 `primaryGenreName` | Apple 商店的分類，由唱片公司或發行商上架時填寫，不是分析音訊得來的。查詢時加 `lang=en_us` 取得英文名稱，網頁再翻成中文或日文 |
-| Apple Music 試聽 | iTunes 比對到的 `trackId` | 連到 `https://music.apple.com/{tw 或 jp}/song/{trackId}`，可試聽 30 秒 |
-| KKBOX 試聽 | KKBOX 風雲榜的 `song_id`，以及好樂迪排行榜 `songurl` 裡的 KKBOX 曲目 ID | 開啟 KKBOX 官方試聽 widget。其他來源的同一首歌依歌名歌手套用 |
+| Apple Music 試聽 | iTunes 比對到的 `trackId` | 嵌入 `https://embed.music.apple.com/{tw 或 jp}/song/{trackId}`，可試聽 30 秒 |
+| KKBOX 試聽 | KKBOX 風雲榜的 `song_id`，以及好樂迪排行榜 `songurl` 裡的 KKBOX 曲目 ID | 嵌入 KKBOX 官方 widget。其他來源的同一首歌依歌名歌手套用 |
 | 在YouTube搜尋 | 歌名與歌手 | 開啟 YouTube 搜尋結果，不指定特定影片 |
 
 **顏色**：每個曲風有固定的色相，三種語言下顏色一致。不在對照表裡的曲風顯示英文原名，顏色由名稱算出，每次都相同。
@@ -183,4 +185,4 @@ python3 -m http.server 8000 -d site
 
 ## 授權
 
-程式碼以 [MIT License](LICENSE) 授權。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
+程式碼以 [MIT License](LICENSE) 授權。按鈕上的 Apple Music 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。

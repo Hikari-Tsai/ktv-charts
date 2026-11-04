@@ -22,6 +22,8 @@ const I18N = {
     appleSearch: "Apple Music 搜尋",
     kkboxListen: "KKBOX 試聽",
     kkboxSearch: "KKBOX 搜尋",
+    playerTitle: "{service} 播放器：{q}",
+    closePlayer: "再點一次收起播放器",
     searchHint: "沒有找到對應曲目，改為搜尋「{q}」",
     genreHint: "曲風：{g}（Apple Music 分類）",
     genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API。",
@@ -57,6 +59,8 @@ const I18N = {
     appleSearch: "Search Apple Music",
     kkboxListen: "Listen on KKBOX",
     kkboxSearch: "Search KKBOX",
+    playerTitle: "{service} player: {q}",
+    closePlayer: "Click again to close the player",
     searchHint: "No matching track found; searches for “{q}”",
     genreHint: "Genre: {g} (Apple Music category)",
     genreCredit: "Genres and Apple Music links come from the iTunes Search API.",
@@ -92,6 +96,8 @@ const I18N = {
     appleSearch: "Apple Music で検索",
     kkboxListen: "KKBOX で試聴",
     kkboxSearch: "KKBOX で検索",
+    playerTitle: "{service} プレーヤー：{q}",
+    closePlayer: "もう一度押すとプレーヤーを閉じます",
     searchHint: "該当曲が見つからないため「{q}」を検索します",
     genreHint: "ジャンル：{g}（Apple Music の分類）",
     genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API から取得しています。",
@@ -244,7 +250,12 @@ function songQuery(row) {
 function appleLink(row) {
   if (row.apple) {
     const [cc, id] = row.apple.split("/");
-    return { href: `https://music.apple.com/${cc}/song/${id}`, label: t("appleListen"), direct: true };
+    return {
+      href: `https://music.apple.com/${cc}/song/${id}`,
+      embed: `https://embed.music.apple.com/${cc}/song/${id}`,
+      label: t("appleListen"),
+      direct: true,
+    };
   }
   return {
     href: `https://music.apple.com/${sourceRegion()}/search?term=` + encodeURIComponent(songQuery(row)),
@@ -255,11 +266,8 @@ function appleLink(row) {
 
 function kkboxLink(row) {
   if (row.kkbox) {
-    return {
-      href: "https://widget.kkbox.com/v1/?id=" + encodeURIComponent(row.kkbox) + "&type=song&terr=tw&lang=tc&autoplay=true",
-      label: t("kkboxListen"),
-      direct: true,
-    };
+    const widget = "https://widget.kkbox.com/v1/?id=" + encodeURIComponent(row.kkbox) + "&type=song&terr=tw&lang=tc";
+    return { href: widget + "&autoplay=true", embed: widget + "&autoplay=true", label: t("kkboxListen"), direct: true };
   }
   return {
     href: "https://www.kkbox.com/tw/tc/search?q=" + encodeURIComponent(songQuery(row)),
@@ -270,6 +278,21 @@ function kkboxLink(row) {
 
 const YT_ICON =
   '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .6 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2 2.1c2 .5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8ZM9.7 15.1V8.9l5.8 3.1-5.8 3.1Z"/></svg>';
+
+// Brand marks: Apple Music glyph from Simple Icons (CC0 path data); KKBOX app icon from kkbox.com.
+// Trademarks belong to their owners and are used only to label links to their services.
+const APPLE_ICON =
+  '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M23.994 6.124a9.23 9.23 0 00-.24-2.19c-.317-1.31-1.062-2.31-2.18-3.043a5.022 5.022 0 00-1.877-.726 10.496 10.496 0 00-1.564-.15c-.04-.003-.083-.01-.124-.013H5.986c-.152.01-.303.017-.455.026-.747.043-1.49.123-2.193.4-1.336.53-2.3 1.452-2.865 2.78-.192.448-.292.925-.363 1.408-.056.392-.088.785-.1 1.18 0 .032-.007.062-.01.093v12.223c.01.14.017.283.027.424.05.815.154 1.624.497 2.373.65 1.42 1.738 2.353 3.234 2.801.42.127.856.187 1.293.228.555.053 1.11.06 1.667.06h11.03a12.5 12.5 0 001.57-.1c.822-.106 1.596-.35 2.295-.81a5.046 5.046 0 001.88-2.207c.186-.42.293-.87.37-1.324.113-.675.138-1.358.137-2.04-.002-3.8 0-7.595-.003-11.393zm-6.423 3.99v5.712c0 .417-.058.827-.244 1.206-.29.59-.76.962-1.388 1.14-.35.1-.706.157-1.07.173-.95.045-1.773-.6-1.943-1.536a1.88 1.88 0 011.038-2.022c.323-.16.67-.25 1.018-.324.378-.082.758-.153 1.134-.24.274-.063.457-.23.51-.516a.904.904 0 00.02-.193c0-1.815 0-3.63-.002-5.443a.725.725 0 00-.026-.185c-.04-.15-.15-.243-.304-.234-.16.01-.318.035-.475.066-.76.15-1.52.303-2.28.456l-2.325.47-1.374.278c-.016.003-.032.01-.048.013-.277.077-.377.203-.39.49-.002.042 0 .086 0 .13-.002 2.602 0 5.204-.003 7.805 0 .42-.047.836-.215 1.227-.278.64-.77 1.04-1.434 1.233-.35.1-.71.16-1.075.172-.96.036-1.755-.6-1.92-1.544-.14-.812.23-1.685 1.154-2.075.357-.15.73-.232 1.108-.31.287-.06.575-.116.86-.177.383-.083.583-.323.6-.714v-.15c0-2.96 0-5.922.002-8.882 0-.123.013-.25.042-.37.07-.285.273-.448.546-.518.255-.066.515-.112.774-.165.733-.15 1.466-.296 2.2-.444l2.27-.46c.67-.134 1.34-.27 2.01-.403.22-.043.442-.088.663-.106.31-.025.523.17.554.482.008.073.012.148.012.223.002 1.91.002 3.822 0 5.732z"/></svg>';
+const KKBOX_ICON_SRC = "assets/kkbox.png";
+
+function brandIcon(kind) {
+  if (kind === "apple") {
+    const span = el("span", { class: "icon" });
+    span.innerHTML = APPLE_ICON;
+    return span;
+  }
+  return el("img", { class: "icon", src: KKBOX_ICON_SRC, alt: "", width: "14", height: "14", decoding: "async" });
+}
 
 function youtubeUrl(row) {
   const q = [row.title, row.artist].filter(Boolean).join(" ");
@@ -364,6 +387,48 @@ function changeCell(row, chart) {
   return el("span", { class: "same", title, text: "→" });
 }
 
+/* ---------- embedded players ---------- */
+
+const PLAYER = {
+  apple: {
+    service: "Apple Music",
+    height: 175,
+    allow: "autoplay *; encrypted-media *; clipboard-write",
+    sandbox: "allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation",
+  },
+  kkbox: { service: "KKBOX", height: 112, allow: "autoplay; encrypted-media", sandbox: null },
+};
+
+let openPlayer = null; // { row: <tr>, button }
+
+function closePlayer() {
+  if (!openPlayer) return;
+  openPlayer.row.remove();
+  openPlayer.button.setAttribute("aria-expanded", "false");
+  openPlayer = null;
+}
+
+function togglePlayer(songRow, button, kind, src, query) {
+  const reopen = !(openPlayer && openPlayer.button === button);
+  closePlayer();
+  if (!reopen) return;
+  const cfg = PLAYER[kind];
+  const iframe = el("iframe", {
+    class: `player player-${kind}`,
+    src,
+    title: t("playerTitle", { service: cfg.service, q: query }),
+    allow: cfg.allow,
+    sandbox: cfg.sandbox,
+    loading: "eager",
+    referrerpolicy: "strict-origin-when-cross-origin",
+  });
+  iframe.style.height = cfg.height + "px";
+  const row = el("tr", { class: "player-row" }, el("td", { colspan: "3", class: "player-cell" }, iframe));
+  songRow.after(row);
+  button.setAttribute("aria-expanded", "true");
+  openPlayer = { row, button };
+}
+
 function genreTag(row) {
   if (!row.genre) return null;
   const g = genreInfo(row.genre);
@@ -381,10 +446,10 @@ function songCell(row) {
   const head = el("div", { class: "song-title" }, titleNode);
   const tag = genreTag(row);
   if (tag) head.append(" ", tag);
-  return [head, sub, linkRow(row)];
+  return [head, sub];
 }
 
-function linkRow(row) {
+function linkRow(row, songRow) {
   const q = songQuery(row);
   const yt = el("a", {
     class: "btn yt",
@@ -397,15 +462,33 @@ function linkRow(row) {
   yt.append(el("span", { text: t("ytSearch") }));
 
   const links = [yt];
-  for (const [cls, info] of [["apple", appleLink(row)], ["kkbox", kkboxLink(row)]]) {
-    links.push(el("a", {
-      class: `btn ${cls}${info.direct ? "" : " search"}`,
-      href: info.href,
-      target: "_blank",
-      rel: "noopener",
-      title: info.direct ? null : t("searchHint", { q }),
-      text: info.label,
-    }));
+  for (const [kind, info] of [["apple", appleLink(row)], ["kkbox", kkboxLink(row)]]) {
+    if (info.direct) {
+      // Opens the official player under this song; ctrl/cmd-click still opens the page.
+      const link = el("a", {
+        class: `btn ${kind}`,
+        href: info.href,
+        target: "_blank",
+        rel: "noopener",
+        role: "button",
+        "aria-expanded": "false",
+        title: t("closePlayer"),
+      }, brandIcon(kind), el("span", { text: info.label }));
+      link.addEventListener("click", (ev) => {
+        if (ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button !== 0) return;
+        ev.preventDefault();
+        togglePlayer(songRow, link, kind, info.embed, q);
+      });
+      links.push(link);
+    } else {
+      links.push(el("a", {
+        class: `btn ${kind} search`,
+        href: info.href,
+        target: "_blank",
+        rel: "noopener",
+        title: t("searchHint", { q }),
+      }, brandIcon(kind), el("span", { text: info.label })));
+    }
   }
   return el("div", { class: "song-links" }, ...links);
 }
@@ -442,14 +525,16 @@ function renderChart(data) {
   notice.textContent = notes.join(" ");
   notice.hidden = notes.length === 0;
 
+  openPlayer = null; // the old player row goes away with the old rows
   const frag = document.createDocumentFragment();
   for (const row of chart.rows) {
-    frag.append(
-      el("tr", {},
-        el("td", { class: "col-rank", text: String(row.rank) }),
-        el("td", { class: "col-change" }, changeCell(row, chart)),
-        el("td", { class: "col-song" }, ...songCell(row)))
-    );
+    const songCellNode = el("td", { class: "col-song" }, ...songCell(row));
+    const tr = el("tr", { class: row.rank <= 3 ? "podium" : null },
+      el("td", { class: "col-rank", text: String(row.rank) }),
+      el("td", { class: "col-change" }, changeCell(row, chart)),
+      songCellNode);
+    songCellNode.append(linkRow(row, tr));
+    frag.append(tr);
   }
   tbody.replaceChildren(frag);
   empty.hidden = chart.rows.length > 0;

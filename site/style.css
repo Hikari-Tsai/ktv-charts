@@ -181,7 +181,7 @@ h1 { margin: 0; font-size: 1.6rem; letter-spacing: 0.01em; }
   overflow: hidden;
 }
 
-table { width: 100%; border-collapse: collapse; }
+table { width: 100%; border-collapse: collapse; table-layout: fixed; }
 th, td { padding: 9px 10px; text-align: left; vertical-align: middle; }
 thead th {
   font-size: 0.78rem;
@@ -195,7 +195,7 @@ tbody tr + tr td { border-top: 1px solid var(--border); }
 
 .col-rank { width: 3.2rem; text-align: right; }
 td.col-rank { font-weight: 700; font-variant-numeric: tabular-nums; font-size: 1.05rem; text-align: right; }
-tbody tr:nth-child(-n+3) td.col-rank { color: var(--accent); }
+tbody tr.podium td.col-rank { color: var(--accent); }
 
 .col-change { width: 4.2rem; text-align: center; }
 td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-align: center; white-space: nowrap; }
@@ -246,11 +246,26 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
   white-space: nowrap;
 }
 .btn:hover { background: var(--c); color: #fff; }
-.btn svg { width: 13px; height: 13px; flex: 0 0 auto; }
+.btn svg, .btn .icon { width: 13px; height: 13px; flex: 0 0 auto; display: block; }
+.btn .icon svg { width: 100%; height: 100%; }
+.btn img.icon { border-radius: 3px; }
+.btn.search img.icon { filter: grayscale(1); opacity: 0.75; }
 .btn.yt { --c: var(--yt); }
 .btn.apple { --c: var(--apple); }
 .btn.kkbox { --c: var(--kkbox); }
 .btn.search { --c: var(--muted); border-style: dashed; }
+.btn[aria-expanded="true"] { background: var(--c); color: #fff; }
+
+tbody tr.player-row td { border-top: 0; padding-top: 0; padding-bottom: 12px; padding-left: calc(3.2rem + 4.2rem + 10px); }
+.player {
+  display: block;
+  width: 100%;
+  max-width: 660px;
+  border: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--bg);
+}
 
 .empty { padding: 24px; text-align: center; color: var(--muted); margin: 0; }
 
@@ -271,10 +286,11 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
   th:last-child, td:last-child { padding-right: 8px; }
   .col-rank { width: 2rem; }
   .col-change { width: 2.6rem; }
+  tbody tr.player-row td { padding-left: 8px; }
   td.col-rank { font-size: 0.95rem; }
   .song-title { font-size: 0.92rem; }
   .song-sub { font-size: 0.78rem; }
   .song-links { gap: 5px; }
   .btn { padding: 2px 7px; font-size: 0.72rem; }
-  .btn svg { display: none; }
+  .btn svg, .btn .icon { width: 12px; height: 12px; }
 }
