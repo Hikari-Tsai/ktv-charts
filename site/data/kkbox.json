@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "streaming",
  "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
- "checked_at": "2026-11-05T15:13:49+08:00",
+ "checked_at": "2026-11-05T16:57:12+08:00",
  "errors": [],
  "charts": [
   {
@@ -323,8 +323,11 @@
       "released": "2026-09-11",
       "label": "索尼音乐版权",
       "album": "大梦归(电视剧《兰香如故》主题曲) - Single",
+      "isrc": "HKC652600815",
       "copyright": "℗ 2026 索尼音乐版权",
+      "mb": "a726174b-093f-4072-8364-cab281a29f24",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -407,12 +410,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吳昱廷 AuZTIN"
+      ],
+      "composer": [
+       "吳昱廷 AuZTIN"
+      ],
+      "arranger": [
+       "邱逸安 Andy Chiu"
+      ],
+      "producer": [
+       "吳昱廷 AuZTIN",
+       "彭柏邑 Boiii P"
+      ],
       "year": "2026",
       "released": "2026-10-30",
-      "label": "Rock Records Co., Ltd",
-      "album": "怎說 - Single",
+      "label": "滾石國際音樂股份有限公司",
+      "album": "怎說",
+      "isrc": "TWA452600155",
+      "type": "國語流行專輯",
       "copyright": "℗ 2026 Rock Records Co., Ltd.",
+      "ncl": 716293,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -645,12 +665,32 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "葛大為"
+      ],
+      "composer": [
+       "Eric周興哲"
+      ],
+      "arranger": [
+       "Derrick Sepnio張德銘",
+       "Fergus Chow貢多傑"
+      ],
+      "producer": [
+       "Derrick Sepnio張德銘",
+       "Fergus Chow貢多傑",
+       "A-Lin"
+      ],
       "year": "2022",
       "released": "2022-04-08",
-      "label": "Focus Music Co., Ltd",
+      "label": "台灣索尼音樂娛樂股份有限公司",
       "album": "LINK",
+      "isrc": "TWA472284009",
+      "maker": "众悅娛樂有限公司",
+      "type": "國語流行專輯",
       "copyright": "℗ 2022 Focus Music Co., Ltd., under exclusive license to Sony Music Entertainment Taiwan Ltd.; marketed by RCA Records Greater China, a Sony Music Entertainment Group label.",
+      "ncl": 414957,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -710,12 +750,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "周杰倫"
+      ],
+      "composer": [
+       "周杰倫"
+      ],
+      "arranger": [
+       "周杰倫"
+      ],
       "year": "2003",
-      "released": "2003-07-31",
-      "label": "JVR MUSIC INTERNATIONAL LTD",
+      "released": "2003-07-01",
+      "label": "新力博德曼",
       "album": "葉惠美",
+      "isrc": "TWK970300503",
+      "maker": "黑白鍵(周杰倫)",
       "copyright": "℗ 2003 JVR MUSIC INTERNATIONAL LTD.",
+      "ncl": 80846,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -1216,12 +1269,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "張簡君偉Alex Chang Jien"
+      ],
+      "composer": [
+       "張簡君偉Alex Chang Jien"
+      ],
+      "arranger": [
+       "游政豪Roger Yo"
+      ],
+      "producer": [
+       "張簡君偉Alex Chang Jien",
+       "璽恩SiEnVanessa"
+      ],
       "year": "2025",
       "released": "2025-05-09",
-      "label": "HIM International Music Inc",
-      "album": "數到十 - Single",
+      "label": "華研國際音樂股份有限公司",
+      "album": "數到十",
+      "isrc": "TWD952531102",
+      "type": "國語流行專輯",
       "copyright": "℗ 2025 HIM International Music Inc.",
+      "ncl": 569356,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -1757,7 +1827,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:26+08:00",
+   "fetched_at": "2026-11-05T16:56:48+08:00",
    "stale": false
   },
   {
@@ -2086,8 +2156,11 @@
       "released": "2026-09-11",
       "label": "索尼音乐版权",
       "album": "大梦归(电视剧《兰香如故》主题曲) - Single",
+      "isrc": "HKC652600815",
       "copyright": "℗ 2026 索尼音乐版权",
+      "mb": "a726174b-093f-4072-8364-cab281a29f24",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2321,12 +2394,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "周杰倫"
+      ],
+      "composer": [
+       "周杰倫"
+      ],
+      "arranger": [
+       "周杰倫"
+      ],
       "year": "2003",
-      "released": "2003-07-31",
-      "label": "JVR MUSIC INTERNATIONAL LTD",
+      "released": "2003-07-01",
+      "label": "新力博德曼",
       "album": "葉惠美",
+      "isrc": "TWK970300503",
+      "maker": "黑白鍵(周杰倫)",
       "copyright": "℗ 2003 JVR MUSIC INTERNATIONAL LTD.",
+      "ncl": 80846,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -2410,12 +2496,32 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "葛大為"
+      ],
+      "composer": [
+       "Eric周興哲"
+      ],
+      "arranger": [
+       "Derrick Sepnio張德銘",
+       "Fergus Chow貢多傑"
+      ],
+      "producer": [
+       "Derrick Sepnio張德銘",
+       "Fergus Chow貢多傑",
+       "A-Lin"
+      ],
       "year": "2022",
       "released": "2022-04-08",
-      "label": "Focus Music Co., Ltd",
+      "label": "台灣索尼音樂娛樂股份有限公司",
       "album": "LINK",
+      "isrc": "TWA472284009",
+      "maker": "众悅娛樂有限公司",
+      "type": "國語流行專輯",
       "copyright": "℗ 2022 Focus Music Co., Ltd., under exclusive license to Sony Music Entertainment Taiwan Ltd.; marketed by RCA Records Greater China, a Sony Music Entertainment Group label.",
+      "ncl": 414957,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -2859,12 +2965,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "張簡君偉Alex Chang Jien"
+      ],
+      "composer": [
+       "張簡君偉Alex Chang Jien"
+      ],
+      "arranger": [
+       "游政豪Roger Yo"
+      ],
+      "producer": [
+       "張簡君偉Alex Chang Jien",
+       "璽恩SiEnVanessa"
+      ],
       "year": "2025",
       "released": "2025-05-09",
-      "label": "HIM International Music Inc",
-      "album": "數到十 - Single",
+      "label": "華研國際音樂股份有限公司",
+      "album": "數到十",
+      "isrc": "TWD952531102",
+      "type": "國語流行專輯",
       "copyright": "℗ 2025 HIM International Music Inc.",
+      "ncl": 569356,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -3147,12 +3270,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃奇斌"
+      ],
+      "composer": [
+       "黃奇斌"
+      ],
+      "arranger": [
+       "茄子蛋"
+      ],
       "year": "2021",
-      "released": "2021-03-15",
+      "released": "2021-03-14",
       "label": "艾格普蘭特艾格有限公司",
-      "album": "愛情你比我想的閣較偉大 (《當男人戀愛時》電影主題曲) - Single",
+      "album": "愛情你比我想的閣較偉大",
+      "isrc": "TWEN62100002",
+      "type": "台語流行專輯",
       "copyright": "℗ 2021 艾格普蘭特艾格有限公司",
+      "ncl": 364694,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -3459,7 +3595,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:28+08:00",
+   "fetched_at": "2026-11-05T16:56:50+08:00",
    "stale": false
   },
   {
@@ -3874,12 +4010,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "阿弟仔"
+      ],
+      "composer": [
+       "阿弟仔"
+      ],
+      "arranger": [
+       "廖偉傑"
+      ],
       "year": "2014",
-      "released": "2014-01-01",
-      "label": "Universal Music Taiwan Ltd",
-      "album": "愛到站了",
+      "released": "2014-05-16",
+      "label": "環球國際",
+      "album": "愛  到站了",
+      "isrc": "TWUM71400018",
       "copyright": "℗ 2014 Universal Music Taiwan Ltd.",
+      "ncl": 124192,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -3905,12 +4053,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃奇斌"
+      ],
+      "composer": [
+       "黃奇斌"
+      ],
+      "arranger": [
+       "賴暐哲"
+      ],
+      "producer": [
+       "黃奇斌",
+       "鍾濰宇",
+       "陳君豪"
+      ],
       "year": "2026",
       "released": "2026-07-10",
-      "label": "HavingBoth CO., LTD",
-      "album": "虛華的夢想是一支刀",
+      "label": "環球國際唱片股份有限公司",
+      "album": "虛華的夢想是一支刀(Dolby Atmos)",
+      "isrc": "TWMD12600010",
+      "maker": "大可文武有限公司",
+      "type": "台語流行專輯",
       "copyright": "℗ 2026 HavingBoth CO., LTD., under exclusive license to Universal Music Taiwan Ltd.",
+      "ncl": 657894,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -3934,12 +4101,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃煜竣",
+       "黃揚晢"
+      ],
+      "composer": [
+       "趙偉令"
+      ],
+      "arranger": [
+       "丘旺蒼"
+      ],
       "year": "2002",
       "released": "2002-12-01",
-      "label": "阿爾發音樂股份有限公司",
+      "label": "科藝百代",
       "album": "紅線",
+      "isrc": "TWE230206103",
+      "maker": "亞律音樂",
       "copyright": "℗ 2002 阿爾發音樂股份有限公司",
+      "ncl": 66511,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -3971,12 +4152,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林耕禾 Hank Lin",
+       "薛榮漢 (哈姆)"
+      ],
+      "composer": [
+       "林耕禾 Hank Lin",
+       "薛榮漢 (哈姆)"
+      ],
+      "arranger": [
+       "徐平 Hsu Ping"
+      ],
+      "producer": [
+       "陳建騏 George Chen"
+      ],
       "year": "2026",
-      "released": "2026-03-31",
-      "label": "喜樂娛樂有限公司",
-      "album": "講袂出喙的情話 - Single",
+      "released": "2026-04-01",
+      "label": "何樂音樂有限公司",
+      "album": "講袂出喙的情話 Words Left Unsaid",
+      "isrc": "TWKI12600002",
+      "maker": "喜樂娛樂有限公司",
+      "type": "台語流行專輯",
       "copyright": "℗ 2026 喜樂娛樂有限公司",
+      "ncl": 648241,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -4038,12 +4238,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "許常德"
+      ],
+      "composer": [
+       "游鴻明"
+      ],
+      "arranger": [
+       "陳品"
+      ],
       "year": "1999",
-      "released": "1999-11-11",
-      "label": "HIM International Music Inc",
+      "released": "1999-11-01",
+      "label": "上華",
       "album": "無字的情批",
+      "isrc": "TWC319902101",
+      "maker": "華研國際音樂",
       "copyright": "℗ 1999 HIM International Music Inc.",
+      "ncl": 49113,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -4075,12 +4288,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "楊大正 Sam Yang"
+      ],
+      "composer": [
+       "楊大正 Sam Yang"
+      ],
+      "arranger": [
+       "滅火器 Fire EX.",
+       "周恆毅"
+      ],
       "year": "2019",
       "released": "2019-12-12",
-      "label": "火氣音樂股份有限公司 FIRE ON MUSIC",
-      "album": "自信勇敢咱的名 - Single",
+      "label": "火氣音樂",
+      "album": "自信勇敢咱的名",
+      "isrc": "TWBF31912001",
+      "type": "台語流行專輯",
       "copyright": "℗ 2019 火氣音樂股份有限公司 FIRE ON MUSIC",
+      "ncl": 284521,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -4110,12 +4337,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吳聖皓"
+      ],
+      "composer": [
+       "吳聖皓"
+      ],
+      "arranger": [
+       "林意霖 LiNN",
+       "潘信維 Lil Pan",
+       "吳聖皓 Sheng Hao Wu"
+      ],
+      "producer": [
+       "吳聖皓 Sheng Hao Wu"
+      ],
       "year": "2026",
       "released": "2026-08-27",
-      "label": "Bin Music International Limited",
-      "album": "鹹酸苦汫 (feat.王識賢) [電影《網紅老爸》片尾曲] - Single",
+      "label": "相信音樂國際股份有限公司",
+      "album": "鹹酸苦汫",
+      "isrc": "TWK232684250",
+      "type": "台語流行專輯",
       "copyright": "℗ 2026 Bin Music International Limited",
+      "ncl": 679159,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -4139,12 +4384,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "鄭喬安"
+      ],
+      "composer": [
+       "鄭喬安"
+      ],
+      "arranger": [
+       "Sebas"
+      ],
       "year": "2015",
       "released": "2015-09-17",
-      "label": "華特國際音樂股份有限公司",
-      "album": "少年夢",
+      "label": "華特音樂",
+      "album": "許富凱-少年夢",
+      "isrc": "TWE531520003",
+      "type": "台語流行專輯",
       "copyright": "℗ 華特國際音樂股份有限公司",
+      "ncl": 140173,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -4235,12 +4493,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃奇斌"
+      ],
+      "composer": [
+       "蕭煌奇"
+      ],
+      "arranger": [
+       "茄子蛋"
+      ],
+      "producer": [
+       "蕭煌奇"
+      ],
       "year": "2021",
       "released": "2021-04-02",
-      "label": "Hao Li Hi Music Co., Ltd",
+      "label": "環球國際唱片股份有限公司",
       "album": "舞台",
+      "isrc": "TWL532100005",
+      "maker": "黑色吉他工作室",
+      "type": "台語流行專輯",
       "copyright": "℗ 2021 Hao Li Hi Music Co., Ltd.",
+      "ncl": 354855,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5259,7 +5534,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:29+08:00",
+   "fetched_at": "2026-11-05T16:56:52+08:00",
    "stale": false
   },
   {
@@ -5672,12 +5947,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃煜竣",
+       "黃揚晢"
+      ],
+      "composer": [
+       "趙偉令"
+      ],
+      "arranger": [
+       "丘旺蒼"
+      ],
       "year": "2002",
       "released": "2002-12-01",
-      "label": "阿爾發音樂股份有限公司",
+      "label": "科藝百代",
       "album": "紅線",
+      "isrc": "TWE230206103",
+      "maker": "亞律音樂",
       "copyright": "℗ 2002 阿爾發音樂股份有限公司",
+      "ncl": 66511,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5709,12 +5998,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林耕禾 Hank Lin",
+       "薛榮漢 (哈姆)"
+      ],
+      "composer": [
+       "林耕禾 Hank Lin",
+       "薛榮漢 (哈姆)"
+      ],
+      "arranger": [
+       "徐平 Hsu Ping"
+      ],
+      "producer": [
+       "陳建騏 George Chen"
+      ],
       "year": "2026",
-      "released": "2026-03-31",
-      "label": "喜樂娛樂有限公司",
-      "album": "講袂出喙的情話 - Single",
+      "released": "2026-04-01",
+      "label": "何樂音樂有限公司",
+      "album": "講袂出喙的情話 Words Left Unsaid",
+      "isrc": "TWKI12600002",
+      "maker": "喜樂娛樂有限公司",
+      "type": "台語流行專輯",
       "copyright": "℗ 2026 喜樂娛樂有限公司",
+      "ncl": 648241,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5780,12 +6088,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吳聖皓"
+      ],
+      "composer": [
+       "吳聖皓"
+      ],
+      "arranger": [
+       "林意霖 LiNN",
+       "潘信維 Lil Pan",
+       "吳聖皓 Sheng Hao Wu"
+      ],
+      "producer": [
+       "吳聖皓 Sheng Hao Wu"
+      ],
       "year": "2026",
       "released": "2026-08-27",
-      "label": "Bin Music International Limited",
-      "album": "鹹酸苦汫 (feat.王識賢) [電影《網紅老爸》片尾曲] - Single",
+      "label": "相信音樂國際股份有限公司",
+      "album": "鹹酸苦汫",
+      "isrc": "TWK232684250",
+      "type": "台語流行專輯",
       "copyright": "℗ 2026 Bin Music International Limited",
+      "ncl": 679159,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5811,12 +6137,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "阿弟仔"
+      ],
+      "composer": [
+       "阿弟仔"
+      ],
+      "arranger": [
+       "廖偉傑"
+      ],
       "year": "2014",
-      "released": "2014-01-01",
-      "label": "Universal Music Taiwan Ltd",
-      "album": "愛到站了",
+      "released": "2014-05-16",
+      "label": "環球國際",
+      "album": "愛  到站了",
+      "isrc": "TWUM71400018",
       "copyright": "℗ 2014 Universal Music Taiwan Ltd.",
+      "ncl": 124192,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5840,12 +6178,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "鄭喬安"
+      ],
+      "composer": [
+       "鄭喬安"
+      ],
+      "arranger": [
+       "Sebas"
+      ],
       "year": "2015",
       "released": "2015-09-17",
-      "label": "華特國際音樂股份有限公司",
-      "album": "少年夢",
+      "label": "華特音樂",
+      "album": "許富凱-少年夢",
+      "isrc": "TWE531520003",
+      "type": "台語流行專輯",
       "copyright": "℗ 華特國際音樂股份有限公司",
+      "ncl": 140173,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5871,12 +6222,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "許常德"
+      ],
+      "composer": [
+       "游鴻明"
+      ],
+      "arranger": [
+       "陳品"
+      ],
       "year": "1999",
-      "released": "1999-11-11",
-      "label": "HIM International Music Inc",
+      "released": "1999-11-01",
+      "label": "上華",
       "album": "無字的情批",
+      "isrc": "TWC319902101",
+      "maker": "華研國際音樂",
       "copyright": "℗ 1999 HIM International Music Inc.",
+      "ncl": 49113,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5908,12 +6272,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "楊大正 Sam Yang"
+      ],
+      "composer": [
+       "楊大正 Sam Yang"
+      ],
+      "arranger": [
+       "滅火器 Fire EX.",
+       "周恆毅"
+      ],
       "year": "2019",
       "released": "2019-12-12",
-      "label": "火氣音樂股份有限公司 FIRE ON MUSIC",
-      "album": "自信勇敢咱的名 - Single",
+      "label": "火氣音樂",
+      "album": "自信勇敢咱的名",
+      "isrc": "TWBF31912001",
+      "type": "台語流行專輯",
       "copyright": "℗ 2019 火氣音樂股份有限公司 FIRE ON MUSIC",
+      "ncl": 284521,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -5974,12 +6352,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃奇斌"
+      ],
+      "composer": [
+       "蕭煌奇"
+      ],
+      "arranger": [
+       "茄子蛋"
+      ],
+      "producer": [
+       "蕭煌奇"
+      ],
       "year": "2021",
       "released": "2021-04-02",
-      "label": "Hao Li Hi Music Co., Ltd",
+      "label": "環球國際唱片股份有限公司",
       "album": "舞台",
+      "isrc": "TWL532100005",
+      "maker": "黑色吉他工作室",
+      "type": "台語流行專輯",
       "copyright": "℗ 2021 Hao Li Hi Music Co., Ltd.",
+      "ncl": 354855,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -7038,7 +7433,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:31+08:00",
+   "fetched_at": "2026-11-05T16:56:54+08:00",
    "stale": false
   },
   {
@@ -7176,11 +7571,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Caroline Ailin",
+       "Digital Farm Animals",
+       "Shaun Frank",
+       "Yaakov Gruzman",
+       "Danny L Harle",
+       "Tobias Jesso Jr."
+      ],
+      "composer": [
+       "Caroline Ailin",
+       "Digital Farm Animals",
+       "Shaun Frank",
+       "Yaakov Gruzman",
+       "Danny L Harle",
+       "Tobias Jesso Jr."
+      ],
       "year": "2024",
       "released": "2024-02-16",
       "album": "Training Season - Single",
+      "isrc": "GBCAD2601663",
       "copyright": "Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, ℗ 2024 Radical22 Limited",
+      "mb": "889d1b8d-67b3-4ba1-9920-dd06c6fdb202",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7210,8 +7624,11 @@
       "released": "2026-10-31",
       "label": "The Weeknd XO Music ULC",
       "album": "Hong Kong (feat. 王菲季候風) - Single",
+      "isrc": "USUG12611250",
       "copyright": "℗ 2026 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "mb": "b0c897e3-e218-4b7b-90b8-0f617e5e5cce",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7246,8 +7663,11 @@
       "released": "2026-10-23",
       "label": "RCA Records",
       "album": "PRESS PLAY",
+      "isrc": "USRV82600960",
       "copyright": "℗ 2026 RCA Records, under exclusive license from Lloud Co.",
+      "mb": "d90151b0-c44e-4b37-87c1-124d0ac2198e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7279,12 +7699,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Grant",
+       "El Guincho",
+       "Jasper Harris",
+       "Tate McRae",
+       "Julia Michaels",
+       "Ryan Tedder"
+      ],
+      "composer": [
+       "Grant",
+       "El Guincho",
+       "Jasper Harris",
+       "Tate McRae",
+       "Julia Michaels",
+       "Ryan Tedder"
+      ],
       "year": "2026",
-      "released": "2026-10-15",
+      "released": "2026-10-16",
       "label": "RCA Records",
       "album": "Housewife - Single",
+      "isrc": "USRV82600940",
       "copyright": "℗ 2026 RCA Records, a division of Sony Music Entertainment",
+      "mb": "9b63723e-efa3-4804-874a-07ff141dfc05",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7310,12 +7749,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Bibi Bourelly",
+       "Cashmere Cat",
+       "Jelli Dorman",
+       "JENNIE",
+       "Deborah Jung",
+       "Tyler Spry"
+      ],
+      "composer": [
+       "Bibi Bourelly",
+       "Cashmere Cat",
+       "Jelli Dorman",
+       "JENNIE",
+       "Deborah Jung",
+       "Tyler Spry"
+      ],
       "year": "2026",
       "released": "2026-07-24",
       "label": "Columbia Records",
       "album": "Less than a Lover - Single",
+      "isrc": "USQX92604131",
       "copyright": "℗ 2026 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from OA ENTERTAINMENT, INC.",
+      "mb": "6c6c7118-12d9-426f-bc67-23a3ca30019f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7414,11 +7872,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-09-01",
+      "released": "2026-09-10",
       "label": "RCA Records",
       "album": "SaWaDiKa - Single",
+      "isrc": "USRC12601783",
       "copyright": "℗ 2026 RCA Records, under exclusive license from Lloud Co.",
+      "mb": "fb734688-adf1-4c2a-a4ed-09e1c0944984",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7535,8 +7996,11 @@
       "released": "2026-10-23",
       "label": "Island Records",
       "album": "MISS ME - Single",
+      "isrc": "USUM72609556",
       "copyright": "℗ 2026 Island Records, a division of UMG Recordings, Inc.",
+      "mb": "e58aee9b-61d7-4bdd-a188-8757831ee052",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7665,12 +8129,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Taylor Swift"
+      ],
+      "composer": [
+       "Taylor Swift"
+      ],
       "year": "2008",
       "released": "2008-09-12",
       "label": "Taylor Swift",
       "album": "Fearless (Platinum Edition)",
       "copyright": "℗ 2009 Taylor Swift",
+      "mb": "af08b701-6ab1-4f32-9832-f3d056c723db",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7809,12 +8281,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kevin “She’kspere” Briggs",
+       "Tameka “Tiny” Cottle",
+       "Kandi",
+       "Steve Mac",
+       "Johnny McDaid",
+       "Ed Sheeran"
+      ],
+      "composer": [
+       "Kevin “She’kspere” Briggs",
+       "Tameka “Tiny” Cottle",
+       "Kandi",
+       "Steve Mac",
+       "Johnny McDaid",
+       "Ed Sheeran"
+      ],
       "year": "2017",
       "released": "2017-01-06",
       "label": "Asylum Records UK",
       "album": "÷ (Deluxe)",
+      "isrc": "GBAHS2200091",
       "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
+      "mb": "87feb8b6-d5a9-4e0a-89bf-0e5e28591203",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8016,12 +8507,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Max Martin",
+       "Shellback",
+       "Taylor Swift"
+      ],
+      "composer": [
+       "Max Martin",
+       "Shellback",
+       "Taylor Swift"
+      ],
       "year": "2026",
-      "released": "2026-09-24",
+      "released": "2026-09-27",
       "label": "Taylor Swift",
       "album": "The Life of a Showgirl: The Encore",
+      "isrc": "USUMV2604334",
       "copyright": "℗ 2026 Taylor Swift",
+      "mb": "34c5ba5f-297f-4251-9b1b-84606a361e03",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8745,7 +9249,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:33+08:00",
+   "fetched_at": "2026-11-05T16:56:56+08:00",
    "stale": false
   },
   {
@@ -8845,11 +9349,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Caroline Ailin",
+       "Digital Farm Animals",
+       "Shaun Frank",
+       "Yaakov Gruzman",
+       "Danny L Harle",
+       "Tobias Jesso Jr."
+      ],
+      "composer": [
+       "Caroline Ailin",
+       "Digital Farm Animals",
+       "Shaun Frank",
+       "Yaakov Gruzman",
+       "Danny L Harle",
+       "Tobias Jesso Jr."
+      ],
       "year": "2024",
       "released": "2024-02-16",
       "album": "Training Season - Single",
+      "isrc": "GBCAD2601663",
       "copyright": "Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, ℗ 2024 Radical22 Limited",
+      "mb": "889d1b8d-67b3-4ba1-9920-dd06c6fdb202",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8880,12 +9403,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Max Martin",
+       "Shellback",
+       "Taylor Swift"
+      ],
+      "composer": [
+       "Max Martin",
+       "Shellback",
+       "Taylor Swift"
+      ],
       "year": "2026",
-      "released": "2026-09-24",
+      "released": "2026-09-27",
       "label": "Taylor Swift",
       "album": "The Life of a Showgirl: The Encore",
+      "isrc": "USUMV2604334",
       "copyright": "℗ 2026 Taylor Swift",
+      "mb": "34c5ba5f-297f-4251-9b1b-84606a361e03",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8911,12 +9447,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Bibi Bourelly",
+       "Cashmere Cat",
+       "Jelli Dorman",
+       "JENNIE",
+       "Deborah Jung",
+       "Tyler Spry"
+      ],
+      "composer": [
+       "Bibi Bourelly",
+       "Cashmere Cat",
+       "Jelli Dorman",
+       "JENNIE",
+       "Deborah Jung",
+       "Tyler Spry"
+      ],
       "year": "2026",
       "released": "2026-07-24",
       "label": "Columbia Records",
       "album": "Less than a Lover - Single",
+      "isrc": "USQX92604131",
       "copyright": "℗ 2026 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from OA ENTERTAINMENT, INC.",
+      "mb": "6c6c7118-12d9-426f-bc67-23a3ca30019f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8946,11 +9501,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-09-01",
+      "released": "2026-09-10",
       "label": "RCA Records",
       "album": "SaWaDiKa - Single",
+      "isrc": "USRC12601783",
       "copyright": "℗ 2026 RCA Records, under exclusive license from Lloud Co.",
+      "mb": "fb734688-adf1-4c2a-a4ed-09e1c0944984",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8984,8 +9542,11 @@
       "released": "2026-10-23",
       "label": "Island Records",
       "album": "MISS ME - Single",
+      "isrc": "USUM72609556",
       "copyright": "℗ 2026 Island Records, a division of UMG Recordings, Inc.",
+      "mb": "e58aee9b-61d7-4bdd-a188-8757831ee052",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9020,8 +9581,11 @@
       "released": "2026-10-23",
       "label": "RCA Records",
       "album": "PRESS PLAY",
+      "isrc": "USRV82600960",
       "copyright": "℗ 2026 RCA Records, under exclusive license from Lloud Co.",
+      "mb": "d90151b0-c44e-4b37-87c1-124d0ac2198e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9091,12 +9655,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Grant",
+       "El Guincho",
+       "Jasper Harris",
+       "Tate McRae",
+       "Julia Michaels",
+       "Ryan Tedder"
+      ],
+      "composer": [
+       "Grant",
+       "El Guincho",
+       "Jasper Harris",
+       "Tate McRae",
+       "Julia Michaels",
+       "Ryan Tedder"
+      ],
       "year": "2026",
-      "released": "2026-10-15",
+      "released": "2026-10-16",
       "label": "RCA Records",
       "album": "Housewife - Single",
+      "isrc": "USRV82600940",
       "copyright": "℗ 2026 RCA Records, a division of Sony Music Entertainment",
+      "mb": "9b63723e-efa3-4804-874a-07ff141dfc05",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9227,12 +9810,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Taylor Swift"
+      ],
+      "composer": [
+       "Taylor Swift"
+      ],
       "year": "2008",
       "released": "2008-09-12",
       "label": "Taylor Swift",
       "album": "Fearless (Platinum Edition)",
       "copyright": "℗ 2009 Taylor Swift",
+      "mb": "af08b701-6ab1-4f32-9832-f3d056c723db",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9366,12 +9957,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kevin “She’kspere” Briggs",
+       "Tameka “Tiny” Cottle",
+       "Kandi",
+       "Steve Mac",
+       "Johnny McDaid",
+       "Ed Sheeran"
+      ],
+      "composer": [
+       "Kevin “She’kspere” Briggs",
+       "Tameka “Tiny” Cottle",
+       "Kandi",
+       "Steve Mac",
+       "Johnny McDaid",
+       "Ed Sheeran"
+      ],
       "year": "2017",
       "released": "2017-01-06",
       "label": "Asylum Records UK",
       "album": "÷ (Deluxe)",
+      "isrc": "GBAHS2200091",
       "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
+      "mb": "87feb8b6-d5a9-4e0a-89bf-0e5e28591203",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10436,7 +11046,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:35+08:00",
+   "fetched_at": "2026-11-05T16:56:58+08:00",
    "stale": false
   },
   {
@@ -10582,7 +11192,9 @@
       "label": "YOASOBI",
       "album": "たぶん - Single",
       "copyright": "℗ 2020 YOASOBI",
+      "mb": "807a5370-6fb6-494a-a11e-956ea402f802",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10614,12 +11226,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
+      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10686,7 +11313,9 @@
       "label": "YOASOBI",
       "album": "THE BOOK",
       "copyright": "℗ 2021 YOASOBI",
+      "mb": "e9b54197-f83e-4377-81e3-998cb7163ea0",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -11954,12 +12583,24 @@
       ]
      },
      "info": {
-      "year": "1996",
-      "released": "1996-03-20",
+      "lyricist": [
+       "上杉昇"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "arranger": [
+       "葉山たけし"
+      ],
+      "year": "1994",
+      "released": "1994-06-08",
       "label": "B-Gram RECORDS,INC",
       "album": "TVアニメーション スラムダンク テーマソング集 - EP",
+      "isrc": "JPF502209202",
       "copyright": "℗ 1996 B-Gram RECORDS,INC.",
+      "mb": "2283f2ba-00d5-491a-ac33-d02356d78402",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12032,7 +12673,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:38+08:00",
+   "fetched_at": "2026-11-05T16:57:00+08:00",
    "stale": false
   },
   {
@@ -12178,7 +12819,9 @@
       "label": "YOASOBI",
       "album": "たぶん - Single",
       "copyright": "℗ 2020 YOASOBI",
+      "mb": "807a5370-6fb6-494a-a11e-956ea402f802",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12216,7 +12859,9 @@
       "label": "YOASOBI",
       "album": "THE BOOK",
       "copyright": "℗ 2021 YOASOBI",
+      "mb": "e9b54197-f83e-4377-81e3-998cb7163ea0",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12307,12 +12952,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
+      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13131,12 +13791,24 @@
       ]
      },
      "info": {
-      "year": "1996",
-      "released": "1996-03-20",
+      "lyricist": [
+       "上杉昇"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "arranger": [
+       "葉山たけし"
+      ],
+      "year": "1994",
+      "released": "1994-06-08",
       "label": "B-Gram RECORDS,INC",
       "album": "TVアニメーション スラムダンク テーマソング集 - EP",
+      "isrc": "JPF502209202",
       "copyright": "℗ 1996 B-Gram RECORDS,INC.",
+      "mb": "2283f2ba-00d5-491a-ac33-d02356d78402",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13587,7 +14259,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:40+08:00",
+   "fetched_at": "2026-11-05T16:57:02+08:00",
    "stale": false
   },
   {
@@ -13649,7 +14321,27 @@
      "song_url": "https://www.kkbox.com/tw/tc/song/PXsH8nVr8IwsDj7vaE",
      "kkbox": "PXsH8nVr8IwsDj7vaE",
      "last_rank": 2,
-     "is_new": false
+     "is_new": false,
+     "info": {
+      "lyricist": [
+       "Brave Brothers"
+      ],
+      "composer": [
+       "Brave Brothers"
+      ],
+      "arranger": [
+       "Brave Brothers",
+       "CHANG"
+      ],
+      "year": "2013",
+      "released": "2013-10-17",
+      "album": "Love Options",
+      "isrc": "KRA381205268",
+      "mb": "a1415abe-803a-4e9e-ab2d-583930640bfd",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -13682,8 +14374,11 @@
       "released": "2026-09-07",
       "label": "Cube Entertainment, Inc",
       "album": "What a Wonderful Life",
+      "isrc": "KRA392600017",
       "copyright": "℗ 2026 Cube Entertainment, Inc. under exclusive license to BMG Rights Management (US) LLC",
+      "mb": "0c75912b-ebf0-4c93-932a-060ad9570673",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13720,8 +14415,11 @@
       "released": "2026-10-19",
       "label": "Starship Entertainment",
       "album": "Looks Can Kill - Single",
+      "isrc": "KRA382691374",
       "copyright": "℗ 2026 Starship Entertainment",
+      "mb": "6e54d008-e2dc-4b84-9cb8-58866f46ae2d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13752,12 +14450,39 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "EDEN",
+       "Eljay",
+       "김홍중",
+       "Maddox",
+       "Oliv",
+       "Peperoni"
+      ],
+      "composer": [
+       "EDEN",
+       "Eljay",
+       "Jack Harvey",
+       "Joe Harvey",
+       "Maddox",
+       "Oliv"
+      ],
+      "arranger": [
+       "EDEN",
+       "Eljay",
+       "Maddox",
+       "Oliv",
+       "Peperoni",
+       "Jordan Shaw"
+      ],
       "year": "2026",
       "released": "2026-06-26",
       "label": "KQ Entertainment",
       "album": "GOLDEN HOUR : Part.5 - EP",
+      "isrc": "KRD442600010",
       "copyright": "℗ 2026 KQ Entertainment under license to Sony Music Entertainment Korea Inc.",
+      "mb": "35a1ae01-a738-42b0-9e5a-eae5f006fdf4",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13802,7 +14527,9 @@
       "label": "YG Entertainment",
       "album": "DESERVE - Single",
       "copyright": "℗ 2026 YG Entertainment",
+      "mb": "d9729f82-72b0-4c88-86c9-07495f36caef",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15303,7 +16030,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:41+08:00",
+   "fetched_at": "2026-11-05T16:57:04+08:00",
    "stale": false
   },
   {
@@ -15389,8 +16116,11 @@
       "released": "2026-09-07",
       "label": "Cube Entertainment, Inc",
       "album": "What a Wonderful Life",
+      "isrc": "KRA392600017",
       "copyright": "℗ 2026 Cube Entertainment, Inc. under exclusive license to BMG Rights Management (US) LLC",
+      "mb": "0c75912b-ebf0-4c93-932a-060ad9570673",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15421,12 +16151,39 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "EDEN",
+       "Eljay",
+       "김홍중",
+       "Maddox",
+       "Oliv",
+       "Peperoni"
+      ],
+      "composer": [
+       "EDEN",
+       "Eljay",
+       "Jack Harvey",
+       "Joe Harvey",
+       "Maddox",
+       "Oliv"
+      ],
+      "arranger": [
+       "EDEN",
+       "Eljay",
+       "Maddox",
+       "Oliv",
+       "Peperoni",
+       "Jordan Shaw"
+      ],
       "year": "2026",
       "released": "2026-06-26",
       "label": "KQ Entertainment",
       "album": "GOLDEN HOUR : Part.5 - EP",
+      "isrc": "KRD442600010",
       "copyright": "℗ 2026 KQ Entertainment under license to Sony Music Entertainment Korea Inc.",
+      "mb": "35a1ae01-a738-42b0-9e5a-eae5f006fdf4",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15463,8 +16220,11 @@
       "released": "2026-10-19",
       "label": "Starship Entertainment",
       "album": "Looks Can Kill - Single",
+      "isrc": "KRA382691374",
       "copyright": "℗ 2026 Starship Entertainment",
+      "mb": "6e54d008-e2dc-4b84-9cb8-58866f46ae2d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15500,7 +16260,9 @@
       "label": "YG Entertainment",
       "album": "DESERVE - Single",
       "copyright": "℗ 2026 YG Entertainment",
+      "mb": "d9729f82-72b0-4c88-86c9-07495f36caef",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16447,7 +17209,27 @@
      "song_url": "https://www.kkbox.com/tw/tc/song/PXsH8nVr8IwsDj7vaE",
      "kkbox": "PXsH8nVr8IwsDj7vaE",
      "last_rank": 26,
-     "is_new": false
+     "is_new": false,
+     "info": {
+      "lyricist": [
+       "Brave Brothers"
+      ],
+      "composer": [
+       "Brave Brothers"
+      ],
+      "arranger": [
+       "Brave Brothers",
+       "CHANG"
+      ],
+      "year": "2013",
+      "released": "2013-10-17",
+      "album": "Love Options",
+      "isrc": "KRA381205268",
+      "mb": "a1415abe-803a-4e9e-ab2d-583930640bfd",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 35,
@@ -16986,7 +17768,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:43+08:00",
+   "fetched_at": "2026-11-05T16:57:06+08:00",
    "stale": false
   },
   {
@@ -17105,12 +17887,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃偉文"
+      ],
+      "composer": [
+       "C. Y. Kong"
+      ],
       "year": "2005",
       "released": "2005-06-07",
       "label": "Cinepoly Records Co. Ltd",
       "album": "U 87",
       "copyright": "℗ 2005 Cinepoly Records Co. Ltd.",
+      "mb": "104ab543-3e26-4fe1-9471-c9918cbaf60d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17137,7 +17927,9 @@
       "label": "Cinepoly Records Co. Ltd",
       "album": "王菲 89-97 32精選",
       "copyright": "This Compilation ℗ 1998 Cinepoly Records Co. Ltd.",
+      "mb": "4816834c-6a15-4611-8683-3120c0a5e125",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17349,12 +18141,25 @@
       ]
      },
      "info": {
-      "year": "1994",
-      "released": "1994-01-01",
-      "label": "East Asia Music (Holdings) Limited",
-      "album": "繼續談情 (新歌+精選)",
+      "lyricist": [
+       "林振強"
+      ],
+      "composer": [
+       "徐嘉良"
+      ],
+      "arranger": [
+       "Belinda Foo"
+      ],
+      "year": "1993",
+      "released": "1993-11-01",
+      "label": "華納音樂",
+      "album": "答案就是你",
+      "isrc": "TWA549320003",
+      "maker": "有聲書學會",
       "copyright": "℗ 2005 East Asia Music (Holdings) Limited",
+      "ncl": 30083,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -17588,12 +18393,24 @@
       ]
      },
      "info": {
-      "year": "2005",
-      "released": "2005-01-01",
-      "label": "East Asia Music (Holdings) Limited",
-      "album": "繼續談情 (新歌+精選)",
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "伍樂城"
+      ],
+      "arranger": [
+       "伍樂城@RNLS"
+      ],
+      "year": "2002",
+      "released": "2002-12-01",
+      "label": "香港商環球國際",
+      "album": "風沙",
+      "isrc": "TWA750201003",
       "copyright": "℗ 2005 East Asia Music (Holdings) Limited",
+      "ncl": 35069,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -17726,12 +18543,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝"
+      ],
+      "composer": [
+       "巫啟賢",
+       "陳佳明"
+      ],
       "year": "1993",
       "released": "1993-01-01",
-      "label": "Universal Music Ltd",
-      "album": "寶鑑",
+      "label": "上華",
+      "album": "學友光年世界巡迴演唱會’07香港(CD版)",
+      "isrc": "TWA550817207",
+      "maker": "ioi Limited",
       "copyright": "This Compilation ℗ 2008 Universal Music Ltd.",
+      "ncl": 30694,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -17859,12 +18687,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝"
+      ],
+      "composer": [
+       "陳光榮"
+      ],
       "year": "1996",
       "released": "1996-07-27",
       "label": "Sony Music Entertainment Hong Kong Ltd",
       "album": "Discover",
       "copyright": "℗ 2009 Sony Music Entertainment Hong Kong Ltd.",
+      "mb": "e52d1770-2583-46e7-b122-5ae09bb127a3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17929,12 +18765,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝"
+      ],
+      "composer": [
+       "陳光榮"
+      ],
       "year": "1996",
       "released": "1996-07-13",
-      "label": "Sony Music Entertainment Hong Kong Ltd",
-      "album": "Discover",
+      "label": "新力博德曼",
+      "album": "博德曼十週年紀念演唱會",
+      "isrc": "TWA139700212",
       "copyright": "℗ 2009 Sony Music Entertainment Hong Kong Ltd.",
+      "ncl": 9244,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -18271,12 +19116,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃偉文"
+      ],
+      "composer": [
+       "雷頌德"
+      ],
+      "arranger": [
+       "雷頌德"
+      ],
       "year": "2002",
       "released": "2002-06-01",
-      "label": "Sony Music Entertainment (Hong Kong) Ltd",
-      "album": "Four Seasons in One Day",
+      "label": "新力博德曼",
+      "album": "2002國語冠軍金選24首",
+      "isrc": "HKA410200062",
       "copyright": "℗ 2004 Sony Music Entertainment (Hong Kong) Ltd",
+      "ncl": 432,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -18642,7 +19499,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:45+08:00",
+   "fetched_at": "2026-11-05T16:57:09+08:00",
    "stale": false
   },
   {
@@ -18761,12 +19618,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃偉文"
+      ],
+      "composer": [
+       "C. Y. Kong"
+      ],
       "year": "2005",
       "released": "2005-06-07",
       "label": "Cinepoly Records Co. Ltd",
       "album": "U 87",
       "copyright": "℗ 2005 Cinepoly Records Co. Ltd.",
+      "mb": "104ab543-3e26-4fe1-9471-c9918cbaf60d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18821,7 +19686,9 @@
       "label": "Cinepoly Records Co. Ltd",
       "album": "王菲 89-97 32精選",
       "copyright": "This Compilation ℗ 1998 Cinepoly Records Co. Ltd.",
+      "mb": "4816834c-6a15-4611-8683-3120c0a5e125",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18974,12 +19841,25 @@
       ]
      },
      "info": {
-      "year": "1994",
-      "released": "1994-01-01",
-      "label": "East Asia Music (Holdings) Limited",
-      "album": "繼續談情 (新歌+精選)",
+      "lyricist": [
+       "林振強"
+      ],
+      "composer": [
+       "徐嘉良"
+      ],
+      "arranger": [
+       "Belinda Foo"
+      ],
+      "year": "1993",
+      "released": "1993-11-01",
+      "label": "華納音樂",
+      "album": "答案就是你",
+      "isrc": "TWA549320003",
+      "maker": "有聲書學會",
       "copyright": "℗ 2005 East Asia Music (Holdings) Limited",
+      "ncl": 30083,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -19179,12 +20059,24 @@
       ]
      },
      "info": {
-      "year": "2005",
-      "released": "2005-01-01",
-      "label": "East Asia Music (Holdings) Limited",
-      "album": "繼續談情 (新歌+精選)",
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "伍樂城"
+      ],
+      "arranger": [
+       "伍樂城@RNLS"
+      ],
+      "year": "2002",
+      "released": "2002-12-01",
+      "label": "香港商環球國際",
+      "album": "風沙",
+      "isrc": "TWA750201003",
       "copyright": "℗ 2005 East Asia Music (Holdings) Limited",
+      "ncl": 35069,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -19447,12 +20339,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝"
+      ],
+      "composer": [
+       "巫啟賢",
+       "陳佳明"
+      ],
       "year": "1993",
       "released": "1993-01-01",
-      "label": "Universal Music Ltd",
-      "album": "寶鑑",
+      "label": "上華",
+      "album": "學友光年世界巡迴演唱會’07香港(CD版)",
+      "isrc": "TWA550817207",
+      "maker": "ioi Limited",
       "copyright": "This Compilation ℗ 2008 Universal Music Ltd.",
+      "ncl": 30694,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -19480,12 +20383,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝"
+      ],
+      "composer": [
+       "陳光榮"
+      ],
       "year": "1996",
       "released": "1996-07-13",
-      "label": "Sony Music Entertainment Hong Kong Ltd",
-      "album": "Discover",
+      "label": "新力博德曼",
+      "album": "博德曼十週年紀念演唱會",
+      "isrc": "TWA139700212",
       "copyright": "℗ 2009 Sony Music Entertainment Hong Kong Ltd.",
+      "ncl": 9244,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -19545,12 +20457,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝"
+      ],
+      "composer": [
+       "陳光榮"
+      ],
       "year": "1996",
       "released": "1996-07-27",
       "label": "Sony Music Entertainment Hong Kong Ltd",
       "album": "Discover",
       "copyright": "℗ 2009 Sony Music Entertainment Hong Kong Ltd.",
+      "mb": "e52d1770-2583-46e7-b122-5ae09bb127a3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19897,12 +20817,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃偉文"
+      ],
+      "composer": [
+       "雷頌德"
+      ],
+      "arranger": [
+       "雷頌德"
+      ],
       "year": "2002",
       "released": "2002-06-01",
-      "label": "Sony Music Entertainment (Hong Kong) Ltd",
-      "album": "Four Seasons in One Day",
+      "label": "新力博德曼",
+      "album": "2002國語冠軍金選24首",
+      "isrc": "HKA410200062",
       "copyright": "℗ 2004 Sony Music Entertainment (Hong Kong) Ltd",
+      "ncl": 432,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -20250,12 +21182,20 @@
      "spotify": "2xsfwyT49o2OCoPieXMxQC",
      "bpm": 74,
      "info": {
+      "lyricist": [
+       "黃家駒"
+      ],
+      "composer": [
+       "黃家駒"
+      ],
       "year": "1990",
       "released": "1990-09-01",
       "label": "Cinepoly Records Co. Ltd",
       "album": "Beyond - 25th Anniversary",
       "copyright": "℗ 2008 Cinepoly Records Co. Ltd.",
+      "mb": "307c9bbf-0aef-4df7-b313-5438f4923a25",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20285,7 +21225,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:47+08:00",
+   "fetched_at": "2026-11-05T16:57:11+08:00",
    "stale": false
   },
   {
@@ -20370,8 +21310,11 @@
       "released": "2026-09-11",
       "label": "索尼音乐版权",
       "album": "大梦归(电视剧《兰香如故》主题曲) - Single",
+      "isrc": "HKC652600815",
       "copyright": "℗ 2026 索尼音乐版权",
+      "mb": "a726174b-093f-4072-8364-cab281a29f24",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20742,12 +21685,32 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "徐安",
+       "郁欣 Ivy",
+       "Jinbo",
+       "張懷顥",
+       "天樂 DayHappy"
+      ],
+      "composer": [
+       "張懷顥"
+      ],
+      "arranger": [
+       "Jinbo"
+      ],
+      "producer": [
+       "Jinbo"
+      ],
       "year": "2026",
       "released": "2026-10-19",
       "label": "開境娛樂文創股份有限公司",
-      "album": "該怎麼 - Single",
+      "album": "該怎麼",
+      "isrc": "TWLI12600010",
+      "type": "國語流行專輯",
       "copyright": "℗ 2026 開境娛樂文創股份有限公司",
+      "ncl": 714759,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -20780,12 +21743,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "陳曦"
+      ],
+      "composer": [
+       "陳曦"
+      ],
+      "arranger": [
+       "閆天午"
+      ],
+      "producer": [
+       "董冬冬"
+      ],
       "year": "2026",
       "released": "2026-09-13",
-      "label": "索尼音乐版权",
-      "album": "一曲微茫(電視劇《蘭香如故》蘭香曲) - Single",
+      "label": "宏揚國際有限公司",
+      "album": "一曲微茫(電視劇《蘭香如故》蘭香曲)",
+      "isrc": "TWDK52605072",
+      "maker": "索尼音樂版權代理（北京）有限公司",
+      "type": "國語流行專輯",
       "copyright": "℗ 2026 索尼音乐版权",
+      "ncl": 695968,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -20817,12 +21797,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "葛大為",
+       "徐佳瑩"
+      ],
+      "composer": [
+       "徐佳瑩"
+      ],
+      "arranger": [
+       "溫奕哲 Phil Wen"
+      ],
+      "producer": [
+       "呂禎晃 Rex Lu",
+       "璽恩SiEnVanessa"
+      ],
       "year": "2026",
       "released": "2026-10-23",
-      "label": "HIM International Music Inc",
-      "album": "牽掛 - Single",
+      "label": "華研國際音樂股份有限公司",
+      "album": "牽掛",
+      "isrc": "TWD952631104",
+      "type": "國語流行專輯",
       "copyright": "℗ 2026 HIM International Music Inc.",
+      "ncl": 716607,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -21784,7 +22782,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T15:13:49+08:00",
+   "fetched_at": "2026-11-05T16:57:12+08:00",
    "stale": false
   }
  ]
