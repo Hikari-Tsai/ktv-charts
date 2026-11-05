@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.joysound.com/",
- "checked_at": "2026-11-05T16:56:34+08:00",
+ "checked_at": "2026-11-05T17:19:42+08:00",
  "errors": [],
  "charts": [
   {
@@ -99,6 +99,9 @@
       "composer": [
        "Vaundy"
       ],
+      "recording": [
+       "木村信章"
+      ],
       "year": "2020",
       "released": "2020-05-27",
       "label": "SDR Inc",
@@ -174,19 +177,13 @@
       ]
      },
      "info": {
-      "lyricist": [
-       "あいみょん"
-      ],
-      "composer": [
-       "あいみょん"
-      ],
       "year": "2018",
-      "released": "2018-08-08",
+      "released": "2018-07-18",
       "label": "WARNER MUSIC JAPAN INC",
       "album": "マリーゴールド - Single",
-      "isrc": "JPWP01801505",
+      "isrc": "JPWP02600814",
       "copyright": "℗ 2018 WARNER MUSIC JAPAN INC.",
-      "mb": "ca65ae7c-04b8-4dc0-9d61-7a78c656cbcc",
+      "mb": "f74d119b-6fb6-47aa-a1ee-34392fa047d3",
       "src": [
        "mb",
        "apple"
@@ -518,13 +515,18 @@
       "producer": [
        "米津玄師"
       ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
-      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
+      "mb": "7cfddef5-9081-4201-a946-e716fb4dfa24",
       "src": [
        "mb",
        "apple"
@@ -1215,6 +1217,12 @@
       "producer": [
        "米津玄師"
       ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2018",
       "released": "2018-03-14",
       "label": "Sony Music Entertainment (Japan) Inc",
@@ -1440,6 +1448,14 @@
       "arranger": [
        "久保田真悟",
        "大森元貴"
+      ],
+      "mix": [
+       "土岐彩香"
+      ],
+      "recording": [
+       "熊手徹",
+       "清水美穂",
+       "土岐彩香"
       ],
       "year": "2024",
       "released": "2024-04-12",
@@ -1903,8 +1919,9 @@
       "released": "1999-01-01",
       "label": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
       "album": "First Love - EP",
+      "isrc": "JPTO00970120",
       "copyright": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
-      "mb": "875ea24b-66c7-4e40-8fb0-91284d318c0e",
+      "mb": "125fd884-c14b-49d0-b5e0-bab480b859dc",
       "src": [
        "mb",
        "apple"
@@ -2536,12 +2553,13 @@
       "composer": [
        "弦哲也"
       ],
-      "year": "1988",
-      "released": "1988-10-21",
+      "year": "1991",
+      "released": "1991-11-21",
       "label": "TEICHIKU ENTERTAINMENT,INC",
       "album": "石川さゆり 45周年盤, Vol. II",
+      "isrc": "JPCO08614690",
       "copyright": "℗ 2017 TEICHIKU ENTERTAINMENT,INC.",
-      "mb": "6597ca03-69f3-4eae-8673-acf375ee8348",
+      "mb": "2d21480e-0859-478e-9281-51388da7ea7d",
       "src": [
        "mb",
        "apple"
@@ -3464,7 +3482,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T16:56:22+08:00",
+   "fetched_at": "2026-11-05T17:19:34+08:00",
    "stale": false
   },
   {
@@ -3594,6 +3612,9 @@
       "composer": [
        "Vaundy"
       ],
+      "recording": [
+       "木村信章"
+      ],
       "year": "2020",
       "released": "2020-05-27",
       "label": "SDR Inc",
@@ -3630,19 +3651,13 @@
       ]
      },
      "info": {
-      "lyricist": [
-       "あいみょん"
-      ],
-      "composer": [
-       "あいみょん"
-      ],
       "year": "2018",
-      "released": "2018-08-08",
+      "released": "2018-07-18",
       "label": "WARNER MUSIC JAPAN INC",
       "album": "マリーゴールド - Single",
-      "isrc": "JPWP01801505",
+      "isrc": "JPWP02600814",
       "copyright": "℗ 2018 WARNER MUSIC JAPAN INC.",
-      "mb": "ca65ae7c-04b8-4dc0-9d61-7a78c656cbcc",
+      "mb": "f74d119b-6fb6-47aa-a1ee-34392fa047d3",
       "src": [
        "mb",
        "apple"
@@ -3904,13 +3919,18 @@
       "producer": [
        "米津玄師"
       ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
-      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
+      "mb": "7cfddef5-9081-4201-a946-e716fb4dfa24",
       "src": [
        "mb",
        "apple"
@@ -4623,6 +4643,14 @@
        "久保田真悟",
        "大森元貴"
       ],
+      "mix": [
+       "土岐彩香"
+      ],
+      "recording": [
+       "熊手徹",
+       "清水美穂",
+       "土岐彩香"
+      ],
       "year": "2024",
       "released": "2024-04-12",
       "label": "An EMI Records release; ℗ 2024 UNIVERSAL MUSIC LLC",
@@ -5126,6 +5154,12 @@
       ],
       "producer": [
        "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
       ],
       "year": "2018",
       "released": "2018-03-14",
@@ -5655,8 +5689,9 @@
       "released": "1999-01-01",
       "label": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
       "album": "First Love - EP",
+      "isrc": "JPTO00970120",
       "copyright": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
-      "mb": "875ea24b-66c7-4e40-8fb0-91284d318c0e",
+      "mb": "125fd884-c14b-49d0-b5e0-bab480b859dc",
       "src": [
        "mb",
        "apple"
@@ -6922,7 +6957,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T16:56:23+08:00",
+   "fetched_at": "2026-11-05T17:19:35+08:00",
    "stale": false
   },
   {
@@ -7052,6 +7087,9 @@
       "composer": [
        "Vaundy"
       ],
+      "recording": [
+       "木村信章"
+      ],
       "year": "2020",
       "released": "2020-05-27",
       "label": "SDR Inc",
@@ -7088,19 +7126,13 @@
       ]
      },
      "info": {
-      "lyricist": [
-       "あいみょん"
-      ],
-      "composer": [
-       "あいみょん"
-      ],
       "year": "2018",
-      "released": "2018-08-08",
+      "released": "2018-07-18",
       "label": "WARNER MUSIC JAPAN INC",
       "album": "マリーゴールド - Single",
-      "isrc": "JPWP01801505",
+      "isrc": "JPWP02600814",
       "copyright": "℗ 2018 WARNER MUSIC JAPAN INC.",
-      "mb": "ca65ae7c-04b8-4dc0-9d61-7a78c656cbcc",
+      "mb": "f74d119b-6fb6-47aa-a1ee-34392fa047d3",
       "src": [
        "mb",
        "apple"
@@ -7299,13 +7331,18 @@
       "producer": [
        "米津玄師"
       ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
-      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
+      "mb": "7cfddef5-9081-4201-a946-e716fb4dfa24",
       "src": [
        "mb",
        "apple"
@@ -8036,6 +8073,14 @@
        "久保田真悟",
        "大森元貴"
       ],
+      "mix": [
+       "土岐彩香"
+      ],
+      "recording": [
+       "熊手徹",
+       "清水美穂",
+       "土岐彩香"
+      ],
       "year": "2024",
       "released": "2024-04-12",
       "label": "An EMI Records release; ℗ 2024 UNIVERSAL MUSIC LLC",
@@ -8473,6 +8518,12 @@
       ],
       "producer": [
        "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
       ],
       "year": "2018",
       "released": "2018-03-14",
@@ -9258,8 +9309,9 @@
       "released": "1999-01-01",
       "label": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
       "album": "First Love - EP",
+      "isrc": "JPTO00970120",
       "copyright": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
-      "mb": "875ea24b-66c7-4e40-8fb0-91284d318c0e",
+      "mb": "125fd884-c14b-49d0-b5e0-bab480b859dc",
       "src": [
        "mb",
        "apple"
@@ -10363,7 +10415,7 @@
    ],
    "period_key": "2026-10",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T16:56:26+08:00",
+   "fetched_at": "2026-11-05T17:19:36+08:00",
    "stale": false
   },
   {
@@ -10450,13 +10502,18 @@
       "producer": [
        "米津玄師"
       ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
-      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
+      "mb": "7cfddef5-9081-4201-a946-e716fb4dfa24",
       "src": [
        "mb",
        "apple"
@@ -10540,6 +10597,14 @@
       "arranger": [
        "久保田真悟",
        "大森元貴"
+      ],
+      "mix": [
+       "土岐彩香"
+      ],
+      "recording": [
+       "熊手徹",
+       "清水美穂",
+       "土岐彩香"
       ],
       "year": "2024",
       "released": "2024-04-12",
@@ -13208,6 +13273,13 @@
        "Alan Menken",
        "Tim Rice"
       ],
+      "mix": [
+       "Bruce Botnick"
+      ],
+      "recording": [
+       "Bruce Botnick",
+       "Michael Farrow"
+      ],
       "year": "1992",
       "released": "1992-11-06",
       "album": "Disney's Music of Dreams",
@@ -13444,7 +13516,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T16:56:28+08:00",
+   "fetched_at": "2026-11-05T17:19:38+08:00",
    "stale": false
   },
   {
@@ -13591,11 +13663,12 @@
        "Kanaria"
       ],
       "year": "2022",
-      "released": "2022-05-02",
+      "released": "2022-05-06",
       "label": "Kanaria",
       "album": "酔いどれ知らず - Single",
+      "isrc": "TCJPR2280966",
       "copyright": "℗ 2022 Kanaria",
-      "mb": "cc8b3d83-af82-43ed-a2b7-e88d8dcbca0a",
+      "mb": "9dd78261-4d40-48a4-b218-f9bb4008dac3",
       "src": [
        "mb",
        "apple"
@@ -16421,7 +16494,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T16:56:30+08:00",
+   "fetched_at": "2026-11-05T17:19:39+08:00",
    "stale": false
   },
   {
@@ -16533,12 +16606,13 @@
       "composer": [
        "弦哲也"
       ],
-      "year": "1988",
-      "released": "1988-10-21",
+      "year": "1991",
+      "released": "1991-11-21",
       "label": "TEICHIKU ENTERTAINMENT,INC",
       "album": "石川さゆり 45周年盤, Vol. II",
+      "isrc": "JPCO08614690",
       "copyright": "℗ 2017 TEICHIKU ENTERTAINMENT,INC.",
-      "mb": "6597ca03-69f3-4eae-8673-acf375ee8348",
+      "mb": "2d21480e-0859-478e-9281-51388da7ea7d",
       "src": [
        "mb",
        "apple"
@@ -19235,7 +19309,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T16:56:32+08:00",
+   "fetched_at": "2026-11-05T17:19:40+08:00",
    "stale": false
   },
   {
@@ -19279,15 +19353,13 @@
       "composer": [
        "James Horner"
       ],
-      "producer": [
-       "Julie Snyder"
-      ],
       "year": "1997",
       "released": "1997-11-18",
       "label": "Sony Music Entertainment Canada Inc",
       "album": "摯愛 世紀情歌金選+新曲",
+      "isrc": "CAC221000042",
       "copyright": "℗ 2008 Sony Music Entertainment Canada Inc.",
-      "mb": "1a73320f-1e0b-4388-926c-75243cfcdd64",
+      "mb": "84f5f279-ba56-46ff-ae53-fa01caa67cfb",
       "src": [
        "mb",
        "apple"
@@ -19316,6 +19388,13 @@
       "producer": [
        "Alan Menken",
        "Tim Rice"
+      ],
+      "mix": [
+       "Bruce Botnick"
+      ],
+      "recording": [
+       "Bruce Botnick",
+       "Michael Farrow"
       ],
       "year": "1992",
       "released": "1992-11-06",
@@ -19375,6 +19454,14 @@
        "IDO",
        "TEDDY"
       ],
+      "mix": [
+       "Curtis Douglas"
+      ],
+      "recording": [
+       "Andy Dudman",
+       "Noah Hubbell",
+       "Derik Lee"
+      ],
       "year": "2025",
       "released": "2025-06-19",
       "label": "Visva Records / Republic Records",
@@ -19418,12 +19505,12 @@
        "Benny Andersson",
        "Björn Ulvaeus"
       ],
-      "year": "2005",
-      "released": "2005-09-05",
+      "year": "2004",
+      "released": "2004",
       "label": "Popron Music s.r.o",
       "album": "Golden Songs",
       "copyright": "℗ 2005 Popron Music s.r.o.",
-      "mb": "3600cbfa-a8e4-40da-8160-1e2955a73652",
+      "mb": "3d920dd7-6a00-4020-a857-ded9da5e35e4",
       "src": [
        "mb",
        "apple"
@@ -19475,13 +19562,22 @@
        "Johnny McDaid",
        "Ed Sheeran"
       ],
+      "producer": [
+       "Steve Mac",
+       "Ed Sheeran"
+      ],
+      "mix": [
+       "Michael Freeman",
+       "Mark “Spike” Stent",
+       "Geoff Swan"
+      ],
       "year": "2017",
       "released": "2017-01-06",
       "label": "Asylum Records UK",
       "album": "÷ (Deluxe)",
-      "isrc": "GBAHS2200091",
+      "isrc": "GBAHS1600463",
       "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
-      "mb": "87feb8b6-d5a9-4e0a-89bf-0e5e28591203",
+      "mb": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
       "src": [
        "mb",
        "apple"
@@ -19815,9 +19911,9 @@
       "released": "2011-09-20",
       "label": "School Boy/Interscope Records",
       "album": "Call Me Maybe - EP",
-      "isrc": "USUM71913476",
+      "isrc": "USUV71200276",
       "copyright": "℗ 2012 School Boy/Interscope Records",
-      "mb": "b621565a-0183-4b0a-864c-fb268ea8fed2",
+      "mb": "9cd5a92b-4076-4638-ad7e-54351f275554",
       "src": [
        "mb",
        "apple"
@@ -20576,7 +20672,7 @@
       "label": "Taylor Swift",
       "album": "Fearless (Platinum Edition)",
       "copyright": "℗ 2009 Taylor Swift",
-      "mb": "af08b701-6ab1-4f32-9832-f3d056c723db",
+      "mb": "6fef4fc3-4680-418c-9767-fae7173304ec",
       "src": [
        "mb",
        "apple"
@@ -22457,7 +22553,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T16:56:34+08:00",
+   "fetched_at": "2026-11-05T17:19:42+08:00",
    "stale": false
   }
  ]

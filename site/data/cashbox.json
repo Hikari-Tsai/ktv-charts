@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-05T16:56:19+08:00",
+ "checked_at": "2026-11-05T17:19:32+08:00",
  "errors": [],
  "charts": [
   {
@@ -1264,7 +1264,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:14+08:00",
+   "fetched_at": "2026-11-05T17:19:28+08:00",
    "stale": false
   },
   {
@@ -2446,7 +2446,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:14+08:00",
+   "fetched_at": "2026-11-05T17:19:28+08:00",
    "stale": false
   },
   {
@@ -2478,18 +2478,12 @@
       ]
      },
      "info": {
-      "lyricist": [
-       "黃家駒"
-      ],
-      "composer": [
-       "黃家駒"
-      ],
       "year": "1993",
       "released": "1993-05-01",
       "label": "Warner Music Hong Kong Ltd",
       "album": "Rock'n'Roll",
       "copyright": "℗ 1992 Warner Music Hong Kong Ltd.",
-      "mb": "9d345086-1da2-41d6-a81d-969d102c7d18",
+      "mb": "1362266f-d000-44e5-ba14-d37d3074a5a4",
       "src": [
        "mb",
        "apple"
@@ -2521,7 +2515,7 @@
       "label": "Sony Music Entertainment Hong Kong Ltd",
       "album": "相依為命: 20年精彩印記",
       "copyright": "℗ 2015 Sony Music Entertainment Hong Kong Ltd.",
-      "mb": "e5010379-d9a4-4280-b2d4-d46a5ac5eb1b",
+      "mb": "b84d6203-406e-4cf3-a13f-4591e8bbd6df",
       "src": [
        "mb",
        "apple"
@@ -2598,7 +2592,7 @@
       "label": "Cinepoly Records Co. Ltd",
       "album": "Beyond - 25th Anniversary",
       "copyright": "℗ 2008 Cinepoly Records Co. Ltd.",
-      "mb": "307c9bbf-0aef-4df7-b313-5438f4923a25",
+      "mb": "76872728-eb22-40f9-976f-4a4aed803436",
       "src": [
        "mb",
        "apple"
@@ -3283,7 +3277,7 @@
       "label": "Cinepoly Records Co. Ltd",
       "album": "王菲 89-97 32精選",
       "copyright": "This Compilation ℗ 1998 Cinepoly Records Co. Ltd.",
-      "mb": "4816834c-6a15-4611-8683-3120c0a5e125",
+      "mb": "d9d069ca-4f6c-4b48-84b1-6578da6f5f79",
       "src": [
        "mb",
        "apple"
@@ -3483,7 +3477,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:16+08:00",
+   "fetched_at": "2026-11-05T17:19:30+08:00",
    "stale": false
   },
   {
@@ -3530,8 +3524,9 @@
       "released": "1999-01-01",
       "label": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
       "album": "First Love - EP",
+      "isrc": "JPTO00970120",
       "copyright": "A Virgin Music release; ℗ 1999 UNIVERSAL MUSIC LLC",
-      "mb": "875ea24b-66c7-4e40-8fb0-91284d318c0e",
+      "mb": "125fd884-c14b-49d0-b5e0-bab480b859dc",
       "src": [
        "mb",
        "apple"
@@ -3562,19 +3557,13 @@
       ]
      },
      "info": {
-      "lyricist": [
-       "黒うさP"
-      ],
-      "composer": [
-       "黒うさP"
-      ],
       "year": "2014",
       "released": "2014-04-23",
       "label": "AVEX ENTERTAINMENT INC",
       "album": "ボカロ三昧",
-      "isrc": "JPB601601166",
+      "isrc": "JPB681701381",
       "copyright": "℗ 2014 AVEX ENTERTAINMENT INC.",
-      "mb": "8254408d-8b6f-4e84-9b58-de0b8fb16120",
+      "mb": "e0ce5bca-1973-4307-97c7-dae4791a4980",
       "src": [
        "mb",
        "apple"
@@ -4393,7 +4382,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:16+08:00",
+   "fetched_at": "2026-11-05T17:19:30+08:00",
    "stale": false
   },
   {
@@ -4442,20 +4431,13 @@
        "Nicky Chinn",
        "Cirkut"
       ],
-      "producer": [
-       "Rogét Chahayed",
-       "Cirkut",
-       "Omer Fedi",
-       "Bruno Mars",
-       "ROSÉ"
-      ],
       "year": "2024",
       "released": "2024-10-18",
       "label": "ROSÉ",
       "album": "rosie",
-      "isrc": "USAT22409172",
+      "isrc": "USATV2404158",
       "copyright": "℗ 2024 ROSÉ under exclusive license to Atlantic Recording Corporation for the World excluding Korea",
-      "mb": "5dcf0f17-d13b-47c1-8386-fea1f5e25875",
+      "mb": "9a1aa8a7-c6d8-416f-a42a-adcacae4db40",
       "src": [
        "mb",
        "apple"
@@ -4497,7 +4479,7 @@
       "label": "Taylor Swift",
       "album": "Fearless (Platinum Edition)",
       "copyright": "℗ 2009 Taylor Swift",
-      "mb": "af08b701-6ab1-4f32-9832-f3d056c723db",
+      "mb": "6fef4fc3-4680-418c-9767-fae7173304ec",
       "src": [
        "mb",
        "apple"
@@ -4671,9 +4653,9 @@
       "released": "2011-09-20",
       "label": "School Boy/Interscope Records",
       "album": "Call Me Maybe - EP",
-      "isrc": "USUM71913476",
+      "isrc": "USUV71200276",
       "copyright": "℗ 2012 School Boy/Interscope Records",
-      "mb": "b621565a-0183-4b0a-864c-fb268ea8fed2",
+      "mb": "9cd5a92b-4076-4638-ad7e-54351f275554",
       "src": [
        "mb",
        "apple"
@@ -4823,15 +4805,13 @@
       "composer": [
        "James Horner"
       ],
-      "producer": [
-       "Julie Snyder"
-      ],
       "year": "1997",
       "released": "1997-11-18",
       "label": "Sony Music Entertainment Canada Inc",
       "album": "摯愛 世紀情歌金選+新曲",
+      "isrc": "CAC221000042",
       "copyright": "℗ 2008 Sony Music Entertainment Canada Inc.",
-      "mb": "1a73320f-1e0b-4388-926c-75243cfcdd64",
+      "mb": "84f5f279-ba56-46ff-ae53-fa01caa67cfb",
       "src": [
        "mb",
        "apple"
@@ -5316,12 +5296,12 @@
        "Benny Andersson",
        "Björn Ulvaeus"
       ],
-      "year": "2005",
-      "released": "2005-09-05",
+      "year": "2004",
+      "released": "2004",
       "label": "Popron Music s.r.o",
       "album": "Golden Songs",
       "copyright": "℗ 2005 Popron Music s.r.o.",
-      "mb": "3600cbfa-a8e4-40da-8160-1e2955a73652",
+      "mb": "3d920dd7-6a00-4020-a857-ded9da5e35e4",
       "src": [
        "mb",
        "apple"
@@ -5476,7 +5456,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:16+08:00",
+   "fetched_at": "2026-11-05T17:19:30+08:00",
    "stale": false
   },
   {
@@ -6532,7 +6512,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:19+08:00",
+   "fetched_at": "2026-11-05T17:19:32+08:00",
    "stale": false
   },
   {
@@ -7622,7 +7602,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:19+08:00",
+   "fetched_at": "2026-11-05T17:19:32+08:00",
    "stale": false
   }
  ]

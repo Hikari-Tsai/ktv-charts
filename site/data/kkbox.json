@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "streaming",
  "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
- "checked_at": "2026-11-05T16:57:12+08:00",
+ "checked_at": "2026-11-05T17:20:18+08:00",
  "errors": [],
  "charts": [
   {
@@ -1827,7 +1827,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:48+08:00",
+   "fetched_at": "2026-11-05T17:19:55+08:00",
    "stale": false
   },
   {
@@ -3595,7 +3595,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:50+08:00",
+   "fetched_at": "2026-11-05T17:19:57+08:00",
    "stale": false
   },
   {
@@ -5534,7 +5534,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:52+08:00",
+   "fetched_at": "2026-11-05T17:19:58+08:00",
    "stale": false
   },
   {
@@ -7433,7 +7433,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:54+08:00",
+   "fetched_at": "2026-11-05T17:20:01+08:00",
    "stale": false
   },
   {
@@ -7520,20 +7520,13 @@
        "Nicky Chinn",
        "Cirkut"
       ],
-      "producer": [
-       "Rogét Chahayed",
-       "Cirkut",
-       "Omer Fedi",
-       "Bruno Mars",
-       "ROSÉ"
-      ],
       "year": "2024",
       "released": "2024-10-18",
       "label": "ROSÉ",
       "album": "rosie",
-      "isrc": "USAT22409172",
+      "isrc": "USATV2404158",
       "copyright": "℗ 2024 ROSÉ under exclusive license to Atlantic Recording Corporation for the World excluding Korea",
-      "mb": "5dcf0f17-d13b-47c1-8386-fea1f5e25875",
+      "mb": "9a1aa8a7-c6d8-416f-a42a-adcacae4db40",
       "src": [
        "mb",
        "apple"
@@ -7588,11 +7581,11 @@
        "Tobias Jesso Jr."
       ],
       "year": "2024",
-      "released": "2024-02-16",
+      "released": "2024-12-06",
       "album": "Training Season - Single",
-      "isrc": "GBCAD2601663",
+      "isrc": "GBAHT2400726",
       "copyright": "Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, ℗ 2024 Radical22 Limited",
-      "mb": "889d1b8d-67b3-4ba1-9920-dd06c6fdb202",
+      "mb": "ccaa5327-9fa6-46db-975e-af60c026ef30",
       "src": [
        "mb",
        "apple"
@@ -7765,13 +7758,27 @@
        "Deborah Jung",
        "Tyler Spry"
       ],
+      "producer": [
+       "Cashmere Cat",
+       "Jelli Dorman",
+       "Tyler Spry"
+      ],
+      "mix": [
+       "Bryce Bordone",
+       "Serban Ghenea"
+      ],
+      "recording": [
+       "Paniz Farokhnia",
+       "Joe Henderson",
+       "Tyler Spry"
+      ],
       "year": "2026",
       "released": "2026-07-24",
       "label": "Columbia Records",
       "album": "Less than a Lover - Single",
-      "isrc": "USQX92604131",
+      "isrc": "TCAJH2545923",
       "copyright": "℗ 2026 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from OA ENTERTAINMENT, INC.",
-      "mb": "6c6c7118-12d9-426f-bc67-23a3ca30019f",
+      "mb": "ec638397-2a84-4cbf-b856-cdc3a61330a4",
       "src": [
        "mb",
        "apple"
@@ -7872,12 +7879,11 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-09-10",
+      "released": "2026-09-01",
       "label": "RCA Records",
       "album": "SaWaDiKa - Single",
-      "isrc": "USRC12601783",
       "copyright": "℗ 2026 RCA Records, under exclusive license from Lloud Co.",
-      "mb": "fb734688-adf1-4c2a-a4ed-09e1c0944984",
+      "mb": "d35b8a70-6624-4b72-a3ba-6db677136298",
       "src": [
        "mb",
        "apple"
@@ -8140,7 +8146,7 @@
       "label": "Taylor Swift",
       "album": "Fearless (Platinum Edition)",
       "copyright": "℗ 2009 Taylor Swift",
-      "mb": "af08b701-6ab1-4f32-9832-f3d056c723db",
+      "mb": "6fef4fc3-4680-418c-9767-fae7173304ec",
       "src": [
        "mb",
        "apple"
@@ -8297,13 +8303,22 @@
        "Johnny McDaid",
        "Ed Sheeran"
       ],
+      "producer": [
+       "Steve Mac",
+       "Ed Sheeran"
+      ],
+      "mix": [
+       "Michael Freeman",
+       "Mark “Spike” Stent",
+       "Geoff Swan"
+      ],
       "year": "2017",
       "released": "2017-01-06",
       "label": "Asylum Records UK",
       "album": "÷ (Deluxe)",
-      "isrc": "GBAHS2200091",
+      "isrc": "GBAHS1600463",
       "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
-      "mb": "87feb8b6-d5a9-4e0a-89bf-0e5e28591203",
+      "mb": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
       "src": [
        "mb",
        "apple"
@@ -9249,7 +9264,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:56+08:00",
+   "fetched_at": "2026-11-05T17:20:02+08:00",
    "stale": false
   },
   {
@@ -9298,20 +9313,13 @@
        "Nicky Chinn",
        "Cirkut"
       ],
-      "producer": [
-       "Rogét Chahayed",
-       "Cirkut",
-       "Omer Fedi",
-       "Bruno Mars",
-       "ROSÉ"
-      ],
       "year": "2024",
       "released": "2024-10-18",
       "label": "ROSÉ",
       "album": "rosie",
-      "isrc": "USAT22409172",
+      "isrc": "USATV2404158",
       "copyright": "℗ 2024 ROSÉ under exclusive license to Atlantic Recording Corporation for the World excluding Korea",
-      "mb": "5dcf0f17-d13b-47c1-8386-fea1f5e25875",
+      "mb": "9a1aa8a7-c6d8-416f-a42a-adcacae4db40",
       "src": [
        "mb",
        "apple"
@@ -9366,11 +9374,11 @@
        "Tobias Jesso Jr."
       ],
       "year": "2024",
-      "released": "2024-02-16",
+      "released": "2024-12-06",
       "album": "Training Season - Single",
-      "isrc": "GBCAD2601663",
+      "isrc": "GBAHT2400726",
       "copyright": "Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, ℗ 2024 Radical22 Limited",
-      "mb": "889d1b8d-67b3-4ba1-9920-dd06c6fdb202",
+      "mb": "ccaa5327-9fa6-46db-975e-af60c026ef30",
       "src": [
        "mb",
        "apple"
@@ -9463,13 +9471,27 @@
        "Deborah Jung",
        "Tyler Spry"
       ],
+      "producer": [
+       "Cashmere Cat",
+       "Jelli Dorman",
+       "Tyler Spry"
+      ],
+      "mix": [
+       "Bryce Bordone",
+       "Serban Ghenea"
+      ],
+      "recording": [
+       "Paniz Farokhnia",
+       "Joe Henderson",
+       "Tyler Spry"
+      ],
       "year": "2026",
       "released": "2026-07-24",
       "label": "Columbia Records",
       "album": "Less than a Lover - Single",
-      "isrc": "USQX92604131",
+      "isrc": "TCAJH2545923",
       "copyright": "℗ 2026 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from OA ENTERTAINMENT, INC.",
-      "mb": "6c6c7118-12d9-426f-bc67-23a3ca30019f",
+      "mb": "ec638397-2a84-4cbf-b856-cdc3a61330a4",
       "src": [
        "mb",
        "apple"
@@ -9501,12 +9523,11 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-09-10",
+      "released": "2026-09-01",
       "label": "RCA Records",
       "album": "SaWaDiKa - Single",
-      "isrc": "USRC12601783",
       "copyright": "℗ 2026 RCA Records, under exclusive license from Lloud Co.",
-      "mb": "fb734688-adf1-4c2a-a4ed-09e1c0944984",
+      "mb": "d35b8a70-6624-4b72-a3ba-6db677136298",
       "src": [
        "mb",
        "apple"
@@ -9821,7 +9842,7 @@
       "label": "Taylor Swift",
       "album": "Fearless (Platinum Edition)",
       "copyright": "℗ 2009 Taylor Swift",
-      "mb": "af08b701-6ab1-4f32-9832-f3d056c723db",
+      "mb": "6fef4fc3-4680-418c-9767-fae7173304ec",
       "src": [
        "mb",
        "apple"
@@ -9973,13 +9994,22 @@
        "Johnny McDaid",
        "Ed Sheeran"
       ],
+      "producer": [
+       "Steve Mac",
+       "Ed Sheeran"
+      ],
+      "mix": [
+       "Michael Freeman",
+       "Mark “Spike” Stent",
+       "Geoff Swan"
+      ],
       "year": "2017",
       "released": "2017-01-06",
       "label": "Asylum Records UK",
       "album": "÷ (Deluxe)",
-      "isrc": "GBAHS2200091",
+      "isrc": "GBAHS1600463",
       "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
-      "mb": "87feb8b6-d5a9-4e0a-89bf-0e5e28591203",
+      "mb": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
       "src": [
        "mb",
        "apple"
@@ -11046,7 +11076,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:56:58+08:00",
+   "fetched_at": "2026-11-05T17:20:04+08:00",
    "stale": false
   },
   {
@@ -11095,6 +11125,12 @@
       ],
       "producer": [
        "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
       ],
       "year": "2018",
       "released": "2018-03-14",
@@ -11192,7 +11228,7 @@
       "label": "YOASOBI",
       "album": "たぶん - Single",
       "copyright": "℗ 2020 YOASOBI",
-      "mb": "807a5370-6fb6-494a-a11e-956ea402f802",
+      "mb": "bf8f6fda-0e94-4b98-82ea-a0ce5e2af46e",
       "src": [
        "mb",
        "apple"
@@ -11238,13 +11274,18 @@
       "producer": [
        "米津玄師"
       ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
-      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
+      "mb": "7cfddef5-9081-4201-a946-e716fb4dfa24",
       "src": [
        "mb",
        "apple"
@@ -11911,6 +11952,9 @@
       ],
       "composer": [
        "Vaundy"
+      ],
+      "recording": [
+       "木村信章"
       ],
       "year": "2020",
       "released": "2020-05-27",
@@ -12673,7 +12717,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:57:00+08:00",
+   "fetched_at": "2026-11-05T17:20:06+08:00",
    "stale": false
   },
   {
@@ -12722,6 +12766,12 @@
       ],
       "producer": [
        "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
       ],
       "year": "2018",
       "released": "2018-03-14",
@@ -12819,7 +12869,7 @@
       "label": "YOASOBI",
       "album": "たぶん - Single",
       "copyright": "℗ 2020 YOASOBI",
-      "mb": "807a5370-6fb6-494a-a11e-956ea402f802",
+      "mb": "bf8f6fda-0e94-4b98-82ea-a0ce5e2af46e",
       "src": [
        "mb",
        "apple"
@@ -12964,13 +13014,18 @@
       "producer": [
        "米津玄師"
       ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-15",
       "label": "Sony Music Labels Inc",
       "album": "IRIS OUT - Single",
-      "isrc": "JPU902502821",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "mb": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
+      "mb": "7cfddef5-9081-4201-a946-e716fb4dfa24",
       "src": [
        "mb",
        "apple"
@@ -14259,7 +14314,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:57:02+08:00",
+   "fetched_at": "2026-11-05T17:20:08+08:00",
    "stale": false
   },
   {
@@ -16030,7 +16085,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:57:04+08:00",
+   "fetched_at": "2026-11-05T17:20:10+08:00",
    "stale": false
   },
   {
@@ -17768,7 +17823,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:57:06+08:00",
+   "fetched_at": "2026-11-05T17:20:13+08:00",
    "stale": false
   },
   {
@@ -17849,18 +17904,12 @@
       ]
      },
      "info": {
-      "lyricist": [
-       "黃家駒"
-      ],
-      "composer": [
-       "黃家駒"
-      ],
       "year": "1993",
       "released": "1993-05-01",
       "label": "Warner Music Hong Kong Ltd",
       "album": "Rock'n'Roll",
       "copyright": "℗ 1992 Warner Music Hong Kong Ltd.",
-      "mb": "9d345086-1da2-41d6-a81d-969d102c7d18",
+      "mb": "1362266f-d000-44e5-ba14-d37d3074a5a4",
       "src": [
        "mb",
        "apple"
@@ -17927,7 +17976,7 @@
       "label": "Cinepoly Records Co. Ltd",
       "album": "王菲 89-97 32精選",
       "copyright": "This Compilation ℗ 1998 Cinepoly Records Co. Ltd.",
-      "mb": "4816834c-6a15-4611-8683-3120c0a5e125",
+      "mb": "d9d069ca-4f6c-4b48-84b1-6578da6f5f79",
       "src": [
        "mb",
        "apple"
@@ -19499,7 +19548,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:57:09+08:00",
+   "fetched_at": "2026-11-05T17:20:14+08:00",
    "stale": false
   },
   {
@@ -19580,18 +19629,12 @@
       ]
      },
      "info": {
-      "lyricist": [
-       "黃家駒"
-      ],
-      "composer": [
-       "黃家駒"
-      ],
       "year": "1993",
       "released": "1993-05-01",
       "label": "Warner Music Hong Kong Ltd",
       "album": "Rock'n'Roll",
       "copyright": "℗ 1992 Warner Music Hong Kong Ltd.",
-      "mb": "9d345086-1da2-41d6-a81d-969d102c7d18",
+      "mb": "1362266f-d000-44e5-ba14-d37d3074a5a4",
       "src": [
        "mb",
        "apple"
@@ -19686,7 +19729,7 @@
       "label": "Cinepoly Records Co. Ltd",
       "album": "王菲 89-97 32精選",
       "copyright": "This Compilation ℗ 1998 Cinepoly Records Co. Ltd.",
-      "mb": "4816834c-6a15-4611-8683-3120c0a5e125",
+      "mb": "d9d069ca-4f6c-4b48-84b1-6578da6f5f79",
       "src": [
        "mb",
        "apple"
@@ -21193,7 +21236,7 @@
       "label": "Cinepoly Records Co. Ltd",
       "album": "Beyond - 25th Anniversary",
       "copyright": "℗ 2008 Cinepoly Records Co. Ltd.",
-      "mb": "307c9bbf-0aef-4df7-b313-5438f4923a25",
+      "mb": "76872728-eb22-40f9-976f-4a4aed803436",
       "src": [
        "mb",
        "apple"
@@ -21225,7 +21268,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:57:11+08:00",
+   "fetched_at": "2026-11-05T17:20:16+08:00",
    "stale": false
   },
   {
@@ -22782,7 +22825,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T16:57:12+08:00",
+   "fetched_at": "2026-11-05T17:20:18+08:00",
    "stale": false
   }
  ]

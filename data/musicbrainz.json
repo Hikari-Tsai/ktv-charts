@@ -13,20 +13,13 @@
   "released": "2026-10-29",
   "status": "ok",
   "title": "ADDICTED",
-  "v": 1
+  "v": 2
  },
  "apt|rosébrunomars": {
-  "album": "Familiar Pop",
+  "album": "APT.",
   "artist": "ROSÉ & Bruno Mars",
   "checked": "2026-11-05",
   "credits": {
-   "producer": [
-    "Rogét Chahayed",
-    "Cirkut",
-    "Omer Fedi",
-    "Bruno Mars",
-    "ROSÉ"
-   ],
    "writer": [
     "Amy Allen",
     "Brody Brown",
@@ -41,25 +34,18 @@
     "Theron Thomas"
    ]
   },
-  "id": "5dcf0f17-d13b-47c1-8386-fea1f5e25875",
-  "isrc": "USAT22409172",
+  "id": "9a1aa8a7-c6d8-416f-a42a-adcacae4db40",
+  "isrc": "USATV2404158",
   "released": "2024-10-18",
   "status": "ok",
   "title": "APT.",
-  "v": 1
+  "v": 2
  },
  "apt|rosébrunomarsrosébrunomars": {
-  "album": "Familiar Pop",
+  "album": "APT.",
   "artist": "ROSÉ & Bruno Mars",
   "checked": "2026-11-05",
   "credits": {
-   "producer": [
-    "Rogét Chahayed",
-    "Cirkut",
-    "Omer Fedi",
-    "Bruno Mars",
-    "ROSÉ"
-   ],
    "writer": [
     "Amy Allen",
     "Brody Brown",
@@ -74,12 +60,12 @@
     "Theron Thomas"
    ]
   },
-  "id": "5dcf0f17-d13b-47c1-8386-fea1f5e25875",
-  "isrc": "USAT22409172",
+  "id": "9a1aa8a7-c6d8-416f-a42a-adcacae4db40",
+  "isrc": "USATV2404158",
   "released": "2024-10-18",
   "status": "ok",
   "title": "APT.",
-  "v": 1
+  "v": 2
  },
  "awholenewworld|bradkaneandleasalonga": {
   "album": "Disney's Music of Dreams",
@@ -96,9 +82,16 @@
    "lyricist": [
     "Tim Rice"
    ],
+   "mix": [
+    "Bruce Botnick"
+   ],
    "producer": [
     "Alan Menken",
     "Tim Rice"
+   ],
+   "recording": [
+    "Bruce Botnick",
+    "Michael Farrow"
    ]
   },
   "id": "811b19d6-a1f9-44cb-b024-f114a9e62172",
@@ -106,7 +99,7 @@
   "released": "1992-11-06",
   "status": "ok",
   "title": "A Whole New World",
-  "v": 1
+  "v": 2
  },
  "awholenewworld|bradkaneleasalonga": {
   "album": "Disney's Music of Dreams",
@@ -123,9 +116,16 @@
    "lyricist": [
     "Tim Rice"
    ],
+   "mix": [
+    "Bruce Botnick"
+   ],
    "producer": [
     "Alan Menken",
     "Tim Rice"
+   ],
+   "recording": [
+    "Bruce Botnick",
+    "Michael Farrow"
    ]
   },
   "id": "811b19d6-a1f9-44cb-b024-f114a9e62172",
@@ -133,7 +133,7 @@
   "released": "1992-11-06",
   "status": "ok",
   "title": "A Whole New World",
-  "v": 1
+  "v": 2
  },
  "baby|justinbieber": {
   "album": "Pop Party 8",
@@ -152,7 +152,7 @@
   "released": "2010-10-25",
   "status": "ok",
   "title": "Baby",
-  "v": 1
+  "v": 2
  },
  "bad|ateez": {
   "album": "GOLDEN HOUR : Part.5",
@@ -193,10 +193,10 @@
   "released": "2026-06-26",
   "status": "ok",
   "title": "BAD",
-  "v": 1
+  "v": 2
  },
  "callmemaybe|carlyraejepsen": {
-  "album": "Kiss",
+  "album": "Promo Only: Hot Video, April 2012",
   "artist": "Carly Rae Jepsen",
   "checked": "2026-11-05",
   "credits": {
@@ -206,17 +206,17 @@
     "Josh Ramsay"
    ]
   },
-  "id": "b621565a-0183-4b0a-864c-fb268ea8fed2",
-  "isrc": "USUM71913476",
-  "released": "2022",
+  "id": "9cd5a92b-4076-4638-ad7e-54351f275554",
+  "isrc": "USUV71200276",
+  "released": "2012-03",
   "status": "ok",
   "title": "Call Me Maybe",
-  "v": 1
+  "v": 2
  },
  "choemgầnanhthêmchútnữa|hươngtràm": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "citrus|daice": {
   "album": "SiX",
@@ -247,7 +247,7 @@
   "released": "2018-01-01",
   "status": "ok",
   "title": "Có Ai Thương Em Như Anh",
-  "v": 1
+  "v": 2
  },
  "cókhônggiữmấtđừngtìm|trúcnhân": {
   "album": "Có Không Giữ Mất Đừng Tìm",
@@ -257,9 +257,10 @@
   "released": "2022-05-12",
   "status": "ok",
   "title": "Có Không Giữ Mất Đừng Tìm",
-  "v": 1
+  "v": 2
  },
  "dancingqueen|abba": {
+  "album": "Wien Concert",
   "artist": "ABBA",
   "checked": "2026-11-05",
   "credits": {
@@ -269,10 +270,11 @@
     "Björn Ulvaeus"
    ]
   },
-  "id": "3600cbfa-a8e4-40da-8160-1e2955a73652",
+  "id": "3d920dd7-6a00-4020-a857-ded9da5e35e4",
+  "released": "2004",
   "status": "ok",
   "title": "Dancing Queen",
-  "v": 1
+  "v": 2
  },
  "deserve|babymonster": {
   "album": "DESERVE",
@@ -282,10 +284,10 @@
   "released": "2026-10-23",
   "status": "ok",
   "title": "DESERVE",
-  "v": 1
+  "v": 2
  },
  "firstlove|宇多田ヒカル": {
-  "album": "UTADA UNITED 2006",
+  "album": "First Love",
   "artist": "宇多田ヒカル",
   "checked": "2026-11-05",
   "credits": {
@@ -296,16 +298,17 @@
     "宇多田ヒカル"
    ]
   },
-  "id": "875ea24b-66c7-4e40-8fb0-91284d318c0e",
-  "released": "2012-12-20",
+  "id": "125fd884-c14b-49d0-b5e0-bab480b859dc",
+  "isrc": "JPTO00970120",
+  "released": "2009-03-18",
   "status": "ok",
   "title": "First Love",
-  "v": 1
+  "v": 2
  },
  "firstlove|宇多田光": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "gee|girlsgeneration": {
   "album": "Into the new world: GIRLS’ GENERATION THE 1ST ASIA TOUR",
@@ -315,18 +318,26 @@
   "released": "2010-12-30",
   "status": "ok",
   "title": "Gee",
-  "v": 1
+  "v": 2
  },
  "golden|huntrx": {
   "album": "Die besten Songs 2026",
   "artist": "HUNTR/X (EJAE, AUDREY NUNA & REI AMI) & KPop Demon Hunters Cast",
   "checked": "2026-11-05",
   "credits": {
+   "mix": [
+    "Curtis Douglas"
+   ],
    "producer": [
     "24",
     "Ian Eisendrath",
     "IDO",
     "TEDDY"
+   ],
+   "recording": [
+    "Andy Dudman",
+    "Noah Hubbell",
+    "Derik Lee"
    ],
    "writer": [
     "24",
@@ -341,7 +352,7 @@
   "released": "2025-06-19",
   "status": "ok",
   "title": "Golden",
-  "v": 1
+  "v": 2
  },
  "goodgoodbye|華莎": {
   "checked": "2026-11-05",
@@ -357,7 +368,7 @@
   "released": "2026-10-31",
   "status": "ok",
   "title": "Hong Kong",
-  "v": 1
+  "v": 2
  },
  "housewife|tatemcrae": {
   "album": "Housewife",
@@ -397,10 +408,10 @@
   "released": "2026-09-07",
   "status": "ok",
   "title": "I’m gonna TOESA",
-  "v": 1
+  "v": 2
  },
  "irisout|米津玄師": {
-  "album": "IRIS OUT / JANE DOE",
+  "album": "IRIS OUT",
   "artist": "米津玄師",
   "checked": "2026-11-05",
   "credits": {
@@ -413,16 +424,21 @@
    "lyricist": [
     "米津玄師"
    ],
+   "mix": [
+    "小森雅仁"
+   ],
    "producer": [
     "米津玄師"
+   ],
+   "recording": [
+    "小森雅仁"
    ]
   },
-  "id": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
-  "isrc": "JPU902502821",
+  "id": "7cfddef5-9081-4201-a946-e716fb4dfa24",
   "released": "2025-09-15",
   "status": "ok",
   "title": "IRIS OUT",
-  "v": 1
+  "v": 2
  },
  "iwantitthatway|backstreetboys": {
   "album": "Kuschel Rock: Best of Love Songs",
@@ -446,7 +462,7 @@
   "released": "2002",
   "status": "ok",
   "title": "I Want It That Way",
-  "v": 1
+  "v": 2
  },
  "lemon|米津玄師": {
   "album": "STRAY SHEEP",
@@ -462,8 +478,14 @@
    "lyricist": [
     "米津玄師"
    ],
+   "mix": [
+    "小森雅仁"
+   ],
    "producer": [
     "米津玄師"
+   ],
+   "recording": [
+    "小森雅仁"
    ]
   },
   "id": "79a8b80c-018d-4004-b3ff-cc10d21a3ddd",
@@ -471,13 +493,27 @@
   "released": "2018-03-14",
   "status": "ok",
   "title": "Lemon",
-  "v": 1
+  "v": 2
  },
  "lessthanalover|jennie": {
   "album": "Less Than a Lover",
   "artist": "JENNIE",
   "checked": "2026-11-05",
   "credits": {
+   "mix": [
+    "Bryce Bordone",
+    "Serban Ghenea"
+   ],
+   "producer": [
+    "Cashmere Cat",
+    "Jelli Dorman",
+    "Tyler Spry"
+   ],
+   "recording": [
+    "Paniz Farokhnia",
+    "Joe Henderson",
+    "Tyler Spry"
+   ],
    "writer": [
     "Bibi Bourelly",
     "Cashmere Cat",
@@ -487,12 +523,12 @@
     "Tyler Spry"
    ]
   },
-  "id": "6c6c7118-12d9-426f-bc67-23a3ca30019f",
-  "isrc": "USQX92604131",
+  "id": "ec638397-2a84-4cbf-b856-cdc3a61330a4",
+  "isrc": "TCAJH2545923",
   "released": "2026-07-24",
   "status": "ok",
   "title": "Less Than a Lover",
-  "v": 1
+  "v": 2
  },
  "letitgo|idinamenzel": {
   "album": "Christmas All the Way 2021",
@@ -519,7 +555,7 @@
   "released": "2026-10-19",
   "status": "ok",
   "title": "Looks Can Kill",
-  "v": 1
+  "v": 2
  },
  "loversagain|exile": {
   "album": "EXTREME BEST",
@@ -538,10 +574,10 @@
   "released": "2007-01-17",
   "status": "ok",
   "title": "Lovers Again",
-  "v": 1
+  "v": 2
  },
  "lovestory|taylorswift": {
-  "album": "Fearless",
+  "album": "The Braun MTV Eurochart '09, Volume 2",
   "artist": "Taylor Swift",
   "checked": "2026-11-05",
   "credits": {
@@ -552,11 +588,11 @@
     "Taylor Swift"
    ]
   },
-  "id": "af08b701-6ab1-4f32-9832-f3d056c723db",
+  "id": "6fef4fc3-4680-418c-9767-fae7173304ec",
   "released": "2009",
   "status": "ok",
   "title": "Love Story",
-  "v": 1
+  "v": 2
  },
  "lạlùng|vũ": {
   "album": "Lạ Lùng",
@@ -567,12 +603,12 @@
   "released": "2016-12-24",
   "status": "ok",
   "title": "Lạ Lùng",
-  "v": 1
+  "v": 2
  },
  "matadayo|藝聲": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "missme|keshi": {
   "album": "MISS ME",
@@ -595,16 +631,14 @@
    ],
    "lyricist": [
     "Will Jennings"
-   ],
-   "producer": [
-    "Julie Snyder"
    ]
   },
-  "id": "1a73320f-1e0b-4388-926c-75243cfcdd64",
-  "released": "2010-05-03",
+  "id": "84f5f279-ba56-46ff-ae53-fa01caa67cfb",
+  "isrc": "CAC221000042",
+  "released": "2010-04-29",
   "status": "ok",
   "title": "My Heart Will Go On",
-  "v": 1
+  "v": 2
  },
  "neon|a2oa2olite": {
   "album": "NEON",
@@ -615,7 +649,7 @@
   "released": "2026-10-13",
   "status": "ok",
   "title": "NEON",
-  "v": 1
+  "v": 2
  },
  "nothingsgonnachangemyloveforyou|方大同": {
   "album": "可啦思刻",
@@ -625,7 +659,7 @@
   "released": "2009-08-11",
   "status": "ok",
   "title": "Nothing's Gonna Change My Love for You",
-  "v": 1
+  "v": 2
  },
  "nămquađãlàmgì|noophướcthịnh": {
   "checked": "2026-11-05",
@@ -648,7 +682,7 @@
   "released": "2026-09-27",
   "status": "ok",
   "title": "Patient Zero",
-  "v": 1
+  "v": 2
  },
  "sakihokorutokiomatsunowa|藝聲": {
   "checked": "2026-11-05",
@@ -656,21 +690,27 @@
   "v": 1
  },
  "sawadika|lisa": {
-  "album": "SaWaDiKa",
   "artist": "LISA",
   "checked": "2026-11-05",
-  "id": "fb734688-adf1-4c2a-a4ed-09e1c0944984",
-  "isrc": "USRC12601783",
-  "released": "2026-09-10",
+  "id": "d35b8a70-6624-4b72-a3ba-6db677136298",
   "status": "ok",
   "title": "SaWaDiKa",
-  "v": 1
+  "v": 2
  },
  "shapeofyou|edsheeran": {
-  "album": "÷",
+  "album": "Best Concert Songs (Soft Pop Edition)",
   "artist": "Ed Sheeran",
   "checked": "2026-11-05",
   "credits": {
+   "mix": [
+    "Michael Freeman",
+    "Mark “Spike” Stent",
+    "Geoff Swan"
+   ],
+   "producer": [
+    "Steve Mac",
+    "Ed Sheeran"
+   ],
    "writer": [
     "Kevin “She’kspere” Briggs",
     "Tameka “Tiny” Cottle",
@@ -680,12 +720,12 @@
     "Ed Sheeran"
    ]
   },
-  "id": "87feb8b6-d5a9-4e0a-89bf-0e5e28591203",
-  "isrc": "GBAHS2200091",
-  "released": "2022",
+  "id": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
+  "isrc": "GBAHS1600463",
+  "released": "2017-01-06",
   "status": "ok",
   "title": "Shape of You",
-  "v": 1
+  "v": 2
  },
  "sorrysorry|superjunior": {
   "album": "Super Show 5",
@@ -706,7 +746,7 @@
   "released": "2015-11-06",
   "status": "ok",
   "title": "Sorry, Sorry",
-  "v": 1
+  "v": 2
  },
  "spicy|aespa": {
   "album": "Triple A New Pop",
@@ -722,7 +762,7 @@
   "released": "2023-01-01",
   "status": "ok",
   "title": "Spicy",
-  "v": 1
+  "v": 2
  },
  "stellarstellar|星街すいせい": {
   "album": "hololive RECORDS HISTORY COLLECTION",
@@ -744,7 +784,7 @@
   "released": "2021-09-29",
   "status": "ok",
   "title": "Stellar Stellar",
-  "v": 1
+  "v": 2
  },
  "supernova|aespa": {
   "album": "Armageddon",
@@ -765,7 +805,7 @@
   "released": "2024-05-13",
   "status": "ok",
   "title": "Supernova",
-  "v": 1
+  "v": 2
  },
  "tarantino|lisa": {
   "album": "Tarantino",
@@ -776,7 +816,7 @@
   "released": "2026-10-23",
   "status": "ok",
   "title": "Tarantino",
-  "v": 1
+  "v": 2
  },
  "thatshouldbeme|justinbieber": {
   "album": "My World 2.0",
@@ -815,12 +855,12 @@
     "Martina Sorbara"
    ]
   },
-  "id": "889d1b8d-67b3-4ba1-9920-dd06c6fdb202",
-  "isrc": "GBCAD2601663",
-  "released": "2026-08-28",
+  "id": "ccaa5327-9fa6-46db-975e-af60c026ef30",
+  "isrc": "GBAHT2400726",
+  "released": "2024-12-06",
   "status": "ok",
   "title": "Training Season",
-  "v": 1
+  "v": 2
  },
  "tếtnàyconsẽvề|bùicôngnam": {
   "album": "Tết Này Con Sẽ Về",
@@ -831,7 +871,7 @@
   "released": "2022-01-10",
   "status": "ok",
   "title": "Tết Này Con Sẽ Về",
-  "v": 1
+  "v": 2
  },
  "updown|exid": {
   "album": "Incarnation of Money OST Pt.2",
@@ -864,7 +904,7 @@
   "released": "2018-01-07",
   "status": "ok",
   "title": "さよならエレジー",
-  "v": 1
+  "v": 2
  },
  "しわあわせ|vaundy": {
   "album": "replica",
@@ -886,7 +926,7 @@
   "released": "2021-04-11",
   "status": "ok",
   "title": "しわあわせ",
-  "v": 1
+  "v": 2
  },
  "そばにいるね|青山黛瑪soulja": {
   "checked": "2026-11-05",
@@ -894,14 +934,14 @@
   "v": 1
  },
  "たぶん|yoasobi": {
-  "album": "THE FILM",
+  "album": "THE FILM 3",
   "artist": "YOASOBI",
   "checked": "2026-11-05",
-  "id": "807a5370-6fb6-494a-a11e-956ea402f802",
-  "released": "2022-03-23",
+  "id": "bf8f6fda-0e94-4b98-82ea-a0ce5e2af46e",
+  "released": "2025-10-01",
   "status": "ok",
   "title": "たぶん",
-  "v": 1
+  "v": 2
  },
  "ひまわりの約束|秦基博": {
   "album": "evergreen",
@@ -923,7 +963,7 @@
   "released": "2014-10-29",
   "status": "ok",
   "title": "ひまわりの約束",
-  "v": 1
+  "v": 2
  },
  "クリスマスイブ|山下達郎": {
   "album": "Christmas Eve / White Christmas",
@@ -939,8 +979,14 @@
    "lyricist": [
     "山下達郎"
    ],
+   "mix": [
+    "吉田保"
+   ],
    "producer": [
     "山下達郎"
+   ],
+   "recording": [
+    "吉田保"
    ]
   },
   "id": "2d14de6c-476f-4a62-93ee-4a13c5264143",
@@ -948,7 +994,7 @@
   "released": "1983-06-08",
   "status": "ok",
   "title": "クリスマス・イブ",
-  "v": 1
+  "v": 2
  },
  "クリスマスソング|backnumber": {
   "album": "Encore",
@@ -967,7 +1013,7 @@
   "released": "2015-11-18",
   "status": "ok",
   "title": "クリスマスソング",
-  "v": 1
+  "v": 2
  },
  "シャルル|バルーン": {
   "album": "Corridor",
@@ -986,7 +1032,7 @@
   "released": "2016-11-02",
   "status": "ok",
   "title": "シャルル",
-  "v": 1
+  "v": 2
  },
  "シングルベッド|シャ乱q": {
   "album": "シャ乱Qベスト 〜四半世紀伝説〜",
@@ -1005,7 +1051,7 @@
   "released": "1994-11-02",
   "status": "ok",
   "title": "シングルベッド",
-  "v": 1
+  "v": 2
  },
  "シンデレラ|mrsgreenapple": {
   "album": "POPS",
@@ -1016,7 +1062,7 @@
   "released": "2026-09-30",
   "status": "ok",
   "title": "シンデレラ",
-  "v": 1
+  "v": 2
  },
  "ビビデバ|星街すいせい": {
   "album": "新星目録",
@@ -1031,6 +1077,9 @@
    ],
    "lyricist": [
     "ツミキ"
+   ],
+   "mix": [
+    "NNZN"
    ]
   },
   "id": "a7a3c583-3ee6-4015-b0b0-93515045b27f",
@@ -1038,26 +1087,18 @@
   "released": "2024-03-23",
   "status": "ok",
   "title": "ビビデバ",
-  "v": 1
+  "v": 2
  },
  "マリーゴールド|あいみょん": {
-  "album": "Momentary Sixth Sense",
+  "album": "AIMYON BEST ALBUM - Chase the Lips! -",
   "artist": "あいみょん",
   "checked": "2026-11-05",
-  "credits": {
-   "composer": [
-    "あいみょん"
-   ],
-   "lyricist": [
-    "あいみょん"
-   ]
-  },
-  "id": "ca65ae7c-04b8-4dc0-9d61-7a78c656cbcc",
-  "isrc": "JPWP01801505",
-  "released": "2018-08-08",
+  "id": "f74d119b-6fb6-47aa-a1ee-34392fa047d3",
+  "isrc": "JPWP02600814",
+  "released": "2026-09-09",
   "status": "ok",
   "title": "マリーゴールド",
-  "v": 1
+  "v": 2
  },
  "ライラック|mrsgreenapple": {
   "album": "10",
@@ -1073,6 +1114,14 @@
    ],
    "lyricist": [
     "大森元貴"
+   ],
+   "mix": [
+    "土岐彩香"
+   ],
+   "recording": [
+    "熊手徹",
+    "清水美穂",
+    "土岐彩香"
    ]
   },
   "id": "bca4f0f6-0033-4e79-872e-1ce5c2cf8dd0",
@@ -1080,12 +1129,12 @@
   "released": "2024-04-12",
   "status": "ok",
   "title": "ライラック",
-  "v": 1
+  "v": 2
  },
  "リズムに合わせて足踏み体操2|ごぼう先生": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "ロミオとシンデレラ|doriko": {
   "album": "MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”",
@@ -1104,7 +1153,7 @@
   "released": "2011-11-30",
   "status": "ok",
   "title": "ロミオとシンデレラ",
-  "v": 1
+  "v": 2
  },
  "ロミオとシンデレラ|dorikofeat初音ミク": {
   "album": "VOCALOID BEST from ニコニコ動画(あか)",
@@ -1172,15 +1221,15 @@
  "今夜讓我帶你高飛遠走|variousartists": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "伯方の塩|塩谷信廣": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "光輝歲月|beyond": {
-  "album": "香港廣播75年金曲銀禧紀念CD",
+  "album": "金碟至尊精選",
   "artist": "Beyond",
   "checked": "2026-11-05",
   "credits": {
@@ -1191,11 +1240,11 @@
     "黃家駒"
    ]
   },
-  "id": "307c9bbf-0aef-4df7-b313-5438f4923a25",
-  "released": "2003-08-26",
+  "id": "76872728-eb22-40f9-976f-4a4aed803436",
+  "released": "1995",
   "status": "ok",
   "title": "光輝歲月",
-  "v": 1
+  "v": 2
  },
  "光輝歲月|variousartists": {
   "checked": "2026-11-05",
@@ -1205,26 +1254,18 @@
  "千本桜|whiteflamefeat初音ミク": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "千本桜|和楽器バンド": {
-  "album": "大新年会2016 日本武道館 -暁ノ宴-",
+  "album": "四季彩-shikisai-",
   "artist": "和楽器バンド",
   "checked": "2026-11-05",
-  "credits": {
-   "composer": [
-    "黒うさP"
-   ],
-   "lyricist": [
-    "黒うさP"
-   ]
-  },
-  "id": "8254408d-8b6f-4e84-9b58-de0b8fb16120",
-  "isrc": "JPB601601166",
-  "released": "2016-03-23",
+  "id": "e0ce5bca-1973-4307-97c7-dae4791a4980",
+  "isrc": "JPB681701381",
+  "released": "2017-03-22",
   "status": "ok",
   "title": "千本桜",
-  "v": 1
+  "v": 2
  },
  "友情歲月|鄭伊健": {
   "album": "戲中戲精選",
@@ -1270,7 +1311,7 @@
   "released": "2026-10-02",
   "status": "ok",
   "title": "夕星-ゆうづつ-",
-  "v": 1
+  "v": 2
  },
  "大梦归|周深": {
   "album": "《兰香如故》影视原声带",
@@ -1281,10 +1322,10 @@
   "released": "2026-09-11",
   "status": "ok",
   "title": "大梦归（电视剧《兰香如故》主题曲）",
-  "v": 1
+  "v": 2
  },
  "天城越え|石川さゆり": {
-  "album": "全曲集 滝の白糸",
+  "album": "ベスト100シリーズ 昭和の大ヒット100",
   "artist": "石川さゆり",
   "checked": "2026-11-05",
   "credits": {
@@ -1295,11 +1336,12 @@
     "吉岡治"
    ]
   },
-  "id": "6597ca03-69f3-4eae-8673-acf375ee8348",
-  "released": "1988-10-21",
+  "id": "2d21480e-0859-478e-9281-51388da7ea7d",
+  "isrc": "JPCO08614690",
+  "released": "1991-11-21",
   "status": "ok",
   "title": "天城越え",
-  "v": 1
+  "v": 2
  },
  "好きすぎて滅|mlk": {
   "album": "爆裂愛してる / 好きすぎて滅！",
@@ -1321,26 +1363,22 @@
   "released": "2025-10-27",
   "status": "ok",
   "title": "好きすぎて滅！",
-  "v": 1
+  "v": 2
  },
  "季候風|王菲": {
-  "album": "王菲最新精選專輯",
+  "album": "天空",
   "artist": "王菲",
   "checked": "2026-11-05",
-  "id": "4816834c-6a15-4611-8683-3120c0a5e125",
-  "released": "2003-09-24",
+  "id": "d9d069ca-4f6c-4b48-84b1-6578da6f5f79",
+  "released": "2003-08",
   "status": "ok",
   "title": "季候風",
-  "v": 1
+  "v": 2
  },
  "少女レイ|みきとp": {
-  "album": "DAISAN WAVE",
   "artist": "みきとP",
   "checked": "2026-11-05",
   "credits": {
-   "arranger": [
-    "みきとP"
-   ],
    "composer": [
     "みきとP"
    ],
@@ -1348,12 +1386,10 @@
     "みきとP"
    ]
   },
-  "id": "42698d59-93aa-4f97-b2a3-b90ee25b49fc",
-  "isrc": "JPA651804348",
-  "released": "2018-11-18",
+  "id": "ee865c0c-f1df-4e29-ac2b-94975930d506",
   "status": "ok",
   "title": "少女レイ",
-  "v": 1
+  "v": 2
  },
  "少女レイ|みきとpfeat初音ミク": {
   "album": "少女レイ",
@@ -1372,7 +1408,7 @@
   "released": "2018-07-18",
   "status": "ok",
   "title": "少女レイ",
-  "v": 1
+  "v": 2
  },
  "川の流れのように|美空ひばり": {
   "album": "演歌全曲集 川の流れのように/人生いろいろ",
@@ -1391,12 +1427,12 @@
   "released": "1989-04-21",
   "status": "ok",
   "title": "川の流れのように",
-  "v": 1
+  "v": 2
  },
  "從前你|于冬然": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "怪獣の花唄|vaundy": {
   "album": "strobo",
@@ -1408,6 +1444,9 @@
    ],
    "lyricist": [
     "Vaundy"
+   ],
+   "recording": [
+    "木村信章"
    ]
   },
   "id": "ffa02d1d-455c-4088-b440-a0eb1539d334",
@@ -1415,7 +1454,7 @@
   "released": "2020-05-27",
   "status": "ok",
   "title": "怪獣の花唄",
-  "v": 1
+  "v": 2
  },
  "愛のかたまり|kinkikids": {
   "album": "Anniversary Pack (Anniversary / KinKi Single Selection II)",
@@ -1434,17 +1473,17 @@
   "released": "2001-11-14",
   "status": "ok",
   "title": "愛のかたまり",
-  "v": 1
+  "v": 2
  },
  "我愛你一句話|蕭秉治xiaobingchih": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "我無嫁你無娶|丁姵均曾瑋中": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "時の流れに身をまかせ|テレサテン": {
   "album": "ベスト全曲集〜21世紀へ伝えたい名曲たち〜",
@@ -1463,7 +1502,7 @@
   "released": "2000-09-20",
   "status": "ok",
   "title": "時の流れに身をまかせ",
-  "v": 1
+  "v": 2
  },
  "時の流れに身をまかせ|鄧麗君": {
   "album": "Stereo Sound ORIGINAL SELECTION Vol.1: Teresa Teng",
@@ -1487,7 +1526,7 @@
  "未完成的約定|黃俊榮amsden": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "東京ブギウギ|笠置シヅ子": {
   "album": "服部良一「僕の音楽人生」(コロムビア編)",
@@ -1498,7 +1537,7 @@
   "released": "2004-11-03",
   "status": "ok",
   "title": "東京ブギウギ",
-  "v": 1
+  "v": 2
  },
  "残酷な天使のテーゼ|高橋洋子": {
   "album": "スーパーロボット魂 2003 “春の陣”",
@@ -1517,7 +1556,7 @@
   "released": "2003-06-25",
   "status": "ok",
   "title": "残酷な天使のテーゼ",
-  "v": 1
+  "v": 2
  },
  "津軽海峡冬景色|石川さゆり": {
   "album": "ベスト ヒット",
@@ -1535,7 +1574,7 @@
   "released": "1979",
   "status": "ok",
   "title": "津軽海峡・冬景色",
-  "v": 1
+  "v": 2
  },
  "浮誇|陳奕迅": {
   "album": "U87",
@@ -1553,35 +1592,27 @@
   "released": "2005-06-07",
   "status": "ok",
   "title": "浮誇",
-  "v": 1
+  "v": 2
  },
  "海嶼你|马也crabbitcole先生": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "海闊天空|beyond": {
-  "album": "華納極品音色系列 Special Edition",
+  "album": "Beyond Greatest Hits",
   "artist": "Beyond",
   "checked": "2026-11-05",
-  "credits": {
-   "composer": [
-    "黃家駒"
-   ],
-   "lyricist": [
-    "黃家駒"
-   ]
-  },
-  "id": "9d345086-1da2-41d6-a81d-969d102c7d18",
-  "released": "1997",
+  "id": "1362266f-d000-44e5-ba14-d37d3074a5a4",
+  "released": "2011",
   "status": "ok",
   "title": "海闊天空",
-  "v": 1
+  "v": 2
  },
  "淚そうそう|夏川里美": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "点描の唄|mrsgreenapple": {
   "album": "Attitude",
@@ -1600,12 +1631,12 @@
   "released": "2019-10-01",
   "status": "ok",
   "title": "点描の唄 (「THE ROOM TOUR」at NHKホール on 4th July, 2019より)",
-  "v": 1
+  "v": 2
  },
  "甲乙丙丁strangers|李佳薇": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "甲乙丙丁|李佳薇": {
   "album": "甲乙丙丁",
@@ -1615,22 +1646,22 @@
   "released": "2026-07-02",
   "status": "ok",
   "title": "甲乙丙丁 (你我怎么两清)",
-  "v": 1
+  "v": 2
  },
  "相依為命|陳小春": {
   "album": "夜生活",
   "artist": "陳小春",
   "checked": "2026-11-05",
-  "id": "e5010379-d9a4-4280-b2d4-d46a5ac5eb1b",
+  "id": "b84d6203-406e-4cf3-a13f-4591e8bbd6df",
   "released": "2004-02-12",
   "status": "ok",
   "title": "相依為命",
-  "v": 1
+  "v": 2
  },
  "看著我的眼睛說|張遠": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "粛聖ロリ神レクイエム|しぐれうい": {
   "album": "まだ雨はやまない",
@@ -1652,12 +1683,12 @@
   "released": "2022-05-25",
   "status": "ok",
   "title": "粛聖!! ロリ神レクイエム☆",
-  "v": 1
+  "v": 2
  },
  "緣份只是借過的名|丁姵均": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "美少女無罪パイレーツ|宝鐘マリン": {
   "album": "Ahoy!! キミたちみんなパイレーツ♡",
@@ -1672,6 +1703,9 @@
    ],
    "lyricist": [
     "ナナホシ管弦楽団"
+   ],
+   "mix": [
+    "石塚陽大"
    ]
   },
   "id": "0a841813-45f1-4046-a9df-24ce1b7d025c",
@@ -1679,7 +1713,7 @@
   "released": "2023-07-31",
   "status": "ok",
   "title": "美少女無罪♡パイレーツ",
-  "v": 1
+  "v": 2
  },
  "群青|yoasobi": {
   "album": "THE FILM 3",
@@ -1694,7 +1728,7 @@
  "自由的你|gem鄧紫棋": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "逢いたくていま|misia": {
   "album": "JUST BALLADE",
@@ -1712,10 +1746,10 @@
   "released": "2009-12-16",
   "status": "ok",
   "title": "逢いたくていま",
-  "v": 1
+  "v": 2
  },
  "道|exile": {
-  "album": "EXILE EVOLUTION",
+  "album": "Sweet Memories With Super Junior",
   "artist": "EXILE",
   "checked": "2026-11-05",
   "credits": {
@@ -1726,11 +1760,11 @@
     "樫田正剛"
    ]
   },
-  "id": "f8496839-4235-447f-88ac-e2de49699d86",
-  "released": "2007-03-07",
+  "id": "27fac043-a70e-4fa3-88d9-1476bf964431",
+  "released": "2008-03-12",
   "status": "ok",
   "title": "道",
-  "v": 1
+  "v": 2
  },
  "酒よ|吉幾三": {
   "album": "ザ・プレミアム昭和演歌",
@@ -1752,7 +1786,7 @@
   "v": 1
  },
  "酔いどれ知らず|kanaria": {
-  "album": "酔いどれ知らず",
+  "album": "Yoidoreshirazu",
   "artist": "Kanaria",
   "checked": "2026-11-05",
   "credits": {
@@ -1763,21 +1797,22 @@
     "Kanaria"
    ]
   },
-  "id": "cc8b3d83-af82-43ed-a2b7-e88d8dcbca0a",
-  "released": "2022-05-02",
+  "id": "9dd78261-4d40-48a4-b218-f9bb4008dac3",
+  "isrc": "TCJPR2280966",
+  "released": "2022-05-06",
   "status": "ok",
   "title": "酔いどれ知らず",
-  "v": 1
+  "v": 2
  },
  "離開我的依賴|王艷薇": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "雪の花|中島美嘉": {
   "checked": "2026-11-05",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "青い山脈|藤山一郎奈良光枝": {
   "album": "ベスト100シリーズ 昭和の大ヒット100",
@@ -1811,6 +1846,6 @@
   "released": "2013-10-17",
   "status": "ok",
   "title": "연애의 조건 (Love Options)",
-  "v": 1
+  "v": 2
  }
 }
