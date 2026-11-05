@@ -22,6 +22,7 @@
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
 - **BPM**：歌手後面標出歌曲速度，用 [Beat This!](https://github.com/CPJKU/beat_this) 模型的 ONNX 版本 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 分析 iTunes 的 30 秒試聽估算。
 - **Hashtag 標籤**：依風格、情緒、樂器、人聲分組標出 `#抒情 #放鬆 #鋼琴 #女聲` 這類標籤，用 Essentia 的 Discogs-EffNet 模型分析試聽得來，每組都有門檻與數量上限。
+- **出版資訊**：歌手下方顯示發行年份、發行公司、作詞與作曲，點一下展開編曲、製作人、專輯、發行日期、ISRC、版權標示與資料來源。台灣的歌查國家圖書館 ISRC 資料，其他歌查 MusicBrainz，年份與版權標示另外取自 Apple，見「出版資訊」。
 - **四個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」、「Spotify 試聽」。
   - YouTube 以「歌名 歌手」當關鍵字開啟 `https://www.youtube.com/results?search_query=`。
   - 點「Apple Music 試聽」或「KKBOX 試聽」會在該首歌下方展開官方嵌入播放器，同時只開一個，再點一次收起。按住 Ctrl 或 ⌘ 點擊則改為開新分頁。
@@ -48,6 +49,10 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
   │    └─ data/kkbox-ids.json 歌名歌手對應的 KKBOX 曲目 ID
   ├─ python -m scraper.spotify 用 Spotify Web API 查新歌的曲目 ID
   │    └─ data/spotify.json   Spotify 曲目 ID 永久快取
+  ├─ python -m scraper.credits 查出版資訊：Apple 專輯、國家圖書館 ISRC、MusicBrainz
+  │    ├─ data/apple-albums.json 專輯、發行日期與 ℗/© 版權標示
+  │    ├─ data/ncl-isrc.json  國家圖書館 ISRC 紀錄（詞曲、編曲、製作人、發行公司）
+  │    └─ data/musicbrainz.json MusicBrainz 詞曲與製作人
   ├─ python -m scraper.bpm    用 Beat This! 分析試聽音訊的 BPM，每次最多 300 首
   │    └─ data/bpm.json       BPM 永久快取
   ├─ python -m scraper.tags   用 Essentia 模型分析風格、情緒、樂器與人聲
@@ -112,6 +117,42 @@ gh secret set SPOTIFY_CLIENT_ID --repo <你的帳號>/ktv-charts
 ```bash
 gh secret set SPOTIFY_CLIENT_SECRET --repo <你的帳號>/ktv-charts
 ```
+
+## 出版資訊
+
+歌手下方的一行是重要的出版資訊，例如 `2015 · 華研國際音樂 · 詞 徐世珍、吳輝福 · 曲 JerryC`。作詞與作曲是同一人時合併成「詞曲」。點這一行會展開其他資訊：編曲、製作人、專輯、發行日期、製作公司、類別、ISRC、℗/© 版權標示，以及連回原始紀錄的資料來源。
+
+程式在 `scraper/credits.py`（查詢）與 `scraper/info.py`（合併），每個來源有自己的永久快取，以歌名歌手的 song key 為鍵。
+
+| 來源 | 查哪些歌 | 取得的欄位 | 方式與速度 |
+|---|---|---|---|
+| Apple（iTunes Lookup API） | 所有對到 iTunes 曲目的歌 | 專輯、發行日期、℗/© 版權標示（從中取出發行公司） | 一次查 100 首，間隔 3.2 秒 |
+| [國家圖書館 ISRC 查詢系統](https://isrc-web.ncl.edu.tw/C200/C200) | 台灣來源中，歌名或歌手含中日文的歌 | 表演者、作詞、作曲、編曲、製作人、發行公司、製作公司、發行日期、ISRC、出版類別 | 以「曲名 AND 表演者」查詢，查不到再只用曲名查，請求間隔 1.5 秒 |
+| [MusicBrainz](https://musicbrainz.org/) | 國家圖書館沒有詞曲資料的歌 | 作詞、作曲、編曲、製作人、首次發行日期、ISRC | 搜尋錄音再查作品關聯，每秒 1 次 |
+
+**國家圖書館 ISRC**：國家圖書館是台灣的 ISRC 管理中心，在台灣發行的唱片公司申請 ISRC 時會登記每首錄音的表演者與詞曲等資料，所以這是台灣歌最完整的來源。同一批紀錄也以 [政府資料開放平臺 36940 號資料集](https://data.gov.tw/dataset/36940) 公開（政府資料開放授權條款第 1 版），但只有最近幾個半年度的 CSV；查詢系統則涵蓋 2003 年以後的紀錄，所以改用查詢系統。
+
+**怎麼選出正確的紀錄**：
+
+- 曲名相似度 ≥ 0.85、表演者相似度 ≥ 0.6，規則和 iTunes 相同。
+- 排除伴奏、kala、導唱、純音樂、演奏版、demo 等錄音，除非榜單歌名本身就是這種版本。
+- 同一首歌有多筆紀錄（單曲、專輯、精選輯）時，取發行日期最早的一筆當原始發行。詞曲取同一個 ISRC 中資料最完整的一筆。
+- MusicBrainz 的第一個符合錄音常常還沒連到作品，所以最多試 3 個符合的錄音，直到找到詞曲為止。
+
+**合併規則**（`scraper/info.py`）：
+
+- 詞曲、編曲、製作人：國家圖書館優先，沒有的角色才用 MusicBrainz。MusicBrainz 的 writer 同時當作作詞與作曲。
+- 發行年份：取三個來源中最早的日期，因為數位重新發行與精選輯的日期比原始發行晚。
+- 發行公司：國家圖書館登記的發行公司優先，否則取 Apple ℗/© 標示中的公司名稱（去掉年份與 under license to 之後的文字）。
+
+**分批與重試**：每次執行國家圖書館最多 200 首、MusicBrainz 最多 300 首，整步最多 20 分鐘，排名高的先查。查不到的歌 60 天後重試，已找到的永遠不再查。連續 5 次連線失敗就停止當次查詢，排行榜照常發布。
+
+**限制**：
+
+- 國家圖書館只有在台灣申請 ISRC 的錄音。中國、香港與國外唱片公司發行的歌通常查不到，有些紀錄是簡體字。
+- MusicBrainz 是社群編輯的資料庫，日本與歐美歌曲的詞曲比較齊全，華語歌很少。
+- Apple 的發行日期可能是數位上架或重新發行的日期，所以只在其他來源沒有更早日期時採用。
+- 都是依歌名與歌手自動比對，翻唱或同名歌曲可能對到別的錄音。例如翻唱歌曲會顯示原曲的詞曲作者，這通常是正確的，但發行公司可能是原唱的版本。
 
 ## BPM 識別方式
 
@@ -240,6 +281,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 | 失敗時 | 查詢步驟設成失敗也繼續，排行榜照常發布，只是少一些標籤 |
 | BPM 分析 | 同樣的規則：每次最多 300 首或 20 分鐘，排名高的先做，每 10 首存一次 |
 | Hashtag 分析 | 每首約 1 秒，所以每次最多 1,500 首或 20 分鐘，每 25 首存一次 |
+| 出版資訊 | 國家圖書館每首 2 到 6 秒、MusicBrainz 每首 2 到 7 秒，每次最多 20 分鐘，每 25 首存一次 |
 
 **什麼時候會執行**：每天排程一次；推送 `site/`、`scraper/`、`tests/` 或工作流程檔的變更時；以及在 Actions 頁面按 **Run workflow** 手動執行。目前不會自己再開一次 Action 接續，所以首次補齊約需 5 次執行。之後每天新進榜的歌約 10 到 30 首，一次就能查完。想加快補齊，可以手動多執行幾次；同一時間只會跑一個，其他會排隊。
 
@@ -247,7 +289,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 gh workflow run update.yml
 ```
 
-**時間限制**：曲風查詢最多 25 分鐘，Spotify 查詢最多 10 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 105 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
+**時間限制**：曲風查詢最多 25 分鐘，Spotify 查詢最多 10 分鐘，出版資訊最多 20 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 135 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
 
 ## 專案結構
 
@@ -258,6 +300,8 @@ scraper/               Python 抓取程式
   match.py             歌名歌手正規化與相似度
   enrich.py            曲風、Apple Music 與 KKBOX 連結
   spotify.py           Spotify 曲目 ID 查詢
+  credits.py           出版資訊查詢：Apple 專輯、國家圖書館 ISRC、MusicBrainz
+  info.py              合併三個來源成網頁的 info 欄位（只用標準函式庫）
   bpm.py               Beat This! BPM 分析，需要 ffmpeg、numpy、onnxruntime
   tags.py              Essentia 模型分析，需要 ffmpeg、numpy、onnxruntime
   hashtags.py          模型分數轉成 hashtag 的門檻與規則（只用標準函式庫）
@@ -272,6 +316,9 @@ data/history/          歷史快照
 data/itunes.json       iTunes 查詢快取
 data/kkbox-ids.json    KKBOX 曲目 ID
 data/spotify.json      Spotify 曲目 ID
+data/apple-albums.json Apple 專輯、發行日期與版權標示
+data/ncl-isrc.json     國家圖書館 ISRC 紀錄
+data/musicbrainz.json  MusicBrainz 詞曲資料
 data/bpm.json          BPM 快取
 data/essentia.json     Essentia 模型分數快取
 requirements-bpm.txt   BPM 與 hashtag 分析需要的套件
@@ -358,8 +405,10 @@ python3 -m http.server 8000 -d site
 - 排行榜資料取自各家官方網站的公開頁面與網站內部介面，著作權與相關權利屬原網站所有。這些介面沒有官方文件，網站改版時可能失效。
 - 曲風與 Apple Music 連結來自 Apple 的 iTunes Search API，曲風是 Apple 商店的分類，不是分析音訊得來的，也可能對到不同版本。
 - BPM 與 hashtag 是模型分析 30 秒試聽的估計，可能出錯。
+- 出版資訊依歌名與歌手自動比對國家圖書館 ISRC、MusicBrainz 與 Apple 的資料，可能對到翻唱或同名的錄音。
+- 網頁底部也有免責聲明：曲風、BPM、# 標籤與出版資訊由人工智慧模型與自動比對產生，人工智慧有其極限，可能有錯誤或遺漏，僅供參考。
 - 如果你要自行部署或轉載資料，請先確認各網站的使用條款，並保留來源標示與連回官網的連結。
 
 ## 授權
 
-程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。Hashtag 使用的 Essentia 模型由 Music Technology Group（Universitat Pompeu Fabra）以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；本專案不散布模型檔，執行時才從官方網站下載（論文：Alonso-Jiménez, Serra & Bogdanov, ISMIR 2022）。按鈕上的 Apple Music 與 Spotify 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
+程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。Hashtag 使用的 Essentia 模型由 Music Technology Group（Universitat Pompeu Fabra）以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；本專案不散布模型檔，執行時才從官方網站下載（論文：Alonso-Jiménez, Serra & Bogdanov, ISMIR 2022）。按鈕上的 Apple Music 與 Spotify 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。出版資訊來自國家圖書館 ISRC 資料（[政府資料開放授權條款第 1 版](https://data.gov.tw/license)）、MusicBrainz（核心資料為 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)）與 Apple 的 iTunes API。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。

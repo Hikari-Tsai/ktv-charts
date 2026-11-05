@@ -9,7 +9,7 @@ from unittest import mock
 import datetime as dt
 
 import scraper.__main__ as main
-from scraper import bpm, enrich, hashtags, match, spotify
+from scraper import bpm, credits, enrich, hashtags, info, match, spotify
 from scraper.history import History, period_key, song_key
 from scraper.sources import dam, joysound, kkbox
 
@@ -404,6 +404,80 @@ class EssentiaFrontEndTest(unittest.TestCase):
         self.assertTrue(np.allclose(mel, 0))
         self.assertEqual(tags.patches(mel).shape, (29, 128, 96))
         self.assertEqual(tags.patches(mel[:10]).shape, (1, 128, 96))  # short input is padded
+
+
+class CreditsTest(unittest.TestCase):
+    NCL = [
+        {"ITEM": 1, "TOPIC": "TWD951562101", "NAME": "曲目名稱:小幸運<br />",
+         "ACTION": "表演者:田馥甄<br />作詞者:徐世珍, 吳輝福<br />作曲者:JerryC<br />編曲者:JerryC<br />製作人:呂禎晃, 郭文宗<br />",
+         "PRODUCER": "D95華研國際音樂", "aNAME": "我的少女時代", "aSENT_COM": "D95華研國際音樂",
+         "aSENT_TIME": "2015-10-21T00:00:00", "apubtype": "電影原聲帶"},
+        {"ITEM": 2, "TOPIC": "TWD951562101", "NAME": "曲目名稱:小幸運<br />", "ACTION": "表演者:田馥甄<br />",
+         "PRODUCER": "D95華研國際音樂", "aNAME": "小幸运 (单曲)", "aSENT_COM": "D95華研國際音樂",
+         "aSENT_TIME": "2015-07-10T00:00:00"},
+        {"ITEM": 3, "TOPIC": "TWD951562103", "NAME": "曲目名稱:小幸運(kala)<br />", "ACTION": "表演者:田馥甄<br />",
+         "aSENT_TIME": "2015-01-01T00:00:00"},
+        {"ITEM": 4, "TOPIC": "TWX831611118", "NAME": "曲目名稱:小幸運<br />", "ACTION": "表演者:玩聲樂團<br />",
+         "aSENT_TIME": "2016-09-30T00:00:00"},
+    ]
+
+    def test_ncl_parsing(self):
+        roles = credits.ncl_roles("表演者:告五人<BR />作詞者:潘雲安/潘燕山<BR />作曲者:潘雲安+潘燕山等<BR />樂團名稱:告五人")
+        self.assertEqual(roles, {"performer": ["告五人"], "lyricist": ["潘雲安", "潘燕山"], "composer": ["潘雲安", "潘燕山"]})
+        self.assertEqual(credits.ncl_company("K23       相信音樂國際股份有限公司"), "相信音樂國際股份有限公司")
+        self.assertEqual(credits.ncl_company("AE3街聲"), "街聲")
+        self.assertEqual(credits.ncl_company("EMI百代唱片"), "EMI百代唱片")  # no digit: not a registrant code
+        self.assertEqual(credits.ncl_company("禾廣娛樂府份有限公司\t\t"), "禾廣娛樂府份有限公司")
+        self.assertEqual(credits.artist_keyword("芒果醬 Mango Jump"), "芒果醬")
+        self.assertEqual(credits.artist_keyword("A-Lin"), "A-Lin")
+
+    def test_ncl_pick_takes_original_and_richest_credits(self):
+        matches = credits.ncl_pick(self.NCL, "小幸運", "田馥甄 (Hebe)")
+        self.assertEqual([m["ITEM"] for m in matches], [2, 1])  # no karaoke, no other performer
+        entry = credits.ncl_entry(matches, "2026-11-05")
+        self.assertEqual(entry["released"], "2015-07-10")
+        self.assertEqual(entry["label"], "華研國際音樂")
+        self.assertEqual(entry["credits"]["lyricist"], ["徐世珍", "吳輝福"])
+        self.assertEqual(entry["credits"]["producer"], ["呂禎晃", "郭文宗"])
+        self.assertEqual(credits.ncl_pick(self.NCL, "小幸運", "別人"), [])
+
+    def test_mb_credits_and_shape(self):
+        detail = {"relations": [
+            {"type": "producer", "artist": {"name": "n-buna"}},
+            {"type": "vocal", "artist": {"name": "suis"}},
+            {"type": "performance", "work": {"relations": [
+                {"type": "composer", "artist": {"name": "n-buna"}},
+                {"type": "lyricist", "artist": {"name": "n-buna"}}]}}]}
+        self.assertEqual(credits.mb_credits(detail),
+                         {"producer": ["n-buna"], "composer": ["n-buna"], "lyricist": ["n-buna"]})
+        rec = {"id": "x", "title": "花に亡霊", "artist-credit": [{"name": "ヨルシカ"}], "releases": [{"title": "盗作"}]}
+        self.assertEqual(enrich.pick_best(credits.mb_shape([rec]), "花に亡霊", "ヨルシカ")["_rec"]["id"], "x")
+
+    def test_build_info_priority(self):
+        ncl = {"status": "ok", "isrc": "TW1", "item": 9, "released": "2015-07-10", "label": "華研國際音樂",
+               "credits": {"lyricist": ["徐世珍"], "composer": ["JerryC"]}}
+        mb = {"status": "ok", "id": "m", "released": "2015", "credits": {"writer": ["X"], "producer": ["P"]}}
+        apple = {"status": "ok", "album": "我的少女時代", "released": "2015-10-21",
+                 "copyright": "℗ 2015 HIM International Music Inc."}
+        got = info.build_info(ncl, mb, apple)
+        self.assertEqual((got["year"], got["released"], got["label"]), ("2015", "2015-07-10", "華研國際音樂"))
+        self.assertEqual((got["lyricist"], got["producer"]), (["徐世珍"], ["P"]))
+        self.assertEqual(got["src"], ["ncl", "mb", "apple"])
+        only_apple = info.build_info(None, {"status": "none"}, apple)
+        self.assertEqual((only_apple["label"], only_apple["year"]), ("HIM International Music Inc", "2015"))
+        self.assertEqual(only_apple["src"], ["apple"])
+        self.assertEqual(info.build_info(None, None, None), {})
+        self.assertEqual(info.copyright_holder("℗ 2011 Simco Limited under exclusive licence to Sony Music"),
+                         ("2011", "Simco Limited"))
+
+    def test_annotate_adds_info(self):
+        key = match.song_key("小幸運", "田馥甄")
+        sites = {"holiday": {"charts": [{"id": "b", "rows": [{"rank": 1, "title": "小幸運", "artist": "田馥甄"}]}]}}
+        apple = {key: {"status": "ok", "released": "2015-10-21", "copyright": "℗ 2015 HIM"}}
+        counts = enrich.annotate(sites, {}, {}, credits=({}, {}, apple))
+        self.assertEqual(sites["holiday"]["charts"][0]["rows"][0]["info"]["year"], "2015")
+        self.assertEqual(counts["info"], 1)
+        self.assertEqual([s["key"] for s in credits.songs(sites, "jp")], [])
 
 
 if __name__ == "__main__":

@@ -45,6 +45,27 @@ const I18N = {
     aboutTagsLicense: "模型以 CC BY-NC-SA 4.0 授權，僅限非商業使用。",
     aboutTagsDemo: "在瀏覽器試用同一組模型",
     aboutTagsMore: "完整規則",
+    infoLyricist: "詞",
+    infoComposer: "曲",
+    infoWriter: "詞曲",
+    infoArranger: "編曲",
+    infoProducer: "製作人",
+    infoAlbum: "專輯",
+    infoReleased: "發行日期",
+    infoYear: "發行年份",
+    infoLabel: "發行公司",
+    infoMaker: "製作公司",
+    infoIsrc: "ISRC",
+    infoType: "類別",
+    infoCopyright: "版權標示",
+    infoSources: "資料來源",
+    infoMore: "點一下展開完整出版資訊",
+    infoSrc_ncl: "國家圖書館 ISRC",
+    infoSrc_mb: "MusicBrainz",
+    infoSrc_apple: "Apple Music",
+    infoCredit: "出版資訊（詞曲、編曲、製作人、發行公司、年份、ISRC）來自國家圖書館 ISRC 資料（政府資料開放授權條款第 1 版）、MusicBrainz（CC0）與 iTunes，自動比對歌名與歌手，可能有誤。",
+    nameSep: "、",
+    aiDisclaimer: "免責聲明：本站的曲風、BPM、# 標籤與出版資訊，是由人工智慧模型與自動比對程式產生的。人工智慧有其極限，結果可能有錯誤或遺漏，僅供參考，請以唱片公司、KTV 業者與各官方來源公布的資料為準。",
     bpmHint: "由 Beat This! 模型分析 30 秒試聽估算，可能是實際速度的一半或兩倍",
     region_tw: "台灣",
     region_jp: "日本",
@@ -105,6 +126,27 @@ const I18N = {
     aboutTagsLicense: "The models are licensed CC BY-NC-SA 4.0, for non-commercial use only.",
     aboutTagsDemo: "Try the same models in your browser",
     aboutTagsMore: "Full rules",
+    infoLyricist: "Lyrics",
+    infoComposer: "Music",
+    infoWriter: "Words & music",
+    infoArranger: "Arranger",
+    infoProducer: "Producer",
+    infoAlbum: "Album",
+    infoReleased: "Released",
+    infoYear: "Release year",
+    infoLabel: "Label",
+    infoMaker: "Production company",
+    infoIsrc: "ISRC",
+    infoType: "Category",
+    infoCopyright: "Copyright",
+    infoSources: "Sources",
+    infoMore: "Click for full publishing details",
+    infoSrc_ncl: "National Central Library ISRC",
+    infoSrc_mb: "MusicBrainz",
+    infoSrc_apple: "Apple Music",
+    infoCredit: "Publishing details (songwriters, arranger, producer, label, year, ISRC) come from Taiwan's National Central Library ISRC records (Open Government Data License v1), MusicBrainz (CC0) and iTunes, matched automatically by title and artist, so some may be wrong.",
+    nameSep: ", ",
+    aiDisclaimer: "Disclaimer: genres, BPM, # tags and publishing details on this site are produced by AI models and automatic matching. AI has limits, so results may contain errors or omissions. Treat them as a reference only and rely on information published by labels, KTV operators and other official sources.",
     bpmHint: "Estimated from a 30-second preview with the Beat This! model; may be half or double the real tempo",
     region_tw: "Taiwan",
     region_jp: "Japan",
@@ -165,6 +207,27 @@ const I18N = {
     aboutTagsLicense: "モデルは CC BY-NC-SA 4.0 ライセンスで、非商用利用に限られます。",
     aboutTagsDemo: "同じモデルをブラウザで試す",
     aboutTagsMore: "詳しいルール",
+    infoLyricist: "作詞",
+    infoComposer: "作曲",
+    infoWriter: "作詞・作曲",
+    infoArranger: "編曲",
+    infoProducer: "プロデューサー",
+    infoAlbum: "アルバム",
+    infoReleased: "発売日",
+    infoYear: "発売年",
+    infoLabel: "レーベル",
+    infoMaker: "制作会社",
+    infoIsrc: "ISRC",
+    infoType: "区分",
+    infoCopyright: "著作権表示",
+    infoSources: "出典",
+    infoMore: "クリックで出版情報をすべて表示",
+    infoSrc_ncl: "台湾国家図書館 ISRC",
+    infoSrc_mb: "MusicBrainz",
+    infoSrc_apple: "Apple Music",
+    infoCredit: "出版情報（作詞・作曲・編曲・プロデューサー・レーベル・発売年・ISRC）は台湾国家図書館の ISRC データ（政府資料開放授権条款 第1版）、MusicBrainz（CC0）、iTunes から曲名と歌手名で自動照合しているため、誤りがある場合があります。",
+    nameSep: "、",
+    aiDisclaimer: "免責事項：本サイトのジャンル、BPM、# タグ、出版情報は AI モデルと自動照合によって生成されています。AI には限界があり、誤りや抜けが含まれる場合があります。参考情報としてご利用いただき、正確な情報はレコード会社・カラオケ事業者などの公式発表をご確認ください。",
     bpmHint: "Beat This! モデルで 30 秒の試聴音源から推定。実際のテンポの半分または倍の場合があります",
     region_tw: "台湾",
     region_jp: "日本",
@@ -494,6 +557,7 @@ function applyStaticText() {
     btn.setAttribute("aria-pressed", String(btn.dataset.lang === state.lang));
   }
   $("#genre-credit").textContent = t("genreCredit");
+  $("#info-credit").textContent = t("infoCredit");
   renderStars();
   const links = $("#source-links");
   links.replaceChildren(t("sources") + t("colon"));
@@ -594,6 +658,69 @@ function togglePlayer(songRow, button, kind, src, query) {
   openPlayer = { row, button };
 }
 
+const INFO_ROLES = ["lyricist", "composer", "arranger", "producer"];
+const INFO_SRC_URL = {
+  ncl: (info) => info.ncl ? `https://isrc-web.ncl.edu.tw/C100/C102/${info.ncl}` : "https://isrc-web.ncl.edu.tw/C200/C200",
+  mb: (info) => info.mb ? `https://musicbrainz.org/recording/${info.mb}` : null,
+  apple: () => null,
+};
+
+function names(list, max = 99) {
+  const shown = list.slice(0, max).join(t("nameSep"));
+  return list.length > max ? shown + " …" : shown;
+}
+
+// Year, label, lyricist and composer stay in view; everything else opens from them.
+function infoBlock(row) {
+  const info = row.info;
+  if (!info) return null;
+  const same = info.lyricist && info.composer && info.lyricist.join() === info.composer.join();
+  const brief = [];
+  if (info.year) brief.push(el("span", { class: "info-year", title: t("infoYear"), text: info.year }));
+  if (info.label) brief.push(el("span", { class: "info-label", title: t("infoLabel"), text: info.label }));
+  if (same) {
+    brief.push(el("span", {}, el("b", { text: t("infoWriter") }), " ", names(info.lyricist, 3)));
+  } else {
+    if (info.lyricist) brief.push(el("span", {}, el("b", { text: t("infoLyricist") }), " ", names(info.lyricist, 3)));
+    if (info.composer) brief.push(el("span", {}, el("b", { text: t("infoComposer") }), " ", names(info.composer, 3)));
+  }
+
+  const more = [];
+  const add = (key, value) => { if (value) more.push(el("dt", { text: t(key) }), el("dd", {}, value)); };
+  if (same) {
+    if (info.lyricist.length > 3) add("infoWriter", names(info.lyricist));
+  } else {
+    if (info.lyricist?.length > 3) add("infoLyricist", names(info.lyricist));
+    if (info.composer?.length > 3) add("infoComposer", names(info.composer));
+  }
+  if (info.arranger) add("infoArranger", names(info.arranger));
+  if (info.producer) add("infoProducer", names(info.producer));
+  add("infoAlbum", info.album);
+  add("infoReleased", info.released && info.released.length > 4 ? info.released : null);
+  add("infoMaker", info.maker);
+  add("infoType", info.type);
+  add("infoIsrc", info.isrc);
+  add("infoCopyright", info.copyright);
+  if (info.src?.length) {
+    const dd = el("span", {});
+    info.src.forEach((s, i) => {
+      if (i) dd.append(" · ");
+      const url = INFO_SRC_URL[s]?.(info);
+      dd.append(url ? el("a", { href: url, target: "_blank", rel: "noopener", text: `${t(`infoSrc_${s}`)} ↗` })
+                    : t(`infoSrc_${s}`));
+    });
+    add("infoSources", dd);
+  }
+  if (!brief.length && !more.length) return null;
+
+  const line = el("span", { class: "info-brief" });
+  brief.forEach((node, i) => { if (i) line.append(el("span", { class: "sep", "aria-hidden": "true", text: "·" })); line.append(node); });
+  if (!more.length) return el("div", { class: "song-info" }, line);
+  return el("details", { class: "song-info" },
+    el("summary", { title: t("infoMore") }, line),
+    el("dl", { class: "info-more" }, ...more));
+}
+
 function genreTag(row) {
   if (!row.genre) return null;
   const g = genreInfo(row.genre);
@@ -612,7 +739,7 @@ function songCell(row) {
   const head = el("div", { class: "song-title" }, titleNode);
   const tag = genreTag(row);
   if (tag) head.append(" ", tag);
-  return [head, sub, hashtagLine(row)];
+  return [head, sub, infoBlock(row), hashtagLine(row)];
 }
 
 function linkRow(row, songRow) {

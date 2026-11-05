@@ -26,7 +26,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 105
+    timeout-minutes: 135
     steps:
       # Start from the latest commit on the branch, not the one that queued this run:
       # an earlier run may have pushed new data while this one was waiting.
@@ -63,6 +63,13 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: python -m scraper.spotify --max 150 --budget 600
+
+      # Songwriters, producers, label, year and ISRC: Apple album data, Taiwan's National
+      # Central Library ISRC records and MusicBrainz (1 request a second). Cached for good.
+      - name: Look up publishing details
+        continue-on-error: true
+        timeout-minutes: 25
+        run: python -m scraper.credits --ncl-max 200 --mb-max 300 --budget 1200
 
       # BPM and hashtags run ONNX models on iTunes previews (needs ffmpeg, numpy, onnxruntime).
       - name: Install BPM tools
