@@ -47,11 +47,11 @@ APPLE_BATCH = 100
 
 NCL_URL = "https://isrc-web.ncl.edu.tw/C200/C20004"
 NCL_DELAY = 1.5
-NCL_VERSION = 1
+NCL_VERSION = 2  # 2: also keeps recording, mix and mastering credits
 
 MB_URL = "https://musicbrainz.org/ws/2/"
 MB_DELAY = 1.1
-MB_VERSION = 1
+MB_VERSION = 2  # 2: also keeps mix, recording and mastering credits
 
 # NCL registers karaoke and instrumental tracks too; never take those for the song.
 _NCL_BAD = re.compile(r"kala|ktv|伴奏|伴唱|導唱|純音樂|演奏|\binst|demo|accompaniment|off\s*vocal|\bmv\b", re.I)
@@ -59,13 +59,15 @@ _NCL_ROLE = {
     "表演者": "performer", "樂團名稱": "performer", "主唱": "performer", "演唱者": "performer",
     "演唱": "performer", "歌手": "performer", "作詞者": "lyricist", "作詞": "lyricist",
     "作曲者": "composer", "作曲": "composer", "編曲者": "arranger", "編曲": "arranger",
-    "製作人": "producer",
+    "製作人": "producer", "錄音員": "recording", "錄音者": "recording", "錄音師": "recording",
+    "錄音": "recording", "混音": "mix", "混音師": "mix", "混音者": "mix", "混音工程師": "mix",
+    "母帶": "mastering", "母帶後製": "mastering", "母帶處理": "mastering",
 }
 _NAME_SPLIT = re.compile(r"\s*(?:、|,|，|/|／|\+|＋|;|；)\s*")
 _REGISTRANT = re.compile(r"^\s*(?=[A-Z0-9]{0,2}\d)[A-Z0-9]{3}(?=\s|[^\x00-\x7f])\s*")
 _CJK = re.compile(r"[぀-ヿ㐀-鿿가-힯]")
 _HAN = re.compile(r"[\u3040-\u30ff\u3400-\u9fff]")
-_MB_ROLES = {"lyricist", "composer", "writer", "arranger", "producer"}
+_MB_ROLES = {"lyricist", "composer", "writer", "arranger", "producer", "mix", "recording", "mastering"}
 
 
 def _today() -> dt.date:
@@ -73,12 +75,10 @@ def _today() -> dt.date:
 
 
 def _due(entry: dict | None, today: dt.date, version: int = 1) -> bool:
-    if not entry:
+    if not entry or entry.get("v", 1) < version:  # older lookups are redone when the parser changes
         return True
     if entry.get("status") == "ok":
         return False
-    if entry.get("v", 1) < version:
-        return True
     checked = dt.date.fromisoformat(entry.get("checked", "1970-01-01"))
     return (today - checked).days >= RETRY_DAYS
 
@@ -286,6 +286,8 @@ def ncl_lookup(todo: list[dict], cache: dict, budget: float) -> dict:
         if matches:
             cache[item["key"]] = ncl_entry(matches, stamp)
             stats["found"] += 1
+        elif cache.get(item["key"], {}).get("status") == "ok":  # a redo found nothing: keep the old match
+            cache[item["key"]] = {**cache[item["key"]], "checked": stamp, "v": NCL_VERSION}
         else:
             cache[item["key"]] = {"status": "none", "checked": stamp, "v": NCL_VERSION}
         if stats["looked_up"] % 25 == 0:
@@ -362,9 +364,10 @@ def mb_find(title: str, artist: str) -> dict | None:
                  "released": _date(rec.get("first-release-date")), "album": releases[0].get("title"),
                  "isrc": (detail.get("isrcs") or [None])[0], "credits": mb_credits(detail)}
         entry = {k: v for k, v in entry.items() if v not in (None, [], {})}
-        if entry.get("credits"):
+        if any(r in entry.get("credits", {}) for r in ("lyricist", "composer", "writer")):
             return entry
-        fallback = fallback or entry
+        if not fallback or len(entry.get("credits", {})) > len(fallback.get("credits", {})):
+            fallback = entry
     return fallback
 
 
@@ -387,6 +390,8 @@ def mb_lookup(todo: list[dict], cache: dict, budget: float) -> dict:
             cache[item["key"]] = {**hit, "checked": stamp, "v": MB_VERSION}
             stats["found"] += 1
             stats["with_credits"] += bool(hit.get("credits"))
+        elif cache.get(item["key"], {}).get("status") == "ok":
+            cache[item["key"]] = {**cache[item["key"]], "checked": stamp, "v": MB_VERSION}
         else:
             cache[item["key"]] = {"status": "none", "checked": stamp, "v": MB_VERSION}
         if stats["looked_up"] % 25 == 0:

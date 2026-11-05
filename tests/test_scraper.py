@@ -453,6 +453,19 @@ class CreditsTest(unittest.TestCase):
         rec = {"id": "x", "title": "花に亡霊", "artist-credit": [{"name": "ヨルシカ"}], "releases": [{"title": "盗作"}]}
         self.assertEqual(enrich.pick_best(credits.mb_shape([rec]), "花に亡霊", "ヨルシカ")["_rec"]["id"], "x")
 
+    def test_engineer_roles_and_redo(self):
+        roles = credits.ncl_roles("表演者:A<br />錄音員:錄音甲<br />混音師:混音乙<br />")
+        self.assertEqual((roles["recording"], roles["mix"]), (["錄音甲"], ["混音乙"]))
+        detail = {"relations": [{"type": "mix", "artist": {"name": "福井昌彦"}},
+                                {"type": "recording", "artist": {"name": "斎藤孝之"}}]}
+        self.assertEqual(credits.mb_credits(detail), {"mix": ["福井昌彦"], "recording": ["斎藤孝之"]})
+        today = dt.date(2026, 11, 5)
+        self.assertTrue(credits._due({"status": "ok", "v": 1}, today, 2))  # older parser: redo
+        self.assertFalse(credits._due({"status": "ok", "v": 2}, today, 2))
+        self.assertFalse(credits._due({"status": "none", "v": 2, "checked": "2026-11-01"}, today, 2))
+        got = info.build_info(None, {"status": "ok", "credits": {"mix": ["福井昌彦"]}}, None)
+        self.assertEqual((got["mix"], got["src"]), (["福井昌彦"], ["mb"]))
+
     def test_build_info_priority(self):
         ncl = {"status": "ok", "isrc": "TW1", "item": 9, "released": "2015-07-10", "label": "華研國際音樂",
                "credits": {"lyricist": ["徐世珍"], "composer": ["JerryC"]}}

@@ -14,7 +14,7 @@ from __future__ import annotations
 
 import re
 
-ROLES = ("lyricist", "composer", "arranger", "producer")
+ROLES = ("lyricist", "composer", "arranger", "producer", "mix", "recording", "mastering")
 _COPYRIGHT = re.compile(r"^(?:this compilation\s*)?(?:℗|©|Ⓟ|\(p\)|\(c\)|\s)*\s*(\d{4})?[\s,.]*(.*)$", re.I)
 
 

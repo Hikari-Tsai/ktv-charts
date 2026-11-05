@@ -50,6 +50,13 @@ const I18N = {
     infoWriter: "詞曲",
     infoArranger: "編曲",
     infoProducer: "製作人",
+    infoMix: "混音",
+    infoRecording: "錄音",
+    infoMastering: "母帶後製",
+    infoLyrics: "歌詞",
+    lyricsKkbox: "KKBOX 歌詞頁",
+    lyricsKkboxSearch: "在 KKBOX 搜尋",
+    lyricsUtaNet: "在歌ネット搜尋",
     infoAlbum: "專輯",
     infoReleased: "發行日期",
     infoYear: "發行年份",
@@ -63,7 +70,7 @@ const I18N = {
     infoSrc_ncl: "國家圖書館 ISRC",
     infoSrc_mb: "MusicBrainz",
     infoSrc_apple: "Apple Music",
-    infoCredit: "出版資訊（詞曲、編曲、製作人、發行公司、年份、ISRC）來自國家圖書館 ISRC 資料（政府資料開放授權條款第 1 版）、MusicBrainz（CC0）與 iTunes，自動比對歌名與歌手，可能有誤。",
+    infoCredit: "出版資訊（詞曲、編曲、製作人、混音、錄音、發行公司、年份、ISRC）來自國家圖書館 ISRC 資料（政府資料開放授權條款第 1 版）、MusicBrainz（CC0）與 iTunes，自動比對歌名與歌手，可能有誤。歌詞受著作權保護，本站不收錄，只連到 KKBOX 等授權歌詞頁。",
     nameSep: "、",
     aiDisclaimer: "免責聲明：本站的曲風、BPM、# 標籤與出版資訊，是由人工智慧模型與自動比對程式產生的。人工智慧有其極限，結果可能有錯誤或遺漏，僅供參考，請以唱片公司、KTV 業者與各官方來源公布的資料為準。",
     bpmHint: "由 Beat This! 模型分析 30 秒試聽估算，可能是實際速度的一半或兩倍",
@@ -131,6 +138,13 @@ const I18N = {
     infoWriter: "Words & music",
     infoArranger: "Arranger",
     infoProducer: "Producer",
+    infoMix: "Mixing",
+    infoRecording: "Recording",
+    infoMastering: "Mastering",
+    infoLyrics: "Lyrics",
+    lyricsKkbox: "KKBOX lyrics page",
+    lyricsKkboxSearch: "Search on KKBOX",
+    lyricsUtaNet: "Search on Uta-Net",
     infoAlbum: "Album",
     infoReleased: "Released",
     infoYear: "Release year",
@@ -144,7 +158,7 @@ const I18N = {
     infoSrc_ncl: "National Central Library ISRC",
     infoSrc_mb: "MusicBrainz",
     infoSrc_apple: "Apple Music",
-    infoCredit: "Publishing details (songwriters, arranger, producer, label, year, ISRC) come from Taiwan's National Central Library ISRC records (Open Government Data License v1), MusicBrainz (CC0) and iTunes, matched automatically by title and artist, so some may be wrong.",
+    infoCredit: "Publishing details (songwriters, arranger, producer, mixing, recording, label, year, ISRC) come from Taiwan's National Central Library ISRC records (Open Government Data License v1), MusicBrainz (CC0) and iTunes, matched automatically by title and artist, so some may be wrong. Lyrics are copyrighted, so the site does not copy them and only links to licensed lyrics pages such as KKBOX.",
     nameSep: ", ",
     aiDisclaimer: "Disclaimer: genres, BPM, # tags and publishing details on this site are produced by AI models and automatic matching. AI has limits, so results may contain errors or omissions. Treat them as a reference only and rely on information published by labels, KTV operators and other official sources.",
     bpmHint: "Estimated from a 30-second preview with the Beat This! model; may be half or double the real tempo",
@@ -212,6 +226,13 @@ const I18N = {
     infoWriter: "作詞・作曲",
     infoArranger: "編曲",
     infoProducer: "プロデューサー",
+    infoMix: "ミックス",
+    infoRecording: "レコーディング",
+    infoMastering: "マスタリング",
+    infoLyrics: "歌詞",
+    lyricsKkbox: "KKBOX の歌詞ページ",
+    lyricsKkboxSearch: "KKBOX で検索",
+    lyricsUtaNet: "歌ネットで検索",
     infoAlbum: "アルバム",
     infoReleased: "発売日",
     infoYear: "発売年",
@@ -225,7 +246,7 @@ const I18N = {
     infoSrc_ncl: "台湾国家図書館 ISRC",
     infoSrc_mb: "MusicBrainz",
     infoSrc_apple: "Apple Music",
-    infoCredit: "出版情報（作詞・作曲・編曲・プロデューサー・レーベル・発売年・ISRC）は台湾国家図書館の ISRC データ（政府資料開放授権条款 第1版）、MusicBrainz（CC0）、iTunes から曲名と歌手名で自動照合しているため、誤りがある場合があります。",
+    infoCredit: "出版情報（作詞・作曲・編曲・プロデューサー・ミックス・レコーディング・レーベル・発売年・ISRC）は台湾国家図書館の ISRC データ（政府資料開放授権条款 第1版）、MusicBrainz（CC0）、iTunes から曲名と歌手名で自動照合しているため、誤りがある場合があります。歌詞は著作権で保護されているため掲載せず、KKBOX などの正規の歌詞ページへリンクしています。",
     nameSep: "、",
     aiDisclaimer: "免責事項：本サイトのジャンル、BPM、# タグ、出版情報は AI モデルと自動照合によって生成されています。AI には限界があり、誤りや抜けが含まれる場合があります。参考情報としてご利用いただき、正確な情報はレコード会社・カラオケ事業者などの公式発表をご確認ください。",
     bpmHint: "Beat This! モデルで 30 秒の試聴音源から推定。実際のテンポの半分または倍の場合があります",
@@ -670,6 +691,18 @@ function names(list, max = 99) {
   return list.length > max ? shown + " …" : shown;
 }
 
+// Links to licensed lyrics pages only: lyrics are copyrighted, so the site never copies them.
+function lyricsLinks(row) {
+  const out = el("span", {});
+  const link = (href, key) => el("a", { href, target: "_blank", rel: "noopener", text: `${t(key)} ↗` });
+  if (row.kkbox) out.append(link(`https://www.kkbox.com/tw/tc/song/${encodeURIComponent(row.kkbox)}`, "lyricsKkbox"));
+  else out.append(link("https://www.kkbox.com/tw/tc/search?q=" + encodeURIComponent(songQuery(row)), "lyricsKkboxSearch"));
+  if (sourceRegion() === "jp" || /[\u3040-\u30ff]/.test(row.title || "")) {
+    out.append(" · ", link("https://www.uta-net.com/search/?Aselect=2&Bselect=3&Keyword=" + encodeURIComponent(row.title || ""), "lyricsUtaNet"));
+  }
+  return out;
+}
+
 // Year, label, lyricist and composer stay in view; everything else opens from them.
 function infoBlock(row) {
   const info = row.info;
@@ -695,12 +728,16 @@ function infoBlock(row) {
   }
   if (info.arranger) add("infoArranger", names(info.arranger));
   if (info.producer) add("infoProducer", names(info.producer));
+  if (info.mix) add("infoMix", names(info.mix));
+  if (info.recording) add("infoRecording", names(info.recording));
+  if (info.mastering) add("infoMastering", names(info.mastering));
   add("infoAlbum", info.album);
   add("infoReleased", info.released && info.released.length > 4 ? info.released : null);
   add("infoMaker", info.maker);
   add("infoType", info.type);
   add("infoIsrc", info.isrc);
   add("infoCopyright", info.copyright);
+  add("infoLyrics", lyricsLinks(row));
   if (info.src?.length) {
     const dd = el("span", {});
     info.src.forEach((s, i) => {
