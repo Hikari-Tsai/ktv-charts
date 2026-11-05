@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.joysound.com/",
- "checked_at": "2026-11-05T12:42:51+08:00",
+ "checked_at": "2026-11-05T13:07:41+08:00",
  "errors": [],
  "charts": [
   {
@@ -1388,7 +1388,18 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1769381056",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 64,
@@ -1399,7 +1410,15 @@
      "is_new": true,
      "genre": "Kayokyoku",
      "apple": "jp/1465042017",
-     "bpm": 147
+     "bpm": 147,
+     "tags": {
+      "genre": [
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 65,
@@ -1763,7 +1782,23 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1394013614",
-     "bpm": 97
+     "bpm": 97,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Indie Rock"
+      ],
+      "mood": [
+       "happy",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 82,
@@ -1774,7 +1809,16 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1485857408",
-     "bpm": 143
+     "bpm": 143,
+     "tags": {
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 83,
@@ -1785,7 +1829,22 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1573810335",
-     "bpm": 74
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Acoustic"
+      ],
+      "mood": [
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 84,
@@ -1796,7 +1855,19 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/424185595",
-     "bpm": 82
+     "bpm": 82,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 85,
@@ -1829,7 +1900,23 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1261937430",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Ballad"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 87,
@@ -1862,7 +1949,16 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1857509406",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 89,
@@ -1890,7 +1986,12 @@
      "is_new": true,
      "genre": "J-Pop",
      "apple": "jp/949249865",
-     "bpm": 101
+     "bpm": 101,
+     "tags": {
+      "mood": [
+       "happy"
+      ]
+     }
     },
     {
      "rank": 91,
@@ -1951,7 +2052,19 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1465863819",
-     "bpm": 164
+     "bpm": 164,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Indie Rock"
+      ],
+      "mood": [
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 94,
@@ -1962,7 +2075,24 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1273710101",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "Ballad"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "guitar",
+       "percussion"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 95,
@@ -1973,7 +2103,20 @@
      "is_new": true,
      "genre": "J-Pop",
      "apple": "jp/1536759785",
-     "bpm": 83
+     "bpm": 83,
+     "tags": {
+      "genre": [
+       "City Pop",
+       "Soul"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 96,
@@ -1984,7 +2127,19 @@
      "is_new": true,
      "genre": "J-Pop",
      "apple": "jp/289049578",
-     "bpm": 73
+     "bpm": 73,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 97,
@@ -1995,7 +2150,19 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1358578633",
-     "bpm": 158
+     "bpm": 158,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 97,
@@ -2030,7 +2197,18 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/250610845",
-     "bpm": 170
+     "bpm": 170,
+     "tags": {
+      "mood": [
+       "happy",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 100,
@@ -2041,12 +2219,24 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1375007474",
-     "bpm": 112
+     "bpm": 112,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     }
    ],
    "period_key": "2026-11-04",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T12:42:41+08:00",
+   "fetched_at": "2026-11-05T13:07:31+08:00",
    "stale": false
   },
   {
@@ -3544,7 +3734,23 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1394013614",
-     "bpm": 97
+     "bpm": 97,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Indie Rock"
+      ],
+      "mood": [
+       "happy",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 68,
@@ -3579,7 +3785,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1769381056",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 70,
@@ -3656,7 +3873,23 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1261937430",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Ballad"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 74,
@@ -3667,7 +3900,16 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1857509406",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 75,
@@ -3705,7 +3947,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/424185595",
-     "bpm": 82
+     "bpm": 82,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 78,
@@ -3716,7 +3970,16 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1485857408",
-     "bpm": 143
+     "bpm": 143,
+     "tags": {
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 79,
@@ -3727,7 +3990,22 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1573810335",
-     "bpm": 74
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Acoustic"
+      ],
+      "mood": [
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 80,
@@ -3738,7 +4016,22 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1408505264",
-     "bpm": 150
+     "bpm": 150,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "happy",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 81,
@@ -3792,7 +4085,19 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1358578633",
-     "bpm": 158
+     "bpm": 158,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 84,
@@ -3825,7 +4130,24 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1273710101",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "Ballad"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "guitar",
+       "percussion"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 86,
@@ -3836,7 +4158,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1375007474",
-     "bpm": 112
+     "bpm": 112,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 87,
@@ -3847,7 +4181,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1465863819",
-     "bpm": 164
+     "bpm": 164,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Indie Rock"
+      ],
+      "mood": [
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 88,
@@ -3882,7 +4228,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/250610845",
-     "bpm": 170
+     "bpm": 170,
+     "tags": {
+      "mood": [
+       "happy",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 90,
@@ -3893,7 +4250,17 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/6803798494",
-     "bpm": 183
+     "bpm": 183,
+     "tags": {
+      "mood": [
+       "party",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 91,
@@ -3904,7 +4271,12 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/949249865",
-     "bpm": 101
+     "bpm": 101,
+     "tags": {
+      "mood": [
+       "happy"
+      ]
+     }
     },
     {
      "rank": 92,
@@ -3915,7 +4287,24 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1451577950",
-     "bpm": 74
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 93,
@@ -3947,7 +4336,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1608854597",
-     "bpm": 73
+     "bpm": 73,
+     "tags": {
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 95,
@@ -3984,7 +4384,17 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/552294051",
-     "bpm": 134
+     "bpm": 134,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 97,
@@ -3995,7 +4405,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/6810644213",
-     "bpm": 96
+     "bpm": 96,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 98,
@@ -4006,7 +4428,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1440902624",
-     "bpm": 96
+     "bpm": 96,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 99,
@@ -4047,7 +4481,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T12:42:43+08:00",
+   "fetched_at": "2026-11-05T13:07:33+08:00",
    "stale": false
   },
   {
@@ -5545,7 +5979,23 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1394013614",
-     "bpm": 97
+     "bpm": 97,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Indie Rock"
+      ],
+      "mood": [
+       "happy",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 68,
@@ -5605,7 +6055,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1769381056",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 71,
@@ -5616,7 +6077,16 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1857509406",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 72,
@@ -5670,7 +6140,22 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1408505264",
-     "bpm": 150
+     "bpm": 150,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "happy",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 75,
@@ -5681,7 +6166,16 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1485857408",
-     "bpm": 143
+     "bpm": 143,
+     "tags": {
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 76,
@@ -5717,7 +6211,23 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1261937430",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Ballad"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 79,
@@ -5728,7 +6238,17 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/552294051",
-     "bpm": 134
+     "bpm": 134,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 80,
@@ -5739,7 +6259,22 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1573810335",
-     "bpm": 74
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Acoustic"
+      ],
+      "mood": [
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 81,
@@ -5750,7 +6285,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/424185595",
-     "bpm": 82
+     "bpm": 82,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 82,
@@ -5780,7 +6327,17 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/6803798494",
-     "bpm": 183
+     "bpm": 183,
+     "tags": {
+      "mood": [
+       "party",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 84,
@@ -5791,7 +6348,19 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1358578633",
-     "bpm": 158
+     "bpm": 158,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 85,
@@ -5826,7 +6395,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1608854597",
-     "bpm": 73
+     "bpm": 73,
+     "tags": {
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 87,
@@ -5837,7 +6417,24 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1273710101",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "Ballad"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "guitar",
+       "percussion"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 88,
@@ -5848,7 +6445,12 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/949249865",
-     "bpm": 101
+     "bpm": 101,
+     "tags": {
+      "mood": [
+       "happy"
+      ]
+     }
     },
     {
      "rank": 89,
@@ -5859,7 +6461,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1465863819",
-     "bpm": 164
+     "bpm": 164,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Indie Rock"
+      ],
+      "mood": [
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 90,
@@ -5894,7 +6508,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1375007474",
-     "bpm": 112
+     "bpm": 112,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 92,
@@ -5964,7 +6590,24 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1451577950",
-     "bpm": 74
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 96,
@@ -5975,7 +6618,21 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536257305",
-     "bpm": 138
+     "bpm": 138,
+     "tags": {
+      "genre": [
+       "Euro House",
+       "Synth-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 97,
@@ -5986,7 +6643,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/250610845",
-     "bpm": 170
+     "bpm": 170,
+     "tags": {
+      "mood": [
+       "happy",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 98,
@@ -6008,7 +6676,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/6810644213",
-     "bpm": 96
+     "bpm": 96,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 100,
@@ -6038,7 +6718,7 @@
    ],
    "period_key": "2026-10",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T12:42:45+08:00",
+   "fetched_at": "2026-11-05T13:07:35+08:00",
    "stale": false
   },
   {
@@ -7301,7 +7981,21 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536257130",
-     "bpm": 126
+     "bpm": 126,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 64,
@@ -7312,7 +8006,22 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1706781383",
-     "bpm": 132
+     "bpm": 132,
+     "tags": {
+      "genre": [
+       "Euro House",
+       "Eurodance"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 65,
@@ -7323,7 +8032,21 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1804664579",
-     "bpm": 143
+     "bpm": 143,
+     "tags": {
+      "genre": [
+       "Trance",
+       "EBM"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 66,
@@ -7334,7 +8057,22 @@
      "is_new": null,
      "genre": "Alternative",
      "apple": "jp/1692289314",
-     "bpm": 152
+     "bpm": 152,
+     "tags": {
+      "genre": [
+       "Pop Punk"
+      ],
+      "mood": [
+       "party",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar",
+       "bass"
+      ]
+     }
     },
     {
      "rank": 67,
@@ -7425,7 +8163,13 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1536375094",
-     "bpm": 180
+     "bpm": 180,
+     "tags": {
+      "instrument": [
+       "drums",
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 72,
@@ -7436,7 +8180,22 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1760698645",
-     "bpm": 93
+     "bpm": 93,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "happy"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 73,
@@ -7466,7 +8225,21 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1100574609",
-     "bpm": 127
+     "bpm": 127,
+     "tags": {
+      "genre": [
+       "Disco Polo",
+       "Euro House"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 75,
@@ -7477,7 +8250,15 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1626771953",
-     "bpm": 97
+     "bpm": 97,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 76,
@@ -7489,7 +8270,21 @@
      "kkbox": "1-AR44ZnWDhidDzKAQ",
      "genre": "J-Pop",
      "apple": "tw/1600223385",
-     "bpm": 163
+     "bpm": 163,
+     "tags": {
+      "genre": [
+       "Alternative Rock"
+      ],
+      "mood": [
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 77,
@@ -7500,7 +8295,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/381032745",
-     "bpm": 127
+     "bpm": 127,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 78,
@@ -7519,7 +8326,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1601391184",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 80,
@@ -7563,7 +8381,22 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1754899924",
-     "bpm": 147
+     "bpm": 147,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Pop Rock"
+      ],
+      "mood": [
+       "aggressive",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 83,
@@ -7574,7 +8407,19 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1296690341",
-     "bpm": 188
+     "bpm": 188,
+     "tags": {
+      "mood": [
+       "aggressive",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 84,
@@ -7585,7 +8430,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/160603477",
-     "bpm": 135
+     "bpm": 135,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "happy"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 85,
@@ -7596,7 +8453,18 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1298566995",
-     "bpm": 94
+     "bpm": 94,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 86,
@@ -7607,7 +8475,16 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/6792293588",
-     "bpm": 120
+     "bpm": 120,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "happy"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 87,
@@ -7618,7 +8495,22 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1537331532",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar",
+       "bass"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 88,
@@ -7629,7 +8521,15 @@
      "is_new": null,
      "genre": "Alternative",
      "apple": "jp/1600395740",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 89,
@@ -7651,7 +8551,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1826940240",
-     "bpm": 165
+     "bpm": 165,
+     "tags": {
+      "genre": [
+       "Alternative Rock"
+      ],
+      "mood": [
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 91,
@@ -7662,7 +8574,17 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/6824399888",
-     "bpm": 153
+     "bpm": 153,
+     "tags": {
+      "mood": [
+       "happy",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 92,
@@ -7673,7 +8595,19 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536258194",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 93,
@@ -7692,7 +8626,23 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1631802734",
-     "bpm": 145
+     "bpm": 145,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Hard Rock"
+      ],
+      "mood": [
+       "aggressive",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 95,
@@ -7724,7 +8674,21 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1626392364",
-     "bpm": 175
+     "bpm": 175,
+     "tags": {
+      "genre": [
+       "Synth-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 97,
@@ -7795,12 +8759,20 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536798055",
-     "bpm": 196
+     "bpm": 196,
+     "tags": {
+      "genre": [
+       "Synth-pop"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T12:42:46+08:00",
+   "fetched_at": "2026-11-05T13:07:37+08:00",
    "stale": false
   },
   {
@@ -9072,7 +10044,17 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1508329133",
-     "bpm": 145
+     "bpm": 145,
+     "tags": {
+      "mood": [
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 63,
@@ -9083,7 +10065,21 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/489812662",
-     "bpm": 222
+     "bpm": 222,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Melodic Hardcore"
+      ],
+      "mood": [
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 64,
@@ -9121,7 +10117,21 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1787507353",
-     "bpm": 140
+     "bpm": 140,
+     "tags": {
+      "genre": [
+       "Chiptune",
+       "Soundtrack"
+      ],
+      "mood": [
+       "party",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 66,
@@ -9148,7 +10158,18 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "jp/1604539599",
-     "bpm": 147
+     "bpm": 147,
+     "tags": {
+      "genre": [
+       "Synth-pop",
+       "Chiptune"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "happy"
+      ]
+     }
     },
     {
      "rank": 69,
@@ -9167,7 +10188,21 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1648875832",
-     "bpm": 135
+     "bpm": 135,
+     "tags": {
+      "genre": [
+       "House",
+       "Electro"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 71,
@@ -9178,7 +10213,21 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "jp/1793231918",
-     "bpm": 128
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "House",
+       "Electro House"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 72,
@@ -9189,7 +10238,14 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1688513139",
-     "bpm": 121
+     "bpm": 121,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ]
+     }
     },
     {
      "rank": 73,
@@ -9200,7 +10256,22 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1439855360",
-     "bpm": 220
+     "bpm": 220,
+     "tags": {
+      "genre": [
+       "Punk"
+      ],
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 74,
@@ -9211,7 +10282,20 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/6810578320",
-     "bpm": 144
+     "bpm": 144,
+     "tags": {
+      "genre": [
+       "Electro",
+       "Techno"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 75,
@@ -9222,7 +10306,22 @@
      "is_new": null,
      "genre": "Electronic",
      "apple": "jp/1753841293",
-     "bpm": 132
+     "bpm": 132,
+     "tags": {
+      "genre": [
+       "Gothic Metal",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar",
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 76,
@@ -9252,7 +10351,17 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1588038115",
-     "bpm": 153
+     "bpm": 153,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 78,
@@ -9263,7 +10372,21 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/985156230",
-     "bpm": 120
+     "bpm": 120,
+     "tags": {
+      "genre": [
+       "Gothic Metal"
+      ],
+      "mood": [
+       "danceable",
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 79,
@@ -9290,7 +10413,17 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1650867230",
-     "bpm": 92
+     "bpm": 92,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 82,
@@ -9301,7 +10434,16 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1554407037",
-     "bpm": 171
+     "bpm": 171,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 83,
@@ -9312,7 +10454,20 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1829613591",
-     "bpm": 145
+     "bpm": 145,
+     "tags": {
+      "genre": [
+       "Techno"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 84,
@@ -9323,7 +10478,16 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1589119763",
-     "bpm": 260
+     "bpm": 260,
+     "tags": {
+      "mood": [
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 85,
@@ -9334,7 +10498,22 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1028521668",
-     "bpm": 190
+     "bpm": 190,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Pop Punk"
+      ],
+      "mood": [
+       "aggressive",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 86,
@@ -9345,7 +10524,16 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1688512543",
-     "bpm": 160
+     "bpm": 160,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 87,
@@ -9356,7 +10544,16 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1605307923",
-     "bpm": 136
+     "bpm": 136,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 88,
@@ -9367,7 +10564,21 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1195068900",
-     "bpm": 152
+     "bpm": 152,
+     "tags": {
+      "mood": [
+       "danceable",
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 89,
@@ -9378,7 +10589,21 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1566320170",
-     "bpm": 134
+     "bpm": 134,
+     "tags": {
+      "genre": [
+       "Synth-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar",
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 90,
@@ -9389,7 +10614,16 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1585735600",
-     "bpm": 143
+     "bpm": 143,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 91,
@@ -9400,7 +10634,21 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1280276676",
-     "bpm": 154
+     "bpm": 154,
+     "tags": {
+      "mood": [
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 92,
@@ -9411,7 +10659,20 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1577511036",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "House"
+      ],
+      "mood": [
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 93,
@@ -9448,7 +10709,16 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/944116610",
-     "bpm": 108
+     "bpm": 108,
+     "tags": {
+      "genre": [
+       "Europop"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 95,
@@ -9459,7 +10729,12 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1019138024",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "mood": [
+       "danceable"
+      ]
+     }
     },
     {
      "rank": 96,
@@ -9478,7 +10753,15 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/6775758408",
-     "bpm": 85
+     "bpm": 85,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 98,
@@ -9489,7 +10772,20 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "jp/1745015575",
-     "bpm": 135
+     "bpm": 135,
+     "tags": {
+      "genre": [
+       "Breakcore"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 99,
@@ -9500,7 +10796,15 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1888468910",
-     "bpm": 78
+     "bpm": 78,
+     "tags": {
+      "mood": [
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 100,
@@ -9511,12 +10815,22 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1867376943",
-     "bpm": 182
+     "bpm": 182,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T12:42:48+08:00",
+   "fetched_at": "2026-11-05T13:07:39+08:00",
    "stale": false
   },
   {
@@ -10684,7 +11998,16 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "jp/720357883",
-     "bpm": 132
+     "bpm": 132,
+     "tags": {
+      "mood": [
+       "happy",
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 63,
@@ -10695,7 +12018,13 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1610069345",
-     "bpm": 96
+     "bpm": 96,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 65,
@@ -10706,7 +12035,13 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1442865440",
-     "bpm": 117
+     "bpm": 117,
+     "tags": {
+      "mood": [
+       "sad",
+       "love"
+      ]
+     }
     },
     {
      "rank": 66,
@@ -10717,7 +12052,12 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/396824193",
-     "bpm": 132
+     "bpm": 132,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 67,
@@ -10728,7 +12068,13 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1864937286",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 68,
@@ -10739,7 +12085,13 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1189864241",
-     "bpm": 122
+     "bpm": 122,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 69,
@@ -10750,7 +12102,13 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1626002260",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "mood": [
+       "sad",
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 70,
@@ -10781,7 +12139,13 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1538912371",
-     "bpm": 219
+     "bpm": 219,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 72,
@@ -10792,7 +12156,13 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1743930613",
-     "bpm": 89
+     "bpm": 89,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 73,
@@ -10811,7 +12181,12 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1691038265",
-     "bpm": 140
+     "bpm": 140,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 75,
@@ -10838,7 +12213,12 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/329151162",
-     "bpm": 107
+     "bpm": 107,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ]
+     }
     },
     {
      "rank": 77,
@@ -10849,7 +12229,20 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1865148725",
-     "bpm": 72
+     "bpm": 72,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ]
+     }
     },
     {
      "rank": 78,
@@ -10860,7 +12253,12 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/269974575",
-     "bpm": 74
+     "bpm": 74,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 79,
@@ -10871,7 +12269,15 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/276284518",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 80,
@@ -10882,7 +12288,12 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/731874403",
-     "bpm": 108
+     "bpm": 108,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 81,
@@ -10893,7 +12304,19 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1624873013",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "instrumental"
+      ]
+     }
     },
     {
      "rank": 82,
@@ -10923,7 +12346,16 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1643879310",
-     "bpm": 68
+     "bpm": 68,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 84,
@@ -10998,7 +12430,12 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1838712810",
-     "bpm": 101
+     "bpm": 101,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 89,
@@ -11009,7 +12446,13 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1884829144",
-     "bpm": 86
+     "bpm": 86,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "happy"
+      ]
+     }
     },
     {
      "rank": 90,
@@ -11039,7 +12482,13 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1646217984",
-     "bpm": 137
+     "bpm": 137,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 93,
@@ -11050,7 +12499,12 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/432463008",
-     "bpm": 101
+     "bpm": 101,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 94,
@@ -11112,7 +12566,12 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1536782758",
-     "bpm": 106
+     "bpm": 106,
+     "tags": {
+      "genre": [
+       "Vocal Pop"
+      ]
+     }
     },
     {
      "rank": 98,
@@ -11134,7 +12593,19 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/6810592480",
-     "bpm": 216
+     "bpm": 216,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 100,
@@ -11145,12 +12616,18 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/270405616",
-     "bpm": 98
+     "bpm": 98,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T12:42:50+08:00",
+   "fetched_at": "2026-11-05T13:07:40+08:00",
    "stale": false
   },
   {
@@ -12558,7 +14035,19 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1815712057",
-     "bpm": 209
+     "bpm": 209,
+     "tags": {
+      "genre": [
+       "Big Band",
+       "Swing"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 64,
@@ -12598,7 +14087,22 @@
      "is_new": null,
      "genre": "Hard Rock",
      "apple": "jp/590423552",
-     "bpm": 110
+     "bpm": 110,
+     "tags": {
+      "genre": [
+       "Nu Metal",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 67,
@@ -12655,7 +14159,20 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "tw/1436922357",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Beatdown",
+       "Downtempo"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 71,
@@ -12675,7 +14192,14 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1747957555",
-     "bpm": 79
+     "bpm": 79,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ]
+     }
     },
     {
      "rank": 73,
@@ -12707,7 +14231,22 @@
      "is_new": null,
      "genre": "Soundtrack",
      "apple": "tw/740212490",
-     "bpm": 65
+     "bpm": 65,
+     "tags": {
+      "genre": [
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 75,
@@ -12739,7 +14278,16 @@
      "is_new": null,
      "genre": "R&B/Soul",
      "apple": "tw/1440744314",
-     "bpm": 98
+     "bpm": 98,
+     "tags": {
+      "genre": [
+       "Funk",
+       "Soul"
+      ],
+      "mood": [
+       "happy"
+      ]
+     }
     },
     {
      "rank": 77,
@@ -12750,7 +14298,16 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/576670462",
-     "bpm": 87
+     "bpm": 87,
+     "tags": {
+      "genre": [
+       "RnB/Swing"
+      ],
+      "mood": [
+       "danceable",
+       "happy"
+      ]
+     }
     },
     {
      "rank": 78,
@@ -12761,7 +14318,20 @@
      "is_new": null,
      "genre": "Dubstep",
      "apple": "jp/1570993122",
-     "bpm": 105
+     "bpm": 105,
+     "tags": {
+      "genre": [
+       "Tropical House",
+       "Glitch"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 79,
@@ -12772,7 +14342,20 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "tw/158617575",
-     "bpm": 176
+     "bpm": 176,
+     "tags": {
+      "genre": [
+       "Folk",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 80,
@@ -12783,7 +14366,20 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1440892573",
-     "bpm": 122
+     "bpm": 122,
+     "tags": {
+      "genre": [
+       "House",
+       "Tropical House"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 81,
@@ -12794,7 +14390,17 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1440670795",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "mood": [
+       "party",
+       "love"
+      ]
+     }
     },
     {
      "rank": 82,
@@ -12805,7 +14411,18 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1445882199",
-     "bpm": 160
+     "bpm": 160,
+     "tags": {
+      "genre": [
+       "RnB/Swing",
+       "Pop Rap"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ]
+     }
     },
     {
      "rank": 83,
@@ -12824,7 +14441,23 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1762836497",
-     "bpm": 125
+     "bpm": 125,
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "Tropical House"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 85,
@@ -12835,7 +14468,19 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "tw/1441133613",
-     "bpm": 114
+     "bpm": 114,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Bubblegum"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 86,
@@ -12846,7 +14491,19 @@
      "is_new": null,
      "genre": "Soundtrack",
      "apple": "jp/1436091877",
-     "bpm": 96
+     "bpm": 96,
+     "tags": {
+      "genre": [
+       "Alternative Rock"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 86,
@@ -12865,7 +14522,16 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/370711731",
-     "bpm": 127
+     "bpm": 127,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy"
+      ],
+      "instrument": [
+       "drums"
+      ]
+     }
     },
     {
      "rank": 89,
@@ -12876,7 +14542,22 @@
      "is_new": null,
      "genre": "Soundtrack",
      "apple": "tw/1842202784",
-     "bpm": 129
+     "bpm": 129,
+     "tags": {
+      "genre": [
+       "Tropical House",
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "drums",
+       "synthesizer",
+       "bass"
+      ]
+     }
     },
     {
      "rank": 90,
@@ -12887,7 +14568,13 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1866732797",
-     "bpm": 86
+     "bpm": 86,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "happy"
+      ]
+     }
     },
     {
      "rank": 91,
@@ -12899,7 +14586,19 @@
      "kkbox": "5_Pivk6jMf04isiJFk",
      "genre": "Dance",
      "apple": "tw/1136768508",
-     "bpm": 103
+     "bpm": 103,
+     "tags": {
+      "genre": [
+       "House"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 92,
@@ -12921,7 +14620,23 @@
      "is_new": null,
      "genre": "Alternative",
      "apple": "tw/1440717826",
-     "bpm": 148
+     "bpm": 148,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Indie Rock"
+      ],
+      "mood": [
+       "danceable",
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 94,
@@ -12932,7 +14647,21 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "jp/1440860821",
-     "bpm": 126
+     "bpm": 126,
+     "tags": {
+      "genre": [
+       "House",
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 95,
@@ -12970,7 +14699,17 @@
      "is_new": null,
      "genre": "Soundtrack",
      "apple": "tw/1434371887",
-     "bpm": 96
+     "bpm": 96,
+     "tags": {
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ]
+     }
     },
     {
      "rank": 97,
@@ -12981,7 +14720,15 @@
      "is_new": null,
      "genre": "Soundtrack",
      "apple": "tw/1442721925",
-     "bpm": 81
+     "bpm": 81,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "love"
+      ]
+     }
     },
     {
      "rank": 98,
@@ -13000,7 +14747,19 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "tw/635800400",
-     "bpm": 61
+     "bpm": 61,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 100,
@@ -13011,12 +14770,21 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "tw/1640102584",
-     "bpm": 129
+     "bpm": 129,
+     "tags": {
+      "genre": [
+       "Hard Rock",
+       "Heavy Metal"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T12:42:51+08:00",
+   "fetched_at": "2026-11-05T13:07:41+08:00",
    "stale": false
   }
  ]
