@@ -349,6 +349,19 @@ tbody tr.player-row td { border-top: 0; padding-top: 0; padding-bottom: 12px; pa
   padding-bottom: 32px;
 }
 .foot a { color: inherit; }
+.about-tags {
+  margin: 0 0 18px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  line-height: 1.6;
+}
+.about-tags h2 { margin: 0 0 6px; font-size: 0.95rem; color: var(--text); }
+.about-tags p { margin: 6px 0 0; }
+.about-tags ul { margin: 8px 0 0; padding-left: 1.2em; }
+.about-tags li { margin: 2px 0; }
+.about-tags .hashtag { font-size: inherit; }
 
 @media (max-width: 600px) {
   h1 { font-size: 1.3rem; }
