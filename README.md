@@ -22,13 +22,14 @@
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
 - **BPM**：歌手後面標出歌曲速度，用 [Beat This!](https://github.com/CPJKU/beat_this) 模型的 ONNX 版本 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 分析 iTunes 的 30 秒試聽估算。
 - **Hashtag 標籤**：依風格、情緒、樂器、人聲分組標出 `#抒情 #放鬆 #鋼琴 #女聲` 這類標籤，用 Essentia 的 Discogs-EffNet 模型分析試聽得來，每組都有門檻與數量上限。
-- **三個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」。
+- **四個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」、「Spotify 試聽」。
   - YouTube 以「歌名 歌手」當關鍵字開啟 `https://www.youtube.com/results?search_query=`。
   - 點「Apple Music 試聽」或「KKBOX 試聽」會在該首歌下方展開官方嵌入播放器，同時只開一個，再點一次收起。按住 Ctrl 或 ⌘ 點擊則改為開新分頁。
   - Apple Music 播放器使用 `embed.music.apple.com`，未登入時播放 30 秒試聽。
   - KKBOX 播放器使用官方 widget。曲目 ID 來自 KKBOX 排行榜與好樂迪資料，再依歌名歌手套用到其他來源。
+  - Spotify 播放器使用 `open.spotify.com/embed/track/{id}`，未登入時播放 30 秒試聽。曲目 ID 由 Spotify Web API 搜尋取得，見「Spotify 曲目」。
   - 播放器只在點擊時才載入，不會一次載入整張榜。瀏覽器可能擋下自動播放，這時要在播放器裡再按一次播放。
-  - 找不到對應曲目時，Apple Music 與 KKBOX 改成灰色虛線框的「搜尋」連結。
+  - 找不到對應曲目時，Apple Music、KKBOX 與 Spotify 改成灰色虛線框的「搜尋」連結。
 - **名次升降**：好樂迪、錢櫃與 KKBOX 使用官方提供的上期名次；日本兩家由本站比對前一期快照自行計算，第一次收錄時顯示「–」。
 - **可直接分享**：網址 hash 記錄目前的 KTV 與榜單，例如 `#dam/anime-weekly`。
 - **容錯**：某張榜抓取失敗時保留上一次的資料並在頁面標示，其他榜照常更新。
@@ -45,6 +46,8 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
   ├─ python -m scraper.enrich 查詢新歌的曲風與 Apple Music 曲目，每次最多 300 首
   │    ├─ data/itunes.json    查詢結果快取，查不到的歌 30 天後重試
   │    └─ data/kkbox-ids.json 歌名歌手對應的 KKBOX 曲目 ID
+  ├─ python -m scraper.spotify 用 Spotify Web API 查新歌的曲目 ID
+  │    └─ data/spotify.json   Spotify 曲目 ID 永久快取
   ├─ python -m scraper.bpm    用 Beat This! 分析試聽音訊的 BPM，每次最多 300 首
   │    └─ data/bpm.json       BPM 永久快取
   ├─ python -m scraper.tags   用 Essentia 模型分析風格、情緒、樂器與人聲
@@ -68,6 +71,7 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 | 曲風標籤 | iTunes Search API 回傳的 `primaryGenreName` | Apple 商店的分類，由唱片公司或發行商上架時填寫，不是分析音訊得來的。查詢時加 `lang=en_us` 取得英文名稱，網頁再翻成中文或日文 |
 | Apple Music 試聽 | iTunes 比對到的 `trackId` | 嵌入 `https://embed.music.apple.com/{tw 或 jp}/song/{trackId}`，可試聽 30 秒 |
 | KKBOX 試聽 | KKBOX 風雲榜的 `song_id`，以及好樂迪排行榜 `songurl` 裡的 KKBOX 曲目 ID | 嵌入 KKBOX 官方 widget。其他來源的同一首歌依歌名歌手套用 |
+| Spotify 試聽 | Spotify Web API 搜尋到的曲目 ID | 嵌入 `https://open.spotify.com/embed/track/{id}`，比對規則與 iTunes 相同 |
 | 在YouTube搜尋 | 歌名與歌手 | 開啟 YouTube 搜尋結果，不指定特定影片 |
 | BPM | Beat This! 模型分析 iTunes 30 秒試聽 | 見下方「BPM 識別方式」 |
 | Hashtag 標籤 | Essentia Discogs-EffNet 模型分析 iTunes 30 秒試聽 | 見下方「Hashtag 標籤」 |
@@ -88,6 +92,25 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 KKBOX 曲目 ID 的跨來源對應：歌名歌手正規化後完全相同就套用；不同時，同一位歌手、其中一個歌名以另一個開頭、長度至少 3 個字、而且只對到一首，也會套用，例如「甲乙丙丁」對到「甲乙丙丁Strangers」。
 
 這些都是相似度判斷，不是百分之百準確。同名同歌手的不同版本可能選錯，歌手在 iTunes 上的寫法差太多也可能查不到。前兩批在 GitHub 上查了 600 首，找到 559 首。
+
+## Spotify 曲目
+
+`scraper/spotify.py` 用 Spotify Web API 的搜尋查每首歌的曲目 ID，再用 `open.spotify.com/embed/track/{id}` 嵌入播放器。
+
+- **授權方式**：client credentials，只需要 App 的 Client ID 與 Client Secret，不需要使用者登入。兩者存在 GitHub Secrets 的 `SPOTIFY_CLIENT_ID` 與 `SPOTIFY_CLIENT_SECRET`。
+- **比對規則**：和 iTunes 相同（歌名相似度 ≥ 0.85、歌手 ≥ 0.6、排除 live 與伴奏等版本）。台灣來源先查 TW 市場，日本來源先查 JP，查不到再換另一邊。
+- **快取**：結果存在 `data/spotify.json`，找到的永遠不再查，查不到的 30 天後重試。
+- **Premium 的限制**：從 2026 年起，開發模式的 App 只在擁有者有 Spotify Premium 時才能呼叫 API。Premium 到期後查詢步驟會記錄警告並跳過，但嵌入播放器不需要 API，已查到 ID 的歌照常顯示「Spotify 試聽」，新歌則顯示灰色的「Spotify 搜尋」。重新訂閱後，下一次執行會自動補查這段期間的新歌。
+
+設定 Secret（會提示輸入值，不會留在 shell 歷史裡）：
+
+```bash
+gh secret set SPOTIFY_CLIENT_ID --repo <你的帳號>/ktv-charts
+```
+
+```bash
+gh secret set SPOTIFY_CLIENT_SECRET --repo <你的帳號>/ktv-charts
+```
 
 ## BPM 識別方式
 
@@ -223,7 +246,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 gh workflow run update.yml
 ```
 
-**時間限制**：曲風查詢最多 25 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 90 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
+**時間限制**：曲風查詢最多 25 分鐘，Spotify 查詢最多 15 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 105 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
 
 ## 專案結構
 
@@ -233,6 +256,7 @@ scraper/               Python 抓取程式
   history.py           歷史快照與升降計算
   match.py             歌名歌手正規化與相似度
   enrich.py            曲風、Apple Music 與 KKBOX 連結
+  spotify.py           Spotify 曲目 ID 查詢
   bpm.py               Beat This! BPM 分析，需要 ffmpeg、numpy、onnxruntime
   tags.py              Essentia 模型分析，需要 ffmpeg、numpy、onnxruntime
   hashtags.py          模型分數轉成 hashtag 的門檻與規則（只用標準函式庫）
@@ -246,6 +270,7 @@ site/                  靜態網頁，原樣發布到 GitHub Pages
 data/history/          歷史快照
 data/itunes.json       iTunes 查詢快取
 data/kkbox-ids.json    KKBOX 曲目 ID
+data/spotify.json      Spotify 曲目 ID
 data/bpm.json          BPM 快取
 data/essentia.json     Essentia 模型分數快取
 requirements-bpm.txt   BPM 與 hashtag 分析需要的套件
@@ -328,7 +353,7 @@ python3 -m http.server 8000 -d site
 
 ## 免責聲明
 
-- 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）、KKBOX 沒有任何關係。
+- 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）、KKBOX、Spotify 沒有任何關係。
 - 排行榜資料取自各家官方網站的公開頁面與網站內部介面，著作權與相關權利屬原網站所有。這些介面沒有官方文件，網站改版時可能失效。
 - 曲風與 Apple Music 連結來自 Apple 的 iTunes Search API，曲風是 Apple 商店的分類，不是分析音訊得來的，也可能對到不同版本。
 - BPM 與 hashtag 是模型分析 30 秒試聽的估計，可能出錯。
@@ -336,4 +361,4 @@ python3 -m http.server 8000 -d site
 
 ## 授權
 
-程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。Hashtag 使用的 Essentia 模型由 Music Technology Group（Universitat Pompeu Fabra）以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；本專案不散布模型檔，執行時才從官方網站下載（論文：Alonso-Jiménez, Serra & Bogdanov, ISMIR 2022）。按鈕上的 Apple Music 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
+程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。Hashtag 使用的 Essentia 模型由 Music Technology Group（Universitat Pompeu Fabra）以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；本專案不散布模型檔，執行時才從官方網站下載（論文：Alonso-Jiménez, Serra & Bogdanov, ISMIR 2022）。按鈕上的 Apple Music 與 Spotify 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。

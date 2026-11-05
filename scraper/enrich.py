@@ -31,6 +31,7 @@ ITUNES_CACHE = ROOT / "data" / "itunes.json"
 KKBOX_IDS = ROOT / "data" / "kkbox-ids.json"
 BPM_CACHE = ROOT / "data" / "bpm.json"  # written by scraper.bpm
 TAGS_CACHE = ROOT / "data" / "essentia.json"  # written by scraper.tags
+SPOTIFY_CACHE = ROOT / "data" / "spotify.json"  # written by scraper.spotify
 
 SOURCES = ["holiday", "cashbox", "joysound", "dam", "kkbox"]
 REGION = {"holiday": "tw", "cashbox": "tw", "kkbox": "tw", "joysound": "jp", "dam": "jp"}
@@ -250,14 +251,14 @@ def fuzzy_kkbox(key: str, index: dict[str, list[tuple[str, str]]]) -> str | None
 
 
 def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | None = None,
-             tags: dict | None = None) -> dict:
-    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0, "bpm": 0, "tags": 0}
-    bpm, tags = bpm or {}, tags or {}
+             tags: dict | None = None, spotify: dict | None = None) -> dict:
+    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0, "spotify": 0, "bpm": 0, "tags": 0}
+    bpm, tags, spotify = bpm or {}, tags or {}, spotify or {}
     prefix_index = _prefix_index(kkbox_ids)
     for _, _, row in iter_rows(sites):
         counts["rows"] += 1
         key = match.song_key(row.get("title"), row.get("artist"))
-        for field in ("genre", "apple", "bpm", "tags"):
+        for field in ("genre", "apple", "spotify", "bpm", "tags"):
             row.pop(field, None)
         entry = cache.get(key) if not key.startswith("|") else None
         if entry and entry.get("status") == "ok":
@@ -267,6 +268,10 @@ def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | N
             if entry.get("id") and entry.get("cc"):
                 row["apple"] = f"{entry['cc']}/{entry['id']}"
                 counts["apple"] += 1
+        sp = spotify.get(key) if not key.startswith("|") else None
+        if sp and sp.get("status") == "ok" and sp.get("id"):
+            row["spotify"] = sp["id"]
+            counts["spotify"] += 1
         tempo = bpm.get(key) if not key.startswith("|") else None
         if tempo and tempo.get("status") == "ok" and tempo.get("bpm"):
             row["bpm"] = round(tempo["bpm"])
@@ -297,7 +302,8 @@ def apply_files(site_dir: Path = SITE_DATA) -> dict:
     kkbox_ids = load_cache(KKBOX_IDS)
     if collect_kkbox_ids(sites, kkbox_ids):
         save_cache(KKBOX_IDS, kkbox_ids)
-    counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids, load_cache(BPM_CACHE), load_cache(TAGS_CACHE))
+    counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids, load_cache(BPM_CACHE), load_cache(TAGS_CACHE),
+                      load_cache(SPOTIFY_CACHE))
     write_sites(sites, site_dir)
     return counts
 

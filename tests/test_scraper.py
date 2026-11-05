@@ -9,7 +9,7 @@ from unittest import mock
 import datetime as dt
 
 import scraper.__main__ as main
-from scraper import bpm, enrich, hashtags, match
+from scraper import bpm, enrich, hashtags, match, spotify
 from scraper.history import History, period_key, song_key
 from scraper.sources import dam, joysound, kkbox
 
@@ -328,6 +328,38 @@ class HashtagTest(unittest.TestCase):
         self.assertEqual(counts["tags"], 1)
         enrich.annotate(sites, {}, {}, tags={})
         self.assertNotIn("tags", row)
+
+
+class SpotifyTest(unittest.TestCase):
+    def test_pick_best_uses_itunes_rules(self):
+        items = [
+            {"id": "LIVE", "name": "擱淺 (Live)", "artists": [{"name": "周杰倫"}], "album": {"name": "2004 演唱會"}},
+            {"id": "OK", "name": "擱淺", "artists": [{"name": "周杰倫"}], "album": {"name": "七里香"}},
+            {"id": "OTHER", "name": "擱淺", "artists": [{"name": "別人"}], "album": {"name": "x"}},
+            None,
+        ]
+        self.assertEqual(spotify.pick_best(items, "擱淺", "周杰倫 (Jay Chou)")["_id"], "OK")
+        self.assertIsNone(spotify.pick_best(items[2:], "擱淺", "周杰倫"))
+
+    def test_candidates_and_annotate(self):
+        key = match.song_key("擱淺", "周杰倫")
+        sites = {"holiday": {"charts": [{"id": "b", "rows": [{"rank": 1, "title": "擱淺", "artist": "周杰倫"}]}]}}
+        today = dt.date(2026, 11, 5)
+        self.assertEqual([c["key"] for c in spotify.candidates(sites, {}, today)], [key])
+        self.assertEqual(spotify.candidates(sites, {key: {"status": "none", "checked": "2026-11-01"}}, today), [])
+        self.assertEqual(len(spotify.candidates(sites, {key: {"status": "none", "checked": "2026-09-01"}}, today)), 1)
+        self.assertEqual(spotify.candidates(sites, {key: {"status": "ok", "id": "X"}}, today), [])
+        counts = enrich.annotate(sites, {}, {}, spotify={key: {"status": "ok", "id": "X"}})
+        self.assertEqual(sites["holiday"]["charts"][0]["rows"][0]["spotify"], "X")
+        self.assertEqual(counts["spotify"], 1)
+
+    def test_main_without_secrets_skips_network(self):
+        with mock.patch.dict("os.environ", {"SPOTIFY_CLIENT_ID": "", "SPOTIFY_CLIENT_SECRET": ""}), \
+                mock.patch.object(spotify, "get_token") as token, \
+                mock.patch.object(enrich, "apply_files", return_value={}) as apply:
+            self.assertEqual(spotify.main([]), 0)
+        token.assert_not_called()
+        apply.assert_called_once()
 
 
 try:

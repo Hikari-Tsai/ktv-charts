@@ -14,6 +14,7 @@
   --yt: #d81f26;
   --apple: #d6224a;
   --kkbox: #0a8fb3;
+  --spotify: #12863d;
   --tag-s: 85%;
   --tag-l: 93%;
   --tag-ts: 55%;
@@ -48,6 +49,7 @@
     --yt: #ff4d4d;
     --apple: #ff5a7a;
     --kkbox: #38c6ee;
+    --spotify: #1ed760;
     --tag-s: 35%;
     --tag-l: 21%;
     --tag-ts: 85%;
@@ -326,6 +328,7 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
 .btn.yt { --c: var(--yt); }
 .btn.apple { --c: var(--apple); }
 .btn.kkbox { --c: var(--kkbox); }
+.btn.spotify { --c: var(--spotify); }
 .btn.search { --c: var(--muted); border-style: dashed; }
 .btn[aria-expanded="true"] { background: var(--c); color: #fff; }
 
