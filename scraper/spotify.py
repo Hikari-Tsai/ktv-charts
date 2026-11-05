@@ -59,8 +59,15 @@ def get_token(client_id: str, client_secret: str) -> str:
     )
     try:
         return _request(req)["access_token"]
-    except urllib.error.HTTPError as exc:  # never echo the credentials, only the status
-        raise Stop(f"Spotify token request failed: HTTP {exc.code}") from None
+    except urllib.error.HTTPError as exc:
+        # The body is an OAuth error such as {"error": "invalid_client"}; it never contains
+        # the credentials, so its error code is safe to log.
+        try:
+            body = json.loads(exc.read().decode("utf-8"))
+            reason = " ".join(str(body.get(k, "")) for k in ("error", "error_description")).strip()
+        except Exception:  # noqa: BLE001
+            reason = ""
+        raise Stop(f"Spotify token request failed: HTTP {exc.code} {reason}".strip()) from None
 
 
 def search(token: str, title: str, artist: str, market: str) -> list[dict]:
@@ -158,7 +165,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--budget", type=float, default=900, help="max seconds to spend on lookups")
     args = parser.parse_args(argv)
 
-    client_id, secret = os.environ.get("SPOTIFY_CLIENT_ID"), os.environ.get("SPOTIFY_CLIENT_SECRET")
+    client_id = os.environ.get("SPOTIFY_CLIENT_ID", "").strip()
+    secret = os.environ.get("SPOTIFY_CLIENT_SECRET", "").strip()  # pasted values may carry a newline
     if not client_id or not secret:
         print("SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET not set; skipping Spotify lookups.")
     else:
