@@ -356,6 +356,20 @@ class SpotifyTest(unittest.TestCase):
         self.assertEqual(sites["holiday"]["charts"][0]["rows"][0]["spotify"], "X")
         self.assertEqual(counts["spotify"], 1)
 
+    def test_pause_file(self):
+        now = dt.datetime(2026, 11, 5, 7, 10, tzinfo=dt.timezone.utc)
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(spotify, "PAUSE_FILE", Path(tmp) / "p.json"):
+            self.assertIsNone(spotify.paused_until(now))
+            spotify.pause(now, 85600)
+            self.assertGreater(spotify.paused_until(now), now + dt.timedelta(hours=23))
+            self.assertIsNone(spotify.paused_until(now + dt.timedelta(days=1)))
+            with mock.patch.dict("os.environ", {"SPOTIFY_CLIENT_ID": "id", "SPOTIFY_CLIENT_SECRET": "s"}), \
+                    mock.patch.object(spotify, "paused_until", return_value=now), \
+                    mock.patch.object(spotify, "get_token") as token, \
+                    mock.patch.object(enrich, "apply_files", return_value={}):
+                spotify.main([])
+            token.assert_not_called()
+
     def test_main_without_secrets_skips_network(self):
         with mock.patch.dict("os.environ", {"SPOTIFY_CLIENT_ID": "", "SPOTIFY_CLIENT_SECRET": ""}), \
                 mock.patch.object(spotify, "get_token") as token, \

@@ -1,7 +1,7 @@
 """Find Spotify track ids for chart songs, for the Spotify listen button.
 
     python -m scraper.spotify                       # look up new songs, then annotate
-    python -m scraper.spotify --max 1500 --budget 900
+    python -m scraper.spotify --max 150 --budget 600
 
 Needs SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET (a Spotify for Developers app, client
 credentials flow). Without them the lookup is skipped and the site keeps any ids already
@@ -37,14 +37,34 @@ MARKET = {"tw": "TW", "jp": "JP"}
 # back as "Kenshi Yonezu" and 陳奕迅 as "Eason Chan", and the artist check fails.
 LANGUAGE = {"TW": "zh-TW,zh;q=0.9", "JP": "ja,en;q=0.5"}
 MATCH_VERSION = 2  # bump when matching changes so earlier misses are retried right away
-DELAY = 0.5           # seconds between searches
-MAX_RETRY_AFTER = 60  # a longer 429 back-off ends the run; the rest waits for tomorrow
+DELAY = 1.5           # seconds between searches
+MAX_RETRY_AFTER = 60  # a longer 429 back-off ends the run and pauses lookups until it passes
+# Spotify answered ~700 searches in 9 minutes with a 24-hour Retry-After, so runs stay small.
+PAUSE_FILE = enrich.ROOT / "data" / "spotify-pause.json"
 RETRY_DAYS = 30
 TZ = dt.timezone(dt.timedelta(hours=8))
 
 
 class Stop(RuntimeError):
     """Auth failure or long rate limit: stop this run, keep what was found."""
+
+    def __init__(self, message: str, retry_after: int | None = None):
+        super().__init__(message)
+        self.retry_after = retry_after
+
+
+def paused_until(now: dt.datetime) -> dt.datetime | None:
+    """The end of a Retry-After that an earlier run was given, if it has not passed yet."""
+    try:
+        until = dt.datetime.fromisoformat(json.loads(PAUSE_FILE.read_text(encoding="utf-8"))["until"])
+    except (FileNotFoundError, KeyError, ValueError):
+        return None
+    return until if until > now else None
+
+
+def pause(now: dt.datetime, seconds: int) -> None:
+    until = (now + dt.timedelta(seconds=seconds + 60)).replace(microsecond=0)
+    PAUSE_FILE.write_text(json.dumps({"until": until.isoformat(), "retry_after": seconds}) + "\n", encoding="utf-8")
 
 
 def _request(req: urllib.request.Request) -> dict:
@@ -86,7 +106,7 @@ def search(token: str, title: str, artist: str, market: str) -> list[dict]:
             if exc.code == 429:
                 wait = int(exc.headers.get("Retry-After", "5") or 5)
                 if wait > MAX_RETRY_AFTER:
-                    raise Stop(f"Spotify rate limit: retry after {wait}s") from None
+                    raise Stop(f"Spotify rate limit: retry after {wait}s", retry_after=wait) from None
                 time.sleep(wait + 1)
                 continue
             if exc.code in (401, 403):
@@ -132,7 +152,7 @@ def candidates(sites: dict, cache: dict, today: dt.date) -> list[dict]:
 
 
 def lookup(todo: list[dict], cache: dict, token: str, budget: float) -> dict:
-    stats = {"looked_up": 0, "found": 0, "stopped": None}
+    stats = {"looked_up": 0, "found": 0, "stopped": None, "retry_after": None}
     start = time.monotonic()
     stamp = dt.datetime.now(TZ).date().isoformat()
     for item in todo:
@@ -146,7 +166,7 @@ def lookup(todo: list[dict], cache: dict, token: str, budget: float) -> dict:
                     market = MARKET[region]
                     break
         except Stop as exc:
-            stats["stopped"] = str(exc)
+            stats["stopped"], stats["retry_after"] = str(exc), exc.retry_after
             break
         except Exception as exc:  # noqa: BLE001 - one bad song must not stop the batch
             print(f"Spotify lookup failed for {item['title']} / {item['artist']}: {exc}", file=sys.stderr)
@@ -167,14 +187,18 @@ def lookup(todo: list[dict], cache: dict, token: str, budget: float) -> dict:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="python -m scraper.spotify")
-    parser.add_argument("--max", type=int, default=1500, help="max songs to look up this run")
-    parser.add_argument("--budget", type=float, default=900, help="max seconds to spend on lookups")
+    parser.add_argument("--max", type=int, default=150, help="max songs to look up this run")
+    parser.add_argument("--budget", type=float, default=600, help="max seconds to spend on lookups")
     args = parser.parse_args(argv)
 
     client_id = os.environ.get("SPOTIFY_CLIENT_ID", "").strip()
     secret = os.environ.get("SPOTIFY_CLIENT_SECRET", "").strip()  # pasted values may carry a newline
+    now = dt.datetime.now(dt.timezone.utc)
+    until = paused_until(now)
     if not client_id or not secret:
         print("SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET not set; skipping Spotify lookups.")
+    elif until:
+        print(f"Spotify asked us to wait until {until.isoformat()}; skipping lookups this run.")
     else:
         sites = enrich.load_sites()
         cache = enrich.load_cache(SPOTIFY_CACHE)
@@ -190,6 +214,8 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"looked up {stats['looked_up']}, found {stats['found']}")
                 if stats["stopped"]:
                     print(f"::warning title=Spotify stopped early::{stats['stopped']}", file=sys.stderr)
+                if stats["retry_after"]:
+                    pause(now, stats["retry_after"])
     counts = enrich.apply_files()
     print("annotated rows: " + ", ".join(f"{k}={v}" for k, v in counts.items()))
     return 0

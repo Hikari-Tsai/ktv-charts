@@ -100,6 +100,7 @@ KKBOX 曲目 ID 的跨來源對應：歌名歌手正規化後完全相同就套�
 - **授權方式**：client credentials，只需要 App 的 Client ID 與 Client Secret，不需要使用者登入。兩者存在 GitHub Secrets 的 `SPOTIFY_CLIENT_ID` 與 `SPOTIFY_CLIENT_SECRET`。
 - **比對規則**：和 iTunes 相同（歌名相似度 ≥ 0.85、歌手 ≥ 0.6、排除 live 與伴奏等版本）。台灣來源先查 TW 市場，日本來源先查 JP，查不到再換另一邊。
 - **快取**：結果存在 `data/spotify.json`，找到的永遠不再查，查不到的 30 天後重試。
+- **速度**：開發模式的配額沒有公開。一次送出約 700 個搜尋後，Spotify 回了 24 小時的 `Retry-After`，所以每次執行最多查 150 首、間隔 1.5 秒。收到長時間的限流時，截止時間會寫進 `data/spotify-pause.json`，在那之前的執行直接跳過查詢。
 - **Premium 的限制**：從 2026 年起，開發模式的 App 只在擁有者有 Spotify Premium 時才能呼叫 API。Premium 到期後查詢步驟會記錄警告並跳過，但嵌入播放器不需要 API，已查到 ID 的歌照常顯示「Spotify 試聽」，新歌則顯示灰色的「Spotify 搜尋」。重新訂閱後，下一次執行會自動補查這段期間的新歌。
 
 設定 Secret（會提示輸入值，不會留在 shell 歷史裡）：
@@ -246,7 +247,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 gh workflow run update.yml
 ```
 
-**時間限制**：曲風查詢最多 25 分鐘，Spotify 查詢最多 15 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 105 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
+**時間限制**：曲風查詢最多 25 分鐘，Spotify 查詢最多 10 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 105 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
 
 ## 專案結構
 

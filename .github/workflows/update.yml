@@ -55,13 +55,14 @@ jobs:
 
       # Spotify track ids for the listen button (client credentials). Without the two
       # secrets, or while the app owner's Premium has lapsed, this only logs a warning.
+      # Kept small: Spotify answers bursts with a 24-hour Retry-After (see data/spotify-pause.json).
       - name: Look up Spotify tracks
         continue-on-error: true
-        timeout-minutes: 20
+        timeout-minutes: 15
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-        run: python -m scraper.spotify --max 1500 --budget 900
+        run: python -m scraper.spotify --max 150 --budget 600
 
       # BPM and hashtags run ONNX models on iTunes previews (needs ffmpeg, numpy, onnxruntime).
       - name: Install BPM tools
