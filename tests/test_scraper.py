@@ -9,7 +9,7 @@ from unittest import mock
 import datetime as dt
 
 import scraper.__main__ as main
-from scraper import bpm, enrich, match
+from scraper import bpm, enrich, hashtags, match
 from scraper.history import History, period_key, song_key
 from scraper.sources import dam, joysound, kkbox
 
@@ -284,6 +284,77 @@ class FallbackTest(unittest.TestCase):
             self.assertTrue(data["charts"][0]["stale"])
             self.assertEqual(data["charts"][0]["rows"][0]["title"], "x")
             self.assertIn("site down", data["errors"][0])
+
+
+class HashtagTest(unittest.TestCase):
+    def entry(self, **over):
+        e = {
+            "status": "ok",
+            "style": {"Pop---K-pop": 0.6, "Pop---Ballad": 0.4, "Rock---Pop Rock": 0.18, "Pop---Vocal": 0.1},
+            "instrument": {"piano": 0.6, "keyboard": 0.5, "drums": 0.5, "strings": 0.4, "voice": 0.9, "flute": 0.36},
+            "moodtheme": {"advertising": 0.5, "love": 0.3, "happy": 0.25},
+            "binary": {"voice_instrumental": 0.98, "gender": 0.95, "danceability": 0.9, "mood_happy": 0.2,
+                       "mood_sad": 0.95, "mood_relaxed": 0.9, "mood_party": 0.1, "mood_aggressive": 0.0},
+        }
+        e.update(over)
+        return e
+
+    def test_rules(self):
+        tags = hashtags.select_tags(self.entry())
+        # K-pop is regional; Pop Rock is under half of Ballad's score; Top-2 at most.
+        self.assertEqual(tags["genre"], ["Ballad"])
+        # drums needs 0.6, keyboard is a parent of piano, voice is skipped, Top-3 cap.
+        self.assertEqual(tags["instrument"], ["piano", "strings", "flute"])
+        # sad then relaxed (danceable conflicts with both); one mood-like theme, not "advertising".
+        self.assertEqual(tags["mood"], ["sad", "relaxed", "love"])
+        self.assertEqual(tags["vocal"], ["female"])
+
+    def test_sparse_or_unsure_gives_nothing(self):
+        e = self.entry(style={"Pop---Ballad": 0.1}, instrument={"piano": 0.2}, moodtheme={},
+                       binary={"voice_instrumental": 0.9, "gender": 0.6})
+        self.assertEqual(hashtags.select_tags(e), {})
+        self.assertEqual(hashtags.select_tags({"status": "none"}), {})
+        e = self.entry(binary={"voice_instrumental": 0.1, "gender": 0.95})
+        self.assertEqual(hashtags.select_tags(e)["vocal"], ["instrumental"])
+        self.assertEqual(hashtags.select_tags(self.entry(style={"Pop---Vocal": 0.3}))["genre"], ["Vocal Pop"])
+
+    def test_annotate_writes_and_clears_tags(self):
+        key = match.song_key("擱淺", "周杰倫")
+        sites = {"holiday": {"charts": [{"id": "b", "rows": [{"rank": 1, "title": "擱淺", "artist": "周杰倫",
+                                                               "tags": {"genre": ["old"]}}]}]}}
+        counts = enrich.annotate(sites, {}, {}, tags={key: self.entry()})
+        row = sites["holiday"]["charts"][0]["rows"][0]
+        self.assertEqual(row["tags"]["genre"], ["Ballad"])
+        self.assertEqual(counts["tags"], 1)
+        enrich.annotate(sites, {}, {}, tags={})
+        self.assertNotIn("tags", row)
+
+
+try:
+    import numpy  # noqa: F401
+    HAVE_NUMPY = True
+except ImportError:
+    HAVE_NUMPY = False
+
+
+@unittest.skipUnless(HAVE_NUMPY, "numpy not installed")
+class EssentiaFrontEndTest(unittest.TestCase):
+    def test_mel_filters_have_unit_area(self):
+        from scraper import tags
+        filters = tags._mel_filters()
+        self.assertEqual(filters.shape, (96, 257))
+        area = filters.sum(axis=1) * (tags.SR / tags.FRAME)  # weights * bin width (Hz)
+        self.assertAlmostEqual(float(area[0]), 1.0, places=3)  # wide-enough bands sum to 1
+        self.assertTrue(((area > 0.9) & (area < 1.1)).all())   # narrow ones only roughly
+
+    def test_patching(self):
+        import numpy as np
+        from scraper import tags
+        mel = tags.log_mel(np.zeros(tags.SR * 30, dtype=np.float32))
+        self.assertEqual(mel.shape, (1 + (tags.SR * 30 - 512) // 256, 96))
+        self.assertTrue(np.allclose(mel, 0))
+        self.assertEqual(tags.patches(mel).shape, (29, 128, 96))
+        self.assertEqual(tags.patches(mel[:10]).shape, (1, 128, 96))  # short input is padded
 
 
 if __name__ == "__main__":

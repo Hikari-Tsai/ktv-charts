@@ -22,7 +22,7 @@ import time
 import urllib.parse
 from pathlib import Path
 
-from . import match
+from . import hashtags, match
 from .net import get_text
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -30,6 +30,7 @@ SITE_DATA = ROOT / "site" / "data"
 ITUNES_CACHE = ROOT / "data" / "itunes.json"
 KKBOX_IDS = ROOT / "data" / "kkbox-ids.json"
 BPM_CACHE = ROOT / "data" / "bpm.json"  # written by scraper.bpm
+TAGS_CACHE = ROOT / "data" / "essentia.json"  # written by scraper.tags
 
 SOURCES = ["holiday", "cashbox", "joysound", "dam", "kkbox"]
 REGION = {"holiday": "tw", "cashbox": "tw", "kkbox": "tw", "joysound": "jp", "dam": "jp"}
@@ -248,14 +249,15 @@ def fuzzy_kkbox(key: str, index: dict[str, list[tuple[str, str]]]) -> str | None
     return hits.pop() if len(hits) == 1 else None
 
 
-def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | None = None) -> dict:
-    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0, "bpm": 0}
-    bpm = bpm or {}
+def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | None = None,
+             tags: dict | None = None) -> dict:
+    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0, "bpm": 0, "tags": 0}
+    bpm, tags = bpm or {}, tags or {}
     prefix_index = _prefix_index(kkbox_ids)
     for _, _, row in iter_rows(sites):
         counts["rows"] += 1
         key = match.song_key(row.get("title"), row.get("artist"))
-        for field in ("genre", "apple", "bpm"):
+        for field in ("genre", "apple", "bpm", "tags"):
             row.pop(field, None)
         entry = cache.get(key) if not key.startswith("|") else None
         if entry and entry.get("status") == "ok":
@@ -269,6 +271,10 @@ def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | N
         if tempo and tempo.get("status") == "ok" and tempo.get("bpm"):
             row["bpm"] = round(tempo["bpm"])
             counts["bpm"] += 1
+        found = hashtags.select_tags(tags.get(key)) if not key.startswith("|") else {}
+        if found:
+            row["tags"] = found
+            counts["tags"] += 1
         if not row.get("kkbox") and not key.startswith("|"):
             kid = kkbox_ids.get(key) or fuzzy_kkbox(key, prefix_index)
             if kid:
@@ -291,7 +297,7 @@ def apply_files(site_dir: Path = SITE_DATA) -> dict:
     kkbox_ids = load_cache(KKBOX_IDS)
     if collect_kkbox_ids(sites, kkbox_ids):
         save_cache(KKBOX_IDS, kkbox_ids)
-    counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids, load_cache(BPM_CACHE))
+    counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids, load_cache(BPM_CACHE), load_cache(TAGS_CACHE))
     write_sites(sites, site_dir)
     return counts
 

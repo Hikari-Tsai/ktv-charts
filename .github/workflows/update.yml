@@ -26,7 +26,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 90
     steps:
       # Start from the latest commit on the branch, not the one that queued this run:
       # an earlier run may have pushed new data while this one was waiting.
@@ -53,7 +53,7 @@ jobs:
         timeout-minutes: 30
         run: python -m scraper.enrich --max 300 --budget 1500
 
-      # BPM uses the Beat This! ONNX model (aaatmy/beat-this-onnx) on iTunes previews.
+      # BPM and hashtags run ONNX models on iTunes previews (needs ffmpeg, numpy, onnxruntime).
       - name: Install BPM tools
         id: bpm-tools
         continue-on-error: true
@@ -73,6 +73,20 @@ jobs:
         continue-on-error: true
         timeout-minutes: 25
         run: python -m scraper.bpm --max 300 --budget 1200
+
+      # Style, mood, instrument and vocal hashtags from Essentia's Discogs-EffNet models
+      # (essentia.upf.edu, pinned by SHA-256). About a second per song including the download.
+      - name: Cache Essentia models
+        uses: actions/cache@v4
+        with:
+          path: .cache/essentia
+          key: essentia-discogs-effnet-1-v1
+
+      - name: Detect hashtags
+        if: steps.bpm-tools.outcome == 'success'
+        continue-on-error: true
+        timeout-minutes: 25
+        run: python -m scraper.tags --max 1500 --budget 1200
 
       - name: Commit data
         run: |

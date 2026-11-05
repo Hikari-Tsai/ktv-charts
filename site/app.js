@@ -26,7 +26,12 @@ const I18N = {
     closePlayer: "再點一次收起播放器",
     searchHint: "沒有找到對應曲目，改為搜尋「{q}」",
     genreHint: "曲風：{g}（Apple Music 分類）",
-    genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API；BPM 由 Beat This! 模型分析 30 秒試聽估算。",
+    genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API；BPM 由 Beat This! 模型、# 標籤由 Essentia（MTG Discogs-EffNet）模型分析 30 秒試聽估算。",
+    tagHint: "{group}：{tag}（Essentia 模型分析 30 秒試聽）",
+    tagGroup_genre: "風格",
+    tagGroup_mood: "情緒",
+    tagGroup_instrument: "樂器",
+    tagGroup_vocal: "人聲",
     bpmHint: "由 Beat This! 模型分析 30 秒試聽估算，可能是實際速度的一半或兩倍",
     region_tw: "台灣",
     region_jp: "日本",
@@ -68,7 +73,12 @@ const I18N = {
     closePlayer: "Click again to close the player",
     searchHint: "No matching track found; searches for “{q}”",
     genreHint: "Genre: {g} (Apple Music category)",
-    genreCredit: "Genres and Apple Music links come from the iTunes Search API; BPM is estimated from 30-second previews with the Beat This! model.",
+    genreCredit: "Genres and Apple Music links come from the iTunes Search API; BPM (Beat This! model) and # tags (Essentia's MTG Discogs-EffNet models) are estimated from 30-second previews.",
+    tagHint: "{group}: {tag} (Essentia models on a 30-second preview)",
+    tagGroup_genre: "Style",
+    tagGroup_mood: "Mood",
+    tagGroup_instrument: "Instrument",
+    tagGroup_vocal: "Vocals",
     bpmHint: "Estimated from a 30-second preview with the Beat This! model; may be half or double the real tempo",
     region_tw: "Taiwan",
     region_jp: "Japan",
@@ -110,7 +120,12 @@ const I18N = {
     closePlayer: "もう一度押すとプレーヤーを閉じます",
     searchHint: "該当曲が見つからないため「{q}」を検索します",
     genreHint: "ジャンル：{g}（Apple Music の分類）",
-    genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API から取得し、BPM は Beat This! モデルで 30 秒の試聴音源から推定しています。",
+    genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API から取得。BPM（Beat This! モデル）と # タグ（Essentia の MTG Discogs-EffNet モデル）は 30 秒の試聴音源から推定しています。",
+    tagHint: "{group}：{tag}（Essentia モデルで 30 秒の試聴音源から推定）",
+    tagGroup_genre: "スタイル",
+    tagGroup_mood: "ムード",
+    tagGroup_instrument: "楽器",
+    tagGroup_vocal: "ボーカル",
     bpmHint: "Beat This! モデルで 30 秒の試聴音源から推定。実際のテンポの半分または倍の場合があります",
     region_tw: "台湾",
     region_jp: "日本",
@@ -245,6 +260,76 @@ const GENRES = {
   "Holiday": { zh: "節慶", ja: "ホリデー", h: 125 },
   "Christmas": { zh: "聖誕", ja: "クリスマス", h: 125 },
 };
+
+/* Hashtags from the Essentia models (scraper/hashtags.py). Keys are the models' English
+   class names; [zh, ja] translations, English is the key itself (styles keep their
+   Discogs names unless listed). */
+const TAG_GROUPS = ["genre", "mood", "instrument", "vocal"];
+const TAG_NAMES = {
+  genre: {
+    "Ballad": ["抒情", "バラード"], "Pop Rock": ["流行搖滾", "ポップロック"], "Dance-pop": ["舞曲流行", "ダンスポップ"],
+    "Synth-pop": ["合成器流行", "シンセポップ"], "Alternative Rock": ["另類搖滾", "オルタナティブロック"],
+    "Indie Rock": ["獨立搖滾", "インディーロック"], "Indie Pop": ["獨立流行", "インディーポップ"],
+    "Hard Rock": ["硬式搖滾", "ハードロック"], "Soft Rock": ["軟式搖滾", "ソフトロック"], "Folk Rock": ["民謠搖滾", "フォークロック"],
+    "Punk": ["龐克", "パンク"], "Pop Punk": ["流行龐克", "ポップパンク"], "Folk": ["民謠", "フォーク"],
+    "Vocal Pop": ["人聲流行", "ボーカルポップ"], "City Pop": ["City Pop", "シティポップ"], "Bubblegum": ["泡泡糖流行", "バブルガムポップ"],
+    "House": ["浩室", "ハウス"], "Electro": ["電子", "エレクトロ"], "Trance": ["迷幻舞曲", "トランス"], "Trap": ["陷阱", "トラップ"],
+    "Cloud Rap": ["雲端饒舌", "クラウドラップ"], "Pop Rap": ["流行饒舌", "ポップラップ"], "Contemporary R&B": ["當代 R&B", "コンテンポラリー R&B"],
+    "RnB/Swing": ["R&B 搖擺", "R&B スウィング"], "Soul": ["靈魂樂", "ソウル"], "Funk": ["放克", "ファンク"], "Disco": ["迪斯可", "ディスコ"],
+    "Downtempo": ["慢拍", "ダウンテンポ"], "Ambient": ["氛圍", "アンビエント"], "Acoustic": ["原聲", "アコースティック"],
+    "Soundtrack": ["原聲帶", "サウンドトラック"], "Score": ["配樂", "スコア"], "Musical": ["音樂劇", "ミュージカル"],
+    "Emo": ["Emo", "エモ"], "Metalcore": ["金屬核", "メタルコア"], "Reggaeton": ["雷鬼動", "レゲトン"],
+  },
+  mood: {
+    happy: ["快樂", "ハッピー"], sad: ["悲傷", "切ない"], relaxed: ["放鬆", "リラックス"], aggressive: ["激烈", "アグレッシブ"],
+    party: ["派對", "パーティー"], danceable: ["適合跳舞", "踊れる"], calm: ["平靜", "穏やか"], dark: ["黑暗", "ダーク"],
+    dramatic: ["戲劇性", "ドラマチック"], dream: ["夢幻", "ドリーミー"], emotional: ["感性", "エモーショナル"],
+    energetic: ["活力", "エネルギッシュ"], epic: ["壯闊", "壮大"], groovy: ["律動", "グルーヴィー"], heavy: ["沉重", "ヘヴィ"],
+    hopeful: ["希望", "希望"], love: ["愛情", "ラブ"], melancholic: ["憂鬱", "メランコリック"], powerful: ["強烈", "パワフル"],
+    romantic: ["浪漫", "ロマンチック"], sexy: ["性感", "セクシー"], soft: ["柔和", "やさしい"], uplifting: ["振奮", "高揚感"],
+  },
+  instrument: {
+    accordion: ["手風琴", "アコーディオン"], acousticbassguitar: ["原聲貝斯", "アコースティックベース"],
+    acousticguitar: ["木吉他", "アコースティックギター"], bass: ["貝斯", "ベース"], bell: ["鐘聲", "ベル"], bongo: ["邦哥鼓", "ボンゴ"],
+    brass: ["銅管", "ブラス"], cello: ["大提琴", "チェロ"], clarinet: ["單簧管", "クラリネット"], classicalguitar: ["古典吉他", "クラシックギター"],
+    doublebass: ["低音提琴", "コントラバス"], drummachine: ["鼓機", "ドラムマシン"], drums: ["鼓", "ドラム"], electricguitar: ["電吉他", "エレキギター"],
+    electricpiano: ["電鋼琴", "エレクトリックピアノ"], flute: ["長笛", "フルート"], guitar: ["吉他", "ギター"], harmonica: ["口琴", "ハーモニカ"],
+    harp: ["豎琴", "ハープ"], horn: ["號", "ホルン"], keyboard: ["鍵盤", "キーボード"], oboe: ["雙簧管", "オーボエ"],
+    orchestra: ["管弦樂", "オーケストラ"], organ: ["風琴", "オルガン"], percussion: ["打擊樂", "パーカッション"], piano: ["鋼琴", "ピアノ"],
+    pipeorgan: ["管風琴", "パイプオルガン"], rhodes: ["Rhodes 電鋼琴", "ローズ"], saxophone: ["薩克斯風", "サックス"], strings: ["弦樂", "ストリングス"],
+    synthesizer: ["合成器", "シンセサイザー"], trombone: ["長號", "トロンボーン"], trumpet: ["小號", "トランペット"], viola: ["中提琴", "ヴィオラ"],
+    violin: ["小提琴", "バイオリン"],
+  },
+  vocal: { female: ["女聲", "女性ボーカル"], male: ["男聲", "男性ボーカル"], instrumental: ["純音樂", "インスト"] },
+};
+const TAG_EN = {
+  acousticbassguitar: "acoustic bass", acousticguitar: "acoustic guitar", classicalguitar: "classical guitar",
+  doublebass: "double bass", drummachine: "drum machine", electricguitar: "electric guitar", electricpiano: "electric piano",
+  pipeorgan: "pipe organ", female: "female vocals", male: "male vocals",
+};
+
+function tagLabel(group, key) {
+  const names = TAG_NAMES[group]?.[key];
+  if (state.lang === "zh" && names) return names[0];
+  if (state.lang === "ja" && names) return names[1];
+  return TAG_EN[key] || key;
+}
+
+function hashtagLine(row) {
+  if (!row.tags) return null;
+  const line = el("div", { class: "hashtags" });
+  for (const group of TAG_GROUPS) {
+    for (const key of row.tags[group] || []) {
+      const label = tagLabel(group, key);
+      line.append(el("span", {
+        class: `hashtag ${group}`,
+        title: t("tagHint", { group: t(`tagGroup_${group}`), tag: label }),
+        text: `#${label}`,
+      }));
+    }
+  }
+  return line.childElementCount ? line : null;
+}
 
 function genreInfo(name) {
   const g = GENRES[name];
@@ -463,7 +548,7 @@ function songCell(row) {
   const head = el("div", { class: "song-title" }, titleNode);
   const tag = genreTag(row);
   if (tag) head.append(" ", tag);
-  return [head, sub];
+  return [head, sub, hashtagLine(row)];
 }
 
 function linkRow(row, songRow) {

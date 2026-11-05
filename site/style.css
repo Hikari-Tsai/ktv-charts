@@ -23,6 +23,10 @@
   --star-bg: #ffd34d;
   --star-text: #3d2c00;
   --star-glow: rgba(255, 196, 0, 0.35);
+  --ht-genre: #1d6fb8;
+  --ht-mood: #b4447a;
+  --ht-instrument: #2f7d4f;
+  --ht-vocal: #8a5a00;
   --radius: 10px;
   color-scheme: light;
 }
@@ -53,6 +57,10 @@
     --star-bg: #ffcf3f;
     --star-text: #2a1f00;
     --star-glow: rgba(255, 200, 40, 0.25);
+    --ht-genre: #7ab8f5;
+    --ht-mood: #f29cc4;
+    --ht-instrument: #7fd3a0;
+    --ht-vocal: #e9c46a;
     color-scheme: dark;
   }
 }
@@ -260,6 +268,20 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
   color: var(--text);
   white-space: nowrap;
 }
+
+.hashtags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 8px;
+  margin-top: 3px;
+  font-size: 0.76rem;
+  line-height: 1.4;
+}
+.hashtag { color: var(--c); font-weight: 600; white-space: nowrap; cursor: default; }
+.hashtag.genre { --c: var(--ht-genre); }
+.hashtag.mood { --c: var(--ht-mood); }
+.hashtag.instrument { --c: var(--ht-instrument); }
+.hashtag.vocal { --c: var(--ht-vocal); }
 
 .tag {
   --h: 0;

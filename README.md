@@ -21,6 +21,7 @@
 - **三種語言**：中文、English、日本語，純前端即時切換，預設中文。選擇會記在瀏覽器裡，也可以用 `?lang=en` 或 `?lang=ja` 直接指定。
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
 - **BPM**：歌手後面標出歌曲速度，用 [Beat This!](https://github.com/CPJKU/beat_this) 模型的 ONNX 版本 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 分析 iTunes 的 30 秒試聽估算。
+- **Hashtag 標籤**：依風格、情緒、樂器、人聲分組標出 `#抒情 #放鬆 #鋼琴 #女聲` 這類標籤，用 Essentia 的 Discogs-EffNet 模型分析試聽得來，每組都有門檻與數量上限。
 - **三個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」。
   - YouTube 以「歌名 歌手」當關鍵字開啟 `https://www.youtube.com/results?search_query=`。
   - 點「Apple Music 試聽」或「KKBOX 試聽」會在該首歌下方展開官方嵌入播放器，同時只開一個，再點一次收起。按住 Ctrl 或 ⌘ 點擊則改為開新分頁。
@@ -46,11 +47,13 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
   │    └─ data/kkbox-ids.json 歌名歌手對應的 KKBOX 曲目 ID
   ├─ python -m scraper.bpm    用 Beat This! 分析試聽音訊的 BPM，每次最多 300 首
   │    └─ data/bpm.json       BPM 永久快取
+  ├─ python -m scraper.tags   用 Essentia 模型分析風格、情緒、樂器與人聲
+  │    └─ data/essentia.json  模型分數永久快取
   ├─ 有變動才 commit 回 main
   └─ 部署 site/ 到 GitHub Pages
 ```
 
-- 排行榜與曲風查詢只用 Python 標準函式庫；只有 BPM 分析需要 ffmpeg、numpy 與 onnxruntime。
+- 排行榜與曲風查詢只用 Python 標準函式庫；只有 BPM 與 hashtag 分析需要 ffmpeg、numpy 與 onnxruntime。
 - 網頁是純 HTML、CSS、JavaScript，沒有框架也沒有建置步驟。
 - 每個請求間隔 1 秒，每天只執行一次。iTunes 每分鐘約限 20 次請求，所以查詢間隔 3.2 秒，只查沒看過的歌。
 - 曲風查詢失敗不會影響排行榜更新，只是當天少一些標籤。
@@ -67,6 +70,7 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
 | KKBOX 試聽 | KKBOX 風雲榜的 `song_id`，以及好樂迪排行榜 `songurl` 裡的 KKBOX 曲目 ID | 嵌入 KKBOX 官方 widget。其他來源的同一首歌依歌名歌手套用 |
 | 在YouTube搜尋 | 歌名與歌手 | 開啟 YouTube 搜尋結果，不指定特定影片 |
 | BPM | Beat This! 模型分析 iTunes 30 秒試聽 | 見下方「BPM 識別方式」 |
+| Hashtag 標籤 | Essentia Discogs-EffNet 模型分析 iTunes 30 秒試聽 | 見下方「Hashtag 標籤」 |
 
 **顏色**：每個曲風有固定的色相，三種語言下顏色一致。不在對照表裡的曲風顯示英文原名，顏色由名稱算出，每次都相同。
 
@@ -160,6 +164,43 @@ KKBOX 曲目 ID 的跨來源對應：歌名歌手正規化後完全相同就套�
 
 在本機重算的方法見「本機開發」。
 
+## Hashtag 標籤
+
+BPM 下方的 `#抒情 #放鬆 #鋼琴 #女聲` 是用 MTG（Universitat Pompeu Fabra）的 [Essentia](https://essentia.upf.edu/models.html) Discogs-EffNet 模型分析 iTunes 30 秒試聽得來的，分成四組，各用一種顏色：
+
+| 組別 | 來源模型 | 規則 |
+|---|---|---|
+| 風格 | `discogs-effnet-bsdynamic-1`（Discogs 400 種風格） | 分數至少 0.15，最多 2 個；第 2 個要有第 1 個的一半分數 |
+| 情緒 | `mood_happy`、`mood_sad`、`mood_relaxed`、`mood_aggressive`、`mood_party`、`danceability` 二元分類，加上 `mtg_jamendo_moodtheme` | 二元分類至少 0.85，最多 2 個；再從 mood/theme 裡挑 1 個分數至少 0.2 的情緒類標籤 |
+| 樂器 | `mtg_jamendo_instrument`（40 種） | 分數至少 0.35，最多 3 個；鼓和貝斯幾乎每首流行歌都有，要 0.6 以上才標 |
+| 人聲 | `voice_instrumental`、`gender` | 有人聲機率 ≥ 0.6 且女聲 ≥ 0.9 或 ≤ 0.1 才標女聲或男聲；有人聲機率 ≤ 0.2 標純音樂 |
+
+### 避免標籤氾濫的規則
+
+門檻是用 300 首榜上歌曲的實際分數分佈訂的。以這些規則，平均每首約 3.6 個標籤，最多 8 個，有些歌一個都沒有。
+
+- **不標國家或語言風格**：Discogs 的 400 類沒有華語流行，K-pop 常被套在華語和日語歌上（在 74 首排第一的歌裡只有 18 首真的是 K-Pop）。所以 K-pop、J-pop、歌謠曲、Schlager、Laïkó 這類以地區定義的風格一律不標，地區交給 iTunes 曲風標籤。
+- **不重複上層分類**：已經有電吉他或木吉他時不標吉他，有鋼琴或合成器時不標鍵盤。人聲由人聲組負責，不出現在樂器組；節拍、電腦音色、取樣器、Pad 這類含糊的類別不標。
+- **不標互相矛盾的情緒**：例如快樂與悲傷、放鬆與派對、放鬆與適合跳舞，只留分數較高的那個。
+- **情境標籤不算情緒**：mood/theme 裡的 advertising、film、christmas、corporate 這類用途標籤不使用。
+- **性別要很有把握**：門檻設在 0.9，合唱或聲線模糊的歌不標，避免把男歌手標成女聲。
+
+### 流程與快取
+
+1. 和 BPM 一樣，只分析有 iTunes 曲目的歌，iTunes 對到的曲目換了就重算。
+2. ffmpeg 把試聽轉成 16 kHz，左右聲道平均成單聲道，用 soxr 重新取樣。這和 Essentia 官方的 MonoLoader 最接近，ffmpeg 預設的 `-ac 1` 會讓音量偏大約 3 dB、分數明顯偏掉。
+3. numpy 算 96 頻帶 log-mel，參數和 Essentia 的 `TensorflowInputMusiCNN` 相同（512 點對稱 Hann 窗、hop 256、Slaney mel、`log10(1 + 10000·x)`），已和 Essentia 本身比對過。
+4. 每 2 秒一段送進 EffNet，所有分類頭共用同一份 embedding，結果對各段取平均。
+5. `data/essentia.json` 永久快取每首歌的分數（風格前 20、樂器前 15、mood/theme 前 15，以及 10 個二元分類），**不是**最後的 hashtag。門檻與 Top-K 寫在 `scraper/hashtags.py`，寫入網站資料時才套用，所以之後要調整，不必重新分析音訊。
+
+模型檔從 essentia.upf.edu 下載並用 SHA-256 鎖定，存在 Actions 快取裡，每首歌分析加下載約 1 秒。也可以在 [aaatmy/essentia-music-tagger](https://huggingface.co/spaces/aaatmy/essentia-music-tagger) 用瀏覽器試同一組模型。
+
+### 限制
+
+- **只聽 30 秒**：試聽片段通常是副歌附近，不代表整首歌。
+- **以西方音樂訓練**：二胡、古箏這類樂器沒有對應類別，華語、日語歌的風格常被歸到最接近的西方風格，例如華語抒情歌多半標成「抒情」。
+- **模型判斷不是事實**：這些是機率最高的猜測，可能出錯，網頁的提示文字也標明是模型分析。
+
 ## 分批查詢機制
 
 iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 首，所以查詢分成多次 Action 執行完成。
@@ -174,6 +215,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 | 查不到的歌 | 30 天後重試；已找到的歌永遠不再查 |
 | 失敗時 | 查詢步驟設成失敗也繼續，排行榜照常發布，只是少一些標籤 |
 | BPM 分析 | 同樣的規則：每次最多 300 首或 20 分鐘，排名高的先做，每 10 首存一次 |
+| Hashtag 分析 | 每首約 1 秒，所以每次最多 1,500 首或 20 分鐘，每 25 首存一次 |
 
 **什麼時候會執行**：每天排程一次；推送 `site/`、`scraper/`、`tests/` 或工作流程檔的變更時；以及在 Actions 頁面按 **Run workflow** 手動執行。目前不會自己再開一次 Action 接續，所以首次補齊約需 5 次執行。之後每天新進榜的歌約 10 到 30 首，一次就能查完。想加快補齊，可以手動多執行幾次；同一時間只會跑一個，其他會排隊。
 
@@ -181,7 +223,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 gh workflow run update.yml
 ```
 
-**時間限制**：曲風查詢最多 25 分鐘，BPM 分析最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 75 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
+**時間限制**：曲風查詢最多 25 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 90 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
 
 ## 專案結構
 
@@ -192,6 +234,8 @@ scraper/               Python 抓取程式
   match.py             歌名歌手正規化與相似度
   enrich.py            曲風、Apple Music 與 KKBOX 連結
   bpm.py               Beat This! BPM 分析，需要 ffmpeg、numpy、onnxruntime
+  tags.py              Essentia 模型分析，需要 ffmpeg、numpy、onnxruntime
+  hashtags.py          模型分數轉成 hashtag 的門檻與規則（只用標準函式庫）
   net.py               HTTP 請求、重試與請求間隔
   __main__.py          進入點，寫出 site/data/*.json
 site/                  靜態網頁，原樣發布到 GitHub Pages
@@ -203,7 +247,8 @@ data/history/          歷史快照
 data/itunes.json       iTunes 查詢快取
 data/kkbox-ids.json    KKBOX 曲目 ID
 data/bpm.json          BPM 快取
-requirements-bpm.txt   BPM 分析需要的套件
+data/essentia.json     Essentia 模型分數快取
+requirements-bpm.txt   BPM 與 hashtag 分析需要的套件
 tests/                 離線單元測試
 docs/                  API 手冊
 .github/workflows/     每日排程與部署
@@ -247,6 +292,18 @@ python3 -m pip install -r requirements-bpm.txt
 python3 -m scraper.bpm --max 50
 ```
 
+分析 hashtag。第一次執行會從 essentia.upf.edu 下載約 31 MB 的模型到 `.cache/essentia/`：
+
+```bash
+python3 -m scraper.tags --max 50
+```
+
+只改了 `scraper/hashtags.py` 的門檻時，用快取重新標註就好：
+
+```bash
+python3 -m scraper.enrich --no-network
+```
+
 預覽網頁，然後打開 <http://localhost:8000/>：
 
 ```bash
@@ -274,8 +331,9 @@ python3 -m http.server 8000 -d site
 - 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）、KKBOX 沒有任何關係。
 - 排行榜資料取自各家官方網站的公開頁面與網站內部介面，著作權與相關權利屬原網站所有。這些介面沒有官方文件，網站改版時可能失效。
 - 曲風與 Apple Music 連結來自 Apple 的 iTunes Search API，曲風是 Apple 商店的分類，不是分析音訊得來的，也可能對到不同版本。
+- BPM 與 hashtag 是模型分析 30 秒試聽的估計，可能出錯。
 - 如果你要自行部署或轉載資料，請先確認各網站的使用條款，並保留來源標示與連回官網的連結。
 
 ## 授權
 
-程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。按鈕上的 Apple Music 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
+程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。Hashtag 使用的 Essentia 模型由 Music Technology Group（Universitat Pompeu Fabra）以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；本專案不散布模型檔，執行時才從官方網站下載（論文：Alonso-Jiménez, Serra & Bogdanov, ISMIR 2022）。按鈕上的 Apple Music 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
