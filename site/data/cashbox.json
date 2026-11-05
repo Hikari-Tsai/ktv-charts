@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-05T14:55:57+08:00",
+ "checked_at": "2026-11-05T15:09:09+08:00",
  "errors": [],
  "charts": [
   {
@@ -748,7 +748,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:52+08:00",
+   "fetched_at": "2026-11-05T15:09:04+08:00",
    "stale": false
   },
   {
@@ -1386,7 +1386,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:52+08:00",
+   "fetched_at": "2026-11-05T15:09:04+08:00",
    "stale": false
   },
   {
@@ -2027,7 +2027,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:55+08:00",
+   "fetched_at": "2026-11-05T15:09:07+08:00",
    "stale": false
   },
   {
@@ -2050,6 +2050,7 @@
      "kkbox": "GpWk-Cju-IKc1FRrhp",
      "genre": "J-Pop",
      "apple": "jp/1445055008",
+     "spotify": "39HrUxcvKF3jtLz7fUDWXc",
      "bpm": 90,
      "tags": {
       "genre": [
@@ -2620,7 +2621,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:55+08:00",
+   "fetched_at": "2026-11-05T15:09:07+08:00",
    "stale": false
   },
   {
@@ -3310,7 +3311,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:55+08:00",
+   "fetched_at": "2026-11-05T15:09:07+08:00",
    "stale": false
   },
   {
@@ -3966,7 +3967,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:57+08:00",
+   "fetched_at": "2026-11-05T15:09:09+08:00",
    "stale": false
   },
   {
@@ -4563,7 +4564,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:57+08:00",
+   "fetched_at": "2026-11-05T15:09:09+08:00",
    "stale": false
   }
  ]

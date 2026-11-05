@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.holiday.com.tw/",
- "checked_at": "2026-11-05T14:55:49+08:00",
+ "checked_at": "2026-11-05T15:09:02+08:00",
  "errors": [],
  "charts": [
   {
@@ -751,7 +751,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:21+08:00",
+   "fetched_at": "2026-11-05T15:08:34+08:00",
    "stale": false
   },
   {
@@ -1392,7 +1392,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:25+08:00",
+   "fetched_at": "2026-11-05T15:08:38+08:00",
    "stale": false
   },
   {
@@ -2029,7 +2029,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:29+08:00",
+   "fetched_at": "2026-11-05T15:08:42+08:00",
    "stale": false
   },
   {
@@ -2754,7 +2754,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:33+08:00",
+   "fetched_at": "2026-11-05T15:08:45+08:00",
    "stale": false
   },
   {
@@ -2777,6 +2777,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1445055008",
+     "spotify": "39HrUxcvKF3jtLz7fUDWXc",
      "bpm": 90,
      "tags": {
       "genre": [
@@ -3355,7 +3356,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:36+08:00",
+   "fetched_at": "2026-11-05T15:08:49+08:00",
    "stale": false
   },
   {
@@ -4006,7 +4007,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:40+08:00",
+   "fetched_at": "2026-11-05T15:08:53+08:00",
    "stale": false
   },
   {
@@ -4357,7 +4358,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:42+08:00",
+   "fetched_at": "2026-11-05T15:08:54+08:00",
    "stale": false
   },
   {
@@ -5036,7 +5037,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:46+08:00",
+   "fetched_at": "2026-11-05T15:08:58+08:00",
    "stale": false
   },
   {
@@ -5632,7 +5633,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:55:49+08:00",
+   "fetched_at": "2026-11-05T15:09:02+08:00",
    "stale": false
   }
  ]
