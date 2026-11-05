@@ -33,6 +33,10 @@ SPOTIFY_CACHE = enrich.SPOTIFY_CACHE
 TOKEN_URL = "https://accounts.spotify.com/api/token"
 SEARCH_URL = "https://api.spotify.com/v1/search?"
 MARKET = {"tw": "TW", "jp": "JP"}
+# Spotify returns localized artist names only when asked; without this, 米津玄師 comes
+# back as "Kenshi Yonezu" and 陳奕迅 as "Eason Chan", and the artist check fails.
+LANGUAGE = {"TW": "zh-TW,zh;q=0.9", "JP": "ja,en;q=0.5"}
+MATCH_VERSION = 2  # bump when matching changes so earlier misses are retried right away
 DELAY = 0.5           # seconds between searches
 MAX_RETRY_AFTER = 60  # a longer 429 back-off ends the run; the rest waits for tomorrow
 RETRY_DAYS = 30
@@ -73,7 +77,8 @@ def get_token(client_id: str, client_secret: str) -> str:
 def search(token: str, title: str, artist: str, market: str) -> list[dict]:
     q = f"{match.clean_title(title)} {match.first_artist(artist)}".strip()
     url = SEARCH_URL + urllib.parse.urlencode({"q": q, "type": "track", "limit": 10, "market": market})
-    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}", "User-Agent": USER_AGENT})
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}", "User-Agent": USER_AGENT,
+                                               "Accept-Language": LANGUAGE.get(market, "en")})
     for _ in range(3):
         try:
             return _request(req).get("tracks", {}).get("items", [])
@@ -109,15 +114,16 @@ def pick_best(items: list[dict], title: str, artist: str) -> dict | None:
 
 
 def candidates(sites: dict, cache: dict, today: dt.date) -> list[dict]:
-    """Songs never looked up, or not found RETRY_DAYS ago, best-ranked first."""
+    """Songs never looked up, not found RETRY_DAYS ago, or not found by an older matcher; best first."""
     best: dict[str, dict] = {}
     for src, _, row in enrich.iter_rows(sites):
         key = match.song_key(row.get("title"), row.get("artist"))
         if key.startswith("|"):
             continue
         entry = cache.get(key)
-        if entry and (entry.get("status") == "ok" or
-                      (today - dt.date.fromisoformat(entry.get("checked", "1970-01-01"))).days < RETRY_DAYS):
+        if entry and (entry.get("status") == "ok" or (
+                entry.get("v", 1) >= MATCH_VERSION and
+                (today - dt.date.fromisoformat(entry.get("checked", "1970-01-01"))).days < RETRY_DAYS)):
             continue
         if key not in best or row["rank"] < best[key]["rank"]:
             best[key] = {"key": key, "title": row.get("title"), "artist": row.get("artist"),
@@ -149,9 +155,9 @@ def lookup(todo: list[dict], cache: dict, token: str, budget: float) -> dict:
         if hit:
             stats["found"] += 1
             cache[item["key"]] = {"status": "ok", "id": hit["_id"], "name": hit["trackName"],
-                                  "artist": hit["artistName"], "market": market, "checked": stamp}
+                                  "artist": hit["artistName"], "market": market, "checked": stamp, "v": MATCH_VERSION}
         else:
-            cache[item["key"]] = {"status": "none", "checked": stamp}
+            cache[item["key"]] = {"status": "none", "checked": stamp, "v": MATCH_VERSION}
         if stats["looked_up"] % 25 == 0:
             enrich.save_cache(SPOTIFY_CACHE, cache)
             print(f"  ... {stats['looked_up']} looked up, {stats['found']} found", flush=True)

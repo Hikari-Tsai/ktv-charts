@@ -346,7 +346,10 @@ class SpotifyTest(unittest.TestCase):
         sites = {"holiday": {"charts": [{"id": "b", "rows": [{"rank": 1, "title": "擱淺", "artist": "周杰倫"}]}]}}
         today = dt.date(2026, 11, 5)
         self.assertEqual([c["key"] for c in spotify.candidates(sites, {}, today)], [key])
-        self.assertEqual(spotify.candidates(sites, {key: {"status": "none", "checked": "2026-11-01"}}, today), [])
+        fresh_miss = {"status": "none", "checked": "2026-11-01", "v": spotify.MATCH_VERSION}
+        self.assertEqual(spotify.candidates(sites, {key: fresh_miss}, today), [])
+        old_matcher = {"status": "none", "checked": "2026-11-05"}  # no "v": found by an older matcher
+        self.assertEqual(len(spotify.candidates(sites, {key: old_matcher}, today)), 1)
         self.assertEqual(len(spotify.candidates(sites, {key: {"status": "none", "checked": "2026-09-01"}}, today)), 1)
         self.assertEqual(spotify.candidates(sites, {key: {"status": "ok", "id": "X"}}, today), [])
         counts = enrich.annotate(sites, {}, {}, spotify={key: {"status": "ok", "id": "X"}})
