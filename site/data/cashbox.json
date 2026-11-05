@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-05T11:23:39+08:00",
+ "checked_at": "2026-11-05T12:42:39+08:00",
  "errors": [],
  "charts": [
   {
@@ -31,7 +31,22 @@
      "kkbox": "GptIJ2y--IKc1ewMvC",
      "genre": "Mandopop",
      "apple": "tw/6785801848",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 2,
@@ -43,7 +58,18 @@
      "kkbox": "GoiHhDGwV7_OegDFh_",
      "genre": "Mandopop",
      "apple": "tw/1815583986",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -55,7 +81,19 @@
      "kkbox": "KsNxNkw3fpSTS3_hs4",
      "genre": "Mandopop",
      "apple": "tw/536115199",
-     "bpm": 62
+     "bpm": 62,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 4,
@@ -67,7 +105,22 @@
      "kkbox": "-qn2N4CALDIxDm5Os5",
      "genre": "Mandopop",
      "apple": "tw/905226305",
-     "bpm": 68
+     "bpm": 68,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 5,
@@ -79,7 +132,19 @@
      "kkbox": "PaQgW7h6WKr8017JvY",
      "genre": "Mandopop",
      "apple": "tw/1655821308",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 6,
@@ -91,7 +156,17 @@
      "kkbox": "0spVFXYiDz1b8uI2zi",
      "genre": "Mandopop",
      "apple": "tw/1839368232",
-     "bpm": 66
+     "bpm": 66,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 7,
@@ -103,7 +178,22 @@
      "kkbox": "PZ4yKsHlfVd6jrL393",
      "genre": "Mandopop",
      "apple": "tw/808110752",
-     "bpm": 138
+     "bpm": 138,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "piano",
+       "acousticguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 8,
@@ -115,7 +205,19 @@
      "kkbox": "9ZH06Yn-s_ZpFJYVjQ",
      "genre": "Mandopop",
      "apple": "tw/1794042592",
-     "bpm": 63
+     "bpm": 63,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 9,
@@ -127,7 +229,21 @@
      "kkbox": "GmKDY4Wj7q4F4SQ2MY",
      "genre": "Mandopop",
      "apple": "tw/535085181",
-     "bpm": 80
+     "bpm": 80,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 10,
@@ -139,7 +255,21 @@
      "kkbox": "CnTB-AypUCArosFMgU",
      "genre": "Mandopop",
      "apple": "tw/556949926",
-     "bpm": 65
+     "bpm": 65,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "bass",
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 11,
@@ -151,7 +281,16 @@
      "kkbox": "OmVUK_QNTsIBcjAIqS",
      "genre": "Mandopop",
      "apple": "tw/1530519464",
-     "bpm": 107
+     "bpm": 107,
+     "tags": {
+      "mood": [
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -163,7 +302,13 @@
      "kkbox": "HZEdODdiEYKflMA1Jk",
      "genre": "Mandopop",
      "apple": "tw/1806088704",
-     "bpm": 85
+     "bpm": 85,
+     "tags": {
+      "genre": [
+       "Gothic Metal",
+       "Symphonic Rock"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -175,7 +320,18 @@
      "kkbox": "9YnRorQutUrZ3I2Jpm",
      "genre": "Mandopop",
      "apple": "tw/1790602218",
-     "bpm": 128
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ]
+     }
     },
     {
      "rank": 14,
@@ -187,7 +343,20 @@
      "kkbox": "4r_xmm-gSSJLqFsgxO",
      "genre": "Mandopop",
      "apple": "tw/1429430104",
-     "bpm": 73
+     "bpm": 73,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -199,7 +368,12 @@
      "kkbox": "TXSpgFxHAIGG3e047p",
      "genre": "Mandopop",
      "apple": "tw/1616484709",
-     "bpm": 70
+     "bpm": 70,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -211,7 +385,18 @@
      "kkbox": "4njo1hg43TYurFIZjC",
      "genre": "Mandopop",
      "apple": "tw/6780772534",
-     "bpm": 92
+     "bpm": 92,
+     "tags": {
+      "genre": [
+       "Brit Pop",
+       "Alternative Rock"
+      ],
+      "instrument": [
+       "bass",
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 17,
@@ -223,7 +408,22 @@
      "kkbox": "-k_KArxjMveSYP0n7s",
      "genre": "Mandopop",
      "apple": "tw/1811950828",
-     "bpm": 69
+     "bpm": 69,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 18,
@@ -235,7 +435,18 @@
      "kkbox": "8snyrQ7NV0ZqmaxIzZ",
      "genre": "Mandopop",
      "apple": "tw/352569303",
-     "bpm": 80
+     "bpm": 80,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 19,
@@ -247,7 +458,19 @@
      "kkbox": "D-_bCjCmldMik0Hokj",
      "genre": "Mandopop",
      "apple": "tw/1462400556",
-     "bpm": 92
+     "bpm": 92,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 20,
@@ -259,7 +482,21 @@
      "kkbox": "KmsMCHB4R1boPwV_A4",
      "genre": "Mandopop",
      "apple": "tw/543849961",
-     "bpm": 66
+     "bpm": 66,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Hard Rock"
+      ],
+      "mood": [
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 21,
@@ -271,7 +508,23 @@
      "kkbox": "8t-LWSfjsnPsHjzceL",
      "genre": "Mandopop",
      "apple": "tw/298837675",
-     "bpm": 115
+     "bpm": 115,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 22,
@@ -283,7 +536,19 @@
      "kkbox": "-mkR_YsjyaWqX6JguC",
      "genre": "Mandopop",
      "apple": "tw/1834199249",
-     "bpm": 81
+     "bpm": 81,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 23,
@@ -295,7 +560,19 @@
      "kkbox": "-p7X9j6RzoZVqvkHyk",
      "genre": "Mandopop",
      "apple": "tw/930758244",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 24,
@@ -307,7 +584,19 @@
      "kkbox": "D-jLjjQmldMin6-umY",
      "genre": "Mandopop",
      "apple": "tw/1861431711",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 25,
@@ -319,7 +608,19 @@
      "kkbox": "H-kONd1aCJ6qxluKUC",
      "genre": "Mandopop",
      "apple": "tw/1442648689",
-     "bpm": 118
+     "bpm": 118,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 26,
@@ -331,7 +632,19 @@
      "kkbox": "Ha5sozRVE8K3abcsUM",
      "genre": "Mandopop",
      "apple": "tw/1770003012",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "genre": [
+       "Alternative Rock"
+      ],
+      "mood": [
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -343,7 +656,19 @@
      "kkbox": "OqEcceqfMMmVfOc6Xh",
      "genre": "Mandopop",
      "apple": "tw/1671925506",
-     "bpm": 69
+     "bpm": 69,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 28,
@@ -355,7 +680,21 @@
      "kkbox": "8sXF4g7NV0ZqkyYDDr",
      "genre": "Mandopop",
      "apple": "tw/597217626",
-     "bpm": 68
+     "bpm": 68,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 29,
@@ -367,7 +706,16 @@
      "kkbox": "0pp0TYF1MinpWHxuUo",
      "genre": "Mandopop",
      "apple": "tw/1592498330",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 30,
@@ -379,12 +727,24 @@
      "kkbox": "0oJguUXXhv4OTIL7y3",
      "genre": "Mandopop",
      "apple": "tw/1766456183",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T11:23:35+08:00",
+   "fetched_at": "2026-11-05T12:42:35+08:00",
    "stale": false
   },
   {
@@ -407,7 +767,17 @@
      "kkbox": "8lbST5k3vIvokHdM4z",
      "genre": "Mandopop",
      "apple": "tw/1824122176",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 2,
@@ -419,7 +789,16 @@
      "kkbox": "0q5yzrkakH9Q_NjEi7",
      "genre": "Tai-Pop",
      "apple": "tw/1632587457",
-     "bpm": 72
+     "bpm": 72,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -431,7 +810,16 @@
      "kkbox": "1-G_QnGnWDhie4i3A1",
      "genre": "Mandopop",
      "apple": "tw/1731074668",
-     "bpm": 66
+     "bpm": 66,
+     "tags": {
+      "mood": [
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ]
+     }
     },
     {
      "rank": 4,
@@ -443,7 +831,16 @@
      "kkbox": "SpUhAs8c1sYnpNS7W3",
      "genre": "Tai-Pop",
      "apple": "tw/1445875932",
-     "bpm": 124
+     "bpm": 124,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 5,
@@ -454,7 +851,16 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1859554874",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "happy"
+      ]
+     }
     },
     {
      "rank": 6,
@@ -466,7 +872,15 @@
      "kkbox": "5YFhHAmXhYuu0i1V6e",
      "genre": "Tai-Pop",
      "apple": "tw/1726970401",
-     "bpm": 67
+     "bpm": 67,
+     "tags": {
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 7,
@@ -478,7 +892,15 @@
      "kkbox": "5-LQH1Tei4L5oBvtCR",
      "genre": "Mandopop",
      "apple": "tw/1726967549",
-     "bpm": 124
+     "bpm": 124,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 8,
@@ -502,7 +924,14 @@
      "kkbox": "-lU8WkG_SD43kVIONu",
      "genre": "Tai-Pop",
      "apple": "tw/1444575653",
-     "bpm": 124
+     "bpm": 124,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ]
+     }
     },
     {
      "rank": 10,
@@ -514,7 +943,12 @@
      "kkbox": "KlMCS0RIBZNAA7lG1_",
      "genre": "Mandopop",
      "apple": "tw/1726978526",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 11,
@@ -526,7 +960,16 @@
      "kkbox": "0k8xjJ04qf_DgjsW3s",
      "genre": "Tai-Pop",
      "apple": "tw/650710716",
-     "bpm": 96
+     "bpm": 96,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -538,7 +981,13 @@
      "kkbox": "4nzhFtno3TYuqtx6fX",
      "genre": "Soundtrack",
      "apple": "tw/1726977153",
-     "bpm": 150
+     "bpm": 150,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -550,7 +999,19 @@
      "kkbox": "9XaJ9vuy3wYrDtQPvN",
      "genre": "Chinese",
      "apple": "tw/1620985176",
-     "bpm": 109
+     "bpm": 109,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 14,
@@ -562,7 +1023,21 @@
      "kkbox": "H-3Gax1aCJ6qw-OS3s",
      "genre": "Alternative",
      "apple": "tw/1721470242",
-     "bpm": 194
+     "bpm": 194,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "piano"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -574,7 +1049,21 @@
      "kkbox": "L_EOFmmZ_NyBqxpx_m",
      "genre": "Tai-Pop",
      "apple": "tw/1492392346",
-     "bpm": 78
+     "bpm": 78,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -586,7 +1075,12 @@
      "kkbox": "Wn7faUMDwvj1xnKDBt",
      "genre": "Tai-Pop",
      "apple": "tw/379810345",
-     "bpm": 115
+     "bpm": 115,
+     "tags": {
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 17,
@@ -598,7 +1092,17 @@
      "kkbox": "CsUzDx0d3ZiY3yBW-X",
      "genre": "Tai-Pop",
      "apple": "tw/1754576706",
-     "bpm": 115
+     "bpm": 115,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer",
+       "percussion"
+      ]
+     }
     },
     {
      "rank": 18,
@@ -610,7 +1114,23 @@
      "kkbox": "OqRvDjpPMMmVe0gtPR",
      "genre": "Tai-Pop",
      "apple": "tw/1691657373",
-     "bpm": 128
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "Metalcore",
+       "Post-Hardcore"
+      ],
+      "mood": [
+       "aggressive"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 19,
@@ -622,7 +1142,20 @@
      "kkbox": "ClAMWqvYFKtg3mfRIf",
      "genre": "Tai-Pop",
      "apple": "tw/1524231249",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Religious"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 20,
@@ -634,7 +1167,17 @@
      "kkbox": "Go5dmcSQV7_OeMsm4u",
      "genre": "Tai-Pop",
      "apple": "tw/926174356",
-     "bpm": 78
+     "bpm": 78,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ]
+     }
     },
     {
      "rank": 21,
@@ -646,7 +1189,19 @@
      "kkbox": "5a4mX7KDyKyO7_XPjg",
      "genre": "Tai-Pop",
      "apple": "tw/870361601",
-     "bpm": 113
+     "bpm": 113,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 22,
@@ -658,7 +1213,19 @@
      "kkbox": "L_Fkru1p_NyBrHQR75",
      "genre": "Tai-Pop",
      "apple": "tw/1775889910",
-     "bpm": 140
+     "bpm": 140,
+     "tags": {
+      "genre": [
+       "Disco Polo"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 23,
@@ -690,7 +1257,22 @@
      "kkbox": "P_MR59dKadNrjWIDyJ",
      "genre": "Tai-Pop",
      "apple": "tw/6821889854",
-     "bpm": 122
+     "bpm": 122,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 26,
@@ -702,7 +1284,15 @@
      "kkbox": "OomwJN9K32Aqaw7VCH",
      "genre": "Tai-Pop",
      "apple": "tw/717098523",
-     "bpm": 157
+     "bpm": 157,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -723,7 +1313,19 @@
      "kkbox": "LXC89y3RU4Yl51WzAv",
      "genre": "Taiwanese Folk",
      "apple": "tw/1689528098",
-     "bpm": 94
+     "bpm": 94,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 29,
@@ -734,7 +1336,16 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1722002879",
-     "bpm": 98
+     "bpm": 98,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Synth-pop"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 30,
@@ -746,12 +1357,23 @@
      "kkbox": "T_qRi6PJ6ZmfU5CD6E",
      "genre": "Tai-Pop",
      "apple": "tw/905209961",
-     "bpm": 128
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T11:23:35+08:00",
+   "fetched_at": "2026-11-05T12:42:35+08:00",
    "stale": false
   },
   {
@@ -774,7 +1396,13 @@
      "kkbox": "KrLtHJRH6Il0AuMy0e",
      "genre": "Cantopop",
      "apple": "tw/201575679",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Hard Rock",
+       "Pop Rock"
+      ]
+     }
     },
     {
      "rank": 2,
@@ -786,7 +1414,15 @@
      "kkbox": "OlDyw8iIS497YVL64T",
      "genre": "Cantopop",
      "apple": "tw/1049581500",
-     "bpm": 134
+     "bpm": 134,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -798,7 +1434,19 @@
      "kkbox": "5-0ZssB-i4L5pRaKcf",
      "genre": "Cantopop",
      "apple": "tw/532911544",
-     "bpm": 114
+     "bpm": 114,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 4,
@@ -822,7 +1470,18 @@
      "kkbox": "4qWdZX58WUFou78cDQ",
      "genre": "Cantopop",
      "apple": "tw/471953417",
-     "bpm": 129
+     "bpm": 129,
+     "tags": {
+      "genre": [
+       "AOR"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 6,
@@ -834,7 +1493,19 @@
      "kkbox": "9ZYryDgOs_ZpF88hAV",
      "genre": "Mandopop",
      "apple": "tw/1756221725",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 7,
@@ -846,7 +1517,17 @@
      "kkbox": "TYCtr6vVGziN6nfaWR",
      "genre": "Cantopop",
      "apple": "tw/345895772",
-     "bpm": 145
+     "bpm": 145,
+     "tags": {
+      "mood": [
+       "party",
+       "danceable",
+       "energetic"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 8,
@@ -867,7 +1548,18 @@
      "kkbox": "_XtMhfAu0EWg89Pa3e",
      "genre": "Cantopop",
      "apple": "tw/471953473",
-     "bpm": 149
+     "bpm": 149,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 10,
@@ -879,7 +1571,15 @@
      "kkbox": "H_gsTa4Y6JmyzzECT7",
      "genre": "Cantopop",
      "apple": "tw/1443375396",
-     "bpm": 177
+     "bpm": 177,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 11,
@@ -891,7 +1591,19 @@
      "kkbox": "GnRs_InGJNIVKENLeH",
      "genre": "Cantopop",
      "apple": "tw/532911544",
-     "bpm": 114
+     "bpm": 114,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -903,7 +1615,23 @@
      "kkbox": "GrT71-XCk9ZkyMB1gt",
      "genre": "Cantopop",
      "apple": "tw/1443717750",
-     "bpm": 134
+     "bpm": 134,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -915,7 +1643,17 @@
      "kkbox": "KkjOYnkz5hrtBY4ajm",
      "genre": "Cantopop",
      "apple": "tw/1443346107",
-     "bpm": 105
+     "bpm": 105,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Nursery Rhymes"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 14,
@@ -927,7 +1665,16 @@
      "kkbox": "HXLU0AboaXJ8aUny98",
      "genre": "Cantopop",
      "apple": "tw/1494282170",
-     "bpm": 65
+     "bpm": 65,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -939,7 +1686,12 @@
      "kkbox": "9aDz5ISd1jmuJte9kY",
      "genre": "Cantopop",
      "apple": "tw/1443310612",
-     "bpm": 73
+     "bpm": 73,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -960,7 +1712,18 @@
      "kkbox": "KrCCTZRH6Il0AJKSYl",
      "genre": "Cantopop",
      "apple": "tw/1061503473",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 18,
@@ -972,7 +1735,20 @@
      "kkbox": "HXyYucboaXJ8aIRwAw",
      "genre": "Mandopop",
      "apple": "tw/651456035",
-     "bpm": 79
+     "bpm": 79,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 19,
@@ -984,7 +1760,20 @@
      "kkbox": "So6gzmn81DbhaF6oF7",
      "genre": "Cantopop",
      "apple": "tw/543764956",
-     "bpm": 142
+     "bpm": 142,
+     "tags": {
+      "genre": [
+       "Electro"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 20,
@@ -996,7 +1785,18 @@
      "kkbox": "4mM-yV0Xf387oR8YO7",
      "genre": "Cantopop",
      "apple": "tw/1049581689",
-     "bpm": 118
+     "bpm": 118,
+     "tags": {
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 21,
@@ -1008,7 +1808,16 @@
      "kkbox": "5aFL29KjyKyO6L9t6l",
      "genre": "Cantopop",
      "apple": "tw/1477799567",
-     "bpm": 113
+     "bpm": 113,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Synth-pop"
+      ],
+      "mood": [
+       "sad"
+      ]
+     }
     },
     {
      "rank": 22,
@@ -1020,7 +1829,16 @@
      "kkbox": "OmBqxHe9TsIBcQGZ2e",
      "genre": "Cantopop",
      "apple": "tw/543763266",
-     "bpm": 63
+     "bpm": 63,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 23,
@@ -1032,7 +1850,16 @@
      "kkbox": "T-2vO1v--xXCX9CIK7",
      "genre": "Cantopop",
      "apple": "tw/1444116580",
-     "bpm": 102
+     "bpm": 102,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 24,
@@ -1044,7 +1871,12 @@
      "kkbox": "HZ-UIoJiEYKflT_sLi",
      "genre": "Cantopop",
      "apple": "tw/1463501764",
-     "bpm": 67
+     "bpm": 67,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ]
+     }
     },
     {
      "rank": 25,
@@ -1056,7 +1888,22 @@
      "kkbox": "Cr_9WSQBa7_3MeMU9t",
      "genre": "Cantopop",
      "apple": "tw/1440803866",
-     "bpm": 144
+     "bpm": 144,
+     "tags": {
+      "genre": [
+       "New Jack Swing",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 26,
@@ -1068,7 +1915,16 @@
      "kkbox": "9ZboLsgus_ZpFOhvCP",
      "genre": "Pop",
      "apple": "tw/894542926",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -1079,7 +1935,15 @@
      "is_new": true,
      "genre": "Cantopop",
      "apple": "tw/1480627544",
-     "bpm": 78
+     "bpm": 78,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "sad"
+      ]
+     }
     },
     {
      "rank": 28,
@@ -1091,7 +1955,17 @@
      "kkbox": "-sXlK_5Tgs1-D0D9Sz",
      "genre": "Cantopop",
      "apple": "tw/1816674595",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Acoustic"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 29,
@@ -1102,7 +1976,13 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/201659625",
-     "bpm": 136
+     "bpm": 136,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ]
+     }
     },
     {
      "rank": 30,
@@ -1114,12 +1994,24 @@
      "kkbox": "Orpq8_UVf78HWeQCTE",
      "genre": "Cantopop",
      "apple": "tw/446760995",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T11:23:37+08:00",
+   "fetched_at": "2026-11-05T12:42:37+08:00",
    "stale": false
   },
   {
@@ -1142,7 +2034,18 @@
      "kkbox": "GpWk-Cju-IKc1FRrhp",
      "genre": "J-Pop",
      "apple": "jp/1445055008",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 2,
@@ -1154,7 +2057,19 @@
      "kkbox": "Wl42Bd6BHya3BBMS_7",
      "genre": "Rock",
      "apple": "jp/860461642",
-     "bpm": 155
+     "bpm": 155,
+     "tags": {
+      "genre": [
+       "Folk Metal"
+      ],
+      "mood": [
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "drums"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -1202,7 +2117,22 @@
      "kkbox": "4kgkNawfWkaL_ROtiK",
      "genre": "J-Pop",
      "apple": "tw/1558067727",
-     "bpm": 141
+     "bpm": 141,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 8,
@@ -1214,7 +2144,12 @@
      "kkbox": "Gn6PHInmJNIVIiP4tS",
      "genre": "J-Pop",
      "apple": "tw/1445116547",
-     "bpm": 80
+     "bpm": 80,
+     "tags": {
+      "mood": [
+       "danceable"
+      ]
+     }
     },
     {
      "rank": 9,
@@ -1226,7 +2161,13 @@
      "kkbox": "Ol_mhMqYS497YCx03L",
      "genre": "Pop",
      "apple": "tw/1814787792",
-     "bpm": 137
+     "bpm": 137,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy"
+      ]
+     }
     },
     {
      "rank": 10,
@@ -1238,7 +2179,22 @@
      "kkbox": "TZv_zO8AH5GcMLxvky",
      "genre": "J-Pop",
      "apple": "jp/119849978",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 11,
@@ -1250,7 +2206,13 @@
      "kkbox": "KnOoWU0sKmKv7HstMI",
      "genre": "Mandopop",
      "apple": "tw/6778375501",
-     "bpm": 93
+     "bpm": 93,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -1262,7 +2224,16 @@
      "kkbox": "H-JKSjmaCJ6qy6hS20",
      "genre": "Enka",
      "apple": "jp/270405388",
-     "bpm": 152
+     "bpm": 152,
+     "tags": {
+      "genre": [
+       "Folk",
+       "Nueva Cancion"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -1274,7 +2245,22 @@
      "kkbox": "-ot_8V1ee7WVL16oAy",
      "genre": "J-Pop",
      "apple": "jp/1536002900",
-     "bpm": 132
+     "bpm": 132,
+     "tags": {
+      "genre": [
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 14,
@@ -1286,7 +2272,12 @@
      "kkbox": "4pIFIDDBiO7N6MHadn",
      "genre": "Enka",
      "apple": "jp/1838960470",
-     "bpm": 101
+     "bpm": 101,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -1297,7 +2288,19 @@
      "is_new": true,
      "genre": "J-Pop",
      "apple": "tw/1535537758",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -1309,7 +2312,15 @@
      "kkbox": "X_gzft5-xGbE7tt474",
      "genre": "J-Pop",
      "apple": "tw/1536760546",
-     "bpm": 137
+     "bpm": 137,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 17,
@@ -1320,7 +2331,15 @@
      "is_new": true,
      "genre": "Enka",
      "apple": "jp/474114928",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 18,
@@ -1331,7 +2350,19 @@
      "is_new": true,
      "genre": "J-Pop",
      "apple": "tw/306381118",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 19,
@@ -1343,7 +2374,12 @@
      "kkbox": "OmuwREStTsIBdqHfaI",
      "genre": "Enka",
      "apple": "jp/276449309",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 20,
@@ -1375,7 +2411,13 @@
      "kkbox": "GlU4mPAJylVNHSdfZE",
      "genre": "Enka",
      "apple": "jp/1438593072",
-     "bpm": 71
+     "bpm": 71,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 23,
@@ -1387,7 +2429,20 @@
      "kkbox": "Cld7NhtoFKtg0sDadb",
      "genre": "J-Pop",
      "apple": "jp/1829873618",
-     "bpm": 173
+     "bpm": 173,
+     "tags": {
+      "genre": [
+       "Drum n Bass",
+       "Cloud Rap"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 24,
@@ -1399,7 +2454,12 @@
      "kkbox": "DYJwP3_7ri5YSDqhOK",
      "genre": "J-Pop",
      "apple": "tw/75621413",
-     "bpm": 81
+     "bpm": 81,
+     "tags": {
+      "genre": [
+       "Alternative Rock"
+      ]
+     }
     },
     {
      "rank": 25,
@@ -1411,7 +2471,18 @@
      "kkbox": "1XMW32Z19YZDwblHb6",
      "genre": "J-Pop",
      "apple": "jp/1440657253",
-     "bpm": 231
+     "bpm": 231,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 26,
@@ -1423,7 +2494,12 @@
      "kkbox": "GnmBaX02JNIVJiE7Yh",
      "genre": "Kayokyoku",
      "apple": "jp/1740094429",
-     "bpm": 283
+     "bpm": 283,
+     "tags": {
+      "genre": [
+       "Yé-Yé"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -1434,7 +2510,16 @@
      "is_new": true,
      "genre": "Enka",
      "apple": "jp/947246586",
-     "bpm": 87
+     "bpm": 87,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 28,
@@ -1445,7 +2530,21 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/949250892",
-     "bpm": 91
+     "bpm": 91,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     }
     },
     {
      "rank": 29,
@@ -1456,7 +2555,21 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/250610812",
-     "bpm": 99
+     "bpm": 99,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 30,
@@ -1468,12 +2581,26 @@
      "kkbox": "ClDYry84FKtg0U_GZz",
      "genre": "J-Pop",
      "apple": "tw/73795313",
-     "bpm": 85
+     "bpm": 85,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T11:23:37+08:00",
+   "fetched_at": "2026-11-05T12:42:37+08:00",
    "stale": false
   },
   {
@@ -1496,7 +2623,14 @@
      "kkbox": "Gn-uxRzGJNIVLFDmPF",
      "genre": "Pop",
      "apple": "tw/1771105935",
-     "bpm": 149
+     "bpm": 149,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ]
+     }
     },
     {
      "rank": 2,
@@ -1508,7 +2642,18 @@
      "kkbox": "L_MEhkmZ_NyBrNGVtx",
      "genre": "Pop",
      "apple": "tw/1440670792",
-     "bpm": 119
+     "bpm": 119,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -1520,7 +2665,19 @@
      "kkbox": "KrsB_ZRH6Il0Dcig-C",
      "genre": "Pop",
      "apple": "tw/1440803930",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "RnB/Swing",
+       "Contemporary R&B"
+      ],
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 4,
@@ -1532,7 +2689,19 @@
      "kkbox": "OmB65Ue9TsIBfk3QDV",
      "genre": "Pop",
      "apple": "tw/1795046351",
-     "bpm": 99
+     "bpm": 99,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Europop"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 5,
@@ -1544,7 +2713,12 @@
      "kkbox": "8kD4UaAIsZ01OEV5bd",
      "genre": "Pop",
      "apple": "tw/537029545",
-     "bpm": 129
+     "bpm": 129,
+     "tags": {
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 6,
@@ -1556,7 +2730,22 @@
      "kkbox": "LaH6Kns5zEPTjPoSEc",
      "genre": "Pop",
      "apple": "tw/1444320162",
-     "bpm": 120
+     "bpm": 120,
+     "tags": {
+      "genre": [
+       "Disco",
+       "House"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "happy"
+      ],
+      "instrument": [
+       "synthesizer",
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 7,
@@ -1568,7 +2757,23 @@
      "kkbox": "CkiF_xs6nNz6_O6o3h",
      "genre": "Dance",
      "apple": "tw/1196294581",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "Tropical House"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 8,
@@ -1580,7 +2785,21 @@
      "kkbox": "4pc2nFHBiO7N5I1XNd",
      "genre": "Alternative",
      "apple": "tw/695721392",
-     "bpm": 87
+     "bpm": 87,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar",
+       "bass",
+       "drums"
+      ]
+     }
     },
     {
      "rank": 9,
@@ -1591,7 +2810,21 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1476095084",
-     "bpm": 119
+     "bpm": 119,
+     "tags": {
+      "genre": [
+       "Synth-pop",
+       "Electro"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 10,
@@ -1603,7 +2836,19 @@
      "kkbox": "4nqQeD0I3TYuoKjd8g",
      "genre": "Pop",
      "apple": "tw/479204873",
-     "bpm": 99
+     "bpm": 99,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 11,
@@ -1615,7 +2860,21 @@
      "kkbox": "D_EukKqKOtw-av6D1z",
      "genre": "Pop",
      "apple": "tw/482734113",
-     "bpm": 125
+     "bpm": 125,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "party",
+       "danceable",
+       "love"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -1627,7 +2886,12 @@
      "kkbox": "GkMvUh7-nSw3QGUK6I",
      "genre": "Pop",
      "apple": "tw/1443009608",
-     "bpm": 70
+     "bpm": 70,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -1638,7 +2902,21 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1444190482",
-     "bpm": 119
+     "bpm": 119,
+     "tags": {
+      "genre": [
+       "House"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 14,
@@ -1650,7 +2928,21 @@
      "kkbox": "8ktw4LAIsZ01OlVpg7",
      "genre": "Hard Rock",
      "apple": "tw/528437613",
-     "bpm": 105
+     "bpm": 105,
+     "tags": {
+      "genre": [
+       "Nu Metal",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "aggressive"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -1662,7 +2954,24 @@
      "kkbox": "KrIN7LRH6Il0COxtpT",
      "genre": "Pop",
      "apple": "tw/315025823",
-     "bpm": 78
+     "bpm": 78,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Ballad"
+      ],
+      "mood": [
+       "party",
+       "love"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -1674,7 +2983,13 @@
      "kkbox": "8rhfiJZ059bDScUQMu",
      "genre": "Musicals",
      "apple": "tw/1440619007",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "mood": [
+       "sad",
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 17,
@@ -1686,7 +3001,16 @@
      "kkbox": "-qqCMrCQLDIxAgSfs_",
      "genre": "Pop",
      "apple": "tw/989874548",
-     "bpm": 95
+     "bpm": 95,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 18,
@@ -1698,7 +3022,20 @@
      "kkbox": "CoU0ldf9HOVZgawpFZ",
      "genre": "Pop",
      "apple": "tw/268993517",
-     "bpm": 71
+     "bpm": 71,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 19,
@@ -1710,7 +3047,21 @@
      "kkbox": "GkfGUx7-nSw3SfawaF",
      "genre": "Pop",
      "apple": "tw/310505605",
-     "bpm": 117
+     "bpm": 117,
+     "tags": {
+      "genre": [
+       "House",
+       "Disco"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "electricguitar",
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 20,
@@ -1731,7 +3082,17 @@
      "kkbox": "KtybZeF1IXgP21Qix2",
      "genre": "Pop",
      "apple": "tw/282658482",
-     "bpm": 107
+     "bpm": 107,
+     "tags": {
+      "genre": [
+       "Euro-Disco",
+       "Italo-Disco"
+      ],
+      "mood": [
+       "happy",
+       "danceable"
+      ]
+     }
     },
     {
      "rank": 22,
@@ -1743,7 +3104,20 @@
      "kkbox": "KtqDtWF1IXgP35OUW-",
      "genre": "Soundtrack",
      "apple": "tw/714526448",
-     "bpm": 108
+     "bpm": 108,
+     "tags": {
+      "genre": [
+       "New Jack Swing",
+       "Soul"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 23,
@@ -1755,7 +3129,20 @@
      "kkbox": "P_4aUFLaadNri01kNW",
      "genre": "Dance",
      "apple": "tw/1445141168",
-     "bpm": 97
+     "bpm": 97,
+     "tags": {
+      "genre": [
+       "Tropical House",
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 24,
@@ -1774,7 +3161,15 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "jp/1404282100",
-     "bpm": 103
+     "bpm": 103,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 26,
@@ -1786,7 +3181,16 @@
      "kkbox": "WpNxGZRraMOw8kvhrr",
      "genre": "Pop",
      "apple": "tw/1440650859",
-     "bpm": 70
+     "bpm": 70,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -1797,7 +3201,13 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/429945616",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Soul",
+       "Disco"
+      ]
+     }
     },
     {
      "rank": 28,
@@ -1808,7 +3218,16 @@
      "is_new": false,
      "genre": "Alternative",
      "apple": "tw/1122778616",
-     "bpm": 138
+     "bpm": 138,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Indie Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 29,
@@ -1832,12 +3251,25 @@
      "kkbox": "GpPtOrk--IKc3C34W3",
      "genre": "Pop",
      "apple": "tw/1565284244",
-     "bpm": 71
+     "bpm": 71,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "electricguitar",
+       "synthesizer"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T11:23:37+08:00",
+   "fetched_at": "2026-11-05T12:42:37+08:00",
    "stale": false
   },
   {
@@ -1860,7 +3292,19 @@
      "kkbox": "On0OO8m7o9axPN2nGG",
      "genre": "Mandopop",
      "apple": "tw/1842315470",
-     "bpm": 73
+     "bpm": 73,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 2,
@@ -1872,7 +3316,22 @@
      "kkbox": "Laq7uv4pzEPTh40OIe",
      "genre": "Mandopop",
      "apple": "tw/1798441739",
-     "bpm": 78
+     "bpm": 78,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -1884,7 +3343,16 @@
      "kkbox": "PXzA0LCL8IwsBvwyKj",
      "genre": "Mandopop",
      "apple": "tw/6807777966",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 4,
@@ -1896,7 +3364,19 @@
      "kkbox": "4sLwx95jOGRFjAQ2iv",
      "genre": "Mandopop",
      "apple": "tw/6812635397",
-     "bpm": 88
+     "bpm": 88,
+     "tags": {
+      "genre": [
+       "Sound Collage",
+       "Indie Rock"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 5,
@@ -1908,7 +3388,17 @@
      "kkbox": "4p7lmhTxiO7N5ARdzH",
      "genre": "Mandopop",
      "apple": "tw/1887246590",
-     "bpm": 90
+     "bpm": 90,
+     "tags": {
+      "genre": [
+       "Cloud Rap"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ]
+     }
     },
     {
      "rank": 6,
@@ -1920,7 +3410,22 @@
      "kkbox": "PZtF40T1fVd6jMdMEO",
      "genre": "Mandopop",
      "apple": "tw/1814304707",
-     "bpm": 116
+     "bpm": 116,
+     "tags": {
+      "genre": [
+       "Contemporary R&B",
+       "Ballad"
+      ],
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 7,
@@ -1932,7 +3437,16 @@
      "kkbox": "Cle5ja6YFKtg1noBtV",
      "genre": "Mandopop",
      "apple": "tw/6807312396",
-     "bpm": 124
+     "bpm": 124,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 8,
@@ -1944,7 +3458,20 @@
      "kkbox": "Wt0_j_UQoKRKUmjw4O",
      "genre": "Mandopop",
      "apple": "tw/6781236740",
-     "bpm": 75
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 9,
@@ -1956,7 +3483,18 @@
      "kkbox": "GtnvsbYu-2a58BpV-L",
      "genre": "Pop",
      "apple": "tw/1777264199",
-     "bpm": 66
+     "bpm": 66,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 10,
@@ -1967,7 +3505,12 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1800161895",
-     "bpm": 126
+     "bpm": 126,
+     "tags": {
+      "mood": [
+       "love"
+      ]
+     }
     },
     {
      "rank": 11,
@@ -1978,7 +3521,19 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6809423963",
-     "bpm": 92
+     "bpm": 92,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Indie Rock"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -1990,7 +3545,16 @@
      "kkbox": "0rrD4LPx97UdyWa7Qx",
      "genre": "Mandopop",
      "apple": "tw/6781186062",
-     "bpm": 80
+     "bpm": 80,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -2002,7 +3566,12 @@
      "kkbox": "4oHlYl-KtWt5nP2QBJ",
      "genre": "Pop",
      "apple": "tw/1886148162",
-     "bpm": 68
+     "bpm": 68,
+     "tags": {
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 14,
@@ -2014,7 +3583,16 @@
      "kkbox": "OpNLpcbQzUmSYRZ8hz",
      "genre": "Mandopop",
      "apple": "tw/6783215356",
-     "bpm": 123
+     "bpm": 123,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -2026,7 +3604,17 @@
      "kkbox": "Ko0sWKKRP2VFtQEPsy",
      "genre": "Mandopop",
      "apple": "tw/1891408114",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Hard Rock"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -2038,7 +3626,16 @@
      "kkbox": "D_x6yW-6Otw-bqeJKl",
      "genre": "Mandopop",
      "apple": "tw/6764376440",
-     "bpm": 69
+     "bpm": 69,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 17,
@@ -2058,7 +3655,12 @@
      "kkbox": "TZDcVaowH5GcNhNg25",
      "genre": "Mandopop",
      "apple": "tw/1876281769",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 19,
@@ -2069,7 +3671,16 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/6785850147",
-     "bpm": 65
+     "bpm": 65,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 20,
@@ -2081,7 +3692,16 @@
      "kkbox": "PX2biNDb8IwsAAN7kb",
      "genre": "Mandopop",
      "apple": "tw/1787448196",
-     "bpm": 87
+     "bpm": 87,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 21,
@@ -2092,7 +3712,16 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1787930096",
-     "bpm": 107
+     "bpm": 107,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 22,
@@ -2104,7 +3733,16 @@
      "kkbox": "4sxQip4jOGRFhdwAfD",
      "genre": "Mandopop",
      "apple": "tw/1767813585",
-     "bpm": 175
+     "bpm": 175,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 23,
@@ -2115,7 +3753,19 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/1751791797",
-     "bpm": 128
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 24,
@@ -2127,7 +3777,19 @@
      "kkbox": "CkwO0s6qnNz6-gtD6q",
      "genre": "Mandopop",
      "apple": "tw/6800180368",
-     "bpm": 70
+     "bpm": 70,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 25,
@@ -2139,7 +3801,15 @@
      "kkbox": "WnHJAlYTwvj1xgn5fX",
      "genre": "Pop",
      "apple": "tw/1813353826",
-     "bpm": 80
+     "bpm": 80,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 26,
@@ -2150,7 +3820,18 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6777277213",
-     "bpm": 105
+     "bpm": 105,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -2161,7 +3842,19 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6784145723",
-     "bpm": 95
+     "bpm": 95,
+     "tags": {
+      "genre": [
+       "Soft Rock",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     }
     },
     {
      "rank": 28,
@@ -2172,7 +3865,15 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/1762418608",
-     "bpm": 120
+     "bpm": 120,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 29,
@@ -2183,7 +3884,20 @@
      "is_new": false,
      "genre": "Singer/Songwriter",
      "apple": "tw/1851930672",
-     "bpm": 110
+     "bpm": 110,
+     "tags": {
+      "genre": [
+       "Indie Rock"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "electricguitar",
+       "piano"
+      ]
+     }
     },
     {
      "rank": 30,
@@ -2194,12 +3908,17 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/6784721573",
-     "bpm": 76
+     "bpm": 76,
+     "tags": {
+      "instrument": [
+       "guitar"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T11:23:39+08:00",
+   "fetched_at": "2026-11-05T12:42:39+08:00",
    "stale": false
   },
   {
@@ -2222,7 +3941,22 @@
      "kkbox": "P_MR59dKadNrjWIDyJ",
      "genre": "Tai-Pop",
      "apple": "tw/6821889854",
-     "bpm": 122
+     "bpm": 122,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 2,
@@ -2234,7 +3968,12 @@
      "kkbox": "KnlDjHh8KmKv4obqOe",
      "genre": "Tai-Pop",
      "apple": "tw/6821889858",
-     "bpm": 104
+     "bpm": 104,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ]
+     }
     },
     {
      "rank": 3,
@@ -2246,7 +3985,16 @@
      "kkbox": "GsJHgkEUZ-QUaagnCj",
      "genre": "Tai-Pop",
      "apple": "tw/6817718972",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 4,
@@ -2258,7 +4006,16 @@
      "kkbox": "OtbqtEmt3DzwYdBjAJ",
      "genre": "Tai-Pop",
      "apple": "tw/6817718973",
-     "bpm": 104
+     "bpm": 104,
+     "tags": {
+      "genre": [
+       "Disco Polo"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 5,
@@ -2270,7 +4027,19 @@
      "kkbox": "Omc9wzL9TsIBfcU4F4",
      "genre": "Tai-Pop",
      "apple": "jp/6803466883",
-     "bpm": 126
+     "bpm": 126,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     }
     },
     {
      "rank": 6,
@@ -2293,7 +4062,20 @@
      "kkbox": "CpRJZ9CvXVWGuu10IT",
      "genre": "Tai-Pop",
      "apple": "tw/6781607877",
-     "bpm": 112
+     "bpm": 112,
+     "tags": {
+      "genre": [
+       "Acoustic"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     }
     },
     {
      "rank": 8,
@@ -2305,7 +4087,12 @@
      "kkbox": "KmmxAoU4R1boMI0tWf",
      "genre": "Tai-Pop",
      "apple": "tw/6817718971",
-     "bpm": 102
+     "bpm": 102,
+     "tags": {
+      "genre": [
+       "Disco Polo"
+      ]
+     }
     },
     {
      "rank": 9,
@@ -2329,7 +4116,12 @@
      "kkbox": "5-vj_bV-i4L5qA4dDA",
      "genre": "Tai-Pop",
      "apple": "tw/6823510890",
-     "bpm": 116
+     "bpm": 116,
+     "tags": {
+      "mood": [
+       "happy"
+      ]
+     }
     },
     {
      "rank": 11,
@@ -2341,7 +4133,12 @@
      "kkbox": "_ajJa2oAAvqjaE0XE9",
      "genre": "Tai-Pop",
      "apple": "tw/6814705448",
-     "bpm": 122
+     "bpm": 122,
+     "tags": {
+      "mood": [
+       "love"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -2353,7 +4150,12 @@
      "kkbox": "L_Qjy1zZ_NyBoBcGgk",
      "genre": "Tai-Pop",
      "apple": "tw/6823510889",
-     "bpm": 95
+     "bpm": 95,
+     "tags": {
+      "genre": [
+       "Disco Polo"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -2377,7 +4179,12 @@
      "kkbox": "D_Oeus_KOtw-Y6ioID",
      "genre": "Tai-Pop",
      "apple": "tw/6814705446",
-     "bpm": 100
+     "bpm": 100,
+     "tags": {
+      "mood": [
+       "love"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -2389,7 +4196,18 @@
      "kkbox": "1-3KvoAXWDhicsQewU",
      "genre": "Tai-Pop",
      "apple": "tw/6823510892",
-     "bpm": 77
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -2413,7 +4231,16 @@
      "kkbox": "5aAPYQfjyKyO4CHvMd",
      "genre": "Tai-Pop",
      "apple": "tw/6815194133",
-     "bpm": 69
+     "bpm": 69,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ]
+     }
     },
     {
      "rank": 18,
@@ -2425,7 +4252,15 @@
      "kkbox": "La8cYi55zEPTjTQE0s",
      "genre": "Tai-Pop",
      "apple": "tw/6823510110",
-     "bpm": 69
+     "bpm": 69,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 19,
@@ -2436,7 +4271,12 @@
      "is_new": true,
      "genre": "Tai-Pop",
      "apple": "tw/6823510114",
-     "bpm": 124
+     "bpm": 124,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 20,
@@ -2448,7 +4288,15 @@
      "kkbox": "HaRBTfQVE8K3bK3JQ1",
      "genre": "Tai-Pop",
      "apple": "tw/6814705447",
-     "bpm": 160
+     "bpm": 160,
+     "tags": {
+      "genre": [
+       "Disco Polo"
+      ],
+      "mood": [
+       "happy"
+      ]
+     }
     },
     {
      "rank": 21,
@@ -2460,7 +4308,15 @@
      "kkbox": "KkNISgxz5hrtBMuet7",
      "genre": "Tai-Pop",
      "apple": "tw/6814704609",
-     "bpm": 84
+     "bpm": 84,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 22,
@@ -2472,7 +4328,20 @@
      "kkbox": "Cr1SkDFRa7_3NpcUx3",
      "genre": "Tai-Pop",
      "apple": "tw/6814704610",
-     "bpm": 126
+     "bpm": 126,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 23,
@@ -2484,7 +4353,12 @@
      "kkbox": "H_Q8oOtY6JmyztIbVB",
      "genre": "Tai-Pop",
      "apple": "tw/6823510112",
-     "bpm": 82
+     "bpm": 82,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 24,
@@ -2496,7 +4370,15 @@
      "kkbox": "L_HvgqzZ_NyBqvGurs",
      "genre": "Mandopop",
      "apple": "tw/6800675789",
-     "bpm": 87
+     "bpm": 87,
+     "tags": {
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     }
     },
     {
      "rank": 25,
@@ -2520,7 +4402,22 @@
      "kkbox": "Cmy7wFgVtBWGqrMK-8",
      "genre": "Tai-Pop",
      "apple": "tw/6814704613",
-     "bpm": 133
+     "bpm": 133,
+     "tags": {
+      "genre": [
+       "Disco Polo"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -2531,7 +4428,12 @@
      "is_new": true,
      "genre": "Soundtrack",
      "apple": "tw/6824452174",
-     "bpm": 118
+     "bpm": 118,
+     "tags": {
+      "mood": [
+       "happy"
+      ]
+     }
     },
     {
      "rank": 28,
@@ -2543,7 +4445,23 @@
      "kkbox": "8tcsAGKjsnPsGTVIYD",
      "genre": "Tai-Pop",
      "apple": "tw/6814704608",
-     "bpm": 130
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "Disco Polo",
+       "Hands Up"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     }
     },
     {
      "rank": 29,
@@ -2554,7 +4472,15 @@
      "is_new": true,
      "genre": "Tai-Pop",
      "apple": "tw/6815194131",
-     "bpm": 70
+     "bpm": 70,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     },
     {
      "rank": 30,
@@ -2565,12 +4491,20 @@
      "is_new": true,
      "genre": "Tai-Pop",
      "apple": "tw/6800565664",
-     "bpm": 72
+     "bpm": 72,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     }
     }
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T11:23:39+08:00",
+   "fetched_at": "2026-11-05T12:42:39+08:00",
    "stale": false
   }
  ]
