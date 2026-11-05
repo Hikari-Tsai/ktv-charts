@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "streaming",
  "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
- "checked_at": "2026-11-05T14:54:27+08:00",
+ "checked_at": "2026-11-05T14:56:42+08:00",
  "errors": [],
  "charts": [
   {
@@ -80,6 +80,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6825805202",
+     "spotify": "25rKfmSz9QTVtilqZU9f8D",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -101,6 +102,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6815092483",
+     "spotify": "2a3CGolEag3y3weurGvkLV",
      "bpm": 84,
      "tags": {
       "genre": [
@@ -194,6 +196,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "jp/6810189174",
+     "spotify": "0ykKwja0lp6MSQKl71eT9C",
      "bpm": 74,
      "tags": {
       "genre": [
@@ -218,6 +221,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1861431711",
+     "spotify": "3VHi5bCUek6XdiDmqqrirs",
      "bpm": 76,
      "tags": {
       "mood": [
@@ -242,6 +246,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6825665451",
+     "spotify": "0oi0rCx9DKrfVHfO7Mteg1",
      "bpm": 122,
      "tags": {
       "mood": [
@@ -272,7 +277,8 @@
      "song_url": "https://www.kkbox.com/tw/tc/song/Ks8gDrl3fpSTTDFqi5",
      "kkbox": "Ks8gDrl3fpSTTDFqi5",
      "last_rank": 11,
-     "is_new": false
+     "is_new": false,
+     "spotify": "6bynWGTngf6CpPkLaH0mGu"
     },
     {
      "rank": 13,
@@ -359,6 +365,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1824122176",
+     "spotify": "63uBr7KrsE4dUHCjFTzn3W",
      "bpm": 75,
      "tags": {
       "mood": [
@@ -381,6 +388,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1616484709",
+     "spotify": "1bQHKplf5fkkecalhAgYp0",
      "bpm": 70,
      "tags": {
       "genre": [
@@ -443,6 +451,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1819908788",
+     "spotify": "1XZE0InCx3SdCnLpVsPpZl",
      "bpm": 128,
      "tags": {
       "mood": [
@@ -572,6 +581,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6818499816",
+     "spotify": "05UAdYGpfeK3xiYFe9ZE2U",
      "bpm": 125,
      "tags": {
       "mood": [
@@ -590,6 +600,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6823782045",
+     "spotify": "44v6v8n1QHyVfFas5EqMQ3",
      "bpm": 69,
      "tags": {
       "genre": [
@@ -805,6 +816,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6819661934",
+     "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
      "tags": {
       "genre": [
@@ -907,6 +919,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6818489413",
+     "spotify": "2rsOuESMh5aqCecQJhgIne",
      "bpm": 87,
      "tags": {
       "mood": [
@@ -927,6 +940,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1632587457",
+     "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
      "tags": {
       "mood": [
@@ -1108,7 +1122,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:04+08:00",
+   "fetched_at": "2026-11-05T14:56:19+08:00",
    "stale": false
   },
   {
@@ -1250,6 +1264,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6815092483",
+     "spotify": "2a3CGolEag3y3weurGvkLV",
      "bpm": 84,
      "tags": {
       "genre": [
@@ -1282,6 +1297,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1861431711",
+     "spotify": "3VHi5bCUek6XdiDmqqrirs",
      "bpm": 76,
      "tags": {
       "mood": [
@@ -1306,6 +1322,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "jp/6810189174",
+     "spotify": "0ykKwja0lp6MSQKl71eT9C",
      "bpm": 74,
      "tags": {
       "genre": [
@@ -1369,7 +1386,8 @@
      "song_url": "https://www.kkbox.com/tw/tc/song/Ks8gDrl3fpSTTDFqi5",
      "kkbox": "Ks8gDrl3fpSTTDFqi5",
      "last_rank": 8,
-     "is_new": false
+     "is_new": false,
+     "spotify": "6bynWGTngf6CpPkLaH0mGu"
     },
     {
      "rank": 13,
@@ -1405,6 +1423,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1819908788",
+     "spotify": "1XZE0InCx3SdCnLpVsPpZl",
      "bpm": 128,
      "tags": {
       "mood": [
@@ -1423,6 +1442,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6814348698",
+     "spotify": "17zS73RXlLwt4ZEvBS0ZE0",
      "bpm": 65,
      "tags": {
       "genre": [
@@ -1472,6 +1492,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1824122176",
+     "spotify": "63uBr7KrsE4dUHCjFTzn3W",
      "bpm": 75,
      "tags": {
       "mood": [
@@ -1503,6 +1524,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1616484709",
+     "spotify": "1bQHKplf5fkkecalhAgYp0",
      "bpm": 70,
      "tags": {
       "genre": [
@@ -1541,6 +1563,7 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6823782045",
+     "spotify": "44v6v8n1QHyVfFas5EqMQ3",
      "bpm": 69,
      "tags": {
       "genre": [
@@ -1805,6 +1828,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6820033864",
+     "spotify": "3qyOAIvd1ktL1uyzYIhkT3",
      "bpm": 174,
      "tags": {
       "genre": [
@@ -1839,6 +1863,7 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6818499816",
+     "spotify": "05UAdYGpfeK3xiYFe9ZE2U",
      "bpm": 125,
      "tags": {
       "mood": [
@@ -1905,6 +1930,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1632587457",
+     "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
      "tags": {
       "mood": [
@@ -1986,6 +2012,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6807777966",
+     "spotify": "1jvdnSKL2KzLG5vwxrl0C6",
      "bpm": 84,
      "tags": {
       "genre": [
@@ -2167,7 +2194,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:06+08:00",
+   "fetched_at": "2026-11-05T14:56:21+08:00",
    "stale": false
   },
   {
@@ -2210,6 +2237,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6819661934",
+     "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
      "tags": {
       "genre": [
@@ -2237,6 +2265,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1632587457",
+     "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
      "tags": {
       "mood": [
@@ -2258,6 +2287,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1731074668",
+     "spotify": "30slz6D2PtbwDimGJaEVsH",
      "bpm": 66,
      "tags": {
       "mood": [
@@ -2303,6 +2333,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6781607876",
+     "spotify": "2s00UudzwUn1i16mO3zjVw",
      "bpm": 140,
      "tags": {
       "mood": [
@@ -2328,6 +2359,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6768500889",
+     "spotify": "00SWZKv9133HC5vaDizUGX",
      "bpm": 112,
      "tags": {
       "genre": [
@@ -2375,6 +2407,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1442431589",
+     "spotify": "0xKnj0yXDlUleN6OBVAcwP",
      "bpm": 120,
      "tags": {
       "instrument": [
@@ -2395,6 +2428,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6781607879",
+     "spotify": "2WTx9tSOemwEBWf5BbzBwD",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -2434,6 +2468,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1886663515",
+     "spotify": "2hLCF8iRRz8zo9zX51EaBO",
      "bpm": 104,
      "tags": {
       "genre": [
@@ -2534,6 +2569,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "jp/6803466883",
+     "spotify": "3jLgBiwLYwTHq3wjilHkvG",
      "bpm": 126,
      "tags": {
       "genre": [
@@ -2558,6 +2594,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1052983973",
+     "spotify": "29YQl6jsIqRBtSQCH7TjTW",
      "bpm": 93,
      "tags": {
       "mood": [
@@ -2576,6 +2613,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1851115080",
+     "spotify": "5Y8Jwa9TKgmy2DKXp49XNF",
      "bpm": 70
     },
     {
@@ -2853,6 +2891,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6781607877",
+     "spotify": "5M4jYQxorTsQkQoUwwPqZG",
      "bpm": 112,
      "tags": {
       "genre": [
@@ -3322,7 +3361,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:08+08:00",
+   "fetched_at": "2026-11-05T14:56:23+08:00",
    "stale": false
   },
   {
@@ -3365,6 +3404,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1632587457",
+     "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
      "tags": {
       "mood": [
@@ -3410,6 +3450,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6819661934",
+     "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
      "tags": {
       "genre": [
@@ -3437,6 +3478,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1731074668",
+     "spotify": "30slz6D2PtbwDimGJaEVsH",
      "bpm": 66,
      "tags": {
       "mood": [
@@ -3458,6 +3500,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6781607876",
+     "spotify": "2s00UudzwUn1i16mO3zjVw",
      "bpm": 140,
      "tags": {
       "mood": [
@@ -3483,6 +3526,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6768500889",
+     "spotify": "00SWZKv9133HC5vaDizUGX",
      "bpm": 112,
      "tags": {
       "genre": [
@@ -3549,6 +3593,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1886663515",
+     "spotify": "2hLCF8iRRz8zo9zX51EaBO",
      "bpm": 104,
      "tags": {
       "genre": [
@@ -3601,6 +3646,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "jp/6803466883",
+     "spotify": "3jLgBiwLYwTHq3wjilHkvG",
      "bpm": 126,
      "tags": {
       "genre": [
@@ -3625,6 +3671,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1442431589",
+     "spotify": "0xKnj0yXDlUleN6OBVAcwP",
      "bpm": 120,
      "tags": {
       "instrument": [
@@ -3645,6 +3692,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1052983973",
+     "spotify": "29YQl6jsIqRBtSQCH7TjTW",
      "bpm": 93,
      "tags": {
       "mood": [
@@ -3711,6 +3759,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1851115080",
+     "spotify": "5Y8Jwa9TKgmy2DKXp49XNF",
      "bpm": 70
     },
     {
@@ -4122,6 +4171,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6781607877",
+     "spotify": "5M4jYQxorTsQkQoUwwPqZG",
      "bpm": 112,
      "tags": {
       "genre": [
@@ -4457,7 +4507,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:10+08:00",
+   "fetched_at": "2026-11-05T14:56:24+08:00",
    "stale": false
   },
   {
@@ -4480,6 +4530,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6827293082",
+     "spotify": "0SqDNsDiJyvrbXGsIvt0hN",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -4504,6 +4555,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1771105935",
+     "spotify": "5vNRhkKd0yEAg8suGBpjeY",
      "bpm": 149,
      "tags": {
       "mood": [
@@ -4523,6 +4575,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1727526894",
+     "spotify": "6Qb7YsAqH4wWFUMbGsCpap",
      "bpm": 123,
      "tags": {
       "genre": [
@@ -4553,6 +4606,7 @@
      "is_new": false,
      "genre": "R&B/Soul",
      "apple": "tw/6829122414",
+     "spotify": "1824ElVTa8XiWOjOlujl81",
      "bpm": 119,
      "tags": {
       "genre": [
@@ -4573,6 +4627,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6804002999",
+     "spotify": "3bgnrHHwyYRtz3ykzAVImy",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -4598,6 +4653,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6822497774",
+     "spotify": "2sFepQNyl1WjpROruP8bJ0",
      "bpm": 133,
      "tags": {
       "genre": [
@@ -4624,6 +4680,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6793277028",
+     "spotify": "19UnXjpLshSLobPspdyxlD",
      "bpm": 122,
      "tags": {
       "genre": [
@@ -4644,6 +4701,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1868482073",
+     "spotify": "68lbSrXDORS51pmyjZv712",
      "bpm": 94,
      "tags": {
       "mood": [
@@ -4662,6 +4720,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6814691433",
+     "spotify": "77uAqjyh3R6haTQMvhT1o6",
      "bpm": 117,
      "tags": {
       "genre": [
@@ -4691,6 +4750,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6809951681",
+     "spotify": "1VWiDyYTrqQhhmnWANWkFa",
      "bpm": 70,
      "tags": {
       "genre": [
@@ -4714,6 +4774,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "tw/1842202784",
+     "spotify": "3vJIaiTIHxHhYafTSPNiH4",
      "bpm": 129,
      "tags": {
       "genre": [
@@ -4741,6 +4802,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1771105929",
+     "spotify": "1z5ebC9238uGoBgzYyvGpQ",
      "bpm": 84,
      "tags": {
       "genre": [
@@ -4775,6 +4837,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6822513749",
+     "spotify": "6btmjh1p327BMAJAczq9Lf",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -4799,6 +4862,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1800281048",
+     "spotify": "0fK7ie6XwGxQTIkpFoWkd1",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -4825,6 +4889,7 @@
      "is_new": false,
      "genre": "Dance",
      "apple": "tw/1207120448",
+     "spotify": "1dNIEtp7AY3oDAKCGg2XkH",
      "bpm": 103,
      "tags": {
       "genre": [
@@ -4846,6 +4911,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6804046959",
+     "spotify": "75QkBCdRc5DGgcyPiVSg4b",
      "bpm": 138,
      "tags": {
       "genre": [
@@ -4866,6 +4932,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1440670792",
+     "spotify": "1D4PL9B8gOg78jiHg3FvBb",
      "bpm": 119,
      "tags": {
       "genre": [
@@ -4889,6 +4956,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1691508823",
+     "spotify": "6Z1IBgysq1FfSzhQWUdvAc",
      "bpm": 89,
      "tags": {
       "mood": [
@@ -4909,6 +4977,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1574968888",
+     "spotify": "5HCyWlXZPP0y6Gqq8TgA20",
      "bpm": 170,
      "tags": {
       "genre": [
@@ -4962,6 +5031,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1193701392",
+     "spotify": "7qiZfU4dY1lWllzX7mPBI3",
      "bpm": 96,
      "tags": {
       "genre": [
@@ -5035,6 +5105,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1440805856",
+     "spotify": "190jyVPHYjAqEaOGmMzdyk",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -5081,6 +5152,7 @@
      "is_new": false,
      "genre": "Dance",
      "apple": "tw/1196294581",
+     "spotify": "7gHs73wELdeycvS48JfIos",
      "bpm": 90,
      "tags": {
       "genre": [
@@ -5109,6 +5181,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6814997425",
+     "spotify": "49JeKZqejPtqJKpK7x9Ew4",
      "bpm": 92,
      "tags": {
       "genre": [
@@ -5186,6 +5259,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1440803930",
+     "spotify": "6epn3r7S14KUqlReYr77hA",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -5210,6 +5284,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1762656732",
+     "spotify": "2plbrEY59IikOBgBGLjaoe",
      "bpm": 158,
      "tags": {
       "genre": [
@@ -5625,7 +5700,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:12+08:00",
+   "fetched_at": "2026-11-05T14:56:27+08:00",
    "stale": false
   },
   {
@@ -5648,6 +5723,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1771105935",
+     "spotify": "5vNRhkKd0yEAg8suGBpjeY",
      "bpm": 149,
      "tags": {
       "mood": [
@@ -5667,6 +5743,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1727526894",
+     "spotify": "6Qb7YsAqH4wWFUMbGsCpap",
      "bpm": 123,
      "tags": {
       "genre": [
@@ -5697,6 +5774,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6814997425",
+     "spotify": "49JeKZqejPtqJKpK7x9Ew4",
      "bpm": 92,
      "tags": {
       "genre": [
@@ -5722,6 +5800,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6793277028",
+     "spotify": "19UnXjpLshSLobPspdyxlD",
      "bpm": 122,
      "tags": {
       "genre": [
@@ -5742,6 +5821,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6809951681",
+     "spotify": "1VWiDyYTrqQhhmnWANWkFa",
      "bpm": 70,
      "tags": {
       "genre": [
@@ -5765,6 +5845,7 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/6822513749",
+     "spotify": "6btmjh1p327BMAJAczq9Lf",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -5789,6 +5870,7 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/6804002999",
+     "spotify": "3bgnrHHwyYRtz3ykzAVImy",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -5814,6 +5896,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "tw/1842202784",
+     "spotify": "3vJIaiTIHxHhYafTSPNiH4",
      "bpm": 129,
      "tags": {
       "genre": [
@@ -5841,6 +5924,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6822497774",
+     "spotify": "2sFepQNyl1WjpROruP8bJ0",
      "bpm": 133,
      "tags": {
       "genre": [
@@ -5867,6 +5951,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6804046959",
+     "spotify": "75QkBCdRc5DGgcyPiVSg4b",
      "bpm": 138,
      "tags": {
       "genre": [
@@ -5887,6 +5972,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1691508823",
+     "spotify": "6Z1IBgysq1FfSzhQWUdvAc",
      "bpm": 89,
      "tags": {
       "mood": [
@@ -5907,6 +5993,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6814691433",
+     "spotify": "77uAqjyh3R6haTQMvhT1o6",
      "bpm": 117,
      "tags": {
       "genre": [
@@ -5936,6 +6023,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1440670792",
+     "spotify": "1D4PL9B8gOg78jiHg3FvBb",
      "bpm": 119,
      "tags": {
       "genre": [
@@ -5959,6 +6047,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1762656732",
+     "spotify": "2plbrEY59IikOBgBGLjaoe",
      "bpm": 158,
      "tags": {
       "genre": [
@@ -5982,6 +6071,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1868482073",
+     "spotify": "68lbSrXDORS51pmyjZv712",
      "bpm": 94,
      "tags": {
       "mood": [
@@ -6000,6 +6090,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1800281048",
+     "spotify": "0fK7ie6XwGxQTIkpFoWkd1",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -6026,6 +6117,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1193701392",
+     "spotify": "7qiZfU4dY1lWllzX7mPBI3",
      "bpm": 96,
      "tags": {
       "genre": [
@@ -6054,6 +6146,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1440805856",
+     "spotify": "190jyVPHYjAqEaOGmMzdyk",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -6079,6 +6172,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1574968888",
+     "spotify": "5HCyWlXZPP0y6Gqq8TgA20",
      "bpm": 170,
      "tags": {
       "genre": [
@@ -6112,6 +6206,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1771105929",
+     "spotify": "1z5ebC9238uGoBgzYyvGpQ",
      "bpm": 84,
      "tags": {
       "genre": [
@@ -6137,6 +6232,7 @@
      "is_new": false,
      "genre": "Dance",
      "apple": "tw/1207120448",
+     "spotify": "1dNIEtp7AY3oDAKCGg2XkH",
      "bpm": 103,
      "tags": {
       "genre": [
@@ -6238,6 +6334,7 @@
      "is_new": false,
      "genre": "Dance",
      "apple": "tw/1196294581",
+     "spotify": "7gHs73wELdeycvS48JfIos",
      "bpm": 90,
      "tags": {
       "genre": [
@@ -6266,6 +6363,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1440803930",
+     "spotify": "6epn3r7S14KUqlReYr77hA",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -6792,7 +6890,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:14+08:00",
+   "fetched_at": "2026-11-05T14:56:29+08:00",
    "stale": false
   },
   {
@@ -6880,6 +6978,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1520198760",
+     "spotify": "62Lv9WcrfzJqhvYDbilJy3",
      "bpm": 90,
      "tags": {
       "mood": [
@@ -6897,6 +6996,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1837658529",
+     "spotify": "146nuut7QVZgIZy63ZxhCd",
      "bpm": 135,
      "tags": {
       "genre": [
@@ -6942,6 +7042,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1542182767",
+     "spotify": "0T4AitQuq8IJhWBWuZwkFA",
      "bpm": 135,
      "tags": {
       "genre": [
@@ -6990,6 +7091,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1490256995",
+     "spotify": "3dPtXHP0oXQ4HCWHsOA9js",
      "bpm": 130,
      "tags": {
       "mood": [
@@ -7032,6 +7134,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1688334537",
+     "spotify": "1zVsw1SqQKgtzE4aqmE8nE",
      "bpm": 166,
      "tags": {
       "mood": [
@@ -7060,6 +7163,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6817668876",
+     "spotify": "2t5C9K8bQMCHXG0zdXRI12",
      "bpm": 100,
      "tags": {
       "genre": [
@@ -7152,6 +7256,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1544083979",
+     "spotify": "06XQvnJb53SUYmlWIhUXUi",
      "bpm": 170,
      "tags": {
       "mood": [
@@ -7230,6 +7335,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1692762654",
+     "spotify": "348NF6vX0Yh22xvH0EZEro",
      "bpm": 117,
      "tags": {
       "genre": [
@@ -7257,6 +7363,7 @@
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/1537908359",
+     "spotify": "0qMip0B2D4ePEjBJvAtYre",
      "bpm": 144,
      "tags": {
       "genre": [
@@ -7286,6 +7393,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1781833058",
+     "spotify": "2cxcqKwQtfKq7giphxjzOu",
      "bpm": 103,
      "tags": {
       "genre": [
@@ -7306,6 +7414,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/6803148739",
+     "spotify": "7HNGIBi7xkcN1YGyhdjPkA",
      "bpm": 83,
      "tags": {
       "genre": [
@@ -7348,6 +7457,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1706832137",
+     "spotify": "7dTW21YAJxnAOiUh7Rtu9S",
      "bpm": 150,
      "tags": {
       "genre": [
@@ -7423,6 +7533,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/6817260751",
+     "spotify": "2j0mQg77Ivev2aIksyiiqc",
      "bpm": 106,
      "tags": {
       "genre": [
@@ -7817,6 +7928,7 @@
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/75471729",
+     "spotify": "3Kihz14e1cNkpl5PiJOiB7",
      "bpm": 104,
      "tags": {
       "genre": [
@@ -7880,7 +7992,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:15+08:00",
+   "fetched_at": "2026-11-05T14:56:31+08:00",
    "stale": false
   },
   {
@@ -7968,6 +8080,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1520198760",
+     "spotify": "62Lv9WcrfzJqhvYDbilJy3",
      "bpm": 90,
      "tags": {
       "mood": [
@@ -7985,6 +8098,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1542182767",
+     "spotify": "0T4AitQuq8IJhWBWuZwkFA",
      "bpm": 135,
      "tags": {
       "genre": [
@@ -8031,6 +8145,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1688334537",
+     "spotify": "1zVsw1SqQKgtzE4aqmE8nE",
      "bpm": 166,
      "tags": {
       "mood": [
@@ -8050,6 +8165,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1837658529",
+     "spotify": "146nuut7QVZgIZy63ZxhCd",
      "bpm": 135,
      "tags": {
       "genre": [
@@ -8076,6 +8192,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1490256995",
+     "spotify": "3dPtXHP0oXQ4HCWHsOA9js",
      "bpm": 130,
      "tags": {
       "mood": [
@@ -8106,6 +8223,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/6803148739",
+     "spotify": "7HNGIBi7xkcN1YGyhdjPkA",
      "bpm": 83,
      "tags": {
       "genre": [
@@ -8128,6 +8246,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/6817260751",
+     "spotify": "2j0mQg77Ivev2aIksyiiqc",
      "bpm": 106,
      "tags": {
       "genre": [
@@ -8148,6 +8267,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6817668876",
+     "spotify": "2t5C9K8bQMCHXG0zdXRI12",
      "bpm": 100,
      "tags": {
       "genre": [
@@ -8172,6 +8292,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1692762654",
+     "spotify": "348NF6vX0Yh22xvH0EZEro",
      "bpm": 117,
      "tags": {
       "genre": [
@@ -8199,6 +8320,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1544083979",
+     "spotify": "06XQvnJb53SUYmlWIhUXUi",
      "bpm": 170,
      "tags": {
       "mood": [
@@ -8218,6 +8340,7 @@
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/1537908359",
+     "spotify": "0qMip0B2D4ePEjBJvAtYre",
      "bpm": 144,
      "tags": {
       "genre": [
@@ -8256,6 +8379,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1781833058",
+     "spotify": "2cxcqKwQtfKq7giphxjzOu",
      "bpm": 103,
      "tags": {
       "genre": [
@@ -8626,6 +8750,7 @@
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/75471729",
+     "spotify": "3Kihz14e1cNkpl5PiJOiB7",
      "bpm": 104,
      "tags": {
       "genre": [
@@ -8957,7 +9082,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:17+08:00",
+   "fetched_at": "2026-11-05T14:56:33+08:00",
    "stale": false
   },
   {
@@ -8980,6 +9105,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6820428730",
+     "spotify": "5PvLNQRNRj61y3CU4SFIY4",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -9017,6 +9143,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6804744599",
+     "spotify": "3Vqe75qMPQP62qE3zr9WLg",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -9043,6 +9170,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6822369089",
+     "spotify": "79kqYxIkS29va2I9AeL9ak",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -9070,6 +9198,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6770401926",
+     "spotify": "55UDXtbNJBAdTdUdbRu8T3",
      "bpm": 124,
      "tags": {
       "genre": [
@@ -9104,6 +9233,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6823611520",
+     "spotify": "7It5Iy4mnJWMhESt7qfipt",
      "bpm": 102,
      "tags": {
       "genre": [
@@ -9129,6 +9259,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6819587772",
+     "spotify": "5JaMKAodzzLdFM2ARRTXb9",
      "bpm": 79,
      "tags": {
       "genre": [
@@ -9151,6 +9282,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6827986397",
+     "spotify": "6tCdlXvD1hI2A75478KRfs",
      "bpm": 100,
      "tags": {
       "genre": [
@@ -9179,6 +9311,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6827986388",
+     "spotify": "0z0UyzMHqtNX2mOszSSaxb",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -9208,6 +9341,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1820264150",
+     "spotify": "5Cp75TUMrHF6c8xbhdligS",
      "bpm": 123,
      "tags": {
       "genre": [
@@ -9236,6 +9370,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6827986380",
+     "spotify": "5428uErjDR48984BaNTXYW",
      "bpm": 97,
      "tags": {
       "genre": [
@@ -9256,6 +9391,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6827986384",
+     "spotify": "59nquU67wTyjITfAoxM1Oj",
      "bpm": 160,
      "tags": {
       "mood": [
@@ -9277,6 +9413,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6827986400",
+     "spotify": "2Q5tTrK4WDTJTcW4F2Yfba",
      "bpm": 139,
      "tags": {
       "genre": [
@@ -9305,6 +9442,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6818511627",
+     "spotify": "7p5vmTVOOwY4CFG1EkmSpU",
      "bpm": 146,
      "tags": {
       "genre": [
@@ -9377,6 +9515,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1794882500",
+     "spotify": "0Cu8JdYvV9DdmzLzhxaZLH",
      "bpm": 150,
      "tags": {
       "mood": [
@@ -9398,6 +9537,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6801365250",
+     "spotify": "4pZi0VxU2C8zuxCYfEtFuL",
      "bpm": 140,
      "tags": {
       "genre": [
@@ -9422,6 +9562,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1822933222",
+     "spotify": "1fDGN1BOe1eMgofgO6qxm0",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -9447,6 +9588,7 @@
      "is_new": false,
      "genre": "Hip-Hop/Rap",
      "apple": "tw/1314237014",
+     "spotify": "3dI59jLoFMjMAyUAyRZnkE",
      "bpm": 68,
      "tags": {
       "genre": [
@@ -9473,6 +9615,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6808583619",
+     "spotify": "0cbgFMxCXMzs80R2vxwApT",
      "bpm": 80,
      "tags": {
       "genre": [
@@ -9494,6 +9637,7 @@
      "is_new": false,
      "genre": "Korean Hip-Hop",
      "apple": "tw/6763988598",
+     "spotify": "4cox7ONwuCwUvfZ9fsGDVu",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -9519,6 +9663,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6812956004",
+     "spotify": "6cnhP7JmTV1CHJJEonNC4b",
      "bpm": 122,
      "tags": {
       "genre": [
@@ -9594,6 +9739,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6813197034",
+     "spotify": "6UeSC8jEhf9XmUL8EX2rni",
      "bpm": 68,
      "tags": {
       "genre": [
@@ -9997,6 +10143,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6812155967",
+     "spotify": "1hXVB56zx5oM7KUJsFRTxy",
      "bpm": 132,
      "tags": {
       "genre": [
@@ -10168,7 +10315,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:19+08:00",
+   "fetched_at": "2026-11-05T14:56:35+08:00",
    "stale": false
   },
   {
@@ -10191,6 +10338,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6820428730",
+     "spotify": "5PvLNQRNRj61y3CU4SFIY4",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -10219,6 +10367,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6804744599",
+     "spotify": "3Vqe75qMPQP62qE3zr9WLg",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -10245,6 +10394,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6770401926",
+     "spotify": "55UDXtbNJBAdTdUdbRu8T3",
      "bpm": 124,
      "tags": {
       "genre": [
@@ -10270,6 +10420,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6822369089",
+     "spotify": "79kqYxIkS29va2I9AeL9ak",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -10297,6 +10448,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6823611520",
+     "spotify": "7It5Iy4mnJWMhESt7qfipt",
      "bpm": 102,
      "tags": {
       "genre": [
@@ -10331,6 +10483,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1820264150",
+     "spotify": "5Cp75TUMrHF6c8xbhdligS",
      "bpm": 123,
      "tags": {
       "genre": [
@@ -10379,6 +10532,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6819587772",
+     "spotify": "5JaMKAodzzLdFM2ARRTXb9",
      "bpm": 79,
      "tags": {
       "genre": [
@@ -10401,6 +10555,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6812155967",
+     "spotify": "1hXVB56zx5oM7KUJsFRTxy",
      "bpm": 132,
      "tags": {
       "genre": [
@@ -10426,6 +10581,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6801365250",
+     "spotify": "4pZi0VxU2C8zuxCYfEtFuL",
      "bpm": 140,
      "tags": {
       "genre": [
@@ -10450,6 +10606,7 @@
      "is_new": false,
      "genre": "Hip-Hop/Rap",
      "apple": "tw/1314237014",
+     "spotify": "3dI59jLoFMjMAyUAyRZnkE",
      "bpm": 68,
      "tags": {
       "genre": [
@@ -10498,6 +10655,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6812956004",
+     "spotify": "6cnhP7JmTV1CHJJEonNC4b",
      "bpm": 122,
      "tags": {
       "genre": [
@@ -10528,6 +10686,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1794882500",
+     "spotify": "0Cu8JdYvV9DdmzLzhxaZLH",
      "bpm": 150,
      "tags": {
       "mood": [
@@ -10549,6 +10708,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6808583619",
+     "spotify": "0cbgFMxCXMzs80R2vxwApT",
      "bpm": 80,
      "tags": {
       "genre": [
@@ -10570,6 +10730,7 @@
      "is_new": false,
      "genre": "Korean Hip-Hop",
      "apple": "tw/6763988598",
+     "spotify": "4cox7ONwuCwUvfZ9fsGDVu",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -10595,6 +10756,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6813197034",
+     "spotify": "6UeSC8jEhf9XmUL8EX2rni",
      "bpm": 68,
      "tags": {
       "genre": [
@@ -10620,6 +10782,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1822933222",
+     "spotify": "1fDGN1BOe1eMgofgO6qxm0",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -10645,6 +10808,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6827986397",
+     "spotify": "6tCdlXvD1hI2A75478KRfs",
      "bpm": 100,
      "tags": {
       "genre": [
@@ -10718,6 +10882,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6827986380",
+     "spotify": "5428uErjDR48984BaNTXYW",
      "bpm": 97,
      "tags": {
       "genre": [
@@ -10783,6 +10948,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6827986384",
+     "spotify": "59nquU67wTyjITfAoxM1Oj",
      "bpm": 160,
      "tags": {
       "mood": [
@@ -10804,6 +10970,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6827986388",
+     "spotify": "0z0UyzMHqtNX2mOszSSaxb",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -11006,6 +11173,7 @@
      "is_new": true,
      "genre": "K-Pop",
      "apple": "tw/6827986400",
+     "spotify": "2Q5tTrK4WDTJTcW4F2Yfba",
      "bpm": 139,
      "tags": {
       "genre": [
@@ -11357,7 +11525,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:21+08:00",
+   "fetched_at": "2026-11-05T14:56:36+08:00",
    "stale": false
   },
   {
@@ -11380,6 +11548,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/908972123",
+     "spotify": "7JX2ClsnxN9GirkOezr01O",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -11408,6 +11577,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/201575679",
+     "spotify": "77uktQePd9IdeMPVWlu1cO",
      "bpm": 77,
      "tags": {
       "genre": [
@@ -11472,6 +11642,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/6823209293",
+     "spotify": "5fiN4IOzzFcGBotGMetr4H",
      "bpm": 68,
      "tags": {
       "instrument": [
@@ -11489,6 +11660,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/6823209295",
+     "spotify": "36toYUWBdUWBpOokrhJmmc",
      "bpm": 122,
      "tags": {
       "genre": [
@@ -11619,6 +11791,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1443301425",
+     "spotify": "0PC2F01DR68Go04umziTGP",
      "bpm": 77,
      "tags": {
       "genre": [
@@ -11636,6 +11809,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1061503473",
+     "spotify": "5xtortIimEwkwKWse3nkwd",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -11686,6 +11860,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1464504124",
+     "spotify": "5ziNWI3wCH3az21wduWXsx",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -11733,6 +11908,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/892674683",
+     "spotify": "5n519MGzF1uRhOeebnwJxQ",
      "bpm": 126,
      "tags": {
       "genre": [
@@ -12464,7 +12640,7 @@
    ],
    "period_key": "2026-11-04",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:23+08:00",
+   "fetched_at": "2026-11-05T14:56:38+08:00",
    "stale": false
   },
   {
@@ -12487,6 +12663,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/908972123",
+     "spotify": "7JX2ClsnxN9GirkOezr01O",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -12515,6 +12692,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/201575679",
+     "spotify": "77uktQePd9IdeMPVWlu1cO",
      "bpm": 77,
      "tags": {
       "genre": [
@@ -12553,6 +12731,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/6823209293",
+     "spotify": "5fiN4IOzzFcGBotGMetr4H",
      "bpm": 68,
      "tags": {
       "instrument": [
@@ -12708,6 +12887,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1443301425",
+     "spotify": "0PC2F01DR68Go04umziTGP",
      "bpm": 77,
      "tags": {
       "genre": [
@@ -12798,6 +12978,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/892674683",
+     "spotify": "5n519MGzF1uRhOeebnwJxQ",
      "bpm": 126,
      "tags": {
       "genre": [
@@ -12913,6 +13094,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1464504124",
+     "spotify": "5ziNWI3wCH3az21wduWXsx",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -12933,6 +13115,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1061503473",
+     "spotify": "5xtortIimEwkwKWse3nkwd",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -13541,6 +13724,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1464504134",
+     "spotify": "2xsfwyT49o2OCoPieXMxQC",
      "bpm": 74
     },
     {
@@ -13558,7 +13742,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:25+08:00",
+   "fetched_at": "2026-11-05T14:56:40+08:00",
    "stale": false
   },
   {
@@ -13581,6 +13765,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6815092483",
+     "spotify": "2a3CGolEag3y3weurGvkLV",
      "bpm": 84,
      "tags": {
       "genre": [
@@ -13613,6 +13798,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "jp/6810189174",
+     "spotify": "0ykKwja0lp6MSQKl71eT9C",
      "bpm": 74,
      "tags": {
       "genre": [
@@ -13657,6 +13843,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6814348698",
+     "spotify": "17zS73RXlLwt4ZEvBS0ZE0",
      "bpm": 65,
      "tags": {
       "genre": [
@@ -13682,6 +13869,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6823782045",
+     "spotify": "44v6v8n1QHyVfFas5EqMQ3",
      "bpm": 69,
      "tags": {
       "genre": [
@@ -13702,6 +13890,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6820033864",
+     "spotify": "3qyOAIvd1ktL1uyzYIhkT3",
      "bpm": 174,
      "tags": {
       "genre": [
@@ -13727,6 +13916,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6818499816",
+     "spotify": "05UAdYGpfeK3xiYFe9ZE2U",
      "bpm": 125,
      "tags": {
       "mood": [
@@ -13745,6 +13935,7 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6825805202",
+     "spotify": "25rKfmSz9QTVtilqZU9f8D",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -13766,6 +13957,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6819661934",
+     "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
      "tags": {
       "genre": [
@@ -13793,6 +13985,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6818489413",
+     "spotify": "2rsOuESMh5aqCecQJhgIne",
      "bpm": 87,
      "tags": {
       "mood": [
@@ -13830,6 +14023,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6822227438",
+     "spotify": "0M7NdcRc1VzUPc3qP6eTjK",
      "bpm": 124,
      "tags": {
       "genre": [
@@ -13854,6 +14048,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "tw/6810567505",
+     "spotify": "1GS1P8Si1h4nOGKTiKZbSs",
      "bpm": 132,
      "tags": {
       "genre": [
@@ -13908,6 +14103,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6819742307",
+     "spotify": "1Bb9cFtOgwDfpZV2glOJcQ",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -14414,6 +14610,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/6823209293",
+     "spotify": "5fiN4IOzzFcGBotGMetr4H",
      "bpm": 68,
      "tags": {
       "instrument": [
@@ -14583,7 +14780,7 @@
    ],
    "period_key": "2026-10-23_2026-10-29",
    "rank_change": "site",
-   "fetched_at": "2026-11-05T14:54:27+08:00",
+   "fetched_at": "2026-11-05T14:56:42+08:00",
    "stale": false
   }
  ]
