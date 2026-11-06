@@ -8,8 +8,12 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-05T17:19:32+08:00",
- "errors": [],
+ "checked_at": "2026-11-06T11:27:50+08:00",
+ "errors": [
+  "hot: POST https://www.cashboxparty.com/ashx/ah_Song.ashx failed: The read operation timed out",
+  "foreign: POST https://www.cashboxparty.com/ashx/ah_Song.ashx failed: The read operation timed out",
+  "new: POST https://www.cashboxparty.com/ashx/ah_Song.ashx failed: The read operation timed out"
+ ],
  "charts": [
   {
    "id": "hot-01",
@@ -406,7 +410,9 @@
       "label": "Passion Music Sdn.Bhd",
       "album": "再愛一遍·天后",
       "copyright": "℗ 2011 Passion Music Sdn.Bhd.",
+      "mb": "8b0b746c-fd8c-4ec1-91d1-b67e76b0ea09",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -852,12 +858,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "姚若龍"
+      ],
+      "composer": [
+       "蕭煌奇"
+      ],
+      "arranger": [
+       "Martin Tang"
+      ],
+      "producer": [
+       "鍾成虎"
+      ],
       "year": "2019",
-      "released": "2019-05-16",
-      "label": "Universal Music Taiwan Ltd",
+      "released": "2019-05-21",
+      "label": "環球國際",
       "album": "我好嗎? - 太陽如常升起",
+      "isrc": "TWM831900003",
+      "maker": "天熹",
+      "type": "國語流行專輯",
       "copyright": "℗ 2019 Universal Music Taiwan Ltd.",
+      "ncl": 254310,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -1116,12 +1139,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "修齊(劉修齊)"
+      ],
+      "composer": [
+       "修齊(劉修齊)"
+      ],
       "year": "2024",
       "released": "2024-09-30",
-      "label": "火玄火包股份有限公司 AmazingShow CO LTD",
+      "label": "滾石移動股份有限公司",
       "album": "美秀集團同名專輯",
+      "isrc": "TWU712405609",
+      "maker": "火玄火包股份有限公司 AmazingShow CO LTD",
+      "type": "國語流行專輯",
       "copyright": "℗ 2024 火玄火包股份有限公司 AmazingShow CO LTD",
+      "ncl": 526725,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -1217,12 +1251,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "九把刀"
+      ],
+      "composer": [
+       "WeiBird 韋禮安",
+       "JerryC"
+      ],
+      "arranger": [
+       "JerryC"
+      ],
+      "producer": [
+       "JerryC"
+      ],
       "year": "2021",
       "released": "2021-11-05",
-      "label": "Sony Music Entertainment Taiwan Ltd",
-      "album": "如果可以 (電影\"月老\"主題曲) - Single",
+      "label": "台灣索尼音樂娛樂股份有限公司",
+      "album": "如果可以",
+      "isrc": "TWA472116001",
+      "type": "國語流行專輯",
       "copyright": "℗ 2021 Sony Music Entertainment Taiwan Ltd.",
+      "ncl": 386365,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -1265,7 +1316,7 @@
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
    "fetched_at": "2026-11-05T17:19:28+08:00",
-   "stale": false
+   "stale": true
   },
   {
    "id": "hot-02",
@@ -2086,12 +2137,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "方文山"
+      ],
+      "composer": [
+       "周杰倫"
+      ],
+      "arranger": [
+       "陳飛午"
+      ],
       "year": "1990",
       "released": "1990-02-01",
-      "label": "大信唱片股份有限公司",
-      "album": "半醉半清醒 (原版)",
+      "label": "大信唱片",
+      "album": "半醉半清醒",
+      "isrc": "TWI019900104",
       "copyright": "℗ 2002 大信唱片股份有限公司",
+      "ncl": 122126,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -2118,12 +2181,24 @@
       ]
      },
      "info": {
-      "year": "1995",
-      "released": "1995-01-01",
-      "label": "Dieng Jung Record Co",
-      "album": "半調子 (一)",
+      "lyricist": [
+       "羅文聰"
+      ],
+      "composer": [
+       "吉幾三"
+      ],
+      "arranger": [
+       "洪艾倫"
+      ],
+      "year": "1993",
+      "released": "1993-01-01",
+      "label": "點將",
+      "album": "感情放一邊",
+      "isrc": "TWA239300021",
       "copyright": "℗ 1995 Dieng Jung Record Co.",
+      "ncl": 12639,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -2199,12 +2274,35 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "陳皓宇",
+       "廖建至",
+       "洪瑜鴻"
+      ],
+      "composer": [
+       "陳皓宇",
+       "廖建至",
+       "洪瑜鴻",
+       "海大富"
+      ],
+      "arranger": [
+       "DJ CK 搖擺叔叔",
+       "陳皓宇",
+       "宸翔 Shaw"
+      ],
+      "producer": [
+       "海大富 Déjà Fu"
+      ],
       "year": "2024",
-      "released": "2024-11-01",
-      "label": "混血兒娛樂工作室",
-      "album": "南北二路",
+      "released": "2024-05-28",
+      "label": "混血兒娛樂股份有限公司",
+      "album": "做你的格",
+      "isrc": "TWDJ52400004",
+      "type": "台語流行專輯",
       "copyright": "℗ 2024 混血兒娛樂工作室",
+      "ncl": 517929,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -2297,12 +2395,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "李克明"
+      ],
+      "composer": [
+       "徐嘉良"
+      ],
+      "arranger": [
+       "陳飛午"
+      ],
       "year": "1997",
       "released": "1997-12-01",
-      "label": "Linfair Records Limited",
-      "album": "愛到才知痛-雨傘情",
+      "label": "上華",
+      "album": "山盟海誓精選重唱+新歌",
+      "isrc": "TWC310002106",
+      "maker": "老虎",
       "copyright": "℗ 1997 Linfair Records Limited",
+      "ncl": 49054,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -2447,7 +2558,7 @@
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
    "fetched_at": "2026-11-05T17:19:28+08:00",
-   "stale": false
+   "stale": true
   },
   {
    "id": "hot-03",
@@ -2664,12 +2775,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "Dick Lee"
+      ],
       "year": "1995",
       "released": "1995-07-07",
       "label": "Rock Records Co., Ltd",
       "album": "滾石香港黃金十年-張國榮精選",
       "copyright": "℗ 2003 Rock Records Co., Ltd.",
+      "mb": "ee267a9e-80d8-4c8d-bc1b-d2f2a8059c41",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3245,12 +3364,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林振強"
+      ],
+      "composer": [
+       "桑田佳佑"
+      ],
       "year": "1991",
       "released": "1991-01-01",
-      "label": "Universal Music Ltd",
-      "album": "情不禁",
+      "label": "上華",
+      "album": "學友光年世界巡迴演唱會’07香港(CD版)",
+      "isrc": "TWA550817218",
+      "maker": "ioi Limited",
       "copyright": "℗ 1991 Universal Music Ltd.",
+      "ncl": 30705,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -3478,7 +3607,7 @@
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
    "fetched_at": "2026-11-05T17:19:30+08:00",
-   "stale": false
+   "stale": true
   },
   {
    "id": "hot-04",
@@ -3603,11 +3732,13 @@
       "composer": [
        "三木たかし"
       ],
-      "year": "2019",
-      "released": "2019-03-30",
-      "album": "Stereo Sound ORIGINAL SELECTION Vol.1: Teresa Teng",
-      "isrc": "JPTA08600010",
-      "mb": "a9067f43-fbab-40f8-a412-5db99a2d2b3b",
+      "producer": [
+       "s-ken"
+      ],
+      "year": "1999",
+      "released": "1999-06-30",
+      "album": "Teresa Teng Tribute 〜Re-make, Re-model〜",
+      "mb": "15d60244-4584-41e1-8563-52f18abeba43",
       "src": [
        "mb"
       ]
@@ -3713,12 +3844,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黄明志"
+      ],
+      "composer": [
+       "黄明志"
+      ],
+      "arranger": [
+       "李乃刚"
+      ],
       "year": "2017",
-      "released": "2017-12-01",
+      "released": "2017-11-19",
       "label": "亞洲通文創有限公司",
       "album": "亞洲通吃",
       "copyright": "℗ 2017 亞洲通文創有限公司",
+      "mb": "940c87eb-3e2d-4f42-a942-109d42be3cb5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4383,7 +4525,7 @@
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
    "fetched_at": "2026-11-05T17:19:30+08:00",
-   "stale": false
+   "stale": true
   },
   {
    "id": "hot-05",
@@ -4691,12 +4833,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Jesper Borgen",
+       "Anders Frøen",
+       "Gunnar Greve",
+       "Alan Walker"
+      ],
+      "composer": [
+       "Jesper Borgen",
+       "Anders Frøen",
+       "Gunnar Greve",
+       "Alan Walker"
+      ],
       "year": "2015",
       "released": "2015-12-03",
       "label": "MER",
       "album": "Faded - EP",
       "copyright": "℗ 2015 MER under exclusive license to Sony Music Entertainment Sweden AB",
+      "mb": "64330112-0e44-4094-8353-f0cf178f3eec",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4728,12 +4884,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Guy Berryman",
+       "Jonny Buckland",
+       "Will Champion",
+       "Chris Martin"
+      ],
+      "composer": [
+       "Guy Berryman",
+       "Jonny Buckland",
+       "Will Champion",
+       "Chris Martin"
+      ],
       "year": "2000",
       "released": "2000-06-26",
       "label": "Parlophone Records Ltd, a Warner Music Group Company",
       "album": "Yellow - Single",
       "copyright": "℗ 2000 Parlophone Records Ltd, a Warner Music Group Company",
+      "mb": "b5b67f4d-16c2-4fc5-a0a8-0300dd588cac",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4764,12 +4934,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Lady Gaga",
+       "RedOne"
+      ],
+      "composer": [
+       "Lady Gaga",
+       "RedOne"
+      ],
       "year": "2009",
       "released": "2009-10-26",
       "label": "An Interscope Records Release; ℗ 2014 UMG Recordings, Inc",
       "album": "The Fame Monster (Deluxe Edition)",
       "copyright": "An Interscope Records Release; ℗ 2014 UMG Recordings, Inc.",
+      "mb": "295b817f-58bc-4252-9584-afd7800e1535",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4886,12 +5066,11 @@
        "Nasri"
       ],
       "year": "2010",
-      "released": "2010-03-19",
+      "released": "2010-01-01",
       "label": "The Island Def Jam Music Group",
       "album": "My World 2.0",
-      "isrc": "USUM72201149",
       "copyright": "℗ 2010 The Island Def Jam Music Group",
-      "mb": "bd647298-42ef-451e-a3b4-e730bb51ad28",
+      "mb": "745dab9b-2e1e-418a-a0e2-2cafff497bef",
       "src": [
        "mb",
        "apple"
@@ -5030,12 +5209,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Howard Ashman"
+      ],
+      "composer": [
+       "Alan Menken"
+      ],
       "year": "1991",
       "released": "1991-10-29",
       "label": "Buena Vista Pictures Distribution, Inc",
       "album": "Beauty and the Beast (Soundtrack from the Motion Picture)",
       "copyright": "This Compilation ℗ 1991 Buena Vista Pictures Distribution, Inc.",
+      "mb": "2ae17f1f-2bc4-49c8-908e-d2852d120717",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5457,7 +5644,7 @@
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
    "fetched_at": "2026-11-05T17:19:30+08:00",
-   "stale": false
+   "stale": true
   },
   {
    "id": "new-01",
@@ -5868,7 +6055,9 @@
       "label": "北京万象星云文化有限公司",
       "album": "男人的嘴騙人的鬼 - EP",
       "copyright": "℗ 2023 北京万象星云文化有限公司",
+      "mb": "cee94f14-4fd8-4c48-a8e4-9a06b1a137fc",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6217,12 +6406,28 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "薛之謙"
+      ],
+      "composer": [
+       "宋濤"
+      ],
+      "arranger": [
+       "宋濤"
+      ],
+      "producer": [
+       "宋濤"
+      ],
       "year": "2024",
       "released": "2024-07-17",
-      "label": "潮石音乐",
+      "label": "千畝稻田文化娛樂有限公司",
       "album": "守村人",
+      "isrc": "TWKE32426601",
+      "type": "國語流行專輯",
       "copyright": "℗ 2024 潮石音乐",
+      "ncl": 516893,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -6315,12 +6520,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "LAWA"
+      ],
+      "composer": [
+       "LAWA"
+      ],
       "year": "2026",
       "released": "2026-08-21",
-      "label": "Fortune Coookie Records Ltd",
-      "album": "火花 - Single",
+      "label": "福祿壽音樂娛樂有限公司",
+      "album": "火花",
+      "isrc": "TWIE12600008",
+      "type": "國語流行專輯",
       "copyright": "℗ 2026 Fortune Coookie Records Ltd., under exclusive license to Universal Music Taiwan Ltd.",
+      "ncl": 668364,
       "src": [
+       "ncl",
        "apple"
       ]
      }
@@ -6513,7 +6728,7 @@
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
    "fetched_at": "2026-11-05T17:19:32+08:00",
-   "stale": false
+   "stale": true
   },
   {
    "id": "new-02",
@@ -7603,7 +7818,7 @@
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
    "fetched_at": "2026-11-05T17:19:32+08:00",
-   "stale": false
+   "stale": true
   }
  ]
 }

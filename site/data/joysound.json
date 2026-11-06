@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.joysound.com/",
- "checked_at": "2026-11-05T17:19:42+08:00",
+ "checked_at": "2026-11-06T11:28:05+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,7 +18,7 @@
     "en": "Overall · Daily",
     "ja": "総合 デイリー"
    },
-   "period": "2026/11/04",
+   "period": "2026/11/05",
    "source_url": "https://www.joysound.com/web/karaoke/ranking/all",
    "rows": [
     {
@@ -34,7 +34,7 @@
      "title": "残酷な天使のテーゼ",
      "artist": "高橋洋子",
      "song_url": "https://www.joysound.com/web/search/song/9629",
-     "last_rank": 3,
+     "last_rank": 2,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1549545978",
@@ -69,7 +69,7 @@
      "title": "怪獣の花唄",
      "artist": "Vaundy",
      "song_url": "https://www.joysound.com/web/search/song/830943",
-     "last_rank": 4,
+     "last_rank": 3,
      "is_new": false,
      "kkbox": "P-DEF6WWhnTeOCytlD",
      "genre": "Rock",
@@ -117,45 +117,6 @@
     },
     {
      "rank": 4,
-     "title": "好きすぎて滅!",
-     "artist": "M!LK",
-     "song_url": "https://www.joysound.com/web/search/song/1143475",
-     "last_rank": 2,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1846753946",
-     "spotify": "0vDqNzQqEhl7boeRS3Joli",
-     "bpm": 151,
-     "tags": {
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "MUTEKI DEAD SNAKE"
-      ],
-      "composer": [
-       "浅野尚志"
-      ],
-      "arranger": [
-       "浅野尚志"
-      ],
-      "year": "2025",
-      "released": "2025-10-27",
-      "label": "Victor Entertainment",
-      "album": "好きすぎて滅! - Single",
-      "isrc": "JPVI02502804",
-      "copyright": "℗ Victor Entertainment",
-      "mb": "0d55a765-a5a9-4b3b-94e5-f61d44a9e8dd",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 5,
      "title": "マリーゴールド",
      "artist": "あいみょん",
      "song_url": "https://www.joysound.com/web/search/song/696651",
@@ -191,11 +152,50 @@
      }
     },
     {
+     "rank": 5,
+     "title": "好きすぎて滅!",
+     "artist": "M!LK",
+     "song_url": "https://www.joysound.com/web/search/song/1143475",
+     "last_rank": 4,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1846753946",
+     "spotify": "0vDqNzQqEhl7boeRS3Joli",
+     "bpm": 151,
+     "tags": {
+      "instrument": [
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "MUTEKI DEAD SNAKE"
+      ],
+      "composer": [
+       "浅野尚志"
+      ],
+      "arranger": [
+       "浅野尚志"
+      ],
+      "year": "2025",
+      "released": "2025-10-27",
+      "label": "Victor Entertainment",
+      "album": "好きすぎて滅! - Single",
+      "isrc": "JPVI02502804",
+      "copyright": "℗ Victor Entertainment",
+      "mb": "0d55a765-a5a9-4b3b-94e5-f61d44a9e8dd",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 6,
      "title": "サウダージ",
      "artist": "ポルノグラフィティ",
      "song_url": "https://www.joysound.com/web/search/song/24592",
-     "last_rank": 7,
+     "last_rank": 6,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1538303081",
@@ -214,12 +214,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "新藤晴一"
+      ],
+      "composer": [
+       "本間昭光"
+      ],
       "year": "2000",
       "released": "2000-09-13",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "サウダージ - EP",
+      "isrc": "JPSR00005541",
       "copyright": "℗ 2000 Sony Music Entertainment (Japan) Inc.",
+      "mb": "edebe413-32ee-4c23-9586-6bf28e1dd309",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -229,7 +238,7 @@
      "title": "さよならエレジー",
      "artist": "菅田将暉",
      "song_url": "https://www.joysound.com/web/search/song/667498",
-     "last_rank": 8,
+     "last_rank": 7,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1538151144",
@@ -276,7 +285,7 @@
      "title": "水平線",
      "artist": "back number",
      "song_url": "https://www.joysound.com/web/search/song/850206",
-     "last_rank": 6,
+     "last_rank": 8,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1579439168",
@@ -297,12 +306,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
+      "arranger": [
+       "back number",
+       "島田昌典"
+      ],
+      "producer": [
+       "島田昌典"
+      ],
+      "mix": [
+       "渡辺敏広"
+      ],
+      "recording": [
+       "渡辺敏広"
+      ],
       "year": "2021",
       "released": "2021-08-13",
       "label": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
       "album": "水平線 - Single",
+      "isrc": "JPPO02100907",
       "copyright": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
+      "mb": "02689e6a-9a9f-4415-9218-bb3da1dc1a87",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -312,7 +343,7 @@
      "title": "クリスマスソング",
      "artist": "back number",
      "song_url": "https://www.joysound.com/web/search/song/542563",
-     "last_rank": 14,
+     "last_rank": 9,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1451577755",
@@ -355,7 +386,7 @@
      "title": "高嶺の花子さん",
      "artist": "back number",
      "song_url": "https://www.joysound.com/web/search/song/255170",
-     "last_rank": 9,
+     "last_rank": 10,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1451577752",
@@ -376,12 +407,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2013",
       "released": "2013-06-26",
       "label": "UNIVERSAL SIGMA",
       "album": "アンコール",
+      "isrc": "JPPO01336381",
       "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "efcdd440-c922-44ac-9487-4d4afb95ceb7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -391,7 +431,7 @@
      "title": "Yes! 東京",
      "artist": "EBiDAN (恵比寿学園男子部)",
      "song_url": "https://www.joysound.com/web/search/song/1188409",
-     "last_rank": 10,
+     "last_rank": 11,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/6793870938",
@@ -454,7 +494,7 @@
      "title": "ダーリン",
      "artist": "Mrs. GREEN APPLE",
      "song_url": "https://www.joysound.com/web/search/song/1051516",
-     "last_rank": 11,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1790599512",
@@ -466,12 +506,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "arranger": [
+       "伊藤賢",
+       "大森元貴"
+      ],
       "year": "2025",
-      "released": "2025-01-20",
+      "released": "2025-01-19",
       "label": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
       "album": "ダーリン - EP",
+      "isrc": "JPPO02500038",
       "copyright": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "mb": "5d503860-e282-431a-b755-a99a31b608ce",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -481,7 +534,7 @@
      "title": "IRIS OUT",
      "artist": "米津玄師",
      "song_url": "https://www.joysound.com/web/search/song/1122881",
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "kkbox": "X-rukn0L-uxSg85u8t",
      "genre": "J-Pop",
@@ -535,10 +588,108 @@
     },
     {
      "rank": 15,
+     "title": "糸",
+     "artist": "中島みゆき",
+     "song_url": "https://www.joysound.com/web/search/song/7141",
+     "last_rank": 21,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1654000188",
+     "bpm": 72,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "1992",
+      "released": "1992-10-07",
+      "label": "Yamaha Music Entertainment Holdings Inc",
+      "album": "命の別名 - Single",
+      "copyright": "℗ 2002 Yamaha Music Entertainment Holdings Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 16,
+     "title": "とくべチュ、して",
+     "artist": "=LOVE",
+     "song_url": "https://www.joysound.com/web/search/song/1089203",
+     "last_rank": 17,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1794066813",
+     "spotify": "2XS2jEncSJsetNZdVtlpeo",
+     "bpm": 147,
+     "tags": {
+      "genre": [
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ]
+     },
+     "info": {
+      "year": "2025",
+      "released": "2025-02-10",
+      "label": "Sony Music Labels Inc",
+      "album": "とくべチュ、して - Single",
+      "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 17,
+     "title": "チェリー",
+     "artist": "スピッツ",
+     "song_url": "https://www.joysound.com/web/search/song/9905",
+     "last_rank": 23,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1440747285",
+     "bpm": 97,
+     "tags": {
+      "genre": [
+       "City Pop",
+       "Pop Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "1996",
+      "released": "1996-04-10",
+      "label": "UNIVERSAL J",
+      "album": "インディゴ地平線",
+      "copyright": "℗ 1996 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 18,
      "title": "しわあわせ",
      "artist": "Vaundy",
      "song_url": "https://www.joysound.com/web/search/song/876689",
-     "last_rank": 20,
+     "last_rank": 15,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1706829387",
@@ -579,11 +730,11 @@
      }
     },
     {
-     "rank": 16,
+     "rank": 19,
      "title": "恋人ごっこ",
      "artist": "マカロニえんぴつ",
      "song_url": "https://www.joysound.com/web/search/song/822780",
-     "last_rank": 15,
+     "last_rank": 16,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1496731154",
@@ -613,43 +764,11 @@
      }
     },
     {
-     "rank": 17,
-     "title": "とくべチュ、して",
-     "artist": "=LOVE",
-     "song_url": "https://www.joysound.com/web/search/song/1089203",
-     "last_rank": 21,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1794066813",
-     "spotify": "2XS2jEncSJsetNZdVtlpeo",
-     "bpm": 147,
-     "tags": {
-      "genre": [
-       "Dance-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ]
-     },
-     "info": {
-      "year": "2025",
-      "released": "2025-02-10",
-      "label": "Sony Music Labels Inc",
-      "album": "とくべチュ、して - Single",
-      "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 18,
+     "rank": 20,
      "title": "奏(かなで)",
      "artist": "スキマスイッチ",
      "song_url": "https://www.joysound.com/web/search/song/27353",
-     "last_rank": 25,
+     "last_rank": 18,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1445037956",
@@ -665,186 +784,21 @@
       "released": "2004-03-10",
       "label": "AUGUSTA RECORDS",
       "album": "奏(かなで) - EP",
+      "isrc": "JPPO02400518",
       "copyright": "℗ 2004 AUGUSTA RECORDS, a division of UNIVERSAL MUSIC LLC",
+      "mb": "d267e2ec-ccbc-4f0b-a016-be0f494b70fb",
       "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 19,
-     "title": "丸ノ内サディスティック",
-     "artist": "椎名林檎",
-     "song_url": "https://www.joysound.com/web/search/song/19738",
-     "last_rank": 18,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1384341683",
-     "bpm": 100,
-     "tags": {
-      "mood": [
-       "danceable",
-       "happy"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "1999",
-      "released": "1999-02-24",
-      "label": "An EMI Records release; ℗ 1999 UNIVERSAL MUSIC LLC",
-      "album": "無罪モラトリアム",
-      "copyright": "An EMI Records release; ℗ 1999 UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 20,
-     "title": "カブトムシ",
-     "artist": "aiko",
-     "song_url": "https://www.joysound.com/web/search/song/21012",
-     "last_rank": 24,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1109986324",
-     "spotify": "2Os0vzke5CakbU3dkSHckx",
-     "bpm": 75,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "1999",
-      "released": "1999-11-17",
-      "label": "Pony Canyon Inc",
-      "album": "まとめⅠ",
-      "copyright": "℗ Pony Canyon Inc.",
-      "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
      "rank": 21,
-     "title": "糸",
-     "artist": "中島みゆき",
-     "song_url": "https://www.joysound.com/web/search/song/7141",
-     "last_rank": 35,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1654000188",
-     "bpm": 72,
-     "tags": {
-      "genre": [
-       "City Pop"
-      ],
-      "mood": [
-       "sad",
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "1992",
-      "released": "1992-10-07",
-      "label": "Yamaha Music Entertainment Holdings Inc",
-      "album": "命の別名 - Single",
-      "copyright": "℗ 2002 Yamaha Music Entertainment Holdings Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 22,
-     "title": "小さな恋のうた",
-     "artist": "MONGOL800",
-     "song_url": "https://www.joysound.com/web/search/song/21589",
-     "last_rank": 16,
-     "is_new": false,
-     "genre": "Alternative",
-     "apple": "jp/273169347",
-     "spotify": "23atyJacJVHvB9RHBNhr35",
-     "bpm": 225,
-     "tags": {
-      "genre": [
-       "Punk"
-      ],
-      "mood": [
-       "aggressive",
-       "danceable"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar",
-       "bass"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "year": "2001",
-      "released": "2001-09-16",
-      "label": "HIGH WAVE CO.,LTD",
-      "album": "MESSAGE",
-      "copyright": "℗ 2001 HIGH WAVE CO.,LTD.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 23,
-     "title": "チェリー",
-     "artist": "スピッツ",
-     "song_url": "https://www.joysound.com/web/search/song/9905",
-     "last_rank": 27,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1440747285",
-     "bpm": 97,
-     "tags": {
-      "genre": [
-       "City Pop",
-       "Pop Rock"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "1996",
-      "released": "1996-04-10",
-      "label": "UNIVERSAL J",
-      "album": "インディゴ地平線",
-      "copyright": "℗ 1996 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 24,
      "title": "ハナミズキ",
      "artist": "一青窈",
      "song_url": "https://www.joysound.com/web/search/song/27215",
-     "last_rank": 30,
+     "last_rank": 24,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1444445589",
@@ -873,11 +827,74 @@
      }
     },
     {
-     "rank": 25,
+     "rank": 22,
+     "title": "丸ノ内サディスティック",
+     "artist": "椎名林檎",
+     "song_url": "https://www.joysound.com/web/search/song/19738",
+     "last_rank": 19,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1384341683",
+     "bpm": 100,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "1999",
+      "released": "1999-02-24",
+      "label": "An EMI Records release; ℗ 1999 UNIVERSAL MUSIC LLC",
+      "album": "無罪モラトリアム",
+      "copyright": "An EMI Records release; ℗ 1999 UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 23,
+     "title": "カブトムシ",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/21012",
+     "last_rank": 20,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1109986324",
+     "spotify": "2Os0vzke5CakbU3dkSHckx",
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "1999",
+      "released": "1999-11-17",
+      "label": "Pony Canyon Inc",
+      "album": "まとめⅠ",
+      "copyright": "℗ Pony Canyon Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 24,
      "title": "ひまわりの約束",
      "artist": "秦 基博",
      "song_url": "https://www.joysound.com/web/search/song/408793",
-     "last_rank": 19,
+     "last_rank": 25,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1440865459",
@@ -920,57 +937,50 @@
      }
     },
     {
-     "rank": 26,
-     "title": "点描の唄 (feat. 井上苑子)",
-     "artist": "Mrs. GREEN APPLE",
-     "song_url": "https://www.joysound.com/web/search/song/697675",
-     "last_rank": 17,
+     "rank": 25,
+     "title": "小さな恋のうた",
+     "artist": "MONGOL800",
+     "song_url": "https://www.joysound.com/web/search/song/21589",
+     "last_rank": 22,
      "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1408505419",
-     "spotify": "1sIIlVrnPhrvmTrHtzM7tV",
-     "bpm": 76,
+     "genre": "Alternative",
+     "apple": "jp/273169347",
+     "spotify": "23atyJacJVHvB9RHBNhr35",
+     "bpm": 225,
      "tags": {
       "genre": [
-       "Ballad"
+       "Punk"
       ],
       "mood": [
-       "relaxed",
-       "sad"
+       "aggressive",
+       "danceable"
       ],
       "instrument": [
-       "piano"
+       "drums",
+       "electricguitar",
+       "bass"
       ],
       "vocal": [
-       "female"
+       "male"
       ]
      },
      "info": {
-      "lyricist": [
-       "大森元貴"
-      ],
-      "composer": [
-       "大森元貴"
-      ],
-      "year": "2018",
-      "released": "2018-08-01",
-      "label": "An EMI Records release; ℗ 2018 UNIVERSAL MUSIC LLC",
-      "album": "青と夏 - EP",
-      "isrc": "JPPO01903279",
-      "copyright": "An EMI Records release; ℗ 2018 UNIVERSAL MUSIC LLC",
-      "mb": "3366be5c-4433-40fc-84cb-d70fc97a7085",
+      "year": "2001",
+      "released": "2001-09-16",
+      "label": "HIGH WAVE CO.,LTD",
+      "album": "MESSAGE",
+      "copyright": "℗ 2001 HIGH WAVE CO.,LTD.",
       "src": [
-       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 27,
+     "rank": 26,
      "title": "シングルベッド",
      "artist": "シャ乱Q",
      "song_url": "https://www.joysound.com/web/search/song/12438",
-     "last_rank": 39,
+     "last_rank": 27,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1536896544",
@@ -1011,181 +1021,11 @@
      }
     },
     {
-     "rank": 28,
-     "title": "366日",
-     "artist": "HY",
-     "song_url": "https://www.joysound.com/web/search/song/115215",
-     "last_rank": 29,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/820248910",
-     "bpm": 88,
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Cumbia"
-      ],
-      "mood": [
-       "sad",
-       "relaxed"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2014",
-      "released": "2014-02-26",
-      "label": "TV ASAHI MUSIC CO.,LTD",
-      "album": "HY SUPER BEST",
-      "copyright": "℗ 2014 TV ASAHI MUSIC CO.,LTD.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 28,
-     "title": "シャルル",
-     "artist": "バルーン",
-     "song_url": "https://www.joysound.com/web/search/song/605438",
-     "last_rank": 32,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1271271759",
-     "spotify": "4hvrcoIbLNesHdkupjvmD9",
-     "bpm": 145,
-     "tags": {
-      "mood": [
-       "happy",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "バルーン"
-      ],
-      "composer": [
-       "バルーン"
-      ],
-      "year": "2016",
-      "released": "2016-11-02",
-      "label": "Balloon",
-      "album": "Corridor",
-      "isrc": "JPA651603621",
-      "copyright": "℗ 2017 Balloon",
-      "mb": "3eae7916-201f-4726-8cc8-cee4bf4c5a6c",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 30,
-     "title": "津軽海峡・冬景色",
-     "artist": "石川さゆり",
-     "song_url": "https://www.joysound.com/web/search/song/929",
-     "last_rank": 94,
-     "is_new": false,
-     "kkbox": "4pIFIDDBiO7N6MHadn",
-     "genre": "Enka",
-     "apple": "jp/1838960470",
-     "bpm": 101,
-     "tags": {
-      "genre": [
-       "City Pop"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "阿久悠"
-      ],
-      "composer": [
-       "三木たかし"
-      ],
-      "year": "1977",
-      "released": "1977-01-01",
-      "label": "TEICHIKU ENTERTAINMENT,INC",
-      "album": "石川さゆり45周年盤, Vol. I",
-      "copyright": "℗ 2017 TEICHIKU ENTERTAINMENT,INC.",
-      "mb": "59b04427-9cff-4f24-a08d-1191685b7e75",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 31,
-     "title": "ブルーアンバー",
-     "artist": "back number",
-     "song_url": "https://www.joysound.com/web/search/song/1094439",
-     "last_rank": 33,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1808852932",
-     "spotify": "35MeePbBnryubkVG0v8GbI",
-     "bpm": 77,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "love"
-      ]
-     },
-     "info": {
-      "year": "2025",
-      "released": "2025-04-28",
-      "label": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
-      "album": "ブルーアンバー - Single",
-      "copyright": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 32,
-     "title": "最後の雨",
-     "artist": "中西保志",
-     "song_url": "https://www.joysound.com/web/search/song/4231",
-     "last_rank": 51,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1679687728",
-     "bpm": 72,
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Soul"
-      ],
-      "mood": [
-       "sad"
-      ]
-     },
-     "info": {
-      "year": "1992",
-      "released": "1992-09-21",
-      "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
-      "album": "VOICE PEAKS",
-      "copyright": "℗ 1992 Nippon Columbia Co., Ltd./NIPPONOPHONE",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 33,
+     "rank": 26,
      "title": "Lemon",
      "artist": "米津玄師",
      "song_url": "https://www.joysound.com/web/search/song/669975",
-     "last_rank": 47,
+     "last_rank": 33,
      "is_new": false,
      "kkbox": "Gl0SSwbJylVNHBg1G9",
      "genre": "J-Pop",
@@ -1237,11 +1077,235 @@
      }
     },
     {
+     "rank": 28,
+     "title": "津軽海峡・冬景色",
+     "artist": "石川さゆり",
+     "song_url": "https://www.joysound.com/web/search/song/929",
+     "last_rank": 30,
+     "is_new": false,
+     "kkbox": "4pIFIDDBiO7N6MHadn",
+     "genre": "Enka",
+     "apple": "jp/1838960470",
+     "bpm": 101,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "阿久悠"
+      ],
+      "composer": [
+       "三木たかし"
+      ],
+      "year": "1977",
+      "released": "1977-01-01",
+      "label": "TEICHIKU ENTERTAINMENT,INC",
+      "album": "石川さゆり45周年盤, Vol. I",
+      "copyright": "℗ 2017 TEICHIKU ENTERTAINMENT,INC.",
+      "mb": "59b04427-9cff-4f24-a08d-1191685b7e75",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 29,
+     "title": "366日",
+     "artist": "HY",
+     "song_url": "https://www.joysound.com/web/search/song/115215",
+     "last_rank": 28,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/820248910",
+     "bpm": 88,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Cumbia"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2014",
+      "released": "2014-02-26",
+      "label": "TV ASAHI MUSIC CO.,LTD",
+      "album": "HY SUPER BEST",
+      "copyright": "℗ 2014 TV ASAHI MUSIC CO.,LTD.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 30,
+     "title": "点描の唄 (feat. 井上苑子)",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/697675",
+     "last_rank": 26,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1408505419",
+     "spotify": "1sIIlVrnPhrvmTrHtzM7tV",
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "year": "2018",
+      "released": "2018-08-01",
+      "label": "An EMI Records release; ℗ 2018 UNIVERSAL MUSIC LLC",
+      "album": "青と夏 - EP",
+      "isrc": "JPPO01903279",
+      "copyright": "An EMI Records release; ℗ 2018 UNIVERSAL MUSIC LLC",
+      "mb": "3366be5c-4433-40fc-84cb-d70fc97a7085",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 31,
+     "title": "最後の雨",
+     "artist": "中西保志",
+     "song_url": "https://www.joysound.com/web/search/song/4231",
+     "last_rank": 32,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1679687728",
+     "bpm": 72,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Soul"
+      ],
+      "mood": [
+       "sad"
+      ]
+     },
+     "info": {
+      "year": "1992",
+      "released": "1992-09-21",
+      "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "album": "VOICE PEAKS",
+      "copyright": "℗ 1992 Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 32,
+     "title": "島人ぬ宝",
+     "artist": "BEGIN",
+     "song_url": "https://www.joysound.com/web/search/song/26392",
+     "last_rank": 36,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1838717027",
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ]
+     },
+     "info": {
+      "year": "2002",
+      "released": "2002-05-22",
+      "label": "TEICHIKU ENTERTAINMENT,INC",
+      "album": "ビギンの島唄 ～オモトタケオ2",
+      "copyright": "℗ 2002 TEICHIKU ENTERTAINMENT,INC.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 33,
+     "title": "世界が終るまでは…",
+     "artist": "WANDS",
+     "song_url": "https://www.joysound.com/web/search/song/4447",
+     "last_rank": 37,
+     "is_new": false,
+     "kkbox": "8oncpMjAlULSDc3No5",
+     "genre": "Anime",
+     "apple": "jp/75471729",
+     "spotify": "3Kihz14e1cNkpl5PiJOiB7",
+     "bpm": 104,
+     "tags": {
+      "genre": [
+       "AOR",
+       "Arena Rock"
+      ],
+      "instrument": [
+       "electricguitar",
+       "synthesizer"
+      ],
+      "vocal": [
+       "male"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "上杉昇"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "year": "1996",
+      "released": "1996-03-20",
+      "label": "B-Gram RECORDS,INC",
+      "album": "TVアニメーション スラムダンク テーマソング集 - EP",
+      "isrc": "JPC400711038",
+      "copyright": "℗ 1996 B-Gram RECORDS,INC.",
+      "mb": "e71fd705-f9a1-40a9-bf08-a6c590ae3f75",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 34,
      "title": "アイノカタチ feat. HIDE (GReeeeN)",
      "artist": "MISIA",
      "song_url": "https://www.joysound.com/web/search/song/701876",
-     "last_rank": 40,
+     "last_rank": 34,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1538122206",
@@ -1274,10 +1338,115 @@
     },
     {
      "rank": 35,
+     "title": "メロディー",
+     "artist": "玉置浩二",
+     "song_url": "https://www.joysound.com/web/search/song/14128",
+     "last_rank": 43,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1536905491",
+     "bpm": 96,
+     "tags": {
+      "genre": [
+       "Folk"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     },
+     "info": {
+      "year": "1996",
+      "released": "1996-05-22",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "メロディー - Single",
+      "copyright": "℗ 1996 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 35,
+     "title": "シャルル",
+     "artist": "バルーン",
+     "song_url": "https://www.joysound.com/web/search/song/605438",
+     "last_rank": 28,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1271271759",
+     "spotify": "4hvrcoIbLNesHdkupjvmD9",
+     "bpm": 145,
+     "tags": {
+      "mood": [
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "バルーン"
+      ],
+      "composer": [
+       "バルーン"
+      ],
+      "year": "2016",
+      "released": "2016-11-02",
+      "label": "Balloon",
+      "album": "Corridor",
+      "isrc": "JPA651603621",
+      "copyright": "℗ 2017 Balloon",
+      "mb": "3eae7916-201f-4726-8cc8-cee4bf4c5a6c",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 37,
+     "title": "Story",
+     "artist": "AI",
+     "song_url": "https://www.joysound.com/web/search/song/18487",
+     "last_rank": 40,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1444118054",
+     "bpm": 126,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "love"
+      ]
+     },
+     "info": {
+      "year": "2005",
+      "released": "2005-05-18",
+      "label": "UNIVERSAL SIGMA",
+      "album": "MIC-AーHOLIC A.I.",
+      "copyright": "℗ 2005 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 38,
      "title": "愛をこめて花束を",
      "artist": "Superfly",
      "song_url": "https://www.joysound.com/web/search/song/113523",
-     "last_rank": 28,
+     "last_rank": 35,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/279691859",
@@ -1306,81 +1475,124 @@
      }
     },
     {
-     "rank": 36,
-     "title": "島人ぬ宝",
-     "artist": "BEGIN",
-     "song_url": "https://www.joysound.com/web/search/song/26392",
-     "last_rank": 38,
+     "rank": 39,
+     "title": "I LOVE YOU",
+     "artist": "尾崎豊",
+     "song_url": "https://www.joysound.com/web/search/song/1087",
+     "last_rank": 52,
      "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1838717027",
-     "bpm": 74,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "sad",
-       "love"
-      ],
-      "instrument": [
-       "acousticguitar"
-      ]
-     },
+     "genre": "Rock",
+     "apple": "jp/1537531003",
+     "bpm": 75,
      "info": {
-      "year": "2002",
-      "released": "2002-05-22",
-      "label": "TEICHIKU ENTERTAINMENT,INC",
-      "album": "ビギンの島唄 ～オモトタケオ2",
-      "copyright": "℗ 2002 TEICHIKU ENTERTAINMENT,INC.",
+      "year": "2013",
+      "released": "2013-11-27",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "ALL TIME BEST",
+      "copyright": "℗ 2013 Sony Music Entertainment (Japan) Inc.",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 37,
-     "title": "世界が終るまでは…",
-     "artist": "WANDS",
-     "song_url": "https://www.joysound.com/web/search/song/4447",
-     "last_rank": 43,
+     "rank": 40,
+     "title": "ブルーアンバー",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/1094439",
+     "last_rank": 31,
      "is_new": false,
-     "kkbox": "8oncpMjAlULSDc3No5",
-     "genre": "Anime",
-     "apple": "jp/75471729",
-     "spotify": "3Kihz14e1cNkpl5PiJOiB7",
-     "bpm": 104,
+     "genre": "J-Pop",
+     "apple": "jp/1808852932",
+     "spotify": "35MeePbBnryubkVG0v8GbI",
+     "bpm": 77,
      "tags": {
       "genre": [
-       "AOR",
-       "Arena Rock"
+       "Ballad"
+      ],
+      "mood": [
+       "love"
+      ]
+     },
+     "info": {
+      "year": "2025",
+      "released": "2025-04-28",
+      "label": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "album": "ブルーアンバー - Single",
+      "copyright": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 41,
+     "title": "大阪LOVER",
+     "artist": "DREAMS COME TRUE",
+     "song_url": "https://www.joysound.com/web/search/song/99587",
+     "last_rank": 44,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1444614244",
+     "bpm": 130,
+     "tags": {
+      "genre": [
+       "Synth-pop",
+       "House"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
       ],
       "instrument": [
-       "electricguitar",
        "synthesizer"
       ],
       "vocal": [
-       "male"
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2007",
+      "released": "2007-03-07",
+      "label": "Dct Records, Inc. Nayutawave Records",
+      "album": "大阪LOVER - Single",
+      "copyright": "℗ 2007 Dct Records, Inc. Nayutawave Records",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 42,
+     "title": "愛のかたまり",
+     "artist": "KinKi Kids",
+     "song_url": "https://www.joysound.com/web/search/song/21558",
+     "last_rank": 48,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1810382629",
+     "spotify": "7zoAO4QNkXK8GPlURHn4iz",
+     "bpm": 100,
+     "tags": {
+      "instrument": [
+       "piano"
       ]
      },
      "info": {
       "lyricist": [
-       "上杉昇"
+       "堂本剛"
       ],
       "composer": [
-       "織田哲郎"
+       "堂本光一"
       ],
-      "arranger": [
-       "葉山たけし"
-      ],
-      "year": "1994",
-      "released": "1994-06-08",
-      "label": "B-Gram RECORDS,INC",
-      "album": "TVアニメーション スラムダンク テーマソング集 - EP",
-      "isrc": "JPF502209202",
-      "copyright": "℗ 1996 B-Gram RECORDS,INC.",
-      "mb": "2283f2ba-00d5-491a-ac33-d02356d78402",
+      "year": "2001",
+      "released": "2001-11-14",
+      "label": "ELOV-Label",
+      "album": "39",
+      "isrc": "JPJE00100420",
+      "copyright": "℗ 2007 ELOV-Label, a division of Storm Labels Inc.",
+      "mb": "d1dc2317-9000-4721-9b4f-b4b6255e132b",
       "src": [
        "mb",
        "apple"
@@ -1388,11 +1600,126 @@
      }
     },
     {
-     "rank": 38,
+     "rank": 43,
+     "title": "革命道中 - On The Way",
+     "artist": "アイナ・ジ・エンド",
+     "song_url": "https://www.joysound.com/web/search/song/1112241",
+     "last_rank": 45,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1821087731",
+     "bpm": 99,
+     "tags": {
+      "genre": [
+       "Drum n Bass"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "composer": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "arranger": [
+       "Shin Sakiura"
+      ],
+      "year": "2025",
+      "released": "2025-07-02",
+      "label": "Avex Music Creative Inc",
+      "album": "革命道中 - On The Way - Single",
+      "isrc": "JPB602501972",
+      "copyright": "℗ 2025 Avex Music Creative Inc.",
+      "mb": "19e79d31-4a80-44ea-9d7c-bb014ba6cab8",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 44,
+     "title": "キセキ",
+     "artist": "GReeeeN",
+     "song_url": "https://www.joysound.com/web/search/song/117766",
+     "last_rank": 41,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1440780922",
+     "bpm": 90,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "happy",
+       "party"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2008",
+      "released": "2008-05-28",
+      "label": "NAYUTAWAVE RECORDS",
+      "album": "キセキ - Single",
+      "copyright": "℗ 2008 NAYUTAWAVE RECORDS, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 45,
+     "title": "タッチ",
+     "artist": "岩崎良美",
+     "song_url": "https://www.joysound.com/web/search/song/968",
+     "last_rank": 51,
+     "is_new": false,
+     "genre": "Kayokyoku",
+     "apple": "jp/963626798",
+     "bpm": 162,
+     "tags": {
+      "genre": [
+       "Synth-pop"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "康珍化"
+      ],
+      "composer": [
+       "芹澤廣明"
+      ],
+      "year": "1985",
+      "released": "1985-03-21",
+      "label": "Pony Canyon Inc",
+      "album": "タッチ",
+      "copyright": "℗ Pony Canyon Inc.",
+      "mb": "736f881a-a0a1-4bae-8bab-565b8f9e2e47",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 46,
      "title": "爆裂愛してる",
      "artist": "M!LK",
      "song_url": "https://www.joysound.com/web/search/song/1150854",
-     "last_rank": 22,
+     "last_rank": 38,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1869537742",
@@ -1419,11 +1746,43 @@
      }
     },
     {
-     "rank": 39,
+     "rank": 47,
+     "title": "シンデレラボーイ",
+     "artist": "Saucy Dog",
+     "song_url": "https://www.joysound.com/web/search/song/891126",
+     "last_rank": 42,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1839433876",
+     "bpm": 108,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Indie Rock"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2021",
+      "released": "2021-08-18",
+      "label": "A-Sketch Inc",
+      "album": "レイジーサンデー",
+      "copyright": "℗ 2021 A-Sketch Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 48,
      "title": "ライラック",
      "artist": "Mrs. GREEN APPLE",
      "song_url": "https://www.joysound.com/web/search/song/1027580",
-     "last_rank": 26,
+     "last_rank": 39,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1739088799",
@@ -1471,245 +1830,11 @@
      }
     },
     {
-     "rank": 40,
-     "title": "Story",
-     "artist": "AI",
-     "song_url": "https://www.joysound.com/web/search/song/18487",
-     "last_rank": 46,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1444118054",
-     "bpm": 126,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "love"
-      ]
-     },
-     "info": {
-      "year": "2005",
-      "released": "2005-05-18",
-      "label": "UNIVERSAL SIGMA",
-      "album": "MIC-AーHOLIC A.I.",
-      "copyright": "℗ 2005 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 41,
-     "title": "キセキ",
-     "artist": "GReeeeN",
-     "song_url": "https://www.joysound.com/web/search/song/117766",
-     "last_rank": 23,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1440780922",
-     "bpm": 90,
-     "tags": {
-      "genre": [
-       "Pop Rock",
-       "Alternative Rock"
-      ],
-      "mood": [
-       "happy",
-       "party"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2008",
-      "released": "2008-05-28",
-      "label": "NAYUTAWAVE RECORDS",
-      "album": "キセキ - Single",
-      "copyright": "℗ 2008 NAYUTAWAVE RECORDS, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 42,
-     "title": "シンデレラボーイ",
-     "artist": "Saucy Dog",
-     "song_url": "https://www.joysound.com/web/search/song/891126",
-     "last_rank": 36,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1839433876",
-     "bpm": 108,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Indie Rock"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2021",
-      "released": "2021-08-18",
-      "label": "A-Sketch Inc",
-      "album": "レイジーサンデー",
-      "copyright": "℗ 2021 A-Sketch Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 43,
-     "title": "メロディー",
-     "artist": "玉置浩二",
-     "song_url": "https://www.joysound.com/web/search/song/14128",
-     "last_rank": 74,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1536905491",
-     "bpm": 96,
-     "tags": {
-      "genre": [
-       "Folk"
-      ],
-      "mood": [
-       "relaxed",
-       "sad",
-       "love"
-      ],
-      "instrument": [
-       "guitar"
-      ]
-     },
-     "info": {
-      "year": "1996",
-      "released": "1996-05-22",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "メロディー - Single",
-      "copyright": "℗ 1996 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 44,
-     "title": "大阪LOVER",
-     "artist": "DREAMS COME TRUE",
-     "song_url": "https://www.joysound.com/web/search/song/99587",
-     "last_rank": 41,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1444614244",
-     "bpm": 130,
-     "tags": {
-      "genre": [
-       "Synth-pop",
-       "House"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2007",
-      "released": "2007-03-07",
-      "label": "Dct Records, Inc. Nayutawave Records",
-      "album": "大阪LOVER - Single",
-      "copyright": "℗ 2007 Dct Records, Inc. Nayutawave Records",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 45,
-     "title": "革命道中 - On The Way",
-     "artist": "アイナ・ジ・エンド",
-     "song_url": "https://www.joysound.com/web/search/song/1112241",
-     "last_rank": 37,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1821087731",
-     "bpm": 99,
-     "tags": {
-      "genre": [
-       "Drum n Bass"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2025",
-      "released": "2025-07-02",
-      "label": "Avex Music Creative Inc",
-      "album": "革命道中 - On The Way - Single",
-      "copyright": "℗ 2025 Avex Music Creative Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 46,
-     "title": "ヒロイン",
-     "artist": "back number",
-     "song_url": "https://www.joysound.com/web/search/song/415696",
-     "last_rank": 45,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451566361",
-     "bpm": 77,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Brit Pop"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2015",
-      "released": "2015-01-21",
-      "label": "UNIVERSAL SIGMA",
-      "album": "ヒロイン - EP",
-      "copyright": "℗ 2015 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 47,
+     "rank": 49,
      "title": "アゲハ蝶",
      "artist": "ポルノグラフィティ",
      "song_url": "https://www.joysound.com/web/search/song/11598",
-     "last_rank": 31,
+     "last_rank": 47,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1537232442",
@@ -1739,158 +1864,11 @@
      }
     },
     {
-     "rank": 48,
-     "title": "愛のかたまり",
-     "artist": "KinKi Kids",
-     "song_url": "https://www.joysound.com/web/search/song/21558",
-     "last_rank": 61,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1810382629",
-     "spotify": "7zoAO4QNkXK8GPlURHn4iz",
-     "bpm": 100,
-     "tags": {
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "堂本剛"
-      ],
-      "composer": [
-       "堂本光一"
-      ],
-      "year": "2001",
-      "released": "2001-11-14",
-      "label": "ELOV-Label",
-      "album": "39",
-      "isrc": "JPJE00100420",
-      "copyright": "℗ 2007 ELOV-Label, a division of Storm Labels Inc.",
-      "mb": "d1dc2317-9000-4721-9b4f-b4b6255e132b",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 49,
-     "title": "Pretender",
-     "artist": "Official髭男dism",
-     "song_url": "https://www.joysound.com/web/search/song/746956",
-     "last_rank": 49,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1479397873",
-     "bpm": 96,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Indie Rock"
-      ],
-      "instrument": [
-       "synthesizer",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2019",
-      "released": "2019-04-17",
-      "label": "PONYCANYON",
-      "album": "Traveler",
-      "copyright": "℗ 2019 PONYCANYON",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 50,
-     "title": "KissHug",
-     "artist": "aiko",
-     "song_url": "https://www.joysound.com/web/search/song/120310",
-     "last_rank": 63,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1499615822",
-     "bpm": 77,
-     "tags": {
-      "genre": [
-       "Pop Rock",
-       "Ballad"
-      ],
-      "instrument": [
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2008",
-      "released": "2008-07-23",
-      "label": "PONY CANYON INC",
-      "album": "KissHug - EP",
-      "copyright": "℗ 2008 PONY CANYON INC.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 51,
-     "title": "タッチ",
-     "artist": "岩崎良美",
-     "song_url": "https://www.joysound.com/web/search/song/968",
-     "last_rank": 59,
-     "is_new": false,
-     "genre": "Kayokyoku",
-     "apple": "jp/963626798",
-     "bpm": 162,
-     "tags": {
-      "genre": [
-       "Synth-pop"
-      ]
-     },
-     "info": {
-      "year": "1985",
-      "released": "1985-03-21",
-      "label": "Pony Canyon Inc",
-      "album": "タッチ",
-      "copyright": "℗ Pony Canyon Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 52,
-     "title": "I LOVE YOU",
-     "artist": "尾崎豊",
-     "song_url": "https://www.joysound.com/web/search/song/1087",
-     "last_rank": 69,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1537531003",
-     "bpm": 75,
-     "info": {
-      "year": "2013",
-      "released": "2013-11-27",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "ALL TIME BEST",
-      "copyright": "℗ 2013 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 53,
      "title": "First Love",
      "artist": "宇多田ヒカル",
      "song_url": "https://www.joysound.com/web/search/song/19722",
-     "last_rank": 65,
+     "last_rank": 53,
      "is_new": false,
      "kkbox": "GpWk-Cju-IKc1FRrhp",
      "genre": "J-Pop",
@@ -1929,83 +1907,15 @@
      }
     },
     {
-     "rank": 54,
-     "title": "花束",
+     "rank": 51,
+     "title": "ヒロイン",
      "artist": "back number",
-     "song_url": "https://www.joysound.com/web/search/song/167177",
-     "last_rank": 60,
+     "song_url": "https://www.joysound.com/web/search/song/415696",
+     "last_rank": 46,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1451577753",
-     "bpm": 80,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Brit Pop"
-      ],
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2011",
-      "released": "2011-06-22",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 55,
-     "title": "裸の心",
-     "artist": "あいみょん",
-     "song_url": "https://www.joysound.com/web/search/song/832478",
-     "last_rank": 53,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1508133095",
-     "bpm": 74,
-     "tags": {
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2020",
-      "released": "2020-05-01",
-      "label": "WARNER MUSIC JAPAN",
-      "album": "裸の心 - Single",
-      "copyright": "℗ 2020 WARNER MUSIC JAPAN",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 56,
-     "title": "ハッピーエンド",
-     "artist": "back number",
-     "song_url": "https://www.joysound.com/web/search/song/595366",
-     "last_rank": 52,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451577754",
-     "bpm": 87,
+     "apple": "jp/1451566361",
+     "bpm": 77,
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -2019,91 +1929,54 @@
       ]
      },
      "info": {
-      "year": "2016",
-      "released": "2016-11-16",
+      "year": "2015",
+      "released": "2015-01-21",
       "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "album": "ヒロイン - EP",
+      "copyright": "℗ 2015 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 57,
-     "title": "ただ君に晴れ",
-     "artist": "ヨルシカ",
-     "song_url": "https://www.joysound.com/web/search/song/685161",
-     "last_rank": 48,
+     "rank": 52,
+     "title": "Pretender",
+     "artist": "Official髭男dism",
+     "song_url": "https://www.joysound.com/web/search/song/746956",
+     "last_rank": 49,
      "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1648876333",
-     "bpm": 140,
+     "genre": "J-Pop",
+     "apple": "jp/1479397873",
+     "bpm": 96,
      "tags": {
       "genre": [
-       "Pop Rock",
-       "Ballad"
-      ],
-      "mood": [
-       "party",
-       "energetic"
+       "Alternative Rock",
+       "Indie Rock"
       ],
       "instrument": [
-       "drums",
        "synthesizer",
        "electricguitar"
       ]
      },
      "info": {
-      "year": "2018",
-      "released": "2018-05-09",
-      "label": "U&R records",
-      "album": "負け犬にアンコールはいらない",
-      "copyright": "℗ 2018 U&R records",
+      "year": "2019",
+      "released": "2019-04-17",
+      "label": "PONYCANYON",
+      "album": "Traveler",
+      "copyright": "℗ 2019 PONYCANYON",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 58,
-     "title": "気まぐれロマンティック",
-     "artist": "いきものがかり",
-     "song_url": "https://www.joysound.com/web/search/song/125233",
-     "last_rank": 54,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1536256436",
-     "bpm": 117,
-     "tags": {
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2008",
-      "released": "2008-12-03",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "気まぐれロマンティック - Single",
-      "copyright": "℗ 2008 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 59,
+     "rank": 53,
      "title": "時の流れに身をまかせ",
      "artist": "テレサ・テン",
      "song_url": "https://www.joysound.com/web/search/song/930",
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 59,
+     "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1443293700",
      "bpm": 72,
@@ -2137,40 +2010,11 @@
      }
     },
     {
-     "rank": 59,
-     "title": "いとしのエリー",
-     "artist": "サザンオールスターズ",
-     "song_url": "https://www.joysound.com/web/search/song/2214",
-     "last_rank": 86,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/949272127",
-     "bpm": 70,
-     "tags": {
-      "genre": [
-       "City Pop"
-      ],
-      "mood": [
-       "sad"
-      ]
-     },
-     "info": {
-      "year": "1998",
-      "released": "1998-06-25",
-      "label": "TAISHITA Label Music Co., Ltd",
-      "album": "海のYeah!!",
-      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 61,
+     "rank": 54,
      "title": "歌うたいのバラッド",
      "artist": "斉藤和義",
      "song_url": "https://www.joysound.com/web/search/song/16773",
-     "last_rank": 78,
+     "last_rank": 61,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1281425806",
@@ -2200,159 +2044,44 @@
      }
     },
     {
-     "rank": 62,
-     "title": "怪獣",
-     "artist": "サカナクション",
-     "song_url": "https://www.joysound.com/web/search/song/1058418",
-     "last_rank": 55,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1795905600",
-     "bpm": 127,
-     "tags": {
-      "mood": [
-       "love"
-      ]
-     },
-     "info": {
-      "year": "2025",
-      "released": "2025-02-20",
-      "label": "Victor Entertainment",
-      "album": "怪獣 - Single",
-      "copyright": "℗ Victor Entertainment",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 63,
-     "title": "チャンカパーナ",
-     "artist": "NEWS",
-     "song_url": "https://www.joysound.com/web/search/song/231795",
-     "last_rank": 56,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1769381056",
-     "bpm": 130,
-     "tags": {
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2012",
-      "released": "2012-07-18",
-      "label": "(2,5,9,12),2013(1,3-4,6-8,10-11,13-17) ELOV-Label",
-      "album": "NEWS",
-      "copyright": "℗ 2012(2,5,9,12),2013(1,3-4,6-8,10-11,13-17) ELOV-Label, a division of Storm Labels Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 64,
-     "title": "上を向いて歩こう",
-     "artist": "坂本九",
-     "song_url": "https://www.joysound.com/web/search/song/4054",
-     "last_rank": null,
-     "is_new": true,
-     "genre": "Kayokyoku",
-     "apple": "jp/1465042017",
-     "bpm": 147,
-     "tags": {
-      "genre": [
-       "Vocal Pop"
-      ],
-      "mood": [
-       "relaxed"
-      ]
-     },
-     "info": {
-      "year": "1994",
-      "released": "1994-01-01",
-      "label": "A USM JAPAN release; This Compilation ℗ 2011 UNIVERSAL MUSIC LLC",
-      "album": "上を向いて歩こう - EP",
-      "copyright": "A USM JAPAN release; This Compilation ℗ 2011 UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 65,
-     "title": "晩餐歌",
-     "artist": "tuki.",
-     "song_url": "https://www.joysound.com/web/search/song/993540",
-     "last_rank": 44,
-     "is_new": false,
-     "kkbox": "9XBRIdzi3wYrDq5D6G",
-     "genre": "J-Pop",
-     "apple": "tw/1781833058",
-     "spotify": "2cxcqKwQtfKq7giphxjzOu",
-     "bpm": 103,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "danceable"
-      ]
-     },
-     "info": {
-      "year": "2023",
-      "released": "2023-09-29",
-      "label": "月面着陸計画",
-      "album": "15",
-      "copyright": "℗ 2025 月面着陸計画",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 66,
-     "title": "ケセラセラ",
-     "artist": "Mrs. GREEN APPLE",
-     "song_url": "https://www.joysound.com/web/search/song/970963",
+     "rank": 55,
+     "title": "KissHug",
+     "artist": "aiko",
+     "song_url": "https://www.joysound.com/web/search/song/120310",
      "last_rank": 50,
      "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1681600508",
-     "bpm": 115,
+     "genre": "J-Pop",
+     "apple": "jp/1499615822",
+     "bpm": 77,
      "tags": {
-      "mood": [
-       "happy"
+      "genre": [
+       "Pop Rock",
+       "Ballad"
       ],
       "instrument": [
-       "acousticguitar",
        "electricguitar"
+      ],
+      "vocal": [
+       "female"
       ]
      },
      "info": {
-      "year": "2023",
-      "released": "2023-04-25",
-      "label": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
-      "album": "ケセラセラ - Single",
-      "copyright": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "year": "2008",
+      "released": "2008-07-23",
+      "label": "PONY CANYON INC",
+      "album": "KissHug - EP",
+      "copyright": "℗ 2008 PONY CANYON INC.",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 67,
+     "rank": 56,
      "title": "TSUNAMI",
      "artist": "サザンオールスターズ",
      "song_url": "https://www.joysound.com/web/search/song/23147",
-     "last_rank": 91,
+     "last_rank": 67,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/949250892",
@@ -2383,267 +2112,12 @@
      }
     },
     {
-     "rank": 68,
-     "title": "わたがし",
-     "artist": "back number",
-     "song_url": "https://www.joysound.com/web/search/song/230627",
-     "last_rank": 66,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451577945",
-     "bpm": 124,
-     "tags": {
-      "genre": [
-       "Pop Rock",
-       "Alternative Rock"
-      ],
-      "mood": [
-       "happy",
-       "love"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2012",
-      "released": "2012-07-18",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 69,
-     "title": "虹",
-     "artist": "菅田将暉",
-     "song_url": "https://www.joysound.com/web/search/song/856017",
-     "last_rank": 70,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1537793754",
-     "bpm": 72,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Pop Rock"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "electricguitar",
-       "acousticguitar"
-      ]
-     },
-     "info": {
-      "year": "2020",
-      "released": "2020-11-10",
-      "label": "Sony Music Labels Inc",
-      "album": "虹 - Single",
-      "copyright": "℗ 2020 Sony Music Labels Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 70,
-     "title": "恋",
-     "artist": "back number",
-     "song_url": "https://www.joysound.com/web/search/song/223630",
-     "last_rank": 42,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451577770",
-     "bpm": 76,
-     "tags": {
-      "genre": [
-       "Brit Pop",
-       "Pop Rock"
-      ],
-      "mood": [
-       "happy",
-       "love"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "year": "2012",
-      "released": "2012-03-07",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 71,
-     "title": "シルエット",
-     "artist": "KANA-BOON",
-     "song_url": "https://www.joysound.com/web/search/song/414532",
-     "last_rank": 57,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1538157315",
-     "spotify": "1di1C0QI6Y92yZPYn6XYAZ",
-     "bpm": 102,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Pop Punk"
-      ],
-      "mood": [
-       "happy",
-       "aggressive",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2014",
-      "released": "2014-11-26",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "TIME",
-      "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 72,
-     "title": "天城越え",
-     "artist": "石川さゆり",
-     "song_url": "https://www.joysound.com/web/search/song/958",
-     "last_rank": null,
-     "is_new": true,
-     "genre": "Enka",
-     "apple": "jp/1862900054",
-     "bpm": 81,
-     "tags": {
-      "genre": [
-       "City Pop"
-      ],
-      "mood": [
-       "relaxed"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "吉岡治"
-      ],
-      "composer": [
-       "弦哲也"
-      ],
-      "year": "1991",
-      "released": "1991-11-21",
-      "label": "TEICHIKU ENTERTAINMENT,INC",
-      "album": "石川さゆり 45周年盤, Vol. II",
-      "isrc": "JPCO08614690",
-      "copyright": "℗ 2017 TEICHIKU ENTERTAINMENT,INC.",
-      "mb": "2d21480e-0859-478e-9281-51388da7ea7d",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 73,
-     "title": "ハレンチ",
-     "artist": "ちゃんみな",
-     "song_url": "https://www.joysound.com/web/search/song/895247",
-     "last_rank": 67,
-     "is_new": false,
-     "genre": "Hip-Hop/Rap",
-     "apple": "jp/1585848051",
-     "bpm": 120,
-     "tags": {
-      "genre": [
-       "Dance-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "drums",
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2021",
-      "released": "2021-09-24",
-      "label": "WARNER MUSIC JAPAN INC",
-      "album": "ハレンチ",
-      "copyright": "℗ 2021 WARNER MUSIC JAPAN INC.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 74,
-     "title": "イケナイ太陽",
-     "artist": "ORANGE RANGE",
-     "song_url": "https://www.joysound.com/web/search/song/106491",
-     "last_rank": 62,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1537392624",
-     "bpm": 145,
-     "tags": {
-      "genre": [
-       "Punk",
-       "Alternative Rock"
-      ],
-      "mood": [
-       "happy",
-       "danceable",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2007",
-      "released": "2007-07-18",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "イケナイ太陽 - Single",
-      "copyright": "℗ 2007 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 75,
+     "rank": 57,
      "title": "雪の華",
      "artist": "中島美嘉",
      "song_url": "https://www.joysound.com/web/search/song/27799",
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 75,
+     "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1535491085",
      "bpm": 74,
@@ -2674,12 +2148,12 @@
      }
     },
     {
-     "rank": 76,
+     "rank": 58,
      "title": "川の流れのように",
      "artist": "美空ひばり",
      "song_url": "https://www.joysound.com/web/search/song/961",
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 76,
+     "is_new": false,
      "kkbox": "8r0t9DKU59bDRfSO91",
      "genre": "Kayokyoku",
      "apple": "jp/280271444",
@@ -2717,14 +2191,14 @@
      }
     },
     {
-     "rank": 77,
-     "title": "白い恋人達",
-     "artist": "桑田佳祐",
-     "song_url": "https://www.joysound.com/web/search/song/21378",
-     "last_rank": 100,
+     "rank": 59,
+     "title": "裸の心",
+     "artist": "あいみょん",
+     "song_url": "https://www.joysound.com/web/search/song/832478",
+     "last_rank": 55,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1083421429",
+     "apple": "jp/1508133095",
      "bpm": 74,
      "tags": {
       "mood": [
@@ -2732,14 +2206,82 @@
        "sad"
       ],
       "instrument": [
-       "piano"
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
       ]
      },
      "info": {
-      "year": "2001",
-      "released": "2001-10-24",
+      "year": "2020",
+      "released": "2020-05-01",
+      "label": "WARNER MUSIC JAPAN",
+      "album": "裸の心 - Single",
+      "copyright": "℗ 2020 WARNER MUSIC JAPAN",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 60,
+     "title": "ただ君に晴れ",
+     "artist": "ヨルシカ",
+     "song_url": "https://www.joysound.com/web/search/song/685161",
+     "last_rank": 57,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1648876333",
+     "bpm": 140,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Ballad"
+      ],
+      "mood": [
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "synthesizer",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2018",
+      "released": "2018-05-09",
+      "label": "U&R records",
+      "album": "負け犬にアンコールはいらない",
+      "copyright": "℗ 2018 U&R records",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 61,
+     "title": "いとしのエリー",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2214",
+     "last_rank": 59,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/949272127",
+     "bpm": 70,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ],
+      "mood": [
+       "sad"
+      ]
+     },
+     "info": {
+      "year": "1998",
+      "released": "1998-06-25",
       "label": "TAISHITA Label Music Co., Ltd",
-      "album": "白い恋人達 - Single",
+      "album": "海のYeah!!",
       "copyright": "℗ TAISHITA Label Music Co., Ltd.",
       "src": [
        "apple"
@@ -2747,46 +2289,12 @@
      }
     },
     {
-     "rank": 78,
-     "title": "高校三年生",
-     "artist": "舟木一夫",
-     "song_url": "https://www.joysound.com/web/search/song/25643",
-     "last_rank": null,
-     "is_new": true,
-     "genre": "Enka",
-     "apple": "jp/288349228",
-     "bpm": 115,
-     "tags": {
-      "mood": [
-       "relaxed"
-      ]
-     },
-     "info": {
-      "year": "1963",
-      "released": "1963-01-01",
-      "label": "Columbia Music Entertainment, Inc",
-      "album": "舟木一夫ゴールデンベスト",
-      "copyright": "℗ 2008 Columbia Music Entertainment, Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 78,
-     "title": "チェックのワンピース",
-     "artist": "back number",
-     "song_url": "https://www.joysound.com/web/search/song/421460",
-     "last_rank": 79,
-     "is_new": false
-    },
-    {
-     "rank": 80,
+     "rank": 62,
      "title": "酒よ",
      "artist": "吉幾三",
      "song_url": "https://www.joysound.com/web/search/song/982",
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 80,
+     "is_new": false,
      "kkbox": "4mVhoo1Xf387r6B1-R",
      "genre": "Enka",
      "apple": "jp/907354503",
@@ -2819,11 +2327,506 @@
      }
     },
     {
-     "rank": 81,
+     "rank": 63,
+     "title": "上を向いて歩こう",
+     "artist": "坂本九",
+     "song_url": "https://www.joysound.com/web/search/song/4054",
+     "last_rank": 64,
+     "is_new": false,
+     "genre": "Kayokyoku",
+     "apple": "jp/1465042017",
+     "bpm": 147,
+     "tags": {
+      "genre": [
+       "Vocal Pop"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     },
+     "info": {
+      "year": "1994",
+      "released": "1994-01-01",
+      "label": "A USM JAPAN release; This Compilation ℗ 2011 UNIVERSAL MUSIC LLC",
+      "album": "上を向いて歩こう - EP",
+      "copyright": "A USM JAPAN release; This Compilation ℗ 2011 UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 63,
+     "title": "虹",
+     "artist": "菅田将暉",
+     "song_url": "https://www.joysound.com/web/search/song/856017",
+     "last_rank": 69,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1537793754",
+     "bpm": 72,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar",
+       "acousticguitar"
+      ]
+     },
+     "info": {
+      "year": "2020",
+      "released": "2020-11-10",
+      "label": "Sony Music Labels Inc",
+      "album": "虹 - Single",
+      "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 65,
+     "title": "気まぐれロマンティック",
+     "artist": "いきものがかり",
+     "song_url": "https://www.joysound.com/web/search/song/125233",
+     "last_rank": 58,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1536256436",
+     "bpm": 117,
+     "tags": {
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2008",
+      "released": "2008-12-03",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "気まぐれロマンティック - Single",
+      "copyright": "℗ 2008 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 66,
+     "title": "チャンカパーナ",
+     "artist": "NEWS",
+     "song_url": "https://www.joysound.com/web/search/song/231795",
+     "last_rank": 63,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1769381056",
+     "bpm": 130,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2012",
+      "released": "2012-07-18",
+      "label": "(2,5,9,12),2013(1,3-4,6-8,10-11,13-17) ELOV-Label",
+      "album": "NEWS",
+      "copyright": "℗ 2012(2,5,9,12),2013(1,3-4,6-8,10-11,13-17) ELOV-Label, a division of Storm Labels Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 67,
+     "title": "花束",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/167177",
+     "last_rank": 54,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577753",
+     "bpm": 80,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2011",
+      "released": "2011-06-22",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 68,
+     "title": "白い恋人達",
+     "artist": "桑田佳祐",
+     "song_url": "https://www.joysound.com/web/search/song/21378",
+     "last_rank": 77,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1083421429",
+     "bpm": 74,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     },
+     "info": {
+      "year": "2001",
+      "released": "2001-10-24",
+      "label": "TAISHITA Label Music Co., Ltd",
+      "album": "白い恋人達 - Single",
+      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 69,
+     "title": "ハッピーエンド",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/595366",
+     "last_rank": 56,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577754",
+     "bpm": 87,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2016",
+      "released": "2016-11-16",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 70,
+     "title": "天城越え",
+     "artist": "石川さゆり",
+     "song_url": "https://www.joysound.com/web/search/song/958",
+     "last_rank": 72,
+     "is_new": false,
+     "genre": "Enka",
+     "apple": "jp/1862900054",
+     "bpm": 81,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ],
+      "mood": [
+       "relaxed"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "吉岡治"
+      ],
+      "composer": [
+       "弦哲也"
+      ],
+      "year": "1991",
+      "released": "1991-11-21",
+      "label": "TEICHIKU ENTERTAINMENT,INC",
+      "album": "石川さゆり 45周年盤, Vol. II",
+      "isrc": "JPCO08614690",
+      "copyright": "℗ 2017 TEICHIKU ENTERTAINMENT,INC.",
+      "mb": "2d21480e-0859-478e-9281-51388da7ea7d",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 71,
+     "title": "ハレンチ",
+     "artist": "ちゃんみな",
+     "song_url": "https://www.joysound.com/web/search/song/895247",
+     "last_rank": 73,
+     "is_new": false,
+     "genre": "Hip-Hop/Rap",
+     "apple": "jp/1585848051",
+     "bpm": 120,
+     "tags": {
+      "genre": [
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "drums",
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "year": "2021",
+      "released": "2021-09-24",
+      "label": "WARNER MUSIC JAPAN INC",
+      "album": "ハレンチ",
+      "copyright": "℗ 2021 WARNER MUSIC JAPAN INC.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 72,
+     "title": "晩餐歌",
+     "artist": "tuki.",
+     "song_url": "https://www.joysound.com/web/search/song/993540",
+     "last_rank": 65,
+     "is_new": false,
+     "kkbox": "9XBRIdzi3wYrDq5D6G",
+     "genre": "J-Pop",
+     "apple": "tw/1781833058",
+     "spotify": "2cxcqKwQtfKq7giphxjzOu",
+     "bpm": 103,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "danceable"
+      ]
+     },
+     "info": {
+      "year": "2023",
+      "released": "2023-09-29",
+      "label": "月面着陸計画",
+      "album": "15",
+      "copyright": "℗ 2025 月面着陸計画",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 73,
+     "title": "栄光の架橋",
+     "artist": "ゆず",
+     "song_url": "https://www.joysound.com/web/search/song/28298",
+     "last_rank": 84,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/424185595",
+     "bpm": 82,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     },
+     "info": {
+      "year": "2004",
+      "released": "2004-07-22",
+      "label": "SENHA&Co",
+      "album": "栄光の架橋 - Single",
+      "copyright": "℗ 2004 SENHA&Co.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 74,
+     "title": "ケセラセラ",
+     "artist": "Mrs. GREEN APPLE",
+     "song_url": "https://www.joysound.com/web/search/song/970963",
+     "last_rank": 66,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1681600508",
+     "bpm": 115,
+     "tags": {
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2023",
+      "released": "2023-04-25",
+      "label": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "album": "ケセラセラ - Single",
+      "copyright": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 75,
+     "title": "高校三年生",
+     "artist": "舟木一夫",
+     "song_url": "https://www.joysound.com/web/search/song/25643",
+     "last_rank": 78,
+     "is_new": false,
+     "genre": "Enka",
+     "apple": "jp/288349228",
+     "bpm": 115,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     },
+     "info": {
+      "year": "1963",
+      "released": "1963-01-01",
+      "label": "Columbia Music Entertainment, Inc",
+      "album": "舟木一夫ゴールデンベスト",
+      "copyright": "℗ 2008 Columbia Music Entertainment, Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 76,
+     "title": "怪獣",
+     "artist": "サカナクション",
+     "song_url": "https://www.joysound.com/web/search/song/1058418",
+     "last_rank": 62,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1795905600",
+     "bpm": 127,
+     "tags": {
+      "mood": [
+       "love"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "山口一郎"
+      ],
+      "composer": [
+       "サカナクション"
+      ],
+      "mix": [
+       "浦本雅史"
+      ],
+      "recording": [
+       "浦本雅史"
+      ],
+      "year": "2025",
+      "released": "2025-02-20",
+      "label": "Victor Entertainment",
+      "album": "怪獣 - Single",
+      "isrc": "JPVI02403562",
+      "copyright": "℗ Victor Entertainment",
+      "mb": "b36fdc7a-3388-4ffd-a2db-d08615de1010",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 77,
+     "title": "イケナイ太陽",
+     "artist": "ORANGE RANGE",
+     "song_url": "https://www.joysound.com/web/search/song/106491",
+     "last_rank": 74,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1537392624",
+     "bpm": 145,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "happy",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2007",
+      "released": "2007-07-18",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "イケナイ太陽 - Single",
+      "copyright": "℗ 2007 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 78,
      "title": "115万キロのフィルム",
      "artist": "Official髭男dism",
      "song_url": "https://www.joysound.com/web/search/song/686423",
-     "last_rank": 64,
+     "last_rank": 81,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1394013614",
@@ -2856,11 +2859,49 @@
      }
     },
     {
-     "rank": 82,
+     "rank": 79,
+     "title": "恋",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/223630",
+     "last_rank": 70,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577770",
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Brit Pop",
+       "Pop Rock"
+      ],
+      "mood": [
+       "happy",
+       "love"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     },
+     "info": {
+      "year": "2012",
+      "released": "2012-03-07",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 80,
      "title": "Love so sweet",
      "artist": "嵐",
      "song_url": "https://www.joysound.com/web/search/song/97159",
-     "last_rank": 73,
+     "last_rank": 82,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1485857408",
@@ -2886,11 +2927,355 @@
      }
     },
     {
+     "rank": 81,
+     "title": "HANABI",
+     "artist": "Mr.Children",
+     "song_url": "https://www.joysound.com/web/search/song/121447",
+     "last_rank": 100,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1375007474",
+     "bpm": 112,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     },
+     "info": {
+      "year": "2008",
+      "released": "2008-09-03",
+      "label": "OORONG-SHA/TOY'S FACTORY",
+      "album": "SUPERMARKET FANTASY",
+      "copyright": "℗ 2008 OORONG-SHA/TOY'S FACTORY",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 82,
+     "title": "つぐない",
+     "artist": "テレサ・テン",
+     "song_url": "https://www.joysound.com/web/search/song/2188",
+     "last_rank": 87,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1440657322",
+     "bpm": 113,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "荒木とよひさ"
+      ],
+      "composer": [
+       "三木たかし"
+      ],
+      "arranger": [
+       "川口真"
+      ],
+      "year": "1984",
+      "released": "1984-01-21",
+      "label": "USM JAPAN",
+      "album": "テレサ・テン 40/40 ~ベスト・セレクション",
+      "isrc": "JPPO00322060",
+      "copyright": "℗ 2015 USM JAPAN,  a division of UNIVERSAL MUSIC LLC.",
+      "mb": "f7045b82-9776-4998-8a80-9ee9868e76e0",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 83,
+     "title": "3月9日",
+     "artist": "レミオロメン",
+     "song_url": "https://www.joysound.com/web/search/song/27341",
+     "last_rank": 88,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1857509406",
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2004",
+      "released": "2004-03-09",
+      "label": "OORONG-SHA",
+      "album": "3月9日 - Single",
+      "copyright": "℗ OORONG-SHA",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 84,
+     "title": "花束のかわりにメロディーを",
+     "artist": "清水翔太",
+     "song_url": "https://www.joysound.com/web/search/song/540305",
+     "last_rank": 85,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1538279828",
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     },
+     "info": {
+      "year": "2015",
+      "released": "2015-10-28",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "PROUD",
+      "copyright": "℗ 2016 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 85,
+     "title": "シルエット",
+     "artist": "KANA-BOON",
+     "song_url": "https://www.joysound.com/web/search/song/414532",
+     "last_rank": 71,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1538157315",
+     "spotify": "1di1C0QI6Y92yZPYn6XYAZ",
+     "bpm": 102,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Pop Punk"
+      ],
+      "mood": [
+       "happy",
+       "aggressive",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2014",
+      "released": "2014-11-26",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "TIME",
+      "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 86,
+     "title": "チェックのワンピース",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/421460",
+     "last_rank": 78,
+     "is_new": false
+    },
+    {
+     "rank": 87,
+     "title": "瀬戸の花嫁",
+     "artist": "小柳ルミ子",
+     "song_url": "https://www.joysound.com/web/search/song/842",
+     "last_rank": null,
+     "is_new": true,
+     "genre": "Kayokyoku",
+     "apple": "jp/275338218",
+     "bpm": 106,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "1972",
+      "released": "1972-04-10",
+      "label": "WATANABE MUSIC PUBLISHING CO.,LTD",
+      "album": "小柳ルミ子 ベストアルバム",
+      "copyright": "℗ 2006 WATANABE MUSIC PUBLISHING CO.,LTD.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 88,
+     "title": "北国の春",
+     "artist": "千昌夫",
+     "song_url": "https://www.joysound.com/web/search/song/343",
+     "last_rank": null,
+     "is_new": true,
+     "kkbox": "OmuwREStTsIBdqHfaI",
+     "genre": "Enka",
+     "apple": "jp/276449309",
+     "bpm": 90,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     },
+     "info": {
+      "year": "2008",
+      "released": "2008-03-14",
+      "label": "TOKUMA JAPAN COMMUNICATIONS",
+      "album": "千 昌夫ベスト 其の二 - EP",
+      "copyright": "℗ 2008 TOKUMA JAPAN COMMUNICATIONS",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 89,
+     "title": "真夏の果実",
+     "artist": "サザンオールスターズ",
+     "song_url": "https://www.joysound.com/web/search/song/2759",
+     "last_rank": 90,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/949249865",
+     "bpm": 101,
+     "tags": {
+      "mood": [
+       "happy"
+      ]
+     },
+     "info": {
+      "year": "1990",
+      "released": "1990-07-25",
+      "label": "TAISHITA Label Music Co., Ltd",
+      "album": "真夏の果実 - Single",
+      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 90,
+     "title": "わたがし",
+     "artist": "back number",
+     "song_url": "https://www.joysound.com/web/search/song/230627",
+     "last_rank": 68,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577945",
+     "bpm": 124,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "happy",
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2012",
+      "released": "2012-07-18",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 91,
+     "title": "愛燦燦",
+     "artist": "美空ひばり",
+     "song_url": "https://www.joysound.com/web/search/song/2607",
+     "last_rank": null,
+     "is_new": true,
+     "genre": "Enka",
+     "apple": "jp/1502696662",
+     "bpm": 216,
+     "tags": {
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "小椋佳"
+      ],
+      "composer": [
+       "小椋佳"
+      ],
+      "arranger": [
+       "若草恵"
+      ],
+      "year": "1986",
+      "released": "1986-05-29",
+      "label": "Nippon Columbia Co., Ltd",
+      "album": "美空ひばり オールタイム・ベスト 〜あれから〜",
+      "isrc": "JPCO08643490",
+      "copyright": "℗ 2019 Nippon Columbia Co., Ltd.",
+      "mb": "4258b679-bcee-45b1-8434-861641d5fcf1",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 91,
      "title": "魔法の絨毯",
      "artist": "川崎鷹也",
      "song_url": "https://www.joysound.com/web/search/song/851919",
-     "last_rank": 77,
+     "last_rank": 83,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1573810335",
@@ -2922,76 +3307,11 @@
      }
     },
     {
-     "rank": 84,
-     "title": "栄光の架橋",
-     "artist": "ゆず",
-     "song_url": "https://www.joysound.com/web/search/song/28298",
-     "last_rank": 83,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/424185595",
-     "bpm": 82,
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Pop Rock"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "year": "2004",
-      "released": "2004-07-22",
-      "label": "SENHA&Co",
-      "album": "栄光の架橋 - Single",
-      "copyright": "℗ 2004 SENHA&Co.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 85,
-     "title": "花束のかわりにメロディーを",
-     "artist": "清水翔太",
-     "song_url": "https://www.joysound.com/web/search/song/540305",
-     "last_rank": 89,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1538279828",
-     "bpm": 128,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "year": "2015",
-      "released": "2015-10-28",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "PROUD",
-      "copyright": "℗ 2016 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 86,
+     "rank": 93,
      "title": "君はロックを聴かない",
      "artist": "あいみょん",
      "song_url": "https://www.joysound.com/web/search/song/637674",
-     "last_rank": 75,
+     "last_rank": 86,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1261937430",
@@ -3024,74 +3344,45 @@
      }
     },
     {
-     "rank": 87,
-     "title": "つぐない",
-     "artist": "テレサ・テン",
-     "song_url": "https://www.joysound.com/web/search/song/2188",
-     "last_rank": null,
-     "is_new": true,
+     "rank": 94,
+     "title": "恋におちて―Fall in love―",
+     "artist": "小林明子",
+     "song_url": "https://www.joysound.com/web/search/song/907",
+     "last_rank": 96,
+     "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1440657322",
-     "bpm": 113,
+     "apple": "jp/289049578",
+     "bpm": 73,
      "tags": {
       "genre": [
-       "Ballad"
+       "Folk"
       ],
       "mood": [
-       "relaxed"
+       "relaxed",
+       "sad"
       ],
       "vocal": [
        "female"
       ]
      },
      "info": {
-      "year": "1984",
-      "released": "1984-01-21",
-      "label": "USM JAPAN",
-      "album": "テレサ・テン 40/40 ~ベスト・セレクション",
-      "copyright": "℗ 2015 USM JAPAN,  a division of UNIVERSAL MUSIC LLC.",
+      "year": "2007",
+      "released": "2007-11-14",
+      "label": "オフィス瀬戸",
+      "album": "恋におちて Fall In Love - EP",
+      "copyright": "℗ 2007 オフィス瀬戸",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 88,
-     "title": "3月9日",
-     "artist": "レミオロメン",
-     "song_url": "https://www.joysound.com/web/search/song/27341",
-     "last_rank": 68,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1857509406",
-     "bpm": 77,
-     "tags": {
-      "genre": [
-       "Indie Rock",
-       "Alternative Rock"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2004",
-      "released": "2004-03-09",
-      "label": "OORONG-SHA",
-      "album": "3月9日 - Single",
-      "copyright": "℗ OORONG-SHA",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 89,
+     "rank": 95,
      "title": "さざんかの宿",
      "artist": "大川栄策",
      "song_url": "https://www.joysound.com/web/search/song/328",
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 89,
+     "is_new": false,
      "genre": "Enka",
      "apple": "jp/103834101",
      "bpm": 75,
@@ -3102,191 +3393,35 @@
       ]
      },
      "info": {
-      "year": "1996",
-      "released": "1996-02-21",
+      "lyricist": [
+       "吉岡治"
+      ],
+      "composer": [
+       "市川昭介"
+      ],
+      "arranger": [
+       "竹村次郎"
+      ],
+      "year": "1982",
+      "released": "1982-08-01",
       "label": "Columbia Music Entertainment,inc",
       "album": "大川栄策全曲集: 駅",
+      "isrc": "JPCO08206690",
       "copyright": "℗ 2005 Columbia Music Entertainment,inc.",
+      "mb": "852efe5c-8989-4211-bd9a-9354dfaa7710",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 90,
-     "title": "真夏の果実",
-     "artist": "サザンオールスターズ",
-     "song_url": "https://www.joysound.com/web/search/song/2759",
-     "last_rank": null,
-     "is_new": true,
-     "genre": "J-Pop",
-     "apple": "jp/949249865",
-     "bpm": 101,
-     "tags": {
-      "mood": [
-       "happy"
-      ]
-     },
-     "info": {
-      "year": "1990",
-      "released": "1990-07-25",
-      "label": "TAISHITA Label Music Co., Ltd",
-      "album": "真夏の果実 - Single",
-      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 91,
-     "title": "スパークル [original ver.]",
-     "artist": "RADWIMPS",
-     "song_url": "https://www.joysound.com/web/search/song/593638",
-     "last_rank": 34,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "tw/1434005924",
-     "spotify": "1HdqMIGjLm8wkL4vWDcFPm",
-     "bpm": 124,
-     "tags": {
-      "genre": [
-       "Vocal Pop"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2016",
-      "released": "2016-08-24",
-      "label": "EMI Records",
-      "album": "君の名は。",
-      "copyright": "℗ 2016 EMI Records",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 92,
-     "title": "DAN DAN 心魅かれてく",
-     "artist": "FIELD OF VIEW",
-     "song_url": "https://www.joysound.com/web/search/song/9906",
-     "last_rank": 93,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/77295564",
-     "bpm": 133,
-     "tags": {
-      "genre": [
-       "Hard Rock",
-       "AOR"
-      ],
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "guitar",
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "1997",
-      "released": "1997-10-08",
-      "label": "B-Gram RECORDS,INC",
-      "album": "Complete of Field of View - At the Being Studio",
-      "copyright": "℗ 2003 B-Gram RECORDS,INC.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 93,
-     "title": "天体観測",
-     "artist": "BUMP OF CHICKEN",
-     "song_url": "https://www.joysound.com/web/search/song/25263",
-     "last_rank": 85,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1465863819",
-     "bpm": 164,
-     "tags": {
-      "genre": [
-       "Punk",
-       "Indie Rock"
-      ],
-      "mood": [
-       "energetic"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2001",
-      "released": "2001-03-14",
-      "label": "TOY'S FACTORY / LONGFELLOW",
-      "album": "天体観測 - Single",
-      "copyright": "℗ 2001 TOY'S FACTORY / LONGFELLOW",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 94,
-     "title": "愛を伝えたいだとか",
-     "artist": "あいみょん",
-     "song_url": "https://www.joysound.com/web/search/song/616946",
-     "last_rank": 92,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1273710101",
-     "bpm": 100,
-     "tags": {
-      "genre": [
-       "Dance-pop",
-       "Ballad"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "guitar",
-       "percussion"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2017",
-      "released": "2017-04-14",
-      "label": "WARNER MUSIC JAPAN INC",
-      "album": "青春のエキサイトメント",
-      "copyright": "℗ 2017 WARNER MUSIC JAPAN INC.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 95,
+     "rank": 96,
      "title": "赤いスイートピー",
      "artist": "松田聖子",
      "song_url": "https://www.joysound.com/web/search/song/2207",
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 95,
+     "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1536759785",
      "bpm": 83,
@@ -3315,77 +3450,76 @@
      }
     },
     {
-     "rank": 96,
-     "title": "恋におちて―Fall in love―",
-     "artist": "小林明子",
-     "song_url": "https://www.joysound.com/web/search/song/907",
+     "rank": 97,
+     "title": "異邦人",
+     "artist": "久保田早紀",
+     "song_url": "https://www.joysound.com/web/search/song/978",
      "last_rank": null,
      "is_new": true,
      "genre": "J-Pop",
-     "apple": "jp/289049578",
-     "bpm": 73,
+     "apple": "jp/1538962468",
+     "bpm": 107,
      "tags": {
       "genre": [
-       "Folk"
+       "City Pop"
       ],
       "mood": [
-       "relaxed",
-       "sad"
+       "relaxed"
       ],
       "vocal": [
        "female"
       ]
      },
      "info": {
-      "year": "2007",
-      "released": "2007-11-14",
-      "label": "オフィス瀬戸",
-      "album": "恋におちて Fall In Love - EP",
-      "copyright": "℗ 2007 オフィス瀬戸",
+      "year": "2002",
+      "released": "2002-01-01",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "GOLDEN☆BEST / 久保田早紀",
+      "copyright": "℗ 2002 Sony Music Entertainment (Japan) Inc.",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 97,
-     "title": "新宝島",
-     "artist": "サカナクション",
-     "song_url": "https://www.joysound.com/web/search/song/530711",
-     "last_rank": 87,
+     "rank": 98,
+     "title": "天体観測",
+     "artist": "BUMP OF CHICKEN",
+     "song_url": "https://www.joysound.com/web/search/song/25263",
+     "last_rank": 93,
      "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1358578633",
-     "bpm": 158,
+     "genre": "J-Pop",
+     "apple": "jp/1465863819",
+     "bpm": 164,
      "tags": {
+      "genre": [
+       "Punk",
+       "Indie Rock"
+      ],
       "mood": [
-       "danceable",
-       "happy",
        "energetic"
       ],
       "instrument": [
-       "drums",
-       "bass",
        "electricguitar"
       ]
      },
      "info": {
-      "year": "2018",
-      "released": "2018-03-28",
-      "label": "Victor Entertainment",
-      "album": "魚図鑑",
-      "copyright": "℗ Victor Entertainment",
+      "year": "2001",
+      "released": "2001-03-14",
+      "label": "TOY'S FACTORY / LONGFELLOW",
+      "album": "天体観測 - Single",
+      "copyright": "℗ 2001 TOY'S FACTORY / LONGFELLOW",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 97,
+     "rank": 99,
      "title": "Soranji",
      "artist": "Mrs. GREEN APPLE",
      "song_url": "https://www.joysound.com/web/search/song/943699",
-     "last_rank": 81,
+     "last_rank": 97,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1648865575",
@@ -3415,74 +3549,41 @@
      }
     },
     {
-     "rank": 99,
-     "title": "さくらんぼ",
-     "artist": "大塚 愛",
-     "song_url": "https://www.joysound.com/web/search/song/27150",
-     "last_rank": 90,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/250610845",
-     "bpm": 170,
-     "tags": {
-      "mood": [
-       "happy",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2003",
-      "released": "2003-12-17",
-      "label": "AVEX ENTERTAINMENT INC",
-      "album": "愛 am BEST",
-      "copyright": "℗ 2007 AVEX ENTERTAINMENT INC.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 100,
-     "title": "HANABI",
-     "artist": "Mr.Children",
-     "song_url": "https://www.joysound.com/web/search/song/121447",
-     "last_rank": 98,
-     "is_new": false,
+     "title": "愛のうた",
+     "artist": "倖田來未",
+     "song_url": "https://www.joysound.com/web/search/song/107845",
+     "last_rank": null,
+     "is_new": true,
      "genre": "J-Pop",
-     "apple": "jp/1375007474",
-     "bpm": 112,
+     "apple": "jp/1053333197",
+     "bpm": 75,
      "tags": {
       "genre": [
-       "Pop Rock",
-       "Brit Pop"
+       "Ballad"
       ],
       "mood": [
-       "happy"
+       "relaxed"
       ],
-      "instrument": [
-       "guitar"
+      "vocal": [
+       "female"
       ]
      },
      "info": {
-      "year": "2008",
-      "released": "2008-09-03",
-      "label": "OORONG-SHA/TOY'S FACTORY",
-      "album": "SUPERMARKET FANTASY",
-      "copyright": "℗ 2008 OORONG-SHA/TOY'S FACTORY",
+      "year": "2007",
+      "released": "2007-09-12",
+      "label": "AVEX MUSIC CREATIVE INC",
+      "album": "愛のうた - EP",
+      "copyright": "℗ 2007 AVEX MUSIC CREATIVE INC.",
       "src": [
        "apple"
       ]
      }
     }
    ],
-   "period_key": "2026-11-04",
+   "period_key": "2026-11-05",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T17:19:34+08:00",
+   "fetched_at": "2026-11-06T11:27:51+08:00",
    "stale": false
   },
   {
@@ -3688,12 +3789,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "新藤晴一"
+      ],
+      "composer": [
+       "本間昭光"
+      ],
       "year": "2000",
       "released": "2000-09-13",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "サウダージ - EP",
+      "isrc": "JPSR00005541",
       "copyright": "℗ 2000 Sony Music Entertainment (Japan) Inc.",
+      "mb": "edebe413-32ee-4c23-9586-6bf28e1dd309",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3724,12 +3834,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
+      "arranger": [
+       "back number",
+       "島田昌典"
+      ],
+      "producer": [
+       "島田昌典"
+      ],
+      "mix": [
+       "渡辺敏広"
+      ],
+      "recording": [
+       "渡辺敏広"
+      ],
       "year": "2021",
       "released": "2021-08-13",
       "label": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
       "album": "水平線 - Single",
+      "isrc": "JPPO02100907",
       "copyright": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
+      "mb": "02689e6a-9a9f-4415-9218-bb3da1dc1a87",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3807,12 +3939,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2013",
       "released": "2013-06-26",
       "label": "UNIVERSAL SIGMA",
       "album": "アンコール",
+      "isrc": "JPPO01336381",
       "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "efcdd440-c922-44ac-9487-4d4afb95ceb7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4031,12 +4172,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "arranger": [
+       "伊藤賢",
+       "大森元貴"
+      ],
       "year": "2025",
-      "released": "2025-01-20",
+      "released": "2025-01-19",
       "label": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
       "album": "ダーリン - EP",
+      "isrc": "JPPO02500038",
       "copyright": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "mb": "5d503860-e282-431a-b755-a99a31b608ce",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4288,8 +4442,11 @@
       "released": "2004-03-10",
       "label": "AUGUSTA RECORDS",
       "album": "奏(かなで) - EP",
+      "isrc": "JPPO02400518",
       "copyright": "℗ 2004 AUGUSTA RECORDS, a division of UNIVERSAL MUSIC LLC",
+      "mb": "d267e2ec-ccbc-4f0b-a016-be0f494b70fb",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4771,16 +4928,13 @@
       "composer": [
        "織田哲郎"
       ],
-      "arranger": [
-       "葉山たけし"
-      ],
-      "year": "1994",
-      "released": "1994-06-08",
+      "year": "1996",
+      "released": "1996-03-20",
       "label": "B-Gram RECORDS,INC",
       "album": "TVアニメーション スラムダンク テーマソング集 - EP",
-      "isrc": "JPF502209202",
+      "isrc": "JPC400711038",
       "copyright": "℗ 1996 B-Gram RECORDS,INC.",
-      "mb": "2283f2ba-00d5-491a-ac33-d02356d78402",
+      "mb": "e71fd705-f9a1-40a9-bf08-a6c590ae3f75",
       "src": [
        "mb",
        "apple"
@@ -4914,12 +5068,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "composer": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "arranger": [
+       "Shin Sakiura"
+      ],
       "year": "2025",
       "released": "2025-07-02",
       "label": "Avex Music Creative Inc",
       "album": "革命道中 - On The Way - Single",
+      "isrc": "JPB602501972",
       "copyright": "℗ 2025 Avex Music Creative Inc.",
+      "mb": "19e79d31-4a80-44ea-9d7c-bb014ba6cab8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5190,12 +5358,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "康珍化"
+      ],
+      "composer": [
+       "芹澤廣明"
+      ],
       "year": "1985",
       "released": "1985-03-21",
       "label": "Pony Canyon Inc",
       "album": "タッチ",
       "copyright": "℗ Pony Canyon Inc.",
+      "mb": "736f881a-a0a1-4bae-8bab-565b8f9e2e47",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5587,12 +5763,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "山口一郎"
+      ],
+      "composer": [
+       "サカナクション"
+      ],
+      "mix": [
+       "浦本雅史"
+      ],
+      "recording": [
+       "浦本雅史"
+      ],
       "year": "2025",
       "released": "2025-02-20",
       "label": "Victor Entertainment",
       "album": "怪獣 - Single",
+      "isrc": "JPVI02403562",
       "copyright": "℗ Victor Entertainment",
+      "mb": "b36fdc7a-3388-4ffd-a2db-d08615de1010",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5645,12 +5836,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "野田洋次郎"
+      ],
+      "composer": [
+       "野田洋次郎"
+      ],
+      "arranger": [
+       "野田洋次郎"
+      ],
+      "mix": [
+       "菅井正剛"
+      ],
+      "recording": [
+       "澤本哲朗",
+       "菅井正剛"
+      ],
       "year": "2016",
       "released": "2016-08-24",
       "label": "EMI Records",
       "album": "君の名は。",
+      "isrc": "JPPO01618974",
       "copyright": "℗ 2016 EMI Records",
+      "mb": "1d8040f5-95d7-423c-a232-5959915c4af3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6957,7 +7167,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T17:19:35+08:00",
+   "fetched_at": "2026-11-06T11:27:53+08:00",
    "stale": false
   },
   {
@@ -7163,12 +7373,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "新藤晴一"
+      ],
+      "composer": [
+       "本間昭光"
+      ],
       "year": "2000",
       "released": "2000-09-13",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "サウダージ - EP",
+      "isrc": "JPSR00005541",
       "copyright": "℗ 2000 Sony Music Entertainment (Japan) Inc.",
+      "mb": "edebe413-32ee-4c23-9586-6bf28e1dd309",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7199,12 +7418,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
+      "arranger": [
+       "back number",
+       "島田昌典"
+      ],
+      "producer": [
+       "島田昌典"
+      ],
+      "mix": [
+       "渡辺敏広"
+      ],
+      "recording": [
+       "渡辺敏広"
+      ],
       "year": "2021",
       "released": "2021-08-13",
       "label": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
       "album": "水平線 - Single",
+      "isrc": "JPPO02100907",
       "copyright": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
+      "mb": "02689e6a-9a9f-4415-9218-bb3da1dc1a87",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7282,12 +7523,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2013",
       "released": "2013-06-26",
       "label": "UNIVERSAL SIGMA",
       "album": "アンコール",
+      "isrc": "JPPO01336381",
       "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "efcdd440-c922-44ac-9487-4d4afb95ceb7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7463,12 +7713,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "arranger": [
+       "伊藤賢",
+       "大森元貴"
+      ],
       "year": "2025",
-      "released": "2025-01-20",
+      "released": "2025-01-19",
       "label": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
       "album": "ダーリン - EP",
+      "isrc": "JPPO02500038",
       "copyright": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "mb": "5d503860-e282-431a-b755-a99a31b608ce",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7782,8 +8045,11 @@
       "released": "2004-03-10",
       "label": "AUGUSTA RECORDS",
       "album": "奏(かなで) - EP",
+      "isrc": "JPPO02400518",
       "copyright": "℗ 2004 AUGUSTA RECORDS, a division of UNIVERSAL MUSIC LLC",
+      "mb": "d267e2ec-ccbc-4f0b-a016-be0f494b70fb",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8117,12 +8383,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "composer": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "arranger": [
+       "Shin Sakiura"
+      ],
       "year": "2025",
       "released": "2025-07-02",
       "label": "Avex Music Creative Inc",
       "album": "革命道中 - On The Way - Single",
+      "isrc": "JPB602501972",
       "copyright": "℗ 2025 Avex Music Creative Inc.",
+      "mb": "19e79d31-4a80-44ea-9d7c-bb014ba6cab8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8272,16 +8552,13 @@
       "composer": [
        "織田哲郎"
       ],
-      "arranger": [
-       "葉山たけし"
-      ],
-      "year": "1994",
-      "released": "1994-06-08",
+      "year": "1996",
+      "released": "1996-03-20",
       "label": "B-Gram RECORDS,INC",
       "album": "TVアニメーション スラムダンク テーマソング集 - EP",
-      "isrc": "JPF502209202",
+      "isrc": "JPC400711038",
       "copyright": "℗ 1996 B-Gram RECORDS,INC.",
-      "mb": "2283f2ba-00d5-491a-ac33-d02356d78402",
+      "mb": "e71fd705-f9a1-40a9-bf08-a6c590ae3f75",
       "src": [
        "mb",
        "apple"
@@ -8623,12 +8900,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "康珍化"
+      ],
+      "composer": [
+       "芹澤廣明"
+      ],
       "year": "1985",
       "released": "1985-03-21",
       "label": "Pony Canyon Inc",
       "album": "タッチ",
       "copyright": "℗ Pony Canyon Inc.",
+      "mb": "736f881a-a0a1-4bae-8bab-565b8f9e2e47",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8859,12 +9144,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "山口一郎"
+      ],
+      "composer": [
+       "サカナクション"
+      ],
+      "mix": [
+       "浦本雅史"
+      ],
+      "recording": [
+       "浦本雅史"
+      ],
       "year": "2025",
       "released": "2025-02-20",
       "label": "Victor Entertainment",
       "album": "怪獣 - Single",
+      "isrc": "JPVI02403562",
       "copyright": "℗ Victor Entertainment",
+      "mb": "b36fdc7a-3388-4ffd-a2db-d08615de1010",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8896,12 +9196,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "野田洋次郎"
+      ],
+      "composer": [
+       "野田洋次郎"
+      ],
+      "arranger": [
+       "野田洋次郎"
+      ],
+      "mix": [
+       "菅井正剛"
+      ],
+      "recording": [
+       "澤本哲朗",
+       "菅井正剛"
+      ],
       "year": "2016",
       "released": "2016-08-24",
       "label": "EMI Records",
       "album": "君の名は。",
+      "isrc": "JPPO01618974",
       "copyright": "℗ 2016 EMI Records",
+      "mb": "1d8040f5-95d7-423c-a232-5959915c4af3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10415,7 +10734,7 @@
    ],
    "period_key": "2026-10",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T17:19:36+08:00",
+   "fetched_at": "2026-11-06T11:27:55+08:00",
    "stale": false
   },
   {
@@ -10696,16 +11015,13 @@
       "composer": [
        "織田哲郎"
       ],
-      "arranger": [
-       "葉山たけし"
-      ],
-      "year": "1994",
-      "released": "1994-06-08",
+      "year": "1996",
+      "released": "1996-03-20",
       "label": "B-Gram RECORDS,INC",
       "album": "TVアニメーション スラムダンク テーマソング集 - EP",
-      "isrc": "JPF502209202",
+      "isrc": "JPC400711038",
       "copyright": "℗ 1996 B-Gram RECORDS,INC.",
-      "mb": "2283f2ba-00d5-491a-ac33-d02356d78402",
+      "mb": "e71fd705-f9a1-40a9-bf08-a6c590ae3f75",
       "src": [
        "mb",
        "apple"
@@ -10735,12 +11051,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "composer": [
+       "アイナ・ジ・エンド",
+       "Shin Sakiura"
+      ],
+      "arranger": [
+       "Shin Sakiura"
+      ],
       "year": "2025",
       "released": "2025-07-02",
       "label": "Avex Music Creative Inc",
       "album": "革命道中 - On The Way - Single",
+      "isrc": "JPB602501972",
       "copyright": "℗ 2025 Avex Music Creative Inc.",
+      "mb": "19e79d31-4a80-44ea-9d7c-bb014ba6cab8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10761,12 +11091,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "康珍化"
+      ],
+      "composer": [
+       "芹澤廣明"
+      ],
       "year": "1985",
       "released": "1985-03-21",
       "label": "Pony Canyon Inc",
       "album": "タッチ",
       "copyright": "℗ Pony Canyon Inc.",
+      "mb": "736f881a-a0a1-4bae-8bab-565b8f9e2e47",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10787,12 +11125,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "山口一郎"
+      ],
+      "composer": [
+       "サカナクション"
+      ],
+      "mix": [
+       "浦本雅史"
+      ],
+      "recording": [
+       "浦本雅史"
+      ],
       "year": "2025",
       "released": "2025-02-20",
       "label": "Victor Entertainment",
       "album": "怪獣 - Single",
+      "isrc": "JPVI02403562",
       "copyright": "℗ Victor Entertainment",
+      "mb": "b36fdc7a-3388-4ffd-a2db-d08615de1010",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13516,7 +13869,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T17:19:38+08:00",
+   "fetched_at": "2026-11-06T11:27:58+08:00",
    "stale": false
   },
   {
@@ -13737,12 +14090,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "DECO*27"
+      ],
+      "composer": [
+       "DECO*27"
+      ],
+      "arranger": [
+       "DECO*27",
+       "Hayato Yamamoto"
+      ],
       "year": "2024",
       "released": "2024-11-23",
       "label": "OTOIRO",
       "album": "モニタリング - Single",
+      "isrc": "JP92Q2400634",
       "copyright": "℗ 2024 OTOIRO",
+      "mb": "fb364193-b965-4eac-ab2b-4884d2b5417e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13769,12 +14135,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Junky"
+      ],
+      "composer": [
+       "Junky"
+      ],
       "year": "2018",
       "released": "2018-10-19",
       "label": "U/M/A/A",
       "album": "Happy Halloween - Single",
       "copyright": "℗ 2018 U/M/A/A",
+      "mb": "fcfab1e5-261b-4440-ad72-624427bc2c10",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13800,12 +14174,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "日向電工"
+      ],
+      "composer": [
+       "日向電工"
+      ],
       "year": "2017",
-      "released": "2017-02-22",
+      "released": "2017-12-20",
       "label": "NBCUniversal Entertainment",
       "album": "ブラックホールディスク",
+      "isrc": "JPPI01700070",
       "copyright": "℗ 2017 NBCUniversal Entertainment.",
+      "mb": "3f659e25-7174-4615-9fdc-ae0c12d608a1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13837,12 +14220,24 @@
       ]
      },
      "info": {
-      "year": "2019",
-      "released": "2019-05-22",
+      "lyricist": [
+       "DECO*27",
+       "Mes"
+      ],
+      "composer": [
+       "DECO*27"
+      ],
+      "arranger": [
+       "Rockwell"
+      ],
+      "year": "2017",
+      "released": "2017-08-04",
       "label": "NBCUniversal Entertainment",
       "album": "アンドロイドガール",
       "copyright": "℗ 2019 NBCUniversal Entertainment.",
+      "mb": "700c09df-16b4-4066-826d-a5ef4f0dc3d4",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16494,7 +16889,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T17:19:39+08:00",
+   "fetched_at": "2026-11-06T11:27:59+08:00",
    "stale": false
   },
   {
@@ -16722,12 +17117,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "荒木とよひさ"
+      ],
+      "composer": [
+       "三木たかし"
+      ],
+      "arranger": [
+       "川口真"
+      ],
       "year": "1984",
       "released": "1984-01-21",
       "label": "USM JAPAN",
       "album": "テレサ・テン 40/40 ~ベスト・セレクション",
+      "isrc": "JPPO00322060",
       "copyright": "℗ 2015 USM JAPAN,  a division of UNIVERSAL MUSIC LLC.",
+      "mb": "f7045b82-9776-4998-8a80-9ee9868e76e0",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16750,12 +17157,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "小椋佳"
+      ],
+      "composer": [
+       "小椋佳"
+      ],
+      "arranger": [
+       "若草恵"
+      ],
       "year": "1986",
       "released": "1986-05-29",
       "label": "Nippon Columbia Co., Ltd",
       "album": "美空ひばり オールタイム・ベスト 〜あれから〜",
+      "isrc": "JPCO08643490",
       "copyright": "℗ 2019 Nippon Columbia Co., Ltd.",
+      "mb": "4258b679-bcee-45b1-8434-861641d5fcf1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16777,12 +17196,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "山口洋子"
+      ],
+      "composer": [
+       "弦哲也"
+      ],
+      "arranger": [
+       "前田俊明"
+      ],
       "year": "1987",
       "released": "1987-08-10",
       "label": "TEICHIKU ENTERTAINMENT,INC",
       "album": "石原裕次郎60 Disc-3",
+      "isrc": "JPTE08384390",
       "copyright": "℗ 2016 TEICHIKU ENTERTAINMENT,INC.",
+      "mb": "0bc4d091-ae66-45b3-8297-3cb04f8f07fe",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16804,12 +17235,24 @@
       ]
      },
      "info": {
-      "year": "1996",
-      "released": "1996-02-21",
+      "lyricist": [
+       "吉岡治"
+      ],
+      "composer": [
+       "市川昭介"
+      ],
+      "arranger": [
+       "竹村次郎"
+      ],
+      "year": "1982",
+      "released": "1982-08-01",
       "label": "Columbia Music Entertainment,inc",
       "album": "大川栄策全曲集: 駅",
+      "isrc": "JPCO08206690",
       "copyright": "℗ 2005 Columbia Music Entertainment,inc.",
+      "mb": "852efe5c-8989-4211-bd9a-9354dfaa7710",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19309,7 +19752,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T17:19:40+08:00",
+   "fetched_at": "2026-11-06T11:28:03+08:00",
    "stale": false
   },
   {
@@ -19698,12 +20141,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "John Lennon",
+       "Paul McCartney"
+      ],
+      "composer": [
+       "John Lennon",
+       "Paul McCartney"
+      ],
       "year": "1970",
       "released": "1970-03-06",
       "label": "Calderstone Productions Limited (",
       "album": "Let It Be",
       "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group) / Apple Corps Ltd.",
+      "mb": "9880cd5f-a551-4751-9746-54d3fa957dc7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19798,12 +20251,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "John Bettis"
+      ],
+      "composer": [
+       "Richard Carpenter"
+      ],
       "year": "1972",
       "released": "1972-06-22",
       "label": "An A&M Records release; This Compilation ℗ 2000 UMG Recordings, Inc",
       "album": "Gold: Greatest Hits",
       "copyright": "An A&M Records release; This Compilation ℗ 2000 UMG Recordings, Inc.",
+      "mb": "59b958c0-244c-43ad-a582-fe3a427958c1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20591,12 +21052,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Lady Gaga",
+       "RedOne"
+      ],
+      "composer": [
+       "Lady Gaga",
+       "RedOne"
+      ],
       "year": "2009",
       "released": "2009-10-26",
       "label": "An Interscope Records Release; ℗ 2014 UMG Recordings, Inc",
       "album": "The Fame Monster (Deluxe Edition)",
       "copyright": "An Interscope Records Release; ℗ 2014 UMG Recordings, Inc.",
+      "mb": "295b817f-58bc-4252-9584-afd7800e1535",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -22553,7 +23024,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-05T17:19:42+08:00",
+   "fetched_at": "2026-11-06T11:28:05+08:00",
    "stale": false
   }
  ]
