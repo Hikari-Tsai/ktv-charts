@@ -45,15 +45,20 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "andthentomorrow|藝聲": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "baby|東海": {
   "checked": "2026-11-06",
   "status": "none",
   "v": 2
  },
  "beautyandabeat|justinbieber": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-07",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "birdyfly|陳忻玥": {
   "album": "Birdy Fly",
@@ -90,8 +95,18 @@
   "status": "none",
   "v": 2
  },
+ "bokunohoshi|厲旭": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "dearyou|宇宙人": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "everyheart|寶兒": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -125,6 +140,11 @@
   "status": "none",
   "v": 2
  },
+ "haerise|東海": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "holdmetight|陳忻玥張粹方": {
   "album": "Hold Me Tight",
   "checked": "2026-11-05",
@@ -152,13 +172,46 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "home|王詩安": {
+  "album": "HOME",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Skot Suyama 陶山"
+   ],
+   "lyricist": [
+    "Skot Suyama 陶山"
+   ]
+  },
+  "isrc": "TWBR11604001",
+  "item": 148965,
+  "label": "闊思音樂",
+  "maker": "闊思音樂",
+  "performer": [
+   "王詩安 Diana Wang"
+  ],
+  "released": "2016-04-06",
+  "status": "ok",
+  "title": "HOME",
+  "v": 2
+ },
  "hongkong|theweeknd": {
   "checked": "2026-11-05",
   "status": "none",
   "v": 2
  },
+ "ilikeyou|宋雨琦": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "irisout|米津玄師": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "janedoe|米津玄師宇多田ヒカル": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -172,8 +225,23 @@
   "status": "none",
   "v": 2
  },
+ "lalalalovesong|久保田利伸": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "lemon|米津玄師": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "letsdance|藝聲": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "lonelynight|藝聲": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -182,8 +250,18 @@
   "status": "none",
   "v": 2
  },
+ "loveyourself|justinbieber": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "matadayo|藝聲": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "neverdie永不落幕|5566": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -207,6 +285,11 @@
   "status": "none",
   "v": 2
  },
+ "pretender|official鬍子男dism": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "rundevilrun|少女時代": {
   "checked": "2026-11-06",
   "status": "none",
@@ -214,6 +297,16 @@
  },
  "sakihokorutokiomatsunowa|藝聲": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "secretofmyheart|倉木麻衣": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "seeyouagain|wizkhalifa": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -237,13 +330,38 @@
   "status": "none",
   "v": 2
  },
+ "temptation|河莉秀": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "theforestdwellers|藝聲": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "timewillheal|藝聲": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "tokyobon|黃明志二宮芽生": {
   "checked": "2026-11-05",
   "status": "none",
   "v": 2
  },
+ "tsunami|サザンオールスターズ": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "windsoftime|藝聲": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "あの夢をなぞって|yoasobi": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -277,8 +395,18 @@
   "status": "none",
   "v": 2
  },
+ "どうして|高瀬統也": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "まつり|藤井風": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "プラネタリウム|大塚愛": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -289,6 +417,21 @@
  },
  "一夜情緣|吳勇濱蕭玉芬": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "一天一點愛戀|梁朝偉": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "一對一|林煥鈞": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "一念|variousartists": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -362,14 +505,70 @@
   "status": "none",
   "v": 2
  },
+ "一起走過的日子|劉德華": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "一遍兩遍|8lak": {
   "checked": "2026-11-05",
   "status": "none",
   "v": 2
  },
+ "三心兩意|黃文星曾昱嘉": {
+  "album": "天地 黃文星首張台語專輯",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "陳飛午"
+   ],
+   "composer": [
+    "林東松"
+   ],
+   "lyricist": [
+    "巴布"
+   ]
+  },
+  "isrc": "TWA270917004",
+  "item": 88513,
+  "label": "金牌大風(原EMI)",
+  "maker": "金牌大風(原EMI)",
+  "performer": [
+   "黃文星"
+  ],
+  "released": "2010-07-09",
+  "status": "ok",
+  "title": "三心兩意 feat.曾昱嘉",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "三生有幸|陳隨意謝宜君": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "三菜一湯|楊世暄samyang": {
+  "album": "普通活著 Daily Diner",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "楊世暄 Sam Yang"
+   ],
+   "lyricist": [
+    "楊世暄 Sam Yang"
+   ]
+  },
+  "isrc": "TWU712515108",
+  "item": 599678,
+  "label": "滾石移動股份有限公司",
+  "maker": "有趣的形狀工作室",
+  "performer": [
+   "楊世暄 Sam Yang"
+  ],
+  "released": "2025-11-18",
+  "status": "ok",
+  "title": "三菜一湯 In the Middle",
+  "type": "國語流行專輯",
   "v": 2
  },
  "上水的花|蕭煌奇": {
@@ -399,6 +598,16 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "上海灘|劉德華": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "上海灘|葉麗儀": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "下一站天后|twins": {
   "checked": "2026-11-06",
   "status": "none",
@@ -412,6 +621,38 @@
  "不愛就不愛|艾薇": {
   "album": "不愛就不愛",
   "checked": "2026-11-05",
+  "credits": {
+   "arranger": [
+    "于修"
+   ],
+   "composer": [
+    "艾薇",
+    "于修"
+   ],
+   "lyricist": [
+    "陳芷儀",
+    "温曼尼"
+   ],
+   "producer": [
+    "阿弟仔"
+   ]
+  },
+  "isrc": "TWUM72400124",
+  "item": 529387,
+  "label": "環球國際唱片股份有限公司",
+  "maker": "喜鵲娛樂股份有限公司",
+  "performer": [
+   "艾薇"
+  ],
+  "released": "2024-11-02",
+  "status": "ok",
+  "title": "不愛就不愛",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "不愛就不愛|艾薇ivy": {
+  "album": "不愛就不愛",
+  "checked": "2026-11-07",
   "credits": {
    "arranger": [
     "于修"
@@ -492,8 +733,54 @@
   "status": "none",
   "v": 2
  },
+ "他究竟有多好|任夏": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "伊的身邊已經有別人2023|許富凱": {
+  "album": "伊的身邊已經有別人2023",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "呂聖斐 Sheng Fei Lu",
+    "劉宗霖 ZERO",
+    "許主携 Matt Hsu"
+   ],
+   "composer": [
+    "XC",
+    "劉宗霖 ZERO"
+   ],
+   "lyricist": [
+    "XC",
+    "童仲宇 GIGO"
+   ],
+   "producer": [
+    "劉宗霖 ZERO",
+    "許主携 Matt Hsu"
+   ]
+  },
+  "isrc": "TWKI12300001",
+  "item": 461847,
+  "label": "何樂音樂",
+  "maker": "喜樂娛樂有限公司",
+  "performer": [
+   "許富凱 Fu kai Hsu",
+   "血肉果汁機 Flesh Juicer"
+  ],
+  "released": "2023-06-18",
+  "status": "ok",
+  "title": "伊的身邊已經有別人2023",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "伊的身邊已經有別人2023|許富凱血肉果汁機": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "伏線|呆呆破": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -555,6 +842,36 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "你愛誰|蕭玉芬": {
+  "album": "愛情是鹹酸甜",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "張振杰"
+   ],
+   "composer": [
+    "石國人"
+   ],
+   "lyricist": [
+    "石國人"
+   ],
+   "producer": [
+    "吳梵"
+   ]
+  },
+  "isrc": "TWK812604003",
+  "item": 713575,
+  "label": "豪記影視唱片有限公司",
+  "maker": "豪記影視唱片有限公司",
+  "performer": [
+   "蕭玉芬"
+  ],
+  "released": "2026-09-24",
+  "status": "ok",
+  "title": "你愛誰",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "你是|王謙goatak陳華": {
   "album": "你是__",
   "checked": "2026-11-06",
@@ -612,6 +929,11 @@
   "status": "ok",
   "title": "你的香水味",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "你瞞我瞞|陳柏宇": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "你講的話|江蕙": {
@@ -692,6 +1014,11 @@
   "title": "假如有如果",
   "v": 2
  },
+ "假性愛|薇薇": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "做你的格|玖壹壹": {
   "album": "做你的格",
   "checked": "2026-11-06",
@@ -727,6 +1054,37 @@
   "status": "ok",
   "title": "做你的格",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "偶像包袱|理想混蛋": {
+  "album": "偶像包袱",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "利惟庸 Tony Li",
+    "理想混蛋 Bestards"
+   ],
+   "composer": [
+    "邱建豪 Kidding Chiu"
+   ],
+   "lyricist": [
+    "邱建豪 Kidding Chiu"
+   ],
+   "producer": [
+    "陳建騏 George Chen"
+   ]
+  },
+  "isrc": "TWHE52600011",
+  "item": 671113,
+  "label": "何樂音樂有限公司",
+  "maker": "好混蛋音樂有限公司",
+  "performer": [
+   "理想混蛋"
+  ],
+  "released": "2026-09-04",
+  "status": "ok",
+  "title": "偶像包袱",
+  "type": "國語流行專輯",
   "v": 2
  },
  "傷心酒店|施文彬江蕙": {
@@ -802,6 +1160,63 @@
   "status": "none",
   "v": 2
  },
+ "再見的時候電影陽光女子合唱團主題曲再見版|洪佩瑜": {
+  "album": "再見的時候-電影〈陽光女子合唱團〉主題曲-再見版",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "張晁毓"
+   ],
+   "composer": [
+    "張簡君偉"
+   ],
+   "lyricist": [
+    "林孝謙"
+   ],
+   "producer": [
+    "陳建騏"
+   ]
+  },
+  "isrc": "TWEX52510002",
+  "item": 614978,
+  "label": "何樂音樂有限公司",
+  "maker": "何樂音樂有限公司",
+  "performer": [
+   "洪佩瑜"
+  ],
+  "released": "2025-12-19",
+  "status": "ok",
+  "title": "再見的時候-電影〈陽光女子合唱團〉主題曲-再見版",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "別人的|徐若瑄": {
+  "album": "I’m V",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "游政豪"
+   ],
+   "composer": [
+    "陳冠甫"
+   ],
+   "lyricist": [
+    "徐若瑄"
+   ]
+  },
+  "isrc": "TWA472004001",
+  "item": 334416,
+  "label": "台灣索尼音樂娛樂股份有限公司",
+  "maker": "台灣索尼音樂娛樂股份有限公司",
+  "performer": [
+   "徐若瑄"
+  ],
+  "released": "2020-09-11",
+  "status": "ok",
+  "title": "別人的",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "別回頭|pamajor": {
   "album": "別回頭",
   "checked": "2026-11-05",
@@ -864,6 +1279,11 @@
   "status": "ok",
   "title": "刺到整身軀",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "前世燒好香|鄧詠家陳小龍": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "北国の春|千昌夫": {
@@ -1020,9 +1440,19 @@
   "v": 2
  },
  "喜歡妳|beyond": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-07",
   "status": "none",
-  "v": 1
+  "v": 2
+ },
+ "單車|陳奕迅": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "嘉賓|張遠": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
  },
  "回憶刪不去|任夏": {
   "checked": "2026-11-06",
@@ -1133,6 +1563,11 @@
   "status": "none",
   "v": 2
  },
+ "夢追い酒|渥美二郎": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "大梦归|周深": {
   "checked": "2026-11-05",
   "status": "none",
@@ -1180,6 +1615,31 @@
   "released": "2025-11-26",
   "status": "ok",
   "title": "太陽與地球",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "失戀無罪|alin": {
+  "album": "聲吶SONAR世界巡迴演唱會 LIVE 【2DVD】",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "劉勇志"
+   ],
+   "lyricist": [
+    "林夕",
+    "徐世珍"
+   ]
+  },
+  "isrc": "TWA481610009",
+  "item": 171164,
+  "label": "台灣索尼音樂娛樂",
+  "maker": "台灣索尼音樂娛樂",
+  "performer": [
+   "A-Lin"
+  ],
+  "released": "2017-01-06",
+  "status": "ok",
+  "title": "失戀無罪 / 愛 請問怎麼走",
   "type": "國語流行專輯",
   "v": 2
  },
@@ -1273,6 +1733,30 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "字字句句|盧盧快閉嘴": {
+  "album": "字字句句",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "玖零三壹"
+   ],
+   "lyricist": [
+    "玖零三壹"
+   ]
+  },
+  "isrc": "TWHD32301464",
+  "item": 449623,
+  "label": "嗨庫文化傳媒有限公司",
+  "maker": "海葵文化",
+  "performer": [
+   "盧盧快閉嘴"
+  ],
+  "released": "2023-03-02",
+  "status": "ok",
+  "title": "字字句句",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "季候風|王菲": {
   "checked": "2026-11-05",
   "status": "none",
@@ -1335,6 +1819,33 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "家後|江蕙": {
+  "album": "再相會",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "戴維雄"
+   ],
+   "composer": [
+    "鄭進一"
+   ],
+   "lyricist": [
+    "鄭進一",
+    "陳維祥"
+   ]
+  },
+  "isrc": "TWI010100104",
+  "item": 122163,
+  "label": "大信唱片",
+  "maker": "大信唱片",
+  "performer": [
+   "江蕙"
+  ],
+  "released": "2001-06-10",
+  "status": "ok",
+  "title": "家後",
+  "v": 2
+ },
  "富士山下|陳奕迅": {
   "album": "WHAT`S GOING ON?",
   "checked": "2026-11-05",
@@ -1389,6 +1900,11 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "寸寸|袁婭維tiaray": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "對我祝福|許富凱": {
   "album": "對我祝福",
   "checked": "2026-11-06",
@@ -1420,6 +1936,30 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "對等關係|李榮浩": {
+  "album": "對等關係（feat.張惠妹）",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "李榮浩"
+   ],
+   "lyricist": [
+    "李榮浩"
+   ]
+  },
+  "isrc": "TWA532101766",
+  "item": 391045,
+  "label": "華納國際音樂股份有限公司",
+  "maker": "北京ㄧ樣音樂工作室",
+  "performer": [
+   "李榮浩"
+  ],
+  "released": "2021-12-08",
+  "status": "ok",
+  "title": "對等關係（feat.張惠妹）",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "對等關係|李榮浩張惠妹": {
   "album": "對等關係（feat.張惠妹）",
   "checked": "2026-11-05",
@@ -1442,6 +1982,35 @@
   "status": "ok",
   "title": "對等關係（feat.張惠妹）",
   "type": "國語流行專輯",
+  "v": 2
+ },
+ "島嶼天光|滅火器": {
+  "album": "島嶼天光",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "楊大正",
+    "阿雞"
+   ],
+   "lyricist": [
+    "楊大正"
+   ]
+  },
+  "isrc": "TWM671304801",
+  "item": 123436,
+  "label": "有料音樂",
+  "maker": "有料音樂",
+  "performer": [
+   "滅火器"
+  ],
+  "released": "2014-03-28",
+  "status": "ok",
+  "title": "島嶼天光 Island Sunrise",
+  "v": 2
+ },
+ "川の流れのように2000|美空ひばり": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "幸福在歌唱|alin": {
@@ -1478,6 +2047,60 @@
  "從前你|于冬然": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "從前說|小阿七": {
+  "album": "從前說",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "劉通"
+   ],
+   "lyricist": [
+    "劉通"
+   ]
+  },
+  "isrc": "TWHD32106077",
+  "item": 396546,
+  "label": "嗨庫文化傳媒有限公司",
+  "maker": "嗨庫文化傳媒有限公司從前說",
+  "performer": [
+   "小阿七"
+  ],
+  "released": "2021-12-29",
+  "status": "ok",
+  "title": "從前說",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "心愛的阮叫你第一名|吳柔靜": {
+  "album": "心愛的 阮叫你第一名",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "可澄音樂文創"
+   ],
+   "composer": [
+    "黃偉霖"
+   ],
+   "lyricist": [
+    "黃偉霖"
+   ],
+   "producer": [
+    "黃偉霖"
+   ]
+  },
+  "isrc": "TWMR12600002",
+  "item": 702066,
+  "label": "威林音樂企業社",
+  "maker": "威林音樂企業社",
+  "performer": [
+   "吳柔靜"
+  ],
+  "released": "2026-10-04",
+  "status": "ok",
+  "title": "心愛的 阮叫你第一名",
+  "type": "台語流行專輯",
   "v": 2
  },
  "心狠手辣|江蕙": {
@@ -1667,8 +2290,87 @@
   "status": "none",
   "v": 2
  },
+ "怪獣の花唄|vaundy": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "恰恰心花開|陳隨意": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "情人|beyond": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "想你的形影|草屯囝仔": {
+  "album": "想你的形影",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "董事長樂團"
+   ],
+   "composer": [
+    "陳樞育",
+    "李明倉"
+   ],
+   "lyricist": [
+    "陳樞育",
+    "李明倉"
+   ],
+   "producer": [
+    "吳永吉"
+   ]
+  },
+  "isrc": "TWDJ52200007",
+  "item": 408560,
+  "label": "混血兒娛樂股份有限公司",
+  "maker": "混血兒娛樂股份有限公司",
+  "performer": [
+   "草屯囝仔"
+  ],
+  "released": "2022-04-25",
+  "status": "ok",
+  "title": "想你的形影",
+  "type": "台語流行專輯",
+  "v": 2
+ },
+ "想和你看五月的晚霞|陳華": {
+  "album": "華與浪漫",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "甯子達",
+    "陳啟天"
+   ],
+   "composer": [
+    "陳華"
+   ],
+   "lyricist": [
+    "陳華"
+   ],
+   "producer": [
+    "嚴爵",
+    "林言奕"
+   ]
+  },
+  "isrc": "TWIK72200036",
+  "item": 434350,
+  "label": "鮪魚肚影音股份有限公司",
+  "maker": "鮪魚肚影音股份有限公司",
+  "performer": [
+   "陳華"
+  ],
+  "released": "2022-09-16",
+  "status": "ok",
+  "title": "想和你看五月的晚霞",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "愛上|劉宇寧": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -1833,8 +2535,77 @@
   "title": "愛情限時批",
   "v": 2
  },
+ "愛我你會死2018|草屯囝仔": {
+  "album": "愛我你會死2018 ft. 玖壹壹 洋蔥",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "陳皓宇",
+    "王士臻"
+   ],
+   "composer": [
+    "吳永吉"
+   ],
+   "lyricist": [
+    "吳永吉",
+    "李明倉",
+    "陳樞育"
+   ],
+   "producer": [
+    "陳皓宇"
+   ]
+  },
+  "isrc": "TWA451800013",
+  "item": 235316,
+  "label": "滾石",
+  "maker": "混血兒娛樂",
+  "performer": [
+   "草屯囝仔",
+   "玖壹壹 洋蔥"
+  ],
+  "released": "2018-05-21",
+  "status": "ok",
+  "title": "愛我你會死2018 ft. 玖壹壹 洋蔥",
+  "v": 2
+ },
+ "愛無時差|玟靈陳偉強": {
+  "album": "愛無時差",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "陳偉強"
+   ],
+   "composer": [
+    "陳偉強"
+   ],
+   "lyricist": [
+    "陳偉強"
+   ],
+   "producer": [
+    "陳國德"
+   ]
+  },
+  "isrc": "TWHH72600101",
+  "item": 689052,
+  "label": "浩翔國際傳播股份有限公司",
+  "maker": "浩翔國際傳播股份有限公司",
+  "performer": [
+   "玟靈",
+   "陳偉強"
+  ],
+  "released": "2026-10-02",
+  "status": "ok",
+  "title": "愛無時差",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "愛甲心無留|謝宜君": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "愛甲超過|向蕙玲": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -2103,6 +2874,11 @@
   "title": "我懷念的",
   "v": 2
  },
+ "我是壞男人nappeunnamjaraseo|金亨俊": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "我是真的愛上你|王傑": {
   "checked": "2026-11-06",
   "status": "none",
@@ -2149,6 +2925,45 @@
  "我還有個夢|小宇": {
   "checked": "2026-11-06",
   "status": "none",
+  "v": 2
+ },
+ "或許你也|洪暐哲waji": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "手心的溫度|洋瀾一": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "打上花火|daoko": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "拒絕再玩|張國榮": {
+  "album": "青梅竹馬101",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Goro Matsui",
+    "Koji Tamaki"
+   ],
+   "lyricist": [
+    "娃娃"
+   ]
+  },
+  "isrc": "HKG070440010",
+  "item": 815,
+  "label": "環球國際",
+  "maker": "新藝寶唱片有限公司",
+  "performer": [
+   "張國榮"
+  ],
+  "released": "2009-12-01",
+  "status": "ok",
+  "title": "拒絕再玩",
   "v": 2
  },
  "摯友|alin": {
@@ -2246,6 +3061,56 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "旅行的天賦|告五人": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "旅路|藤井風": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "明年今日|陳奕迅": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "星影のワルツ|千昌夫": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "昨眠歹勢|李佳燕": {
+  "album": "昨眠歹勢",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "可澄音樂文創"
+   ],
+   "composer": [
+    "黃偉霖"
+   ],
+   "lyricist": [
+    "黃偉霖"
+   ],
+   "producer": [
+    "黃偉霖"
+   ]
+  },
+  "isrc": "TWMR12600001",
+  "item": 702064,
+  "label": "威林音樂企業社",
+  "maker": "威林音樂企業社",
+  "performer": [
+   "李佳燕"
+  ],
+  "released": "2026-10-23",
+  "status": "ok",
+  "title": "昨眠歹勢",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "昴|谷村新司": {
   "checked": "2026-11-06",
   "status": "none",
@@ -2257,9 +3122,9 @@
   "v": 2
  },
  "晩餐歌|tuki": {
-  "checked": "2026-11-05",
+  "checked": "2026-11-07",
   "status": "none",
-  "v": 1
+  "v": 2
  },
  "晴天|周杰倫": {
   "album": "葉惠美",
@@ -2353,6 +3218,11 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "月半小夜曲|李克勤": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "月娘知影|翁鈺鈞": {
   "album": "偷偷藏入心",
   "checked": "2026-11-06",
@@ -2383,6 +3253,77 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "有一種遺憾叫我們|于冬然": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "有你有我|春風": {
+  "album": "有你有我 Feat.王識賢",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "王士榛 Helix Wang",
+    "陳皓宇"
+   ],
+   "composer": [
+    "洪瑜鴻",
+    "陳皓宇"
+   ],
+   "lyricist": [
+    "洪瑜鴻",
+    "陳皓宇"
+   ],
+   "producer": [
+    "陳皓宇"
+   ]
+  },
+  "isrc": "TWDJ52600002",
+  "item": 643956,
+  "label": "混血兒娛樂股份有限公司",
+  "maker": "混血兒娛樂股份有限公司",
+  "performer": [
+   "春風",
+   "王識賢"
+  ],
+  "released": "2026-06-17",
+  "status": "ok",
+  "title": "有你有我 Feat.王識賢",
+  "type": "台語流行專輯",
+  "v": 2
+ },
+ "朋友而已|劉芯妤": {
+  "album": "朋友而已",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "賴暐哲 Steven Lai"
+   ],
+   "composer": [
+    "Latonia Tay",
+    "劉芯妤 Roselyn"
+   ],
+   "lyricist": [
+    "敏琳Lynn Lee",
+    "劉芯妤Roselyn"
+   ],
+   "producer": [
+    "劉芯妤 Roselyn"
+   ]
+  },
+  "isrc": "TWMI72500001",
+  "item": 602773,
+  "label": "相信音樂國際股份有限公司",
+  "maker": "神奇鼓娛樂有限公司",
+  "performer": [
+   "劉芯妤 Roselyn"
+  ],
+  "released": "2025-11-05",
+  "status": "ok",
+  "title": "朋友而已",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "未完成的約定|黃俊榮amsden": {
   "checked": "2026-11-05",
   "status": "none",
@@ -2391,6 +3332,57 @@
  "未来へ|kiroro": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "李香蘭|張學友": {
+  "album": "Private Corner 迷你音樂會",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Goro Matsui",
+    "Koji Tamaki"
+   ],
+   "lyricist": [
+    "周禮茂"
+   ]
+  },
+  "isrc": "TWUM71000056",
+  "item": 89009,
+  "label": "上華",
+  "maker": "ioi Limited",
+  "performer": [
+   "張學友"
+  ],
+  "released": "2010-07-30",
+  "status": "ok",
+  "title": "李香蘭",
+  "v": 2
+ },
+ "查某囡仔|李千娜": {
+  "album": "查某囡仔",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "蕭煌奇"
+   ],
+   "lyricist": [
+    "陳宏宇"
+   ],
+   "producer": [
+    "陳子鴻 Eric Chen"
+   ]
+  },
+  "isrc": "TWER51812212",
+  "item": 228234,
+  "label": "環球國際",
+  "maker": "樂是達娛樂",
+  "performer": [
+   "李千那"
+  ],
+  "released": "2018-12-21",
+  "status": "ok",
+  "title": "查某囡仔",
+  "type": "台語流行專輯",
   "v": 2
  },
  "桜色舞うころ|中島美嘉": {
@@ -2480,6 +3472,11 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "歲月如歌|陳奕迅": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "死ぬのがいいわ|藤井風": {
   "checked": "2026-11-05",
   "status": "none",
@@ -2542,6 +3539,30 @@
   "released": "2026-06-18",
   "status": "ok",
   "title": "沒有人像我一樣",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "沒有過不去的路|承桓": {
+  "album": "沒有過不去的路",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "張春陽"
+   ],
+   "lyricist": [
+    "張春陽"
+   ]
+  },
+  "isrc": "TWHD32607492",
+  "item": 649361,
+  "label": "嗨庫文化傳媒有限公司",
+  "maker": "嗨庫文化傳媒有限公司",
+  "performer": [
+   "承桓"
+  ],
+  "released": "2026-06-03",
+  "status": "ok",
+  "title": "沒有過不去的路",
   "type": "國語流行專輯",
   "v": 2
  },
@@ -2661,6 +3682,33 @@
   "title": "淚橋 Tear Bridge",
   "v": 2
  },
+ "淚海|許茹芸": {
+  "album": "淚海",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "陳進興"
+   ],
+   "composer": [
+    "季忠平"
+   ],
+   "lyricist": [
+    "季忠平",
+    "許常德"
+   ]
+  },
+  "isrc": "TWA559600081",
+  "item": 32299,
+  "label": "上華",
+  "maker": "上華",
+  "performer": [
+   "許茹芸"
+  ],
+  "released": "1996-01-01",
+  "status": "ok",
+  "title": "淚海",
+  "v": 2
+ },
  "深い森|doasinfinity": {
   "checked": "2026-11-06",
   "status": "none",
@@ -2693,6 +3741,11 @@
   "status": "ok",
   "title": "火花",
   "type": "國語流行專輯",
+  "v": 2
+ },
+ "灰色と青|米津玄師": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "灰色軌跡|beyond": {
@@ -2757,6 +3810,68 @@
   "status": "ok",
   "title": "為愛走天涯",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "無人熟識|張清芳": {
+  "album": "無人熟識",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "戴維雄"
+   ],
+   "composer": [
+    "曹俊鴻"
+   ],
+   "lyricist": [
+    "曹俊鴻"
+   ]
+  },
+  "isrc": "TWA239600063",
+  "item": 13091,
+  "label": "點將",
+  "maker": "點將",
+  "performer": [
+   "張清芳"
+  ],
+  "released": "1996-01-01",
+  "status": "ok",
+  "title": "無人熟識",
+  "v": 2
+ },
+ "無夢無望角頭原聲帶|王識賢": {
+  "album": "無夢無望《角頭》原聲帶",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "潘信維",
+    "黃綻默"
+   ],
+   "composer": [
+    "潘信維",
+    "黃綻默"
+   ],
+   "lyricist": [
+    "廖致翔",
+    "潘信維",
+    "謝偉忠",
+    "黃綻默"
+   ],
+   "producer": [
+    "潘信維",
+    "黃綻默"
+   ]
+  },
+  "isrc": "TWCC32412491",
+  "item": 533458,
+  "label": "科科農場股份有限公司",
+  "maker": "曼尼娛樂投資股份有限公司",
+  "performer": [
+   "王識賢"
+  ],
+  "released": "2024-06-18",
+  "status": "ok",
+  "title": "無夢無望《角頭》原聲帶",
+  "type": "國語流行專輯",
   "v": 2
  },
  "無字的情批|黃乙玲": {
@@ -2838,6 +3953,30 @@
   "title": "無間道",
   "v": 2
  },
+ "特別的人|方大同": {
+  "album": "危險世界",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "方大同"
+   ],
+   "lyricist": [
+    "方大同"
+   ]
+  },
+  "isrc": "HKA351401008",
+  "item": 122570,
+  "label": "金牌大風 (原EMI)",
+  "maker": "金牌大風 (原EMI)",
+  "performer": [
+   "方大同"
+  ],
+  "released": "2014-04-11",
+  "status": "ok",
+  "title": "特別的人",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "牽掛|曾沛慈": {
   "album": "牽掛",
   "checked": "2026-11-06",
@@ -2870,6 +4009,11 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "狂野之城|郭富城": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "玉蝴蝶|謝霆鋒": {
   "checked": "2026-11-06",
   "status": "none",
@@ -2896,6 +4040,11 @@
   "released": "1997-11-01",
   "status": "ok",
   "title": "甘心替代你",
+  "v": 2
+ },
+ "用背脊唱情歌|garetht": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "甲乙丙丁strangers|李佳薇": {
@@ -2939,6 +4088,35 @@
   "title": "痴心絕對",
   "v": 2
  },
+ "瘋子傻子|盧盧快閉嘴": {
+  "album": "瘋子傻子",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "邢樹傑"
+   ],
+   "lyricist": [
+    "貪食忘憂果的人"
+   ]
+  },
+  "isrc": "TWHD32522109",
+  "item": 598760,
+  "label": "嗨庫文化傳媒有限公司",
+  "maker": "嗨庫文化傳媒有限公司",
+  "performer": [
+   "盧盧快閉嘴"
+  ],
+  "released": "2025-11-14",
+  "status": "ok",
+  "title": "瘋子傻子",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "癡心為你|吳勇濱蕭玉芬": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "相依為命|陳小春": {
   "checked": "2026-11-05",
   "status": "none",
@@ -2946,6 +4124,11 @@
  },
  "看著我的眼睛說|張遠": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "真的愛你|beyond": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -2985,6 +4168,16 @@
  },
  "空港|テレサテン": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "空號|arieltsai": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "紅日|李克勤": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -3040,6 +4233,11 @@
   "status": "none",
   "v": 2
  },
+ "總覺得做什麼都錯|pizzali": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "群青|yoasobi": {
   "checked": "2026-11-05",
   "status": "none",
@@ -3080,6 +4278,11 @@
  },
  "肆無忌憚|薛之謙": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "能不能把你挽留|朱俊衛": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -3124,6 +4327,36 @@
  "花|藤井風": {
   "checked": "2026-11-06",
   "status": "none",
+  "v": 2
+ },
+ "若是無你|謝舒騏許峻榮": {
+  "album": "若是無你",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "柏宇"
+   ],
+   "composer": [
+    "柏宇"
+   ],
+   "lyricist": [
+    "柏宇"
+   ],
+   "producer": [
+    "傑克"
+   ]
+  },
+  "isrc": "TWKI32601101",
+  "item": 714059,
+  "label": "禧多影音國際社",
+  "maker": "禧多影音國際社",
+  "performer": [
+   "謝舒騏"
+  ],
+  "released": "2026-09-16",
+  "status": "ok",
+  "title": "若是無你",
+  "type": "台語流行專輯",
   "v": 2
  },
  "若無你我欲去佗位|黃奇斌": {
@@ -3216,6 +4449,11 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "菁仔五十|大台風樂團": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "落雨聲|江蕙": {
   "album": "半醉半清醒",
   "checked": "2026-11-06",
@@ -3249,6 +4487,16 @@
  },
  "藍雨|張學友": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "處處吻|楊千嬅": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "螺旋|9lana": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -3382,8 +4630,23 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "護花使者|李克勤": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "變廢為寶|薛之謙": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "讓我成為你的翅膀|蕭煌奇": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "豈願|李佩玲": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -3392,9 +4655,66 @@
   "status": "none",
   "v": 2
  },
+ "返來我身邊|江蕙": {
+  "album": "江蕙 初登場 LIVE CD",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "鄭進一",
+    "陳小霞",
+    "Aku Yuu",
+    "鄭華娟"
+   ],
+   "lyricist": [
+    "鄭進一",
+    "曹麗娟",
+    "Tokura Shunchi",
+    "姚謙",
+    "武雄"
+   ]
+  },
+  "isrc": "TWI430900105",
+  "item": 458601,
+  "label": "喜歡音樂有限公司",
+  "maker": "喜歡音樂有限公司",
+  "performer": [
+   "江蕙"
+  ],
+  "released": "2009-05-08",
+  "status": "ok",
+  "title": "愛情雨-無情人請你離開-想起伊-返來我身邊",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "追|張國榮": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "追追追|黃妃": {
+  "album": "1哥1姐滾石2000年國台語雙贏總霸主",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "China Blue"
+   ],
+   "composer": [
+    "陳明章"
+   ],
+   "lyricist": [
+    "陳明章"
+   ]
+  },
+  "isrc": "TWB870008701",
+  "item": 43028,
+  "label": "滾石",
+  "maker": "滾石",
+  "performer": [
+   "黃妃"
+  ],
+  "released": "2001-01-01",
+  "status": "ok",
+  "title": "追追追",
   "v": 2
  },
  "這號人|徐暐翔vashhsu": {
@@ -3404,6 +4724,11 @@
  },
  "逢いたくていま|misia": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "連名帶姓|張惠妹": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -3467,6 +4792,41 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "適當|蕭景鴻": {
+  "album": "蕭景鴻 首張同名專輯",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "蔣希謙 Johnpiz"
+   ],
+   "composer": [
+    "柯朋宇"
+   ],
+   "lyricist": [
+    "柯朋宇"
+   ],
+   "producer": [
+    "潘信維 Lil Pan @時刻娛樂 Sounds Great Ent."
+   ]
+  },
+  "isrc": "TWK232616502",
+  "item": 653191,
+  "label": "相信音樂國際股份有限公司",
+  "maker": "相信音樂國際股份有限公司",
+  "performer": [
+   "蕭景鴻"
+  ],
+  "released": "2026-06-29",
+  "status": "ok",
+  "title": "適當",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "遲來的海嘯|李佳薇": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "那個男人|玄彬": {
   "checked": "2026-11-06",
   "status": "none",
@@ -3474,6 +4834,11 @@
  },
  "郎有情妹有意|陳隨意謝宜君": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "酒よ|吉幾三": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -3485,6 +4850,32 @@
  "長崎は今日も雨だった|内山田洋とクールファイブ": {
   "checked": "2026-11-06",
   "status": "none",
+  "v": 2
+ },
+ "開始懂了|孫燕姿": {
+  "album": "我要的幸福",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "Kenn C."
+   ],
+   "composer": [
+    "李偲菘"
+   ],
+   "lyricist": [
+    "姚若龍"
+   ]
+  },
+  "isrc": "TWA530000205",
+  "item": 25199,
+  "label": "華納音樂",
+  "maker": "華納音樂",
+  "performer": [
+   "孫燕姿"
+  ],
+  "released": "2000-12-01",
+  "status": "ok",
+  "title": "開始懂了",
   "v": 2
  },
  "閣愛妳一擺|茄子蛋": {
@@ -3512,6 +4903,32 @@
   "status": "ok",
   "title": "閣愛妳一擺",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "阿嬤的話|蕭煌奇": {
+  "album": "黑色吉他",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "聶琳"
+   ],
+   "composer": [
+    "蕭煌奇"
+   ],
+   "lyricist": [
+    "蕭煌奇"
+   ]
+  },
+  "isrc": "TWF850400108",
+  "item": 73249,
+  "label": "軸心音樂",
+  "maker": "軸心音樂",
+  "performer": [
+   "蕭煌奇"
+  ],
+  "released": "2004-12-01",
+  "status": "ok",
+  "title": "阿嬤的話",
   "v": 2
  },
  "阿爸的原諒|周星杰": {
@@ -3564,6 +4981,36 @@
   "released": "2020-02-17",
   "status": "ok",
   "title": "離開我的依賴",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "離開的一路上|理想混蛋": {
+  "album": "半熟理想",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "盧可沛",
+    "李宗軒",
+    "姚書寰"
+   ],
+   "composer": [
+    "盧可沛"
+   ],
+   "lyricist": [
+    "邱建豪",
+    "盧可沛"
+   ]
+  },
+  "isrc": "TWHE52300005",
+  "item": 480686,
+  "label": "何樂音樂有限公司",
+  "maker": "好混蛋音樂有限公司",
+  "performer": [
+   "理想混蛋"
+  ],
+  "released": "2023-10-27",
+  "status": "ok",
+  "title": "離開的一路上",
   "type": "國語流行專輯",
   "v": 2
  },
@@ -3626,6 +5073,11 @@
   "title": "雲中月圓",
   "v": 2
  },
+ "露水|李婭莎": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "青い珊瑚礁|松田聖子": {
   "checked": "2026-11-06",
   "status": "none",
@@ -3636,10 +5088,45 @@
   "status": "none",
   "v": 2
  },
- "革命途中|ainatheend": {
-  "checked": "2026-11-05",
+ "面目全非|張遠": {
+  "checked": "2026-11-07",
   "status": "none",
-  "v": 1
+  "v": 2
+ },
+ "革命途中|ainatheend": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "風中的美麗|翁鈺鈞": {
+  "album": "風中的美麗",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "黃雨勳"
+   ],
+   "composer": [
+    "Jacky Ho"
+   ],
+   "lyricist": [
+    "丁津"
+   ],
+   "producer": [
+    "陳子鴻"
+   ]
+  },
+  "isrc": "TWI432500501",
+  "item": 554127,
+  "label": "喜歡音樂有限公司",
+  "maker": "喜歡音樂有限公司",
+  "performer": [
+   "翁鈺鈞"
+  ],
+  "released": "2025-03-17",
+  "status": "ok",
+  "title": "風中的美麗",
+  "type": "台語流行專輯",
+  "v": 2
  },
  "鹹酸苦汫|麋先生聖皓": {
   "album": "鹹酸苦汫",

@@ -15,9 +15,42 @@
   "title": "ADDICTED",
   "v": 2
  },
+ "afterthedream|藝聲": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "ahyeah|exid": {
+  "album": "Japan Activity Best",
+  "artist": "EXID",
+  "checked": "2026-11-07",
+  "id": "0c06df33-a68a-4eef-89eb-77cc056b1452",
+  "isrc": "JPTK02012740",
+  "released": "2020-08-19",
+  "status": "ok",
+  "title": "Ah Yeah",
+  "v": 2
+ },
  "allaboutyou|閻奕格janiceyan": {
   "checked": "2026-11-06",
   "status": "none",
+  "v": 2
+ },
+ "alliwantforchristmasisyou|mariahcarey": {
+  "album": "Merry Christmas (deluxe anniversary edition)",
+  "artist": "Mariah Carey",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Walter Afanasieff",
+    "Mariah Carey"
+   ]
+  },
+  "id": "e3803737-0db5-4636-9c5b-72f304fe80ac",
+  "isrc": "USSM11902457",
+  "released": "2019-11-01",
+  "status": "ok",
+  "title": "All I Want for Christmas Is You",
   "v": 2
  },
  "anhluônnhưvậy|braycậubảo": {
@@ -169,6 +202,42 @@
   "title": "Baby",
   "v": 2
  },
+ "badgirlgoodgirl|missa": {
+  "album": "A CLASS",
+  "artist": "miss A",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "홍지상",
+    "박진영"
+   ],
+   "composer": [
+    "박진영"
+   ],
+   "lyricist": [
+    "박진영"
+   ],
+   "mix": [
+    "Erik Madrid",
+    "Manny Marroquin",
+    "Christian Plata"
+   ],
+   "recording": [
+    "최자욱",
+    "정의석",
+    "정호진",
+    "김갑수",
+    "이재은",
+    "신봉원"
+   ]
+  },
+  "id": "080f645b-dbb1-40e1-bfc2-84180f0b1084",
+  "isrc": "US5TA1000029",
+  "released": "2010-07-01",
+  "status": "ok",
+  "title": "Bad Girl Good Girl",
+  "v": 2
+ },
  "badromance|ladygaga": {
   "album": "The Monster Ball Tour at Madison Square Garden",
   "artist": "Lady Gaga",
@@ -282,6 +351,79 @@
   "title": "Beauty and the Beast",
   "v": 2
  },
+ "biiig|bigbang": {
+  "album": "BiiiG",
+  "artist": "BIGBANG",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "BLOODY",
+    "IDO"
+   ],
+   "composer": [
+    "24",
+    "G‐DRAGON",
+    "IDO",
+    "KUSH",
+    "lil aaron",
+    "Supakaine",
+    "TARZZAN",
+    "TEDDY"
+   ],
+   "lyricist": [
+    "G‐DRAGON",
+    "lil aaron",
+    "Supakaine"
+   ]
+  },
+  "id": "ff2ff7d3-3afd-4284-b74c-85b3c1abcb9d",
+  "isrc": "KRA402600052",
+  "released": "2026-08-19",
+  "status": "ok",
+  "title": "BiiiG",
+  "v": 2
+ },
+ "bohemianrhapsody|queen": {
+  "album": "1979‐12‐04: In Concert, City Hall, Newcastle, UK",
+  "artist": "Queen",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Freddie Mercury"
+   ],
+   "lyricist": [
+    "Freddie Mercury"
+   ]
+  },
+  "id": "31c6faf8-ea10-4725-b872-ba602a631197",
+  "status": "ok",
+  "title": "Bohemian Rhapsody",
+  "v": 2
+ },
+ "butterfly|和田光司": {
+  "album": "平成アニソン大賞 mixed by DJ和",
+  "artist": "和田光司",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "千綿偉功"
+   ],
+   "lyricist": [
+    "千綿偉功"
+   ]
+  },
+  "id": "845e248c-f2cc-4105-bb86-7070b96fe959",
+  "isrc": "JPE209900601",
+  "released": "2019-04-03",
+  "status": "ok",
+  "title": "Butter-Fly",
+  "v": 2
+ },
+ "bàinàykhôngđểđidiễn|anhtúatus": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "bướcquamùacôđơn|vũ": {
   "album": "Bước Qua Nhau",
   "artist": "Vũ.",
@@ -308,6 +450,39 @@
   "released": "2012-03",
   "status": "ok",
   "title": "Call Me Maybe",
+  "v": 2
+ },
+ "canthelpfallinginlove|elvispresley": {
+  "album": "Before Anyone Did Anything, Elvis Did Everything",
+  "artist": "Elvis Presley",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Luigi Creatore",
+    "Hugo Peretti",
+    "George David Weiss"
+   ]
+  },
+  "id": "9c076162-9e51-4837-a19d-355082ea9c75",
+  "released": "2003",
+  "status": "ok",
+  "title": "Can’t Help Falling in Love",
+  "v": 2
+ },
+ "chandelier|sia": {
+  "album": "Striscia la compilation 2015",
+  "artist": "Sia",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Belief",
+    "Sia"
+   ]
+  },
+  "id": "1db2b8f6-72fe-4d08-a607-1049d3bca1f9",
+  "released": "2015-02-24",
+  "status": "ok",
+  "title": "Chandelier",
   "v": 2
  },
  "chkchkboom|straykids": {
@@ -341,6 +516,16 @@
   "status": "none",
   "v": 2
  },
+ "chếttrongem|thinhsuy": {
+  "album": "Chết Trong Em",
+  "artist": "Thịnh Suy",
+  "checked": "2026-11-07",
+  "id": "7d99d93c-9dce-4946-b90d-2f9e5c98264d",
+  "released": "2022-10-31",
+  "status": "ok",
+  "title": "Chết Trong Em",
+  "v": 2
+ },
  "citrus|daice": {
   "album": "SiX",
   "artist": "Da‐iCE",
@@ -360,6 +545,22 @@
   "released": "2020-11-25",
   "status": "ok",
   "title": "CITRUS",
+  "v": 2
+ },
+ "complicated|avrillavigne": {
+  "album": "The Bonez Tour 2004: Avril’s 20th Birthday Party",
+  "artist": "Avril Lavigne",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Avril Lavigne",
+    "The Matrix"
+   ]
+  },
+  "id": "62d70c8e-bbdc-48a7-9da1-f0a0c9adead9",
+  "released": "2004",
+  "status": "ok",
+  "title": "Complicated",
   "v": 2
  },
  "crumbs|ive": {
@@ -410,6 +611,33 @@
   "title": "Dancing Queen",
   "v": 2
  },
+ "dandan心魅かれてく|fieldofview": {
+  "album": "MILLION 〜BEST OF 90’s J‐POP〜 RED",
+  "artist": "FIELD OF VIEW",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "葉山たけし"
+   ],
+   "composer": [
+    "織田哲郎"
+   ],
+   "lyricist": [
+    "坂井泉水"
+   ]
+  },
+  "id": "5247757c-b9e5-4cef-bdba-9d9fe8928286",
+  "isrc": "JPC500201309",
+  "released": "1996-03-11",
+  "status": "ok",
+  "title": "DAN DAN 心魅かれてく",
+  "v": 2
+ },
+ "dearyou|宇宙人": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "deserve|babymonster": {
   "album": "DESERVE",
   "artist": "BABYMONSTER",
@@ -418,6 +646,24 @@
   "released": "2026-10-23",
   "status": "ok",
   "title": "DESERVE",
+  "v": 2
+ },
+ "dontlookbackinanger|oasis": {
+  "album": "Familiar to Millions",
+  "artist": "Oasis",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Noel Gallagher"
+   ],
+   "lyricist": [
+    "Noel Gallagher"
+   ]
+  },
+  "id": "7ac31d8f-1ae9-4297-8cc1-60d852ae2adf",
+  "released": "2000",
+  "status": "ok",
+  "title": "Don’t Look Back in Anger",
   "v": 2
  },
  "drip|ateez": {
@@ -429,6 +675,25 @@
   "released": "2026-10-23",
   "status": "ok",
   "title": "Drip",
+  "v": 2
+ },
+ "everything|misia": {
+  "album": "Super Best Records -15th Celebration-",
+  "artist": "MISIA",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "松本俊明"
+   ],
+   "lyricist": [
+    "MISIA"
+   ]
+  },
+  "id": "41690d84-e3e7-4510-b498-b021ac0699df",
+  "isrc": "JPBV00000799",
+  "released": "2000-10-25",
+  "status": "ok",
+  "title": "Everything",
   "v": 2
  },
  "faded|alanwalker": {
@@ -447,6 +712,17 @@
   "released": "2018-10-01",
   "status": "ok",
   "title": "Faded",
+  "v": 2
+ },
+ "fallenangel|jennie": {
+  "album": "FALLEN ANGEL",
+  "artist": "JENNIE",
+  "checked": "2026-11-07",
+  "id": "87adbe0a-bf18-47f4-8040-e8a12036c146",
+  "isrc": "USQX92605065",
+  "released": "2026-08-28",
+  "status": "ok",
+  "title": "FALLEN ANGEL",
   "v": 2
  },
  "firstlove|宇多田ヒカル": {
@@ -518,6 +794,11 @@
   "status": "none",
   "v": 2
  },
+ "glowmotion|ive": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "golden|huntrx": {
   "album": "Die besten Songs 2026",
   "artist": "HUNTR/X (EJAE, AUDREY NUNA & REI AMI) & KPop Demon Hunters Cast",
@@ -552,9 +833,53 @@
   "title": "Golden",
   "v": 2
  },
+ "golden|kpopdemonhunterscasthuntrxsajaboys": {
+  "album": "KPop Demon Hunters: Soundtrack From the Netflix Film",
+  "artist": "HUNTR/X (EJAE, AUDREY NUNA & REI AMI) & KPop Demon Hunters Cast",
+  "checked": "2026-11-07",
+  "credits": {
+   "mix": [
+    "Curtis Douglas"
+   ],
+   "producer": [
+    "24",
+    "Ian Eisendrath",
+    "IDO",
+    "TEDDY"
+   ],
+   "recording": [
+    "Andy Dudman",
+    "Noah Hubbell",
+    "Derik Lee"
+   ],
+   "writer": [
+    "24",
+    "EJAE",
+    "IDO",
+    "Mark Sonnenblick",
+    "TEDDY"
+   ]
+  },
+  "id": "61f7da88-b161-445b-bc48-8ac574b48dc3",
+  "isrc": "QZ8BZ2513510",
+  "released": "2025-06-19",
+  "status": "ok",
+  "title": "Golden",
+  "v": 2
+ },
  "goodgoodbye|華莎": {
   "checked": "2026-11-06",
   "status": "none",
+  "v": 2
+ },
+ "handsup|2pm": {
+  "album": "2PM BEST ～2008-2011 in Korea～",
+  "artist": "2PM",
+  "checked": "2026-11-07",
+  "id": "26991830-ece0-463f-9fca-cf5693904d3f",
+  "released": "2012-03-14",
+  "status": "ok",
+  "title": "Hands Up",
   "v": 2
  },
  "happyhalloween|junkyfeat鏡音リン": {
@@ -640,6 +965,24 @@
   "title": "Idol",
   "v": 2
  },
+ "iii|宝鐘マリンkobokanaeru": {
+  "album": "Ahoy!! キミたちみんなパイレーツ♡",
+  "artist": "宝鐘マリン & Kobo Kanaeru",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Giga"
+   ],
+   "lyricist": [
+    "Sena Kiryuin"
+   ]
+  },
+  "id": "dafe1776-e873-4a8b-bd99-5be70c5099ff",
+  "released": "2024-10-16",
+  "status": "ok",
+  "title": "I I I",
+  "v": 2
+ },
  "imgonnatoesa|soyeon": {
   "album": "What a Wonderful Life (HOME ver.)",
   "artist": "SOYEON feat. Kian84",
@@ -649,6 +992,25 @@
   "released": "2026-09-07",
   "status": "ok",
   "title": "I’m gonna TOESA",
+  "v": 2
+ },
+ "intheend|linkinpark": {
+  "album": "Hybrid Theory",
+  "artist": "Linkin Park",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Chester Bennington",
+    "Rob Bourdon",
+    "Brad Delson",
+    "Joseph “Joe” Hahn",
+    "Mike Shinoda"
+   ]
+  },
+  "id": "c06321e4-da45-4102-85ad-5f92318def2f",
+  "released": "2000",
+  "status": "ok",
+  "title": "In the End",
   "v": 2
  },
  "irisout|米津玄師": {
@@ -703,6 +1065,74 @@
   "released": "2002",
   "status": "ok",
   "title": "I Want It That Way",
+  "v": 2
+ },
+ "janedoe|米津玄師宇多田ヒカル": {
+  "album": "IRIS OUT / JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "小島裕規",
+    "米津玄師"
+   ],
+   "composer": [
+    "米津玄師"
+   ],
+   "lyricist": [
+    "米津玄師"
+   ],
+   "mix": [
+    "小森雅仁"
+   ],
+   "producer": [
+    "米津玄師"
+   ],
+   "recording": [
+    "小森雅仁"
+   ]
+  },
+  "id": "79943016-2bbb-4126-8f15-b546d5d1ec47",
+  "isrc": "JPU902502822",
+  "released": "2025-09-22",
+  "status": "ok",
+  "title": "JANE DOE",
+  "v": 2
+ },
+ "king|kanaria": {
+  "album": "KING",
+  "artist": "Kanaria",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Kanaria"
+   ],
+   "lyricist": [
+    "Kanaria"
+   ]
+  },
+  "id": "11799711-4ca6-4794-b4fa-382913068d4e",
+  "released": "2020-08-02",
+  "status": "ok",
+  "title": "KING",
+  "v": 2
+ },
+ "k歌之王|陳奕迅": {
+  "album": "打得火熱",
+  "artist": "陳奕迅",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "陳輝陽"
+   ],
+   "lyricist": [
+    "林夕"
+   ]
+  },
+  "id": "b7d48120-e96a-4ed5-82b1-b83cba9c4759",
+  "released": "2000-11",
+  "status": "ok",
+  "title": "K歌之王",
   "v": 2
  },
  "lemon|米津玄師": {
@@ -803,6 +1233,24 @@
   "title": "Let It Go",
   "v": 2
  },
+ "likejennie|jennie": {
+  "artist": "JENNIE",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "JENNIE",
+    "Jorge.",
+    "Kiddo AI",
+    "Tayla Parx",
+    "Thomas Wesley",
+    "ZICO"
+   ]
+  },
+  "id": "a209c361-4524-4e4b-859b-7317b92824ff",
+  "status": "ok",
+  "title": "like JENNIE",
+  "v": 2
+ },
  "lookscankill|ive": {
   "album": "Looks Can Kill",
   "artist": "IVE",
@@ -862,6 +1310,11 @@
   "title": "Lạ Lùng",
   "v": 2
  },
+ "magirl|bigbang": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "matadayo|藝聲": {
   "checked": "2026-11-05",
   "status": "none",
@@ -877,16 +1330,21 @@
   "title": "MECHA-MECHA",
   "v": 2
  },
+ "mirrormirror|ive": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "missme|keshi": {
   "album": "MISS ME",
   "artist": "keshi",
-  "checked": "2026-11-05",
+  "checked": "2026-11-07",
   "id": "e58aee9b-61d7-4bdd-a188-8757831ee052",
   "isrc": "USUM72609556",
   "released": "2026-10-23",
   "status": "ok",
   "title": "MISS ME",
-  "v": 1
+  "v": 2
  },
  "myheartwillgoon|celinedion": {
   "album": "Tournée mondiale Taking Chances / Le Spectacle",
@@ -905,6 +1363,25 @@
   "released": "2010-04-29",
   "status": "ok",
   "title": "My Heart Will Go On",
+  "v": 2
+ },
+ "myway|franksinatra": {
+  "album": "The Legend",
+  "artist": "Frank Sinatra",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Claude François",
+    "Jacques Revaux"
+   ],
+   "lyricist": [
+    "Paul Anka"
+   ]
+  },
+  "id": "38d3f4de-6002-4737-93cb-167ca7e103a0",
+  "released": "1997",
+  "status": "ok",
+  "title": "My Way",
   "v": 2
  },
  "mìnhyêunhautừkiếpnào|quangtrung": {
@@ -956,6 +1433,48 @@
   "title": "Patient Zero",
   "v": 2
  },
+ "penpineappleapplepen|ピコ太郎": {
+  "album": "Tottemo Release 80.8 (01)",
+  "artist": "ピコ太郎",
+  "checked": "2026-11-07",
+  "id": "2c76da23-1c0d-4459-a172-7a4b2c08bbc1",
+  "released": "2025-08-25",
+  "status": "ok",
+  "title": "Shin-Pen-Pineapple-Apple-Pen",
+  "v": 2
+ },
+ "pokerface|ladygaga": {
+  "album": "Girl Pop 12",
+  "artist": "Lady Gaga",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Lady Gaga",
+    "RedOne"
+   ]
+  },
+  "id": "2e3d950c-4f3f-499d-8e66-8b802c9777a6",
+  "released": "2009",
+  "status": "ok",
+  "title": "Poker Face",
+  "v": 2
+ },
+ "pokerface|ladygagacolbyodonis": {
+  "album": "The AOL Sessions",
+  "artist": "Lady Gaga",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Lady Gaga",
+    "RedOne"
+   ]
+  },
+  "id": "70982e37-f933-4865-ae4d-5388421c0c93",
+  "released": "2009-03-06",
+  "status": "ok",
+  "title": "Poker Face",
+  "v": 2
+ },
  "sakihokorutokiomatsunowa|藝聲": {
   "checked": "2026-11-06",
   "status": "none",
@@ -997,6 +1516,22 @@
   "released": "2017-01-06",
   "status": "ok",
   "title": "Shape of You",
+  "v": 2
+ },
+ "snakeskin|ive": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "somethingjustlikethis|thechainsmokerscoldplay": {
+  "album": "Memories…Do Not Open",
+  "artist": "The Chainsmokers & Coldplay",
+  "checked": "2026-11-07",
+  "id": "41f5e723-1055-4638-9127-8338fe751579",
+  "isrc": "USQX91903942",
+  "released": "2022",
+  "status": "ok",
+  "title": "Something Just Like This",
   "v": 2
  },
  "sorrysorry|superjunior": {
@@ -1179,6 +1714,34 @@
   "title": "Top of the World",
   "v": 2
  },
+ "toxictilltheend|rosé": {
+  "album": "NRJ Summer Hits Only 2025",
+  "artist": "ROSÉ",
+  "checked": "2026-11-07",
+  "credits": {
+   "mix": [
+    "Bryce Bordone",
+    "Serban Ghenea"
+   ],
+   "producer": [
+    "Blair",
+    "Ojivolta",
+    "ROSÉ"
+   ],
+   "writer": [
+    "Blair",
+    "Michael Pollack",
+    "ROSÉ",
+    "Emily Warren"
+   ]
+  },
+  "id": "109c407c-3ae3-4c18-baae-8117fa2bbaa8",
+  "isrc": "USAT22409170",
+  "released": "2024-12-06",
+  "status": "ok",
+  "title": "toxic till the end",
+  "v": 2
+ },
  "trainingseason|dualipa": {
   "album": "Training Season’s Over",
   "artist": "Dua Lipa",
@@ -1204,6 +1767,48 @@
   "title": "Training Season",
   "v": 2
  },
+ "turbulence|ateez": {
+  "album": "ZERO : FEVER EPILOGUE",
+  "artist": "ATEEZ",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "EDEN",
+    "LEEZ",
+    "Oliv",
+    "Peperoni"
+   ],
+   "composer": [
+    "EDEN",
+    "LEEZ",
+    "Oliv",
+    "Ollounder",
+    "Peperoni"
+   ],
+   "mix": [
+    "Tony Maserati"
+   ],
+   "recording": [
+    "정은경",
+    "양영은"
+   ],
+   "writer": [
+    "EDEN",
+    "김홍중",
+    "LEEZ",
+    "Oliv",
+    "Ollounder",
+    "Peperoni",
+    "송민기"
+   ]
+  },
+  "id": "f2f5a27b-587c-4967-a469-1ad5eb572cdf",
+  "isrc": "KRD442100036",
+  "released": "2021-12-10",
+  "status": "ok",
+  "title": "Turbulence (야간비행)",
+  "v": 2
+ },
  "tếtnàyconsẽvề|bùicôngnam": {
   "album": "Tết Này Con Sẽ Về",
   "artist": "Bùi Công Nam",
@@ -1213,6 +1818,30 @@
   "released": "2022-01-10",
   "status": "ok",
   "title": "Tết Này Con Sẽ Về",
+  "v": 2
+ },
+ "tếtổnrồi|bùicôngnamjunphạmhienthucđôngnhi": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "unravel|tkfrom凛として時雨": {
+  "album": "brain films -vinyl edition-",
+  "artist": "TK from 凛として時雨",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "TK"
+   ],
+   "lyricist": [
+    "TK"
+   ]
+  },
+  "id": "272b936c-56f6-4d15-9115-b07f1d05f6e8",
+  "isrc": "JPU902504638",
+  "released": "2025-07-30",
+  "status": "ok",
+  "title": "unravel",
   "v": 2
  },
  "updown|exid": {
@@ -1253,6 +1882,23 @@
   "title": "WATCH ME",
   "v": 2
  },
+ "whatmakesyoubeautiful|onedirection": {
+  "album": "So Fresh: The Hits Of Autumn 2012 CD+DVD",
+  "artist": "One Direction",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Carl Falk",
+    "Savan Kotecha",
+    "Rami"
+   ]
+  },
+  "id": "b562ff84-d1d9-49e0-9f9b-0163c0b3c37b",
+  "released": "2012",
+  "status": "ok",
+  "title": "What Makes You Beautiful",
+  "v": 2
+ },
  "yellow|coldplay": {
   "album": "Star Lounge 2001 Collection",
   "artist": "Coldplay",
@@ -1271,9 +1917,147 @@
   "title": "Yellow",
   "v": 2
  },
+ "yesterdayoncemore|carpenters": {
+  "album": "Mr Music plus: Number Seven",
+  "artist": "Carpenters",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "Richard Carpenter"
+   ],
+   "lyricist": [
+    "John Bettis"
+   ]
+  },
+  "id": "50f87483-1238-4976-a1fc-16b9edb24e53",
+  "released": "1990",
+  "status": "ok",
+  "title": "Yesterday Once More",
+  "v": 2
+ },
+ "yes東京|ebidan": {
+  "album": "Yes! 東京",
+  "artist": "EBiDAN(恵比寿学園男子部)",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "New K"
+   ],
+   "composer": [
+    "Kyono Miyako",
+    "OHTORA",
+    "maeshima soshi",
+    "SYO",
+    "Y-クルーズ・エンヤ"
+   ],
+   "lyricist": [
+    "Kyono Miyako",
+    "OHTORA",
+    "SYO",
+    "Y-クルーズ・エンヤ"
+   ]
+  },
+  "id": "4b14128d-aa80-45a9-abc1-b93f62f65d7c",
+  "released": "2026-07-02",
+  "status": "ok",
+  "title": "Yes! 東京",
+  "v": 2
+ },
+ "youaremycrush|quânapnguyênjenda": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "youreunderarrest|illit": {
+  "album": "You’re Under Arrest",
+  "artist": "ILLIT",
+  "checked": "2026-11-07",
+  "id": "1ac98d8f-9cfd-44c2-b68f-ac0780474218",
+  "isrc": "USA2P2661216",
+  "released": "2026-10-26",
+  "status": "ok",
+  "title": "You’re Under Arrest",
+  "v": 2
+ },
  "zoo|disneyshakiramichaelgiacchino": {
   "checked": "2026-11-06",
   "status": "none",
+  "v": 2
+ },
+ "あくあ色ぱれっと|湊あくあ": {
+  "album": "aqua iro palette",
+  "artist": "湊あくあ",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "Junky"
+   ],
+   "composer": [
+    "Junky"
+   ],
+   "lyricist": [
+    "Junky"
+   ]
+  },
+  "id": "6c055641-fdd8-4f7b-8414-0a67725b5002",
+  "isrc": "JPV752002946",
+  "released": "2020-08-22",
+  "status": "ok",
+  "title": "#あくあ色ぱれっと",
+  "v": 2
+ },
+ "あゝ人生に涙あり|里見浩太朗横内正": {
+  "album": "山上路夫 ソングブック —翼をください—",
+  "artist": "里見浩太朗・横内正",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "池多孝春"
+   ],
+   "composer": [
+    "木下忠司"
+   ],
+   "lyricist": [
+    "山上路夫"
+   ]
+  },
+  "id": "85f517e8-c0de-45cb-9172-61ed4f7fac70",
+  "isrc": "JPTE07382820",
+  "released": "2002-09-26",
+  "status": "ok",
+  "title": "あゝ人生に涙あり",
+  "v": 2
+ },
+ "いつかのメリークリスマス|bz": {
+  "album": "Friends",
+  "artist": "B’z",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "松本孝弘"
+   ],
+   "composer": [
+    "松本孝弘"
+   ],
+   "lyricist": [
+    "稲葉浩志"
+   ]
+  },
+  "id": "c1180f7b-7322-4895-bf2e-018e536cbc09",
+  "isrc": "JPBM00201131",
+  "released": "1992-12-09",
+  "status": "ok",
+  "title": "いつかのメリークリスマス",
+  "v": 2
+ },
+ "きよしのズンドコ節|氷川きよし": {
+  "album": "31HITS~THE GOLD DISC AWARD 2003~",
+  "artist": "氷川きよし",
+  "checked": "2026-11-07",
+  "id": "21a445df-8743-4576-b13f-d478a66fdcd6",
+  "released": "2003-04-23",
+  "status": "ok",
+  "title": "きよしのズンドコ節",
   "v": 2
  },
  "さざんかの宿|大川栄策": {
@@ -1364,6 +2148,11 @@
   "title": "せんせい",
   "v": 2
  },
+ "そばにいるね|aoyamathelma": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "そばにいるね|青山黛瑪soulja": {
   "checked": "2026-11-06",
   "status": "none",
@@ -1401,6 +2190,23 @@
   "title": "つぐない",
   "v": 2
  },
+ "とびら開けて|神田沙也加津田英佑": {
+  "album": "アナと雪の女王 ザ・ソングス 日本語版",
+  "artist": "神田沙也加、津田英佑",
+  "checked": "2026-11-07",
+  "credits": {
+   "writer": [
+    "Kristen Anderson‐Lopez",
+    "Robert Lopez"
+   ]
+  },
+  "id": "1d31cf6d-f3ff-44fb-ab08-2a100318e6e8",
+  "isrc": "USWD11467538",
+  "released": "2014-03-19",
+  "status": "ok",
+  "title": "とびら開けて",
+  "v": 2
+ },
  "ひまわりの約束|秦基博": {
   "album": "evergreen",
   "artist": "秦基博",
@@ -1421,6 +2227,21 @@
   "released": "2014-10-29",
   "status": "ok",
   "title": "ひまわりの約束",
+  "v": 2
+ },
+ "アイドル|yoasobi": {
+  "album": "THE FILM 2",
+  "artist": "YOASOBI",
+  "checked": "2026-11-07",
+  "id": "1ffae469-95e7-46ba-8f60-61c5f35bf7d3",
+  "released": "2024-04-10",
+  "status": "ok",
+  "title": "アイドル",
+  "v": 2
+ },
+ "アスノヨゾラ哨戒班|orangestarfeatia": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "クリスマスイブ|山下達郎": {
@@ -1511,6 +2332,24 @@
   "title": "シャルル",
   "v": 2
  },
+ "シルエット|kanaboon": {
+  "album": "ネリネ",
+  "artist": "KANA-BOON",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "谷口鮪"
+   ],
+   "lyricist": [
+    "谷口鮪"
+   ]
+  },
+  "id": "01602290-8692-4a89-8857-7b0e8ab3dc58",
+  "released": "2018-12-19",
+  "status": "ok",
+  "title": "シルエット",
+  "v": 2
+ },
  "シングルベッド|シャ乱q": {
   "album": "シャ乱Qベスト 〜四半世紀伝説〜",
   "artist": "シャ乱Q",
@@ -1570,6 +2409,31 @@
   "title": "スパークル (movie ver.)",
   "v": 2
  },
+ "ソワレ|星街すいせい": {
+  "album": "Specter",
+  "artist": "星街すいせい",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "ナナホシ管弦楽団"
+   ],
+   "composer": [
+    "岩見陸"
+   ],
+   "lyricist": [
+    "ナナホシ管弦楽団"
+   ],
+   "mix": [
+    "NNZN"
+   ]
+  },
+  "id": "88d6dd15-25dc-4a11-b15f-4bcb7cfd7b61",
+  "isrc": "JPV752206785",
+  "released": "2022-12-19",
+  "status": "ok",
+  "title": "ソワレ",
+  "v": 2
+ },
  "タッチ|岩崎良美": {
   "album": "NON-STOP",
   "artist": "岩崎良美",
@@ -1609,6 +2473,48 @@
   "released": "2025-01-19",
   "status": "ok",
   "title": "ダーリン",
+  "v": 2
+ },
+ "チェリー|スピッツ": {
+  "album": "JAMBOREE TOUR 2009 〜さざなみOTRカスタム at さいたまスーパーアリーナ〜",
+  "artist": "スピッツ",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "草野正宗"
+   ],
+   "lyricist": [
+    "草野正宗"
+   ]
+  },
+  "id": "24df8bcf-ef8a-4e1a-bcc3-5ec898c8b5c9",
+  "released": "2009-11-04",
+  "status": "ok",
+  "title": "チェリー",
+  "v": 2
+ },
+ "テキトーリョク|葛葉": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "ドライフラワー|優里": {
+  "album": "壱",
+  "artist": "優里",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "優里"
+   ],
+   "lyricist": [
+    "優里"
+   ]
+  },
+  "id": "908f012d-22c9-4778-af6e-2738482bdf50",
+  "isrc": "JPU902002405",
+  "released": "2020-10-25",
+  "status": "ok",
+  "title": "ドライフラワー",
   "v": 2
  },
  "ヒバナ|deco27": {
@@ -1694,6 +2600,24 @@
   "released": "2017-12-20",
   "status": "ok",
   "title": "ブリキのダンス",
+  "v": 2
+ },
+ "プロポーズ|内緒のピアス": {
+  "album": "プロポーズ",
+  "artist": "内緒のピアス feat. 可不",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "内緒のピアス"
+   ],
+   "lyricist": [
+    "内緒のピアス"
+   ]
+  },
+  "id": "7773e23d-e7e1-46f4-96b0-88bb39c7a37f",
+  "released": "2023-08-16",
+  "status": "ok",
+  "title": "プロポーズ",
   "v": 2
  },
  "マリーゴールド|あいみょん": {
@@ -1864,6 +2788,11 @@
   "status": "none",
   "v": 2
  },
+ "一夜情緣|吳勇濱蕭玉芬": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "一旦ステイtonight|不破湊": {
   "album": "Persona",
   "artist": "不破湊",
@@ -1897,6 +2826,34 @@
   "status": "none",
   "v": 1
  },
+ "三生有幸|陳隨意謝宜君": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "下一站天后|twins": {
+  "album": "一時無兩演唱會",
+  "artist": "Twins",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "伍樂城"
+   ],
+   "lyricist": [
+    "黃偉文"
+   ]
+  },
+  "id": "c6b1aee5-dc8c-4828-a938-4be58694af0f",
+  "released": "2006-02-17",
+  "status": "ok",
+  "title": "下一站天后",
+  "v": 2
+ },
+ "不要救我|徐暐翔vashhsu閻奕格": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "世界が終るまでは|wands": {
   "album": "クライマックス 90's ファンタスティック・ソングス",
   "artist": "WANDS",
@@ -1916,8 +2873,35 @@
   "title": "世界が終るまでは…",
   "v": 2
  },
+ "人生いろいろ|島倉千代子": {
+  "album": "ベスト100シリーズ 昭和の大ヒット100",
+  "artist": "島倉千代子",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "竜崎孝路"
+   ],
+   "composer": [
+    "浜口庫之助"
+   ],
+   "lyricist": [
+    "中山大三郎"
+   ]
+  },
+  "id": "1efa9755-25ff-4946-9bc9-1c940b2e0a5e",
+  "isrc": "JPCO08703650",
+  "released": "1990-12-01",
+  "status": "ok",
+  "title": "人生いろいろ",
+  "v": 2
+ },
  "今夜讓我帶你高飛遠走|variousartists": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "伊的身邊已經有別人2023|許富凱血肉果汁機": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -1928,6 +2912,16 @@
  },
  "你離開我失控|黃俊榮amsden": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "假如有如果|六哲": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "像晴天像雨天|variousartists": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -1976,6 +2970,28 @@
   "title": "北の旅人",
   "v": 2
  },
+ "北国の春|千昌夫": {
+  "album": "ザ・プレミアム昭和演歌",
+  "artist": "千昌夫",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "京建輔"
+   ],
+   "composer": [
+    "遠藤実"
+   ],
+   "lyricist": [
+    "いではく"
+   ]
+  },
+  "id": "1ddc4caf-3d93-4b9b-930a-9d531f419953",
+  "isrc": "JPTK07700030",
+  "released": "1993",
+  "status": "ok",
+  "title": "北国の春",
+  "v": 2
+ },
  "千本桜|whiteflamefeat初音ミク": {
   "checked": "2026-11-05",
   "status": "none",
@@ -1990,6 +3006,25 @@
   "released": "2017-03-22",
   "status": "ok",
   "title": "千本桜",
+  "v": 2
+ },
+ "南国土佐を後にして|ペギー葉山": {
+  "album": "帰ってきたウルトラマン MUSIC COLLECTION",
+  "artist": "ペギー葉山",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "武政英策"
+   ],
+   "lyricist": [
+    "武政英策"
+   ]
+  },
+  "id": "b640d66d-e739-458e-b514-e8d2d26659dd",
+  "isrc": "JPKI07459078",
+  "released": "2000-11-22",
+  "status": "ok",
+  "title": "南国土佐を後にして",
   "v": 2
  },
  "友情歲月|鄭伊健": {
@@ -2008,6 +3043,53 @@
   "released": "1996",
   "status": "ok",
   "title": "友情歲月",
+  "v": 2
+ },
+ "命に嫌われている|カンザキイオリ": {
+  "album": "不器用な男",
+  "artist": "カンザキイオリ",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "花村智志"
+   ],
+   "composer": [
+    "カンザキイオリ"
+   ],
+   "lyricist": [
+    "カンザキイオリ"
+   ]
+  },
+  "id": "f8cc2fb9-39d6-4a48-b7e5-121ca6c8beab",
+  "isrc": "JPY392100001",
+  "released": "2021-08-11",
+  "status": "ok",
+  "title": "命に嫌われている",
+  "v": 2
+ },
+ "咲き誇れ|yoasobi": {
+  "album": "The Bloom",
+  "artist": "YOASOBI",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "Ayase"
+   ],
+   "composer": [
+    "Ayase"
+   ],
+   "lyricist": [
+    "Ayase"
+   ],
+   "producer": [
+    "山本秀哉"
+   ]
+  },
+  "id": "37764352-d6f6-4890-b856-309f486b2f70",
+  "isrc": "JPP302600671",
+  "released": "2026-10-14",
+  "status": "ok",
+  "title": "咲き誇れ",
   "v": 2
  },
  "喜歡你|beyond": {
@@ -2063,6 +3145,33 @@
   "title": "夜に駆ける",
   "v": 2
  },
+ "夜玫瑰|謝宜君": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "夢をかなえてドラえもん|mao": {
+  "album": "コロムビアキッズ こどものうた 3枚組でどーん!",
+  "artist": "mao",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "大久保薫"
+   ],
+   "composer": [
+    "黒須克彦"
+   ],
+   "lyricist": [
+    "黒須克彦"
+   ]
+  },
+  "id": "56328df0-f22e-475c-9ac2-30a755754d63",
+  "isrc": "JPCO00711360",
+  "released": "2017-11-22",
+  "status": "ok",
+  "title": "夢をかなえてドラえもん",
+  "v": 2
+ },
  "大梦归|周深": {
   "album": "《兰香如故》影视原声带",
   "artist": "周深",
@@ -2072,6 +3181,11 @@
   "released": "2026-09-11",
   "status": "ok",
   "title": "大梦归（电视剧《兰香如故》主题曲）",
+  "v": 2
+ },
+ "天ノ弱|164featgumi": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "天后|陳勢安": {
@@ -2114,6 +3228,11 @@
   "title": "奏（かなで）",
   "v": 2
  },
+ "她|variousartists": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "好きすぎて滅|mlk": {
   "album": "爆裂愛してる / 好きすぎて滅！",
   "artist": "M!LK",
@@ -2144,6 +3263,25 @@
   "released": "2003-08",
   "status": "ok",
   "title": "季候風",
+  "v": 2
+ },
+ "小さな恋のうた|mongol800": {
+  "album": "ROCK is LOFT〜SHINJUKU LOFT 30th ANNIVERSARY〜Blue Disc「日本語ロックの浸透と新しい波」",
+  "artist": "MONGOL800",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "MONGOL800"
+   ],
+   "lyricist": [
+    "上江洌清作"
+   ]
+  },
+  "id": "9d49e3fb-7d90-40c4-a092-d7577c0d7b2a",
+  "isrc": "JPB590501014",
+  "released": "2001-09-16",
+  "status": "ok",
+  "title": "小さな恋のうた",
   "v": 2
  },
  "少女レイ|みきとp": {
@@ -2181,6 +3319,25 @@
   "title": "少女レイ",
   "v": 2
  },
+ "居酒屋|五木ひろし木の実ナナ": {
+  "album": "Memory 昭和流行り歌 レトロ チャンネル",
+  "artist": "五木ひろし・木の実ナナ",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "大野克夫"
+   ],
+   "lyricist": [
+    "阿久悠"
+   ]
+  },
+  "id": "52c6ea09-4b55-462f-9d08-e123a3684dac",
+  "isrc": "JPTK08510309",
+  "released": "1996-10-21",
+  "status": "ok",
+  "title": "居酒屋",
+  "v": 2
+ },
  "川の流れのように|美空ひばり": {
   "album": "演歌全曲集 川の流れのように/人生いろいろ",
   "artist": "美空ひばり",
@@ -2202,6 +3359,21 @@
  },
  "從前你|于冬然": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "心裡有針|蕭煌奇": {
+  "album": "愛作夢的人",
+  "artist": "蕭煌奇",
+  "checked": "2026-11-07",
+  "id": "1b4926af-055e-42f3-9e0e-65b5af1d6c45",
+  "released": "2009",
+  "status": "ok",
+  "title": "心裡有針",
+  "v": 2
+ },
+ "怪我太貪心|楊不乖": {
+  "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
@@ -2252,6 +3424,30 @@
   "title": "怪獣の花唄",
   "v": 2
  },
+ "恋人ごっこ|マカロニえんぴつ": {
+  "album": "ハッピーエンドへの期待は",
+  "artist": "マカロニえんぴつ",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "はっとり"
+   ],
+   "lyricist": [
+    "はっとり"
+   ],
+   "mix": [
+    "佐藤雅彦"
+   ],
+   "recording": [
+    "佐藤雅彦"
+   ]
+  },
+  "id": "be471ddc-4185-4d9e-abac-8f13da1d4ff8",
+  "released": "2022-01-12",
+  "status": "ok",
+  "title": "恋人ごっこ",
+  "v": 2
+ },
  "愛のかたまり|kinkikids": {
   "album": "Anniversary Pack (Anniversary / KinKi Single Selection II)",
   "artist": "KinKi Kids",
@@ -2269,6 +3465,11 @@
   "released": "2001-11-14",
   "status": "ok",
   "title": "愛のかたまり",
+  "v": 2
+ },
+ "愛上你不是我決定|蕭敬騰alin": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "愛燦燦|美空ひばり": {
@@ -2298,6 +3499,35 @@
   "status": "none",
   "v": 2
  },
+ "愛請問怎麼走|alin": {
+  "album": "爱 请问怎么走",
+  "artist": "A-Lin",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "이영현"
+   ],
+   "lyricist": [
+    "Park Jin"
+   ]
+  },
+  "id": "93bace3d-6f3e-4e83-8f82-da586f5217c1",
+  "isrc": "TWA770700646",
+  "released": "2007-06-08",
+  "status": "ok",
+  "title": "愛 請問怎麼走",
+  "v": 2
+ },
+ "我們終究成了陌生人|陳曼曼": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "我只想|variousartists": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "我愛你一句話|蕭秉治xiaobingchih": {
   "checked": "2026-11-05",
   "status": "none",
@@ -2306,6 +3536,49 @@
  "我無嫁你無娶|丁姵均曾瑋中": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "我還有個夢|小宇": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "抜錨|ナナホシ管弦楽団": {
+  "album": "Power D-Word World",
+  "artist": "ナナホシ管弦楽団",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "岩見陸"
+   ],
+   "lyricist": [
+    "ナナホシ管弦楽団"
+   ]
+  },
+  "id": "8a4a4dd1-ccd5-43d6-ad88-e433efd33b3d",
+  "isrc": "TCJPS2257317",
+  "released": "2017-11-12",
+  "status": "ok",
+  "title": "抜錨",
+  "v": 2
+ },
+ "抜錨|ナナホシ管弦楽団feat巡音ルカ": {
+  "album": "Hatsune Miku \"Magical Mirai 2023\" OFFICIAL ALBUM",
+  "artist": "ナナホシ管弦楽団 feat. 巡音ルカ",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "岩見陸"
+   ],
+   "lyricist": [
+    "ナナホシ管弦楽団"
+   ]
+  },
+  "id": "d0f18856-ec1b-4d85-bac5-6b6b4fc16ab3",
+  "isrc": "JP92Q2301494",
+  "released": "2023-07-01",
+  "status": "ok",
+  "title": "抜錨",
   "v": 2
  },
  "旅の夜風|霧島昇ミスコロムビア": {
@@ -2364,6 +3637,25 @@
   "status": "none",
   "v": 2
  },
+ "未来へ|kiroro": {
+  "album": "未来へ",
+  "artist": "Kiroro",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "玉城千春"
+   ],
+   "lyricist": [
+    "玉城千春"
+   ]
+  },
+  "id": "e37bc4c0-8b5b-4699-bd1c-8f742df828db",
+  "isrc": "JPVI09806960",
+  "released": "1998-06-24",
+  "status": "ok",
+  "title": "未来へ",
+  "v": 2
+ },
  "東京ブギウギ|笠置シヅ子": {
   "album": "服部良一「僕の音楽人生」(コロムビア編)",
   "artist": "笠置シヅ子",
@@ -2386,6 +3678,34 @@
   "title": "東京ラプソディ",
   "v": 2
  },
+ "死ぬのがいいわ|藤井風": {
+  "album": "Release Round Up Vol.4",
+  "artist": "藤井風",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "藤井風"
+   ],
+   "lyricist": [
+    "藤井風"
+   ],
+   "mix": [
+    "小森雅仁"
+   ],
+   "producer": [
+    "小島裕規"
+   ],
+   "recording": [
+    "涌井良昌"
+   ]
+  },
+  "id": "a97992ca-5d3d-4ce9-bab1-e631360c618b",
+  "isrc": "JPPO02000610",
+  "released": "2020-05-20",
+  "status": "ok",
+  "title": "死ぬのがいいわ",
+  "v": 2
+ },
  "残酷な天使のテーゼ|高橋洋子": {
   "album": "スーパーロボット魂 2003 “春の陣”",
   "artist": "高橋洋子",
@@ -2403,6 +3723,11 @@
   "released": "2003-06-25",
   "status": "ok",
   "title": "残酷な天使のテーゼ",
+  "v": 2
+ },
+ "毫無代價唱我自己的歌|韋禮安": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "水平線|backnumber": {
@@ -2455,6 +3780,16 @@
   "title": "津軽海峡・冬景色",
   "v": 2
  },
+ "活著viva|謝霆鋒": {
+  "album": "英皇鋼琴熱戀系列 - 謝霆鋒",
+  "artist": "謝霆鋒",
+  "checked": "2026-11-07",
+  "id": "c894b644-5144-4594-925a-b66ccb1fcd5b",
+  "released": "2004-06-14",
+  "status": "ok",
+  "title": "活著Viva",
+  "v": 2
+ },
  "浮誇|陳奕迅": {
   "album": "U87",
   "artist": "陳奕迅",
@@ -2491,6 +3826,24 @@
  "淚そうそう|夏川里美": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "深い森|doasinfinity": {
+  "album": "犬夜叉 ベストソング ヒストリー",
+  "artist": "Do As Infinity",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "D・A・I"
+   ],
+   "lyricist": [
+    "D・A・I"
+   ]
+  },
+  "id": "2588c417-94f2-4294-b93d-629b824ebbce",
+  "released": "2010-03-24",
+  "status": "ok",
+  "title": "深い森",
   "v": 2
  },
  "満ちてゆく|藤井風": {
@@ -2605,9 +3958,46 @@
   "status": "none",
   "v": 2
  },
+ "真的愛妳|beyond": {
+  "album": "金碟至尊精選",
+  "artist": "Beyond",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "黃家駒"
+   ],
+   "lyricist": [
+    "小美"
+   ]
+  },
+  "id": "01f5cb52-589c-436f-8508-d8a23ef54bc1",
+  "released": "1995",
+  "status": "ok",
+  "title": "真的愛妳",
+  "v": 2
+ },
  "瞳を閉じて|平井堅": {
   "checked": "2026-11-06",
   "status": "none",
+  "v": 2
+ },
+ "硝子の少年|kinkikids": {
+  "album": "KinKi Single Selection",
+  "artist": "KinKi Kids",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "山下達郎"
+   ],
+   "lyricist": [
+    "松本隆"
+   ]
+  },
+  "id": "cdd857ab-3486-498f-b960-7f72e9c96b91",
+  "isrc": "JPJE00000130",
+  "released": "2000-05-17",
+  "status": "ok",
+  "title": "硝子の少年",
   "v": 2
  },
  "粛聖ロリ神レクイエム|しぐれうい": {
@@ -2630,6 +4020,47 @@
   "released": "2022-05-25",
   "status": "ok",
   "title": "粛聖!! ロリ神レクイエム☆",
+  "v": 2
+ },
+ "糸|中島みゆき": {
+  "album": "ここにいるよ",
+  "artist": "中島みゆき",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "瀬尾一三"
+   ],
+   "composer": [
+    "中島みゆき"
+   ],
+   "lyricist": [
+    "中島みゆき"
+   ]
+  },
+  "id": "687a38df-d88d-4693-b1de-54509eb548e3",
+  "isrc": "JPPC09223720",
+  "released": "1998-02-04",
+  "status": "ok",
+  "title": "糸",
+  "v": 2
+ },
+ "細雪|五木ひろし": {
+  "album": "Best Selection Yokohama Tasogare",
+  "artist": "五木ひろし",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "市川昭介"
+   ],
+   "lyricist": [
+    "吉岡治"
+   ]
+  },
+  "id": "094fd4e4-6009-4272-83d4-3dba71bc0bd3",
+  "isrc": "JPTK08510312",
+  "released": "1996-10-21",
+  "status": "ok",
+  "title": "細雪",
   "v": 2
  },
  "緣份只是借過的名|丁姵均": {
@@ -2677,6 +4108,80 @@
   "status": "none",
   "v": 2
  },
+ "艾薇塔evita傳說對決艾薇塔主題曲|艾薇ivy": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "花|藤井風": {
+  "album": "Pre: Prema",
+  "artist": "藤井風",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "藤井風"
+   ],
+   "mix": [
+    "小森雅仁"
+   ],
+   "producer": [
+    "A. G. Cook"
+   ],
+   "recording": [
+    "小森雅仁"
+   ],
+   "writer": [
+    "藤井風"
+   ]
+  },
+  "id": "860fdf92-bbf9-437f-acc5-e0ed7059c726",
+  "isrc": "JPPO02303259",
+  "released": "2023-10-13",
+  "status": "ok",
+  "title": "花",
+  "v": 2
+ },
+ "蕾|コブクロ": {
+  "album": "ALL SINGLES BEST 2",
+  "artist": "コブクロ",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "小渕健太郎"
+   ],
+   "lyricist": [
+    "小渕健太郎"
+   ]
+  },
+  "id": "bb6867da-3a8d-48cd-bd46-04eb00c391ad",
+  "isrc": "JPWP00601825",
+  "released": "2007-03-21",
+  "status": "ok",
+  "title": "蕾",
+  "v": 2
+ },
+ "虹|菅田将暉": {
+  "album": "COLLAGE",
+  "artist": "菅田将暉",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "Tomi Yo"
+   ],
+   "composer": [
+    "石崎ひゅーい"
+   ],
+   "lyricist": [
+    "石崎ひゅーい"
+   ]
+  },
+  "id": "49ce5f6e-0160-4e68-ba01-1b141b2dbb78",
+  "isrc": "JPU902002557",
+  "released": "2020-11-25",
+  "status": "ok",
+  "title": "虹",
+  "v": 2
+ },
  "越後獅子の唄|美空ひばり": {
   "album": "不死鳥/美空ひばりin TOKYO DOME～翔ぶ!!新しき空に向って～",
   "artist": "美空ひばり",
@@ -2693,6 +4198,11 @@
   "released": "1995-02-21",
   "status": "ok",
   "title": "越後獅子の唄",
+  "v": 2
+ },
+ "跳樓機|lbi利比": {
+  "checked": "2026-11-07",
+  "status": "none",
   "v": 2
  },
  "追|張國榮": {
@@ -2754,6 +4264,11 @@
   "title": "道",
   "v": 2
  },
+ "郎有情妹有意|陳隨意謝宜君": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "酒よ|吉幾三": {
   "album": "ザ・プレミアム昭和演歌",
   "artist": "吉幾三",
@@ -2792,6 +4307,93 @@
   "title": "酔いどれ知らず",
   "v": 2
  },
+ "野孩子|楊千嬅": {
+  "album": "Y100精選（Evil版）",
+  "artist": "楊千嬅",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "雷頌德"
+   ],
+   "lyricist": [
+    "黃偉文"
+   ]
+  },
+  "id": "91cb8902-bf17-44da-a881-c7d76acab517",
+  "isrc": "HKG070100091",
+  "released": "2012-01-20",
+  "status": "ok",
+  "title": "野孩子",
+  "v": 2
+ },
+ "銀座の恋の物語|石原裕次郎牧村旬子": {
+  "album": "石原裕次郎大全集 ～シングルコレクション～Vol.1 Vol.2",
+  "artist": "石原裕次郎・牧村旬子",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "鏑木創"
+   ],
+   "lyricist": [
+    "大高ひさを"
+   ]
+  },
+  "id": "fa30ea63-dc50-4d7f-aad6-6efaa4bdf250",
+  "isrc": "JPTE06055090",
+  "released": "2000-09-21",
+  "status": "ok",
+  "title": "銀座の恋の物語",
+  "v": 2
+ },
+ "長崎の鐘|藤山一郎": {
+  "album": "オールスター年代別流行歌 昭和20年代: リンゴの唄",
+  "artist": "藤山一郎",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "古関裕而"
+   ],
+   "lyricist": [
+    "サトウハチロー"
+   ]
+  },
+  "id": "00a0be68-d67b-449f-9bc8-ebfbb5b793d2",
+  "isrc": "JPCO06505600",
+  "released": "1993-10-01",
+  "status": "ok",
+  "title": "長崎の鐘",
+  "v": 2
+ },
+ "陀飛輪|陳奕迅": {
+  "album": "Y100精選（Evil版）",
+  "artist": "陳奕迅",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "唐奕聰"
+   ],
+   "composer": [
+    "Vincent Chow"
+   ],
+   "lyricist": [
+    "黃偉文"
+   ],
+   "producer": [
+    "Alvin Leong"
+   ]
+  },
+  "id": "3eb66cba-a60d-41fc-8a7a-52c0f4504fc2",
+  "isrc": "HKUM71000251",
+  "released": "2010-03-12",
+  "status": "ok",
+  "title": "陀飛輪",
+  "v": 2
+ },
+ "陳桑|陳隨意": {
+  "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
  "離開我的依賴|王艷薇": {
   "checked": "2026-11-05",
   "status": "none",
@@ -2800,6 +4402,28 @@
  "雪の花|中島美嘉": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "雪國|吉幾三": {
+  "album": "ザ・プレミアム昭和演歌",
+  "artist": "吉幾三",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "京建輔"
+   ],
+   "composer": [
+    "吉幾三"
+   ],
+   "lyricist": [
+    "吉幾三"
+   ]
+  },
+  "id": "499e4c6e-1243-4dcb-8f45-d17d00292ef1",
+  "isrc": "JPTK08500010",
+  "released": "1993",
+  "status": "ok",
+  "title": "雪國",
   "v": 2
  },
  "雲を抜け風下へ私だけ|ヨルシカ": {
@@ -2865,6 +4489,24 @@
   "title": "青春アミーゴ",
   "v": 2
  },
+ "青春病|藤井風": {
+  "album": "Fujii Kaze “NAN-NAN SHOW 2020” HELP EVER HURT NEVER",
+  "artist": "藤井 風",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "藤井風"
+   ],
+   "lyricist": [
+    "藤井風"
+   ]
+  },
+  "id": "1cb2f142-d7cd-4ffc-a426-4a3bb5f22114",
+  "released": "2021-04-21",
+  "status": "ok",
+  "title": "青春病",
+  "v": 2
+ },
  "革命道中|アイナジエンド": {
   "album": "革命道中",
   "artist": "アイナ・ジ・エンド",
@@ -2889,6 +4531,35 @@
   "title": "革命道中",
   "v": 2
  },
+ "食虫植物|理芽": {
+  "album": "食虫植物",
+  "artist": "理芽",
+  "checked": "2026-11-07",
+  "credits": {
+   "composer": [
+    "笹川真生"
+   ],
+   "lyricist": [
+    "笹川真生"
+   ]
+  },
+  "id": "98c15189-fea6-4697-a579-be99b9e94588",
+  "released": "2020-01-03",
+  "status": "ok",
+  "title": "食虫植物",
+  "v": 2
+ },
+ "高原列車は行く|岡本敦郎": {
+  "album": "オールスター年代別流行歌 昭和20年代: リンゴの唄",
+  "artist": "岡本敦郎",
+  "checked": "2026-11-07",
+  "id": "fb3b79d5-ebb2-459c-92ac-087412451f8d",
+  "isrc": "JPCO07404650",
+  "released": "1993-10-01",
+  "status": "ok",
+  "title": "高原列車は行く",
+  "v": 2
+ },
  "高嶺の花子さん|backnumber": {
   "album": "Encore",
   "artist": "back number",
@@ -2906,6 +4577,28 @@
   "released": "2013-06-26",
   "status": "ok",
   "title": "高嶺の花子さん",
+  "v": 2
+ },
+ "高校三年生|舟木一夫": {
+  "album": "ベスト100シリーズ 昭和の大ヒット100",
+  "artist": "舟木一夫",
+  "checked": "2026-11-07",
+  "credits": {
+   "arranger": [
+    "福田正"
+   ],
+   "composer": [
+    "遠藤実"
+   ],
+   "lyricist": [
+    "丘灯至夫"
+   ]
+  },
+  "id": "da3cdc27-cd8f-4e01-aac2-7380c461e285",
+  "isrc": "JPCO06301490",
+  "released": "1963-06-05",
+  "status": "ok",
+  "title": "高校三年生",
   "v": 2
  },
  "연애의조건|bestie": {

@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.clubdam.com/",
- "checked_at": "2026-11-06T11:28:16+08:00",
+ "checked_at": "2026-11-07T11:22:23+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,8 +18,8 @@
     "en": "Overall · Daily",
     "ja": "総合 デイリー"
    },
-   "period": "2026/11/05",
-   "updated": "2026/11/06",
+   "period": "2026/11/06",
+   "updated": "2026/11/07",
    "source_url": "https://www.clubdam.com/ranking/",
    "rows": [
     {
@@ -28,7 +28,7 @@
      "artist": "Vaundy",
      "song_no": "5277-09",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5277-09",
-     "last_rank": 2,
+     "last_rank": 1,
      "is_new": false,
      "kkbox": "P-DEF6WWhnTeOCytlD",
      "genre": "Rock",
@@ -76,11 +76,51 @@
     },
     {
      "rank": 2,
+     "title": "好きすぎて滅！",
+     "artist": "M!LK",
+     "song_no": "1268-85",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1268-85",
+     "last_rank": 6,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1846753946",
+     "spotify": "0vDqNzQqEhl7boeRS3Joli",
+     "bpm": 151,
+     "tags": {
+      "instrument": [
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "MUTEKI DEAD SNAKE"
+      ],
+      "composer": [
+       "浅野尚志"
+      ],
+      "arranger": [
+       "浅野尚志"
+      ],
+      "year": "2025",
+      "released": "2025-10-27",
+      "label": "Victor Entertainment",
+      "album": "好きすぎて滅! - Single",
+      "isrc": "JPVI02502804",
+      "copyright": "℗ Victor Entertainment",
+      "mb": "0d55a765-a5a9-4b3b-94e5-f61d44a9e8dd",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 3,
      "title": "しわあわせ",
      "artist": "Vaundy",
      "song_no": "5351-39",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5351-39",
-     "last_rank": 1,
+     "last_rank": 2,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1706829387",
@@ -121,7 +161,7 @@
      }
     },
     {
-     "rank": 3,
+     "rank": 4,
      "title": "マリーゴールド",
      "artist": "あいみょん",
      "song_no": "5171-36",
@@ -130,6 +170,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1402042897",
+     "spotify": "2cKiHG16JBiqHdi7Llq0r7",
      "bpm": 106,
      "tags": {
       "mood": [
@@ -158,7 +199,7 @@
      }
     },
     {
-     "rank": 4,
+     "rank": 5,
      "title": "残酷な天使のテーゼ",
      "artist": "高橋洋子",
      "song_no": "1896-04",
@@ -167,6 +208,7 @@
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1549545978",
+     "spotify": "23phSRwoMy48rwFpmuAP8q",
      "bpm": 133,
      "tags": {
       "mood": [
@@ -194,99 +236,16 @@
      }
     },
     {
-     "rank": 5,
-     "title": "クリスマスソング",
-     "artist": "back number",
-     "song_no": "5859-20",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5859-20",
-     "last_rank": 5,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451577755",
-     "spotify": "5P8ZvBQoCrujjNcLAxO3Su",
-     "bpm": 77,
-     "tags": {
-      "genre": [
-       "Brit Pop",
-       "Alternative Rock"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "清水依与吏"
-      ],
-      "composer": [
-       "清水依与吏"
-      ],
-      "year": "2015",
-      "released": "2015-11-18",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "isrc": "JPPO01509647",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "mb": "8a3f89ef-5190-486a-a7be-b8698501fcd9",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 6,
-     "title": "好きすぎて滅！",
-     "artist": "M!LK",
-     "song_no": "1268-85",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1268-85",
-     "last_rank": 7,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1846753946",
-     "spotify": "0vDqNzQqEhl7boeRS3Joli",
-     "bpm": 151,
-     "tags": {
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "MUTEKI DEAD SNAKE"
-      ],
-      "composer": [
-       "浅野尚志"
-      ],
-      "arranger": [
-       "浅野尚志"
-      ],
-      "year": "2025",
-      "released": "2025-10-27",
-      "label": "Victor Entertainment",
-      "album": "好きすぎて滅! - Single",
-      "isrc": "JPVI02502804",
-      "copyright": "℗ Victor Entertainment",
-      "mb": "0d55a765-a5a9-4b3b-94e5-f61d44a9e8dd",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 7,
      "title": "さよならエレジー",
      "artist": "菅田将暉",
      "song_no": "6052-97",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6052-97",
-     "last_rank": 6,
+     "last_rank": 7,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1538151144",
+     "spotify": "3oYD2O31b05fILFpv0AXRI",
      "bpm": 155,
      "tags": {
       "genre": [
@@ -326,40 +285,44 @@
      }
     },
     {
-     "rank": 8,
-     "title": "ダーリン",
-     "artist": "Mrs. GREEN APPLE",
-     "song_no": "1447-17",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1447-17",
-     "last_rank": 9,
+     "rank": 7,
+     "title": "サウダージ",
+     "artist": "ポルノグラフィティ",
+     "song_no": "6167-17",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6167-17",
+     "last_rank": 12,
      "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1790599512",
-     "spotify": "62x4EMPyCFF2Ohv7qDjalp",
-     "bpm": 135,
+     "genre": "J-Pop",
+     "apple": "jp/1538303081",
+     "spotify": "7lUaEsQVwvNEjaJNcvc1CN",
+     "bpm": 120,
      "tags": {
       "genre": [
-       "Ballad"
+       "Euro House",
+       "House"
+      ],
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "synthesizer",
+       "electricguitar"
       ]
      },
      "info": {
       "lyricist": [
-       "大森元貴"
+       "新藤晴一"
       ],
       "composer": [
-       "大森元貴"
+       "本間昭光"
       ],
-      "arranger": [
-       "伊藤賢",
-       "大森元貴"
-      ],
-      "year": "2025",
-      "released": "2025-01-19",
-      "label": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
-      "album": "ダーリン - EP",
-      "isrc": "JPPO02500038",
-      "copyright": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
-      "mb": "5d503860-e282-431a-b755-a99a31b608ce",
+      "year": "2000",
+      "released": "2000-09-13",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "サウダージ - EP",
+      "isrc": "JPSR00005541",
+      "copyright": "℗ 2000 Sony Music Entertainment (Japan) Inc.",
+      "mb": "edebe413-32ee-4c23-9586-6bf28e1dd309",
       "src": [
        "mb",
        "apple"
@@ -367,12 +330,12 @@
      }
     },
     {
-     "rank": 9,
+     "rank": 8,
      "title": "水平線",
      "artist": "back number",
      "song_no": "5862-13",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5862-13",
-     "last_rank": 8,
+     "last_rank": 9,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1579439168",
@@ -426,6 +389,50 @@
      }
     },
     {
+     "rank": 9,
+     "title": "クリスマスソング",
+     "artist": "back number",
+     "song_no": "5859-20",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5859-20",
+     "last_rank": 5,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577755",
+     "spotify": "5P8ZvBQoCrujjNcLAxO3Su",
+     "bpm": 77,
+     "tags": {
+      "genre": [
+       "Brit Pop",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
+      "year": "2015",
+      "released": "2015-11-18",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "isrc": "JPPO01509647",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "8a3f89ef-5190-486a-a7be-b8698501fcd9",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 10,
      "title": "奏(かなで)",
      "artist": "スキマスイッチ",
@@ -435,6 +442,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1445037956",
+     "spotify": "5RbMlPFL4gVyEHW2lEOuzG",
      "bpm": 75,
      "tags": {
       "mood": [
@@ -458,6 +466,47 @@
     },
     {
      "rank": 11,
+     "title": "ダーリン",
+     "artist": "Mrs. GREEN APPLE",
+     "song_no": "1447-17",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1447-17",
+     "last_rank": 8,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1790599512",
+     "spotify": "62x4EMPyCFF2Ohv7qDjalp",
+     "bpm": 135,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "arranger": [
+       "伊藤賢",
+       "大森元貴"
+      ],
+      "year": "2025",
+      "released": "2025-01-19",
+      "label": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "album": "ダーリン - EP",
+      "isrc": "JPPO02500038",
+      "copyright": "An EMI Records release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "mb": "5d503860-e282-431a-b755-a99a31b608ce",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 12,
      "title": "ドライフラワー",
      "artist": "優里",
      "song_no": "6844-05",
@@ -467,6 +516,7 @@
      "kkbox": "8lxcS85nvIvoktbyrY",
      "genre": "Rock",
      "apple": "jp/1534620183",
+     "spotify": "7dH0dpi751EoguDDg3xx6J",
      "bpm": 150,
      "tags": {
       "genre": [
@@ -478,54 +528,19 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "優里"
+      ],
+      "composer": [
+       "優里"
+      ],
       "year": "2020",
       "released": "2020-10-25",
       "label": "Sony Music Labels Inc",
       "album": "ドライフラワー - Single",
+      "isrc": "JPU902002405",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 12,
-     "title": "サウダージ",
-     "artist": "ポルノグラフィティ",
-     "song_no": "6167-17",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6167-17",
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1538303081",
-     "bpm": 120,
-     "tags": {
-      "genre": [
-       "Euro House",
-       "House"
-      ],
-      "mood": [
-       "danceable"
-      ],
-      "instrument": [
-       "synthesizer",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "新藤晴一"
-      ],
-      "composer": [
-       "本間昭光"
-      ],
-      "year": "2000",
-      "released": "2000-09-13",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "サウダージ - EP",
-      "isrc": "JPSR00005541",
-      "copyright": "℗ 2000 Sony Music Entertainment (Japan) Inc.",
-      "mb": "edebe413-32ee-4c23-9586-6bf28e1dd309",
+      "mb": "908f012d-22c9-4778-af6e-2738482bdf50",
       "src": [
        "mb",
        "apple"
@@ -538,10 +553,11 @@
      "artist": "シャ乱Q",
      "song_no": "2975-03",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2975-03",
-     "last_rank": 14,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1536896544",
+     "spotify": "7M3oRWV8h3ssMjNP24jJCF",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -584,7 +600,7 @@
      "artist": "back number",
      "song_no": "5860-81",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-81",
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1451577752",
@@ -634,6 +650,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1440747285",
+     "spotify": "1ihCiJaXRl4f6Sy4LJov5z",
      "bpm": 97,
      "tags": {
       "genre": [
@@ -645,23 +662,80 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "草野正宗"
+      ],
+      "composer": [
+       "草野正宗"
+      ],
       "year": "1996",
       "released": "1996-04-10",
       "label": "UNIVERSAL J",
       "album": "インディゴ地平線",
       "copyright": "℗ 1996 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "mb": "24df8bcf-ef8a-4e1a-bcc3-5ec898c8b5c9",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
      "rank": 16,
+     "title": "小さな恋のうた",
+     "artist": "MONGOL800",
+     "song_no": "6878-04",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6878-04",
+     "last_rank": 23,
+     "is_new": false,
+     "genre": "Alternative",
+     "apple": "jp/273169347",
+     "spotify": "23atyJacJVHvB9RHBNhr35",
+     "bpm": 225,
+     "tags": {
+      "genre": [
+       "Punk"
+      ],
+      "mood": [
+       "aggressive",
+       "danceable"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar",
+       "bass"
+      ],
+      "vocal": [
+       "male"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "上江洌清作"
+      ],
+      "composer": [
+       "MONGOL800"
+      ],
+      "year": "2001",
+      "released": "2001-09-16",
+      "label": "HIGH WAVE CO.,LTD",
+      "album": "MESSAGE",
+      "isrc": "JPB590501014",
+      "copyright": "℗ 2001 HIGH WAVE CO.,LTD.",
+      "mb": "9d49e3fb-7d90-40c4-a092-d7577c0d7b2a",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 17,
      "title": "愛のかたまり",
      "artist": "KinKi Kids",
      "song_no": "5286-71",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5286-71",
-     "last_rank": 23,
+     "last_rank": 16,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1810382629",
@@ -693,46 +767,67 @@
      }
     },
     {
-     "rank": 17,
-     "title": "ブルーアンバー",
-     "artist": "back number",
-     "song_no": "1060-83",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1060-83",
-     "last_rank": 16,
+     "rank": 18,
+     "title": "Yes! 東京",
+     "artist": "EBiDAN (恵比寿学園男子部)",
+     "song_no": "1521-94",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1521-94",
+     "last_rank": 19,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1808852932",
-     "spotify": "35MeePbBnryubkVG0v8GbI",
-     "bpm": 77,
+     "apple": "jp/6793870938",
+     "spotify": "7L1UsUbSqowTKwrgT0v8AS",
+     "bpm": 217,
      "tags": {
-      "genre": [
-       "Ballad"
-      ],
       "mood": [
-       "love"
+       "party",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "guitar"
       ]
      },
      "info": {
-      "year": "2025",
-      "released": "2025-04-28",
-      "label": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
-      "album": "ブルーアンバー - Single",
-      "copyright": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "lyricist": [
+       "Kyono Miyako",
+       "OHTORA",
+       "SYO",
+       "Y-クルーズ・エンヤ"
+      ],
+      "composer": [
+       "Kyono Miyako",
+       "OHTORA",
+       "maeshima soshi",
+       "SYO",
+       "Y-クルーズ・エンヤ"
+      ],
+      "arranger": [
+       "New K"
+      ],
+      "year": "2026",
+      "released": "2026-07-02",
+      "label": "SDR Inc",
+      "album": "Yes! 東京 (体験入学版)",
+      "copyright": "℗ 2026 SDR Inc.",
+      "mb": "4b14128d-aa80-45a9-abc1-b93f62f65d7c",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 17,
+     "rank": 19,
      "title": "ひまわりの約束",
      "artist": "秦 基博",
      "song_no": "5617-21",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5617-21",
-     "last_rank": 18,
+     "last_rank": 17,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1440865459",
+     "spotify": "45jGOHwYKgsRYbAJ8DR61d",
      "bpm": 79,
      "tags": {
       "genre": [
@@ -772,80 +867,12 @@
      }
     },
     {
-     "rank": 19,
-     "title": "Yes! 東京",
-     "artist": "EBiDAN (恵比寿学園男子部)",
-     "song_no": "1521-94",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1521-94",
-     "last_rank": 20,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/6793870938",
-     "spotify": "7L1UsUbSqowTKwrgT0v8AS",
-     "bpm": 217,
-     "tags": {
-      "mood": [
-       "party",
-       "danceable",
-       "energetic"
-      ],
-      "instrument": [
-       "guitar"
-      ]
-     },
-     "info": {
-      "year": "2026",
-      "released": "2026-08-11",
-      "label": "SDR Inc",
-      "album": "Yes! 東京 (体験入学版)",
-      "copyright": "℗ 2026 SDR Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 20,
-     "title": "恋人ごっこ",
-     "artist": "マカロニえんぴつ",
-     "song_no": "5267-93",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5267-93",
-     "last_rank": 17,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1496731154",
-     "bpm": 102,
-     "tags": {
-      "genre": [
-       "Indie Rock",
-       "Alternative Rock"
-      ],
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2020",
-      "released": "2020-02-07",
-      "label": "TALTO",
-      "album": "恋人ごっこ - Single",
-      "copyright": "℗ TALTO",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 21,
      "title": "点描の唄(feat.井上苑子)",
      "artist": "Mrs. GREEN APPLE",
      "song_no": "6197-71",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6197-71",
-     "last_rank": 19,
+     "last_rank": 21,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1408505419",
@@ -887,121 +914,48 @@
      }
     },
     {
-     "rank": 22,
-     "title": "カブトムシ",
-     "artist": "aiko",
-     "song_no": "5772-05",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5772-05",
-     "last_rank": 24,
+     "rank": 21,
+     "title": "ブルーアンバー",
+     "artist": "back number",
+     "song_no": "1060-83",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1060-83",
+     "last_rank": 17,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1109986324",
-     "spotify": "2Os0vzke5CakbU3dkSHckx",
-     "bpm": 75,
+     "apple": "jp/1808852932",
+     "spotify": "35MeePbBnryubkVG0v8GbI",
+     "bpm": 77,
      "tags": {
       "genre": [
        "Ballad"
       ],
       "mood": [
-       "relaxed"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "1999",
-      "released": "1999-11-17",
-      "label": "Pony Canyon Inc",
-      "album": "まとめⅠ",
-      "copyright": "℗ Pony Canyon Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 23,
-     "title": "小さな恋のうた",
-     "artist": "MONGOL800",
-     "song_no": "6878-04",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6878-04",
-     "last_rank": 21,
-     "is_new": false,
-     "genre": "Alternative",
-     "apple": "jp/273169347",
-     "spotify": "23atyJacJVHvB9RHBNhr35",
-     "bpm": 225,
-     "tags": {
-      "genre": [
-       "Punk"
-      ],
-      "mood": [
-       "aggressive",
-       "danceable"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar",
-       "bass"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "year": "2001",
-      "released": "2001-09-16",
-      "label": "HIGH WAVE CO.,LTD",
-      "album": "MESSAGE",
-      "copyright": "℗ 2001 HIGH WAVE CO.,LTD.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 24,
-     "title": "Story",
-     "artist": "AI",
-     "song_no": "6953-17",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6953-17",
-     "last_rank": 22,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1444118054",
-     "bpm": 126,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
        "love"
       ]
      },
      "info": {
-      "year": "2005",
-      "released": "2005-05-18",
-      "label": "UNIVERSAL SIGMA",
-      "album": "MIC-AーHOLIC A.I.",
-      "copyright": "℗ 2005 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "year": "2025",
+      "released": "2025-04-28",
+      "label": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
+      "album": "ブルーアンバー - Single",
+      "copyright": "A UNIVERSAL SIGMA release; ℗ 2025 UNIVERSAL MUSIC LLC",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 25,
+     "rank": 22,
      "title": "Lemon",
      "artist": "米津玄師",
      "song_no": "3246-51",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3246-51",
-     "last_rank": 35,
+     "last_rank": 25,
      "is_new": false,
      "kkbox": "Gl0SSwbJylVNHBg1G9",
      "genre": "J-Pop",
      "apple": "tw/1537460612",
+     "spotify": "7Cd17G3oNQ34OWUwS8ZxfR",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -1049,45 +1003,77 @@
      }
     },
     {
-     "rank": 26,
-     "title": "とくべチュ、して",
-     "artist": "=LOVE",
-     "song_no": "1059-41",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1059-41",
-     "last_rank": 25,
+     "rank": 23,
+     "title": "Story",
+     "artist": "AI",
+     "song_no": "6953-17",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6953-17",
+     "last_rank": 24,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1794066813",
-     "spotify": "2XS2jEncSJsetNZdVtlpeo",
-     "bpm": 147,
+     "apple": "jp/1444118054",
+     "bpm": 126,
      "tags": {
       "genre": [
-       "Dance-pop"
+       "Ballad"
       ],
       "mood": [
-       "danceable",
-       "party",
-       "energetic"
+       "relaxed",
+       "love"
       ]
      },
      "info": {
-      "year": "2025",
-      "released": "2025-02-10",
-      "label": "Sony Music Labels Inc",
-      "album": "とくべチュ、して - Single",
-      "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "year": "2005",
+      "released": "2005-05-18",
+      "label": "UNIVERSAL SIGMA",
+      "album": "MIC-AーHOLIC A.I.",
+      "copyright": "℗ 2005 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 27,
+     "rank": 24,
+     "title": "カブトムシ",
+     "artist": "aiko",
+     "song_no": "5772-05",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5772-05",
+     "last_rank": 22,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1109986324",
+     "spotify": "2Os0vzke5CakbU3dkSHckx",
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "1999",
+      "released": "1999-11-17",
+      "label": "Pony Canyon Inc",
+      "album": "まとめⅠ",
+      "copyright": "℗ Pony Canyon Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 25,
      "title": "最後の雨",
      "artist": "中西保志",
      "song_no": "2453-01",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2453-01",
-     "last_rank": 28,
+     "last_rank": 27,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1679687728",
@@ -1113,12 +1099,112 @@
      }
     },
     {
+     "rank": 26,
+     "title": "恋人ごっこ",
+     "artist": "マカロニえんぴつ",
+     "song_no": "5267-93",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5267-93",
+     "last_rank": 20,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1496731154",
+     "spotify": "2SihT7AVMiI2VtaAyVIcnO",
+     "bpm": 102,
+     "tags": {
+      "genre": [
+       "Indie Rock",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "はっとり"
+      ],
+      "composer": [
+       "はっとり"
+      ],
+      "mix": [
+       "佐藤雅彦"
+      ],
+      "recording": [
+       "佐藤雅彦"
+      ],
+      "year": "2020",
+      "released": "2020-02-07",
+      "label": "TALTO",
+      "album": "恋人ごっこ - Single",
+      "copyright": "℗ TALTO",
+      "mb": "be471ddc-4185-4d9e-abac-8f13da1d4ff8",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 27,
+     "title": "糸",
+     "artist": "中島みゆき",
+     "song_no": "2463-35",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2463-35",
+     "last_rank": 32,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1654000188",
+     "spotify": "06m8KKTa6rAYJ5I6l2gZgS",
+     "bpm": 72,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "中島みゆき"
+      ],
+      "composer": [
+       "中島みゆき"
+      ],
+      "arranger": [
+       "瀬尾一三"
+      ],
+      "year": "1992",
+      "released": "1992-10-07",
+      "label": "Yamaha Music Entertainment Holdings Inc",
+      "album": "命の別名 - Single",
+      "isrc": "JPPC09223720",
+      "copyright": "℗ 2002 Yamaha Music Entertainment Holdings Inc.",
+      "mb": "687a38df-d88d-4693-b1de-54509eb548e3",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 28,
      "title": "ハナミズキ",
      "artist": "一青 窈",
      "song_no": "4368-24",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=4368-24",
-     "last_rank": 27,
+     "last_rank": 28,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1444445589",
@@ -1148,35 +1234,32 @@
     },
     {
      "rank": 29,
-     "title": "花束",
-     "artist": "back number",
-     "song_no": "5870-11",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5870-11",
+     "title": "とくべチュ、して",
+     "artist": "=LOVE",
+     "song_no": "1059-41",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1059-41",
      "last_rank": 26,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1451577753",
-     "bpm": 80,
+     "apple": "jp/1794066813",
+     "spotify": "2XS2jEncSJsetNZdVtlpeo",
+     "bpm": 147,
      "tags": {
       "genre": [
-       "Alternative Rock",
-       "Brit Pop"
+       "Dance-pop"
       ],
       "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
+       "danceable",
+       "party",
+       "energetic"
       ]
      },
      "info": {
-      "year": "2011",
-      "released": "2011-06-22",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "year": "2025",
+      "released": "2025-02-10",
+      "label": "Sony Music Labels Inc",
+      "album": "とくべチュ、して - Single",
+      "copyright": "℗ 2025 Sony Music Labels Inc.",
       "src": [
        "apple"
       ]
@@ -1184,48 +1267,11 @@
     },
     {
      "rank": 30,
-     "title": "アイノカタチ feat.HIDE(GReeeeN)",
-     "artist": "MISIA",
-     "song_no": "6578-82",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6578-82",
-     "last_rank": 33,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1538122206",
-     "bpm": 89,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2018",
-      "released": "2018-08-22",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "アイノカタチ (feat. HIDE) - EP",
-      "copyright": "℗ 2018 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 31,
      "title": "丸の内サディスティック",
      "artist": "椎名林檎",
      "song_no": "5833-09",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5833-09",
-     "last_rank": 29,
+     "last_rank": 31,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1384341683",
@@ -1251,84 +1297,58 @@
      }
     },
     {
-     "rank": 32,
-     "title": "糸",
-     "artist": "中島みゆき",
-     "song_no": "2463-35",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2463-35",
-     "last_rank": 32,
+     "rank": 31,
+     "title": "世界が終るまでは…",
+     "artist": "WANDS",
+     "song_no": "1312-16",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1312-16",
+     "last_rank": 36,
      "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1654000188",
-     "bpm": 72,
+     "kkbox": "8oncpMjAlULSDc3No5",
+     "genre": "Anime",
+     "apple": "jp/75471729",
+     "spotify": "3Kihz14e1cNkpl5PiJOiB7",
+     "bpm": 104,
      "tags": {
       "genre": [
-       "City Pop"
-      ],
-      "mood": [
-       "sad",
-       "relaxed"
+       "AOR",
+       "Arena Rock"
       ],
       "instrument": [
-       "piano"
+       "electricguitar",
+       "synthesizer"
       ],
       "vocal": [
-       "female"
+       "male"
       ]
      },
      "info": {
-      "year": "1992",
-      "released": "1992-10-07",
-      "label": "Yamaha Music Entertainment Holdings Inc",
-      "album": "命の別名 - Single",
-      "copyright": "℗ 2002 Yamaha Music Entertainment Holdings Inc.",
+      "lyricist": [
+       "上杉昇"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "year": "1996",
+      "released": "1996-03-20",
+      "label": "B-Gram RECORDS,INC",
+      "album": "TVアニメーション スラムダンク テーマソング集 - EP",
+      "isrc": "JPC400711038",
+      "copyright": "℗ 1996 B-Gram RECORDS,INC.",
+      "mb": "e71fd705-f9a1-40a9-bf08-a6c590ae3f75",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 33,
-     "title": "366日",
-     "artist": "HY",
-     "song_no": "3284-57",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3284-57",
-     "last_rank": 34,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/820248910",
-     "bpm": 88,
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Cumbia"
-      ],
-      "mood": [
-       "sad",
-       "relaxed"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2014",
-      "released": "2014-02-26",
-      "label": "TV ASAHI MUSIC CO.,LTD",
-      "album": "HY SUPER BEST",
-      "copyright": "℗ 2014 TV ASAHI MUSIC CO.,LTD.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 34,
+     "rank": 32,
      "title": "ライラック",
      "artist": "Mrs. GREEN APPLE",
      "song_no": "1447-11",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1447-11",
-     "last_rank": 30,
+     "last_rank": 34,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1739088799",
@@ -1376,12 +1396,120 @@
      }
     },
     {
+     "rank": 33,
+     "title": "アイノカタチ feat.HIDE(GReeeeN)",
+     "artist": "MISIA",
+     "song_no": "6578-82",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6578-82",
+     "last_rank": 30,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1538122206",
+     "bpm": 89,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2018",
+      "released": "2018-08-22",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "アイノカタチ (feat. HIDE) - EP",
+      "copyright": "℗ 2018 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 34,
+     "title": "366日",
+     "artist": "HY",
+     "song_no": "3284-57",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3284-57",
+     "last_rank": 33,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/820248910",
+     "bpm": 88,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Cumbia"
+      ],
+      "mood": [
+       "sad",
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2014",
+      "released": "2014-02-26",
+      "label": "TV ASAHI MUSIC CO.,LTD",
+      "album": "HY SUPER BEST",
+      "copyright": "℗ 2014 TV ASAHI MUSIC CO.,LTD.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 35,
+     "title": "花束",
+     "artist": "back number",
+     "song_no": "5870-11",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5870-11",
+     "last_rank": 29,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577753",
+     "bpm": 80,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Brit Pop"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2011",
+      "released": "2011-06-22",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 36,
      "title": "愛をこめて花束を",
      "artist": "Superfly",
      "song_no": "4190-04",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=4190-04",
-     "last_rank": 31,
+     "last_rank": 35,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/279691859",
@@ -1410,146 +1538,12 @@
      }
     },
     {
-     "rank": 36,
-     "title": "世界が終るまでは…",
-     "artist": "WANDS",
-     "song_no": "1312-16",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1312-16",
-     "last_rank": 37,
-     "is_new": false,
-     "kkbox": "8oncpMjAlULSDc3No5",
-     "genre": "Anime",
-     "apple": "jp/75471729",
-     "spotify": "3Kihz14e1cNkpl5PiJOiB7",
-     "bpm": 104,
-     "tags": {
-      "genre": [
-       "AOR",
-       "Arena Rock"
-      ],
-      "instrument": [
-       "electricguitar",
-       "synthesizer"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "上杉昇"
-      ],
-      "composer": [
-       "織田哲郎"
-      ],
-      "year": "1996",
-      "released": "1996-03-20",
-      "label": "B-Gram RECORDS,INC",
-      "album": "TVアニメーション スラムダンク テーマソング集 - EP",
-      "isrc": "JPC400711038",
-      "copyright": "℗ 1996 B-Gram RECORDS,INC.",
-      "mb": "e71fd705-f9a1-40a9-bf08-a6c590ae3f75",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 37,
-     "title": "歌うたいのバラッド",
-     "artist": "斉藤和義",
-     "song_no": "3010-13",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3010-13",
-     "last_rank": 36,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1281425806",
-     "bpm": 150,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Hard Rock"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "acousticguitar",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "1997",
-      "released": "1997-11-21",
-      "label": "Shinko Music Entertainment CO. ,Ltd",
-      "album": "Because",
-      "copyright": "℗ Shinko Music Entertainment CO. ,Ltd.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 38,
-     "title": "白い恋人達",
-     "artist": "桑田佳祐",
-     "song_no": "1829-21",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1829-21",
-     "last_rank": 42,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1083421429",
-     "bpm": 74,
-     "tags": {
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "year": "2001",
-      "released": "2001-10-24",
-      "label": "TAISHITA Label Music Co., Ltd",
-      "album": "白い恋人達 - Single",
-      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 39,
-     "title": "I LOVE YOU",
-     "artist": "尾崎豊",
-     "song_no": "2652-01",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2652-01",
-     "last_rank": 48,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1537531003",
-     "bpm": 75,
-     "info": {
-      "year": "2013",
-      "released": "2013-11-27",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "ALL TIME BEST",
-      "copyright": "℗ 2013 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 40,
      "title": "キセキ",
      "artist": "GReeeeN",
      "song_no": "7401-20",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7401-20",
-     "last_rank": 41,
+     "last_rank": 40,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1440780922",
@@ -1579,46 +1573,104 @@
      }
     },
     {
-     "rank": 41,
-     "title": "ヒロイン",
-     "artist": "back number",
-     "song_no": "5860-98",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-98",
-     "last_rank": 38,
+     "rank": 38,
+     "title": "メロディー",
+     "artist": "玉置浩二",
+     "song_no": "1805-08",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1805-08",
+     "last_rank": 46,
      "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451566361",
-     "bpm": 77,
+     "genre": "Rock",
+     "apple": "jp/1536905491",
+     "bpm": 96,
      "tags": {
       "genre": [
-       "Alternative Rock",
-       "Brit Pop"
+       "Folk"
       ],
       "mood": [
+       "relaxed",
+       "sad",
        "love"
       ],
       "instrument": [
-       "electricguitar"
+       "guitar"
       ]
      },
      "info": {
-      "year": "2015",
-      "released": "2015-01-21",
-      "label": "UNIVERSAL SIGMA",
-      "album": "ヒロイン - EP",
-      "copyright": "℗ 2015 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "year": "1996",
+      "released": "1996-05-22",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "メロディー - Single",
+      "copyright": "℗ 1996 Sony Music Entertainment (Japan) Inc.",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 42,
+     "rank": 39,
+     "title": "I LOVE YOU",
+     "artist": "尾崎豊",
+     "song_no": "2652-01",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2652-01",
+     "last_rank": 39,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1537531003",
+     "bpm": 75,
+     "info": {
+      "year": "2013",
+      "released": "2013-11-27",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "ALL TIME BEST",
+      "copyright": "℗ 2013 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 40,
+     "title": "歌うたいのバラッド",
+     "artist": "斉藤和義",
+     "song_no": "3010-13",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3010-13",
+     "last_rank": 37,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1281425806",
+     "bpm": 150,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Hard Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "1997",
+      "released": "1997-11-21",
+      "label": "Shinko Music Entertainment CO. ,Ltd",
+      "album": "Because",
+      "copyright": "℗ Shinko Music Entertainment CO. ,Ltd.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 41,
      "title": "大阪LOVER",
      "artist": "DREAMS COME TRUE",
      "song_no": "7243-32",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7243-32",
-     "last_rank": 45,
+     "last_rank": 42,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1444614244",
@@ -1652,34 +1704,67 @@
      }
     },
     {
-     "rank": 43,
-     "title": "KissHug",
-     "artist": "aiko",
-     "song_no": "2404-75",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2404-75",
-     "last_rank": 40,
+     "rank": 42,
+     "title": "Pretender",
+     "artist": "Official髭男dism",
+     "song_no": "6195-98",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6195-98",
+     "last_rank": 53,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1499615822",
-     "bpm": 77,
+     "apple": "jp/1479397873",
+     "bpm": 96,
      "tags": {
       "genre": [
-       "Pop Rock",
-       "Ballad"
+       "Alternative Rock",
+       "Indie Rock"
       ],
       "instrument": [
+       "synthesizer",
        "electricguitar"
-      ],
-      "vocal": [
-       "female"
       ]
      },
      "info": {
-      "year": "2008",
-      "released": "2008-07-23",
-      "label": "PONY CANYON INC",
-      "album": "KissHug - EP",
-      "copyright": "℗ 2008 PONY CANYON INC.",
+      "year": "2019",
+      "released": "2019-04-17",
+      "label": "PONYCANYON",
+      "album": "Traveler",
+      "copyright": "℗ 2019 PONYCANYON",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 43,
+     "title": "アゲハ蝶",
+     "artist": "ポルノグラフィティ",
+     "song_no": "6167-36",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6167-36",
+     "last_rank": 47,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1537232442",
+     "bpm": 116,
+     "tags": {
+      "genre": [
+       "Euro House",
+       "House"
+      ],
+      "mood": [
+       "danceable",
+       "happy"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "year": "2001",
+      "released": "2001-06-27",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "PORNO GRAFFITTI BEST BLUE'S",
+      "copyright": "℗ 2004 Sony Music Entertainment (Japan) Inc.",
       "src": [
        "apple"
       ]
@@ -1687,11 +1772,109 @@
     },
     {
      "rank": 44,
+     "title": "島人ぬ宝",
+     "artist": "BEGIN",
+     "song_no": "1036-13",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1036-13",
+     "last_rank": 49,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1838717027",
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ]
+     },
+     "info": {
+      "year": "2002",
+      "released": "2002-05-22",
+      "label": "TEICHIKU ENTERTAINMENT,INC",
+      "album": "ビギンの島唄 ～オモトタケオ2",
+      "copyright": "℗ 2002 TEICHIKU ENTERTAINMENT,INC.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 45,
+     "title": "白い恋人達",
+     "artist": "桑田佳祐",
+     "song_no": "1829-21",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1829-21",
+     "last_rank": 38,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1083421429",
+     "bpm": 74,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     },
+     "info": {
+      "year": "2001",
+      "released": "2001-10-24",
+      "label": "TAISHITA Label Music Co., Ltd",
+      "album": "白い恋人達 - Single",
+      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 46,
+     "title": "爆裂愛してる",
+     "artist": "M!LK",
+     "song_no": "1405-25",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1405-25",
+     "last_rank": 48,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1869537742",
+     "bpm": 162,
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "year": "2026",
+      "released": "2026-02-18",
+      "label": "Victor Entertainment",
+      "album": "爆裂愛してる / 好きすぎて滅! - EP",
+      "copyright": "℗ 2026 Victor Entertainment",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 47,
      "title": "シャルル",
      "artist": "バルーン",
      "song_no": "7638-86",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7638-86",
-     "last_rank": 39,
+     "last_rank": 44,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1271271759",
@@ -1728,12 +1911,12 @@
      }
     },
     {
-     "rank": 45,
+     "rank": 48,
      "title": "ケセラセラ",
      "artist": "Mrs. GREEN APPLE",
      "song_no": "1314-68",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1314-68",
-     "last_rank": 43,
+     "last_rank": 45,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1681600508",
@@ -1759,137 +1942,34 @@
      }
     },
     {
-     "rank": 46,
-     "title": "メロディー",
-     "artist": "玉置浩二",
-     "song_no": "1805-08",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1805-08",
-     "last_rank": 56,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1536905491",
-     "bpm": 96,
-     "tags": {
-      "genre": [
-       "Folk"
-      ],
-      "mood": [
-       "relaxed",
-       "sad",
-       "love"
-      ],
-      "instrument": [
-       "guitar"
-      ]
-     },
-     "info": {
-      "year": "1996",
-      "released": "1996-05-22",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "メロディー - Single",
-      "copyright": "℗ 1996 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 47,
-     "title": "アゲハ蝶",
-     "artist": "ポルノグラフィティ",
-     "song_no": "6167-36",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6167-36",
-     "last_rank": 44,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1537232442",
-     "bpm": 116,
-     "tags": {
-      "genre": [
-       "Euro House",
-       "House"
-      ],
-      "mood": [
-       "danceable",
-       "happy"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2001",
-      "released": "2001-06-27",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "PORNO GRAFFITTI BEST BLUE'S",
-      "copyright": "℗ 2004 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 48,
-     "title": "爆裂愛してる",
-     "artist": "M!LK",
-     "song_no": "1405-25",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1405-25",
-     "last_rank": 46,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1869537742",
-     "bpm": 162,
-     "tags": {
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2026",
-      "released": "2026-02-18",
-      "label": "Victor Entertainment",
-      "album": "爆裂愛してる / 好きすぎて滅! - EP",
-      "copyright": "℗ 2026 Victor Entertainment",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 49,
-     "title": "島人ぬ宝",
-     "artist": "BEGIN",
-     "song_no": "1036-13",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1036-13",
-     "last_rank": 53,
+     "title": "ヒロイン",
+     "artist": "back number",
+     "song_no": "5860-98",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-98",
+     "last_rank": 41,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1838717027",
-     "bpm": 74,
+     "apple": "jp/1451566361",
+     "bpm": 77,
      "tags": {
       "genre": [
-       "Ballad"
+       "Alternative Rock",
+       "Brit Pop"
       ],
       "mood": [
-       "relaxed",
-       "sad",
        "love"
       ],
       "instrument": [
-       "acousticguitar"
+       "electricguitar"
       ]
      },
      "info": {
-      "year": "2002",
-      "released": "2002-05-22",
-      "label": "TEICHIKU ENTERTAINMENT,INC",
-      "album": "ビギンの島唄 ～オモトタケオ2",
-      "copyright": "℗ 2002 TEICHIKU ENTERTAINMENT,INC.",
+      "year": "2015",
+      "released": "2015-01-21",
+      "label": "UNIVERSAL SIGMA",
+      "album": "ヒロイン - EP",
+      "copyright": "℗ 2015 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
       "src": [
        "apple"
       ]
@@ -1897,87 +1977,11 @@
     },
     {
      "rank": 50,
-     "title": "恋",
-     "artist": "back number",
-     "song_no": "5860-12",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-12",
-     "last_rank": 47,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451577770",
-     "bpm": 76,
-     "tags": {
-      "genre": [
-       "Brit Pop",
-       "Pop Rock"
-      ],
-      "mood": [
-       "happy",
-       "love"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "year": "2012",
-      "released": "2012-03-07",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 51,
-     "title": "雪の華",
-     "artist": "中島美嘉",
-     "song_no": "6308-33",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6308-33",
-     "last_rank": 55,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1535491085",
-     "bpm": 74,
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2003",
-      "released": "2003-10-01",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "BEST",
-      "copyright": "℗ 2005 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 52,
      "title": "IRIS OUT",
      "artist": "米津玄師",
      "song_no": "1208-61",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1208-61",
-     "last_rank": 50,
+     "last_rank": 52,
      "is_new": false,
      "kkbox": "X-rukn0L-uxSg85u8t",
      "genre": "J-Pop",
@@ -2030,56 +2034,59 @@
      }
     },
     {
-     "rank": 53,
-     "title": "Pretender",
-     "artist": "Official髭男dism",
-     "song_no": "6195-98",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6195-98",
-     "last_rank": 52,
+     "rank": 51,
+     "title": "KissHug",
+     "artist": "aiko",
+     "song_no": "2404-75",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2404-75",
+     "last_rank": 43,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1479397873",
-     "bpm": 96,
+     "apple": "jp/1499615822",
+     "bpm": 77,
      "tags": {
       "genre": [
-       "Alternative Rock",
-       "Indie Rock"
+       "Pop Rock",
+       "Ballad"
       ],
       "instrument": [
-       "synthesizer",
        "electricguitar"
+      ],
+      "vocal": [
+       "female"
       ]
      },
      "info": {
-      "year": "2019",
-      "released": "2019-04-17",
-      "label": "PONYCANYON",
-      "album": "Traveler",
-      "copyright": "℗ 2019 PONYCANYON",
+      "year": "2008",
+      "released": "2008-07-23",
+      "label": "PONY CANYON INC",
+      "album": "KissHug - EP",
+      "copyright": "℗ 2008 PONY CANYON INC.",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 54,
+     "rank": 52,
      "title": "伯方の塩",
      "artist": "塩谷信廣",
      "song_no": "1474-63",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1474-63",
-     "last_rank": 49,
+     "last_rank": 54,
      "is_new": false
     },
     {
-     "rank": 55,
+     "rank": 53,
      "title": "タッチ",
      "artist": "岩崎良美",
      "song_no": "1748-01",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1748-01",
-     "last_rank": 59,
+     "last_rank": 55,
      "is_new": false,
      "genre": "Kayokyoku",
      "apple": "jp/963626798",
+     "spotify": "1EvVwqTga8655SrGAS6Zba",
      "bpm": 162,
      "tags": {
       "genre": [
@@ -2106,12 +2113,156 @@
      }
     },
     {
+     "rank": 54,
+     "title": "イケナイ太陽",
+     "artist": "ORANGE RANGE",
+     "song_no": "7308-24",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7308-24",
+     "last_rank": 62,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1537392624",
+     "bpm": 145,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "happy",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2007",
+      "released": "2007-07-18",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "イケナイ太陽 - Single",
+      "copyright": "℗ 2007 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 55,
+     "title": "雪の華",
+     "artist": "中島美嘉",
+     "song_no": "6308-33",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6308-33",
+     "last_rank": 51,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1535491085",
+     "bpm": 74,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2003",
+      "released": "2003-10-01",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "BEST",
+      "copyright": "℗ 2005 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 56,
+     "title": "恋",
+     "artist": "back number",
+     "song_no": "5860-12",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-12",
+     "last_rank": 50,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577770",
+     "bpm": 76,
+     "tags": {
+      "genre": [
+       "Brit Pop",
+       "Pop Rock"
+      ],
+      "mood": [
+       "happy",
+       "love"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     },
+     "info": {
+      "year": "2012",
+      "released": "2012-03-07",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 57,
+     "title": "いとしのエリー",
+     "artist": "サザンオールスターズ",
+     "song_no": "1403-20",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1403-20",
+     "last_rank": 65,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/949272127",
+     "bpm": 70,
+     "tags": {
+      "genre": [
+       "City Pop"
+      ],
+      "mood": [
+       "sad"
+      ]
+     },
+     "info": {
+      "year": "1998",
+      "released": "1998-06-25",
+      "label": "TAISHITA Label Music Co., Ltd",
+      "album": "海のYeah!!",
+      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 58,
      "title": "ハッピーエンド",
      "artist": "back number",
      "song_no": "5859-43",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5859-43",
-     "last_rank": 54,
+     "last_rank": 56,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1451577754",
@@ -2140,24 +2291,85 @@
      }
     },
     {
-     "rank": 57,
-     "title": "チェックのワンピース",
-     "artist": "back number",
-     "song_no": "5860-50",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-50",
-     "last_rank": 51,
-     "is_new": false
+     "rank": 59,
+     "title": "花束のかわりにメロディーを",
+     "artist": "清水翔太",
+     "song_no": "6919-39",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6919-39",
+     "last_rank": 59,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1538279828",
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     },
+     "info": {
+      "year": "2015",
+      "released": "2015-10-28",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "PROUD",
+      "copyright": "℗ 2016 Sony Music Entertainment (Japan) Inc.",
+      "src": [
+       "apple"
+      ]
+     }
     },
     {
-     "rank": 58,
+     "rank": 60,
+     "title": "TSUNAMI",
+     "artist": "サザンオールスターズ",
+     "song_no": "6104-10",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6104-10",
+     "last_rank": 63,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/949250892",
+     "bpm": 91,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "guitar"
+      ],
+      "vocal": [
+       "male"
+      ]
+     },
+     "info": {
+      "year": "2000",
+      "released": "2000-01-26",
+      "label": "TAISHITA Label Music Co., Ltd",
+      "album": "TSUNAMI - Single",
+      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 61,
      "title": "革命道中",
      "artist": "アイナ･ジ･エンド",
      "song_no": "1123-55",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1123-55",
-     "last_rank": 60,
+     "last_rank": 58,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1821087731",
+     "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
      "tags": {
       "genre": [
@@ -2197,80 +2409,137 @@
      }
     },
     {
-     "rank": 59,
-     "title": "花束のかわりにメロディーを",
-     "artist": "清水翔太",
-     "song_no": "6919-39",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6919-39",
-     "last_rank": 58,
+     "rank": 62,
+     "title": "HANABI",
+     "artist": "Mr.Children",
+     "song_no": "4638-10",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=4638-10",
+     "last_rank": 72,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1538279828",
-     "bpm": 128,
+     "apple": "jp/1375007474",
+     "bpm": 112,
      "tags": {
       "genre": [
-       "Ballad"
+       "Pop Rock",
+       "Brit Pop"
       ],
       "mood": [
-       "relaxed"
+       "happy"
       ],
       "instrument": [
-       "piano"
+       "guitar"
       ]
      },
      "info": {
-      "year": "2015",
-      "released": "2015-10-28",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "PROUD",
-      "copyright": "℗ 2016 Sony Music Entertainment (Japan) Inc.",
+      "year": "2008",
+      "released": "2008-09-03",
+      "label": "OORONG-SHA/TOY'S FACTORY",
+      "album": "SUPERMARKET FANTASY",
+      "copyright": "℗ 2008 OORONG-SHA/TOY'S FACTORY",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 60,
-     "title": "#情とは",
-     "artist": "This is LAST",
-     "song_no": "5462-71",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5462-71",
+     "rank": 63,
+     "title": "チェックのワンピース",
+     "artist": "back number",
+     "song_no": "5860-50",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-50",
      "last_rank": 57,
+     "is_new": false
+    },
+    {
+     "rank": 64,
+     "title": "明日晴れるかな",
+     "artist": "桑田佳祐",
+     "song_no": "1829-63",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1829-63",
+     "last_rank": 67,
      "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/6769719565",
-     "bpm": 78,
+     "genre": "J-Pop",
+     "apple": "jp/1083793970",
+     "bpm": 72,
      "tags": {
       "genre": [
-       "Vocal Pop",
-       "Ballad"
+       "Brit Pop",
+       "Alternative Rock"
       ],
       "mood": [
-       "relaxed",
-       "sad"
+       "love"
       ],
       "instrument": [
        "electricguitar"
       ]
      },
      "info": {
-      "year": "2023",
-      "released": "2023-03-01",
-      "label": "SDR Inc",
-      "album": "HOME",
-      "copyright": "℗ 2024 SDR Inc.",
+      "year": "2012",
+      "released": "2012-07-18",
+      "label": "TAISHITA Label Music Co., Ltd",
+      "album": "I LOVE YOU -now & forever-",
+      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 61,
+     "rank": 65,
+     "title": "虹",
+     "artist": "菅田将暉",
+     "song_no": "1132-12",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1132-12",
+     "last_rank": 69,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1537793754",
+     "spotify": "7AIj86wFWqm7X1TZ2hzHwS",
+     "bpm": 72,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "electricguitar",
+       "acousticguitar"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "石崎ひゅーい"
+      ],
+      "composer": [
+       "石崎ひゅーい"
+      ],
+      "arranger": [
+       "Tomi Yo"
+      ],
+      "year": "2020",
+      "released": "2020-11-25",
+      "label": "Sony Music Labels Inc",
+      "album": "虹 - Single",
+      "isrc": "JPU902002557",
+      "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "49ce5f6e-0160-4e68-ba01-1b141b2dbb78",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 66,
      "title": "First Love",
      "artist": "宇多田ヒカル",
      "song_no": "5867-06",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5867-06",
-     "last_rank": 69,
+     "last_rank": 61,
      "is_new": false,
      "kkbox": "GpWk-Cju-IKc1FRrhp",
      "genre": "J-Pop",
@@ -2309,148 +2578,62 @@
      }
     },
     {
-     "rank": 62,
-     "title": "イケナイ太陽",
-     "artist": "ORANGE RANGE",
-     "song_no": "7308-24",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7308-24",
-     "last_rank": 66,
+     "rank": 67,
+     "title": "シルエット",
+     "artist": "KANA-BOON",
+     "song_no": "5980-09",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5980-09",
+     "last_rank": 71,
      "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1537392624",
-     "bpm": 145,
+     "kkbox": "5abUosKTyKyO5FKwgO",
+     "genre": "Rock",
+     "apple": "jp/1538157315",
+     "spotify": "1di1C0QI6Y92yZPYn6XYAZ",
+     "bpm": 102,
      "tags": {
       "genre": [
-       "Punk",
-       "Alternative Rock"
+       "Alternative Rock",
+       "Pop Punk"
       ],
       "mood": [
        "happy",
-       "danceable",
+       "aggressive",
        "energetic"
       ],
       "instrument": [
        "drums",
-       "bass",
        "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2007",
-      "released": "2007-07-18",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "イケナイ太陽 - Single",
-      "copyright": "℗ 2007 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 63,
-     "title": "TSUNAMI",
-     "artist": "サザンオールスターズ",
-     "song_no": "6104-10",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6104-10",
-     "last_rank": 67,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/949250892",
-     "bpm": 91,
-     "tags": {
-      "genre": [
-       "Pop Rock"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "guitar"
       ],
       "vocal": [
-       "male"
+       "female"
       ]
      },
      "info": {
-      "year": "2000",
-      "released": "2000-01-26",
-      "label": "TAISHITA Label Music Co., Ltd",
-      "album": "TSUNAMI - Single",
-      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 64,
-     "title": "サクラウサギ",
-     "artist": "川崎鷹也",
-     "song_no": "5321-75",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5321-75",
-     "last_rank": 62,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1546887855",
-     "bpm": 70,
-     "tags": {
-      "mood": [
-       "sad",
-       "relaxed",
-       "love"
+      "lyricist": [
+       "谷口鮪"
       ],
-      "instrument": [
-       "acousticguitar"
-      ]
-     },
-     "info": {
-      "year": "2021",
-      "released": "2021-01-15",
-      "label": "Flying Voice",
-      "album": "サクラウサギ - Single",
-      "copyright": "℗ 2021 Flying Voice",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 65,
-     "title": "いとしのエリー",
-     "artist": "サザンオールスターズ",
-     "song_no": "1403-20",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1403-20",
-     "last_rank": 72,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/949272127",
-     "bpm": 70,
-     "tags": {
-      "genre": [
-       "City Pop"
+      "composer": [
+       "谷口鮪"
       ],
-      "mood": [
-       "sad"
-      ]
-     },
-     "info": {
-      "year": "1998",
-      "released": "1998-06-25",
-      "label": "TAISHITA Label Music Co., Ltd",
-      "album": "海のYeah!!",
-      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "year": "2014",
+      "released": "2014-11-26",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "TIME",
+      "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
+      "mb": "01602290-8692-4a89-8857-7b0e8ab3dc58",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 66,
+     "rank": 68,
      "title": "Soranji",
      "artist": "Mrs. GREEN APPLE",
      "song_no": "5432-49",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5432-49",
-     "last_rank": 61,
+     "last_rank": 66,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1648865575",
@@ -2480,91 +2663,35 @@
      }
     },
     {
-     "rank": 67,
-     "title": "明日晴れるかな",
-     "artist": "桑田佳祐",
-     "song_no": "1829-63",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1829-63",
-     "last_rank": 64,
+     "rank": 69,
+     "title": "#情とは",
+     "artist": "This is LAST",
+     "song_no": "5462-71",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5462-71",
+     "last_rank": 60,
      "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1083793970",
-     "bpm": 72,
+     "genre": "Rock",
+     "apple": "jp/6769719565",
+     "bpm": 78,
      "tags": {
       "genre": [
-       "Brit Pop",
-       "Alternative Rock"
+       "Vocal Pop",
+       "Ballad"
       ],
       "mood": [
-       "love"
+       "relaxed",
+       "sad"
       ],
       "instrument": [
        "electricguitar"
       ]
      },
      "info": {
-      "year": "2012",
-      "released": "2012-07-18",
-      "label": "TAISHITA Label Music Co., Ltd",
-      "album": "I LOVE YOU -now & forever-",
-      "copyright": "℗ TAISHITA Label Music Co., Ltd.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 68,
-     "title": "unravel",
-     "artist": "TK from 凛として時雨",
-     "song_no": "7316-72",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7316-72",
-     "last_rank": 65,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1535535911",
-     "bpm": 135,
-     "info": {
-      "year": "2014",
-      "released": "2014-07-23",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "unravel - Single",
-      "copyright": "℗ 2014 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 69,
-     "title": "虹",
-     "artist": "菅田将暉",
-     "song_no": "1132-12",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1132-12",
-     "last_rank": 71,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1537793754",
-     "bpm": 72,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Pop Rock"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "electricguitar",
-       "acousticguitar"
-      ]
-     },
-     "info": {
-      "year": "2020",
-      "released": "2020-11-10",
-      "label": "Sony Music Labels Inc",
-      "album": "虹 - Single",
-      "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "year": "2023",
+      "released": "2023-03-01",
+      "label": "SDR Inc",
+      "album": "HOME",
+      "copyright": "℗ 2024 SDR Inc.",
       "src": [
        "apple"
       ]
@@ -2572,11 +2699,77 @@
     },
     {
      "rank": 70,
+     "title": "栄光の架橋",
+     "artist": "ゆず",
+     "song_no": "6736-34",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6736-34",
+     "last_rank": 81,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/424185595",
+     "bpm": 82,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Pop Rock"
+      ],
+      "mood": [
+       "love"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     },
+     "info": {
+      "year": "2004",
+      "released": "2004-07-22",
+      "label": "SENHA&Co",
+      "album": "栄光の架橋 - Single",
+      "copyright": "℗ 2004 SENHA&Co.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 71,
+     "title": "unravel",
+     "artist": "TK from 凛として時雨",
+     "song_no": "7316-72",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7316-72",
+     "last_rank": 68,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1535535911",
+     "spotify": "1rN9QoVxw5U7TJkyaUR8C1",
+     "bpm": 135,
+     "info": {
+      "lyricist": [
+       "TK"
+      ],
+      "composer": [
+       "TK"
+      ],
+      "year": "2014",
+      "released": "2014-07-23",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "unravel - Single",
+      "isrc": "JPU902504638",
+      "copyright": "℗ 2014 Sony Music Entertainment (Japan) Inc.",
+      "mb": "272b936c-56f6-4d15-9115-b07f1d05f6e8",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 72,
      "title": "シンデレラボーイ",
      "artist": "Saucy Dog",
      "song_no": "6949-99",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6949-99",
-     "last_rank": 63,
+     "last_rank": 70,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1839433876",
@@ -2604,105 +2797,28 @@
      }
     },
     {
-     "rank": 71,
-     "title": "シルエット",
-     "artist": "KANA-BOON",
-     "song_no": "5980-09",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5980-09",
-     "last_rank": 68,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1538157315",
-     "spotify": "1di1C0QI6Y92yZPYn6XYAZ",
-     "bpm": 102,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Pop Punk"
-      ],
-      "mood": [
-       "happy",
-       "aggressive",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2014",
-      "released": "2014-11-26",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "TIME",
-      "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 72,
-     "title": "HANABI",
-     "artist": "Mr.Children",
-     "song_no": "4638-10",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=4638-10",
-     "last_rank": 74,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1375007474",
-     "bpm": 112,
-     "tags": {
-      "genre": [
-       "Pop Rock",
-       "Brit Pop"
-      ],
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "guitar"
-      ]
-     },
-     "info": {
-      "year": "2008",
-      "released": "2008-09-03",
-      "label": "OORONG-SHA/TOY'S FACTORY",
-      "album": "SUPERMARKET FANTASY",
-      "copyright": "℗ 2008 OORONG-SHA/TOY'S FACTORY",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 73,
-     "title": "眠り姫",
-     "artist": "SEKAI NO OWARI",
-     "song_no": "5847-25",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5847-25",
-     "last_rank": 70,
+     "title": "未来予想図Ⅱ",
+     "artist": "DREAMS COME TRUE",
+     "song_no": "1095-02",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1095-02",
+     "last_rank": 86,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1550926486",
-     "bpm": 109,
+     "apple": "jp/1536186630",
+     "bpm": 74,
      "tags": {
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
+      "genre": [
+       "Ballad",
+       "Pop Rock"
       ]
      },
      "info": {
-      "year": "2012",
-      "released": "2012-05-30",
-      "label": "TOY'S FACTORY",
-      "album": "SEKAI NO OWARI 2010-2019",
-      "copyright": "℗ 2021 TOY'S FACTORY",
+      "year": "1989",
+      "released": "1989-11-22",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "LOVE GOES ON …",
+      "copyright": "℗ 1989 Sony Music Entertainment (Japan) Inc.",
       "src": [
        "apple"
       ]
@@ -2710,11 +2826,54 @@
     },
     {
      "rank": 74,
+     "title": "怪獣",
+     "artist": "サカナクション",
+     "song_no": "1025-98",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1025-98",
+     "last_rank": 88,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1795905600",
+     "spotify": "6FhWelfRDMFZRtFUU6SIdC",
+     "bpm": 127,
+     "tags": {
+      "mood": [
+       "love"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "山口一郎"
+      ],
+      "composer": [
+       "サカナクション"
+      ],
+      "mix": [
+       "浦本雅史"
+      ],
+      "recording": [
+       "浦本雅史"
+      ],
+      "year": "2025",
+      "released": "2025-02-20",
+      "label": "Victor Entertainment",
+      "album": "怪獣 - Single",
+      "isrc": "JPVI02403562",
+      "copyright": "℗ Victor Entertainment",
+      "mb": "b36fdc7a-3388-4ffd-a2db-d08615de1010",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 75,
      "title": "愛のうた",
      "artist": "倖田來未",
      "song_no": "6673-72",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6673-72",
-     "last_rank": 83,
+     "last_rank": 74,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1053333197",
@@ -2742,7 +2901,39 @@
      }
     },
     {
-     "rank": 75,
+     "rank": 76,
+     "title": "サクラウサギ",
+     "artist": "川崎鷹也",
+     "song_no": "5321-75",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5321-75",
+     "last_rank": 64,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1546887855",
+     "bpm": 70,
+     "tags": {
+      "mood": [
+       "sad",
+       "relaxed",
+       "love"
+      ],
+      "instrument": [
+       "acousticguitar"
+      ]
+     },
+     "info": {
+      "year": "2021",
+      "released": "2021-01-15",
+      "label": "Flying Voice",
+      "album": "サクラウサギ - Single",
+      "copyright": "℗ 2021 Flying Voice",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 77,
      "title": "ハレンチ",
      "artist": "ちゃんみな",
      "song_no": "5299-76",
@@ -2777,12 +2968,12 @@
      }
     },
     {
-     "rank": 76,
+     "rank": 78,
      "title": "Lovers Again",
      "artist": "EXILE",
      "song_no": "6966-95",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6966-95",
-     "last_rank": 79,
+     "last_rank": 76,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1007830771",
@@ -2817,12 +3008,145 @@
      }
     },
     {
-     "rank": 77,
+     "rank": 79,
+     "title": "ロビンソン",
+     "artist": "スピッツ",
+     "song_no": "3171-02",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3171-02",
+     "last_rank": 99,
+     "is_new": false,
+     "genre": "Rock",
+     "apple": "jp/1440746483",
+     "bpm": 111,
+     "tags": {
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "1995",
+      "released": "1995-04-05",
+      "label": "UNIVERSAL J",
+      "album": "ハチミツ",
+      "copyright": "℗ 1995 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 80,
+     "title": "115万キロのフィルム",
+     "artist": "Official髭男dism",
+     "song_no": "7281-90",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7281-90",
+     "last_rank": 84,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1394013614",
+     "bpm": 97,
+     "tags": {
+      "genre": [
+       "Alternative Rock",
+       "Indie Rock"
+      ],
+      "mood": [
+       "happy",
+       "danceable",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2018",
+      "released": "2018-04-11",
+      "label": "LASTRUM Music Entertainment Inc",
+      "album": "エスカパレード",
+      "copyright": "℗ 2018 LASTRUM Music Entertainment Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 81,
+     "title": "Love so sweet",
+     "artist": "嵐",
+     "song_no": "2748-31",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2748-31",
+     "last_rank": 94,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1485857408",
+     "bpm": 143,
+     "tags": {
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "acousticguitar",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2007",
+      "released": "2007-02-21",
+      "label": "Storm Labels Inc",
+      "album": "Love so sweet - Single",
+      "copyright": "℗ 2007 Storm Labels Inc.",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 82,
+     "title": "天体観測",
+     "artist": "BUMP OF CHICKEN",
+     "song_no": "6845-01",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6845-01",
+     "last_rank": 96,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1465863819",
+     "bpm": 164,
+     "tags": {
+      "genre": [
+       "Punk",
+       "Indie Rock"
+      ],
+      "mood": [
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2001",
+      "released": "2001-03-14",
+      "label": "TOY'S FACTORY / LONGFELLOW",
+      "album": "天体観測 - Single",
+      "copyright": "℗ 2001 TOY'S FACTORY / LONGFELLOW",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 83,
      "title": "アイネクライネ",
      "artist": "米津玄師",
      "song_no": "3699-77",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3699-77",
-     "last_rank": 73,
+     "last_rank": 77,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1440792118",
@@ -2847,81 +3171,12 @@
      }
     },
     {
-     "rank": 78,
-     "title": "裸の心",
-     "artist": "あいみょん",
-     "song_no": "1359-05",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1359-05",
-     "last_rank": 81,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1508133095",
-     "bpm": 74,
-     "tags": {
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2020",
-      "released": "2020-05-01",
-      "label": "WARNER MUSIC JAPAN",
-      "album": "裸の心 - Single",
-      "copyright": "℗ 2020 WARNER MUSIC JAPAN",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 79,
-     "title": "わたがし",
-     "artist": "back number",
-     "song_no": "5860-25",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-25",
-     "last_rank": 82,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451577945",
-     "bpm": 124,
-     "tags": {
-      "genre": [
-       "Pop Rock",
-       "Alternative Rock"
-      ],
-      "mood": [
-       "happy",
-       "love"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2012",
-      "released": "2012-07-18",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 80,
+     "rank": 84,
      "title": "スパークル (movie ver.)",
      "artist": "RADWIMPS",
      "song_no": "7092-82",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7092-82",
-     "last_rank": 78,
+     "last_rank": 80,
      "is_new": false,
      "genre": "Rock",
      "apple": "tw/1434005924",
@@ -2973,82 +3228,45 @@
      }
     },
     {
-     "rank": 81,
-     "title": "栄光の架橋",
-     "artist": "ゆず",
-     "song_no": "6736-34",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6736-34",
-     "last_rank": 95,
+     "rank": 85,
+     "title": "気まぐれロマンティック",
+     "artist": "いきものがかり",
+     "song_no": "7219-75",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7219-75",
+     "last_rank": 89,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/424185595",
-     "bpm": 82,
+     "apple": "jp/1536256436",
+     "bpm": 117,
      "tags": {
-      "genre": [
-       "Ballad",
-       "Pop Rock"
-      ],
       "mood": [
-       "love"
+       "happy"
       ],
       "instrument": [
-       "piano"
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
       ]
      },
      "info": {
-      "year": "2004",
-      "released": "2004-07-22",
-      "label": "SENHA&Co",
-      "album": "栄光の架橋 - Single",
-      "copyright": "℗ 2004 SENHA&Co.",
+      "year": "2008",
+      "released": "2008-12-03",
+      "label": "Sony Music Entertainment (Japan) Inc",
+      "album": "気まぐれロマンティック - Single",
+      "copyright": "℗ 2008 Sony Music Entertainment (Japan) Inc.",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 82,
-     "title": "津軽海峡・冬景色",
-     "artist": "石川さゆり",
-     "song_no": "2303-14",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2303-14",
-     "last_rank": 92,
-     "is_new": false,
-     "kkbox": "4pIFIDDBiO7N6MHadn",
-     "genre": "Enka",
-     "apple": "jp/1838960470",
-     "bpm": 101,
-     "tags": {
-      "genre": [
-       "City Pop"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "阿久悠"
-      ],
-      "composer": [
-       "三木たかし"
-      ],
-      "year": "1977",
-      "released": "1977-01-01",
-      "label": "TEICHIKU ENTERTAINMENT,INC",
-      "album": "石川さゆり45周年盤, Vol. I",
-      "copyright": "℗ 2017 TEICHIKU ENTERTAINMENT,INC.",
-      "mb": "59b04427-9cff-4f24-a08d-1191685b7e75",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 83,
+     "rank": 86,
      "title": "晩餐歌",
      "artist": "tuki.",
      "song_no": "5476-97",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5476-97",
-     "last_rank": 76,
+     "last_rank": 83,
      "is_new": false,
      "kkbox": "9XBRIdzi3wYrDq5D6G",
      "genre": "J-Pop",
@@ -3075,50 +3293,12 @@
      }
     },
     {
-     "rank": 84,
-     "title": "115万キロのフィルム",
-     "artist": "Official髭男dism",
-     "song_no": "7281-90",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7281-90",
-     "last_rank": 77,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1394013614",
-     "bpm": 97,
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Indie Rock"
-      ],
-      "mood": [
-       "happy",
-       "danceable",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2018",
-      "released": "2018-04-11",
-      "label": "LASTRUM Music Entertainment Inc",
-      "album": "エスカパレード",
-      "copyright": "℗ 2018 LASTRUM Music Entertainment Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 85,
+     "rank": 87,
      "title": "粉雪",
      "artist": "レミオロメン",
      "song_no": "5254-36",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5254-36",
-     "last_rank": 98,
+     "last_rank": 85,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1857511332",
@@ -3149,125 +3329,20 @@
      }
     },
     {
-     "rank": 86,
-     "title": "未来予想図Ⅱ",
-     "artist": "DREAMS COME TRUE",
-     "song_no": "1095-02",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1095-02",
-     "last_rank": 88,
+     "rank": 88,
+     "title": "裸の心",
+     "artist": "あいみょん",
+     "song_no": "1359-05",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1359-05",
+     "last_rank": 78,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1536186630",
+     "apple": "jp/1508133095",
      "bpm": 74,
      "tags": {
-      "genre": [
-       "Ballad",
-       "Pop Rock"
-      ]
-     },
-     "info": {
-      "year": "1989",
-      "released": "1989-11-22",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "LOVE GOES ON …",
-      "copyright": "℗ 1989 Sony Music Entertainment (Japan) Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 87,
-     "title": "赤い糸",
-     "artist": "コブクロ",
-     "song_no": "7142-27",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7142-27",
-     "last_rank": 89,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/305785884",
-     "bpm": 84,
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Vocal Pop"
-      ],
       "mood": [
        "relaxed",
-       "sad",
-       "love"
-      ],
-      "instrument": [
-       "guitar"
-      ]
-     },
-     "info": {
-      "year": "2008",
-      "released": "2008-10-29",
-      "label": "WARNER MUSIC JAPAN INC",
-      "album": "時の足音",
-      "copyright": "℗ 2008 WARNER MUSIC JAPAN INC.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 88,
-     "title": "怪獣",
-     "artist": "サカナクション",
-     "song_no": "1025-98",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1025-98",
-     "last_rank": 84,
-     "is_new": false,
-     "genre": "Rock",
-     "apple": "jp/1795905600",
-     "bpm": 127,
-     "tags": {
-      "mood": [
-       "love"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "山口一郎"
-      ],
-      "composer": [
-       "サカナクション"
-      ],
-      "mix": [
-       "浦本雅史"
-      ],
-      "recording": [
-       "浦本雅史"
-      ],
-      "year": "2025",
-      "released": "2025-02-20",
-      "label": "Victor Entertainment",
-      "album": "怪獣 - Single",
-      "isrc": "JPVI02403562",
-      "copyright": "℗ Victor Entertainment",
-      "mb": "b36fdc7a-3388-4ffd-a2db-d08615de1010",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 89,
-     "title": "気まぐれロマンティック",
-     "artist": "いきものがかり",
-     "song_no": "7219-75",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7219-75",
-     "last_rank": 86,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1536256436",
-     "bpm": 117,
-     "tags": {
-      "mood": [
-       "happy"
+       "sad"
       ],
       "instrument": [
        "electricguitar"
@@ -3277,57 +3352,18 @@
       ]
      },
      "info": {
-      "year": "2008",
-      "released": "2008-12-03",
-      "label": "Sony Music Entertainment (Japan) Inc",
-      "album": "気まぐれロマンティック - Single",
-      "copyright": "℗ 2008 Sony Music Entertainment (Japan) Inc.",
+      "year": "2020",
+      "released": "2020-05-01",
+      "label": "WARNER MUSIC JAPAN",
+      "album": "裸の心 - Single",
+      "copyright": "℗ 2020 WARNER MUSIC JAPAN",
       "src": [
        "apple"
       ]
      }
     },
     {
-     "rank": 90,
-     "title": "幸せ",
-     "artist": "back number",
-     "song_no": "5860-09",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-09",
-     "last_rank": 80,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1451577950",
-     "bpm": 74,
-     "tags": {
-      "genre": [
-       "Indie Rock",
-       "Brit Pop"
-      ],
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "year": "2011",
-      "released": "2011-01-26",
-      "label": "UNIVERSAL SIGMA",
-      "album": "アンコール",
-      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 91,
+     "rank": 89,
      "title": "チャンカパーナ",
      "artist": "NEWS",
      "song_no": "6298-87",
@@ -3360,12 +3396,89 @@
      }
     },
     {
+     "rank": 90,
+     "title": "眠り姫",
+     "artist": "SEKAI NO OWARI",
+     "song_no": "5847-25",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5847-25",
+     "last_rank": 73,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1550926486",
+     "bpm": 109,
+     "tags": {
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ]
+     },
+     "info": {
+      "year": "2012",
+      "released": "2012-05-30",
+      "label": "TOY'S FACTORY",
+      "album": "SEKAI NO OWARI 2010-2019",
+      "copyright": "℗ 2021 TOY'S FACTORY",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 91,
+     "title": "DAN DAN 心魅かれてく",
+     "artist": "FIELD OF VIEW",
+     "song_no": "3966-06",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3966-06",
+     "last_rank": 95,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/77295564",
+     "bpm": 133,
+     "tags": {
+      "genre": [
+       "Hard Rock",
+       "AOR"
+      ],
+      "mood": [
+       "happy"
+      ],
+      "instrument": [
+       "guitar",
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "坂井泉水"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "arranger": [
+       "葉山たけし"
+      ],
+      "year": "1996",
+      "released": "1996-03-11",
+      "label": "B-Gram RECORDS,INC",
+      "album": "Complete of Field of View - At the Being Studio",
+      "isrc": "JPC500201309",
+      "copyright": "℗ 2003 B-Gram RECORDS,INC.",
+      "mb": "5247757c-b9e5-4cef-bdba-9d9fe8928286",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
      "rank": 92,
      "title": "楓",
      "artist": "スピッツ",
      "song_no": "3171-36",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3171-36",
-     "last_rank": 94,
+     "last_rank": 92,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1440893427",
@@ -3395,11 +3508,46 @@
     },
     {
      "rank": 93,
+     "title": "わたがし",
+     "artist": "back number",
+     "song_no": "5860-25",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5860-25",
+     "last_rank": 79,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1451577945",
+     "bpm": 124,
+     "tags": {
+      "genre": [
+       "Pop Rock",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "happy",
+       "love"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2012",
+      "released": "2012-07-18",
+      "label": "UNIVERSAL SIGMA",
+      "album": "アンコール",
+      "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 94,
      "title": "3月9日",
      "artist": "レミオロメン",
      "song_no": "5254-14",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5254-14",
-     "last_rank": 85,
+     "last_rank": 93,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1857509406",
@@ -3425,100 +3573,45 @@
      }
     },
     {
-     "rank": 94,
-     "title": "Love so sweet",
-     "artist": "嵐",
-     "song_no": "2748-31",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2748-31",
-     "last_rank": null,
-     "is_new": true,
-     "genre": "J-Pop",
-     "apple": "jp/1485857408",
-     "bpm": 143,
-     "tags": {
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "acousticguitar",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2007",
-      "released": "2007-02-21",
-      "label": "Storm Labels Inc",
-      "album": "Love so sweet - Single",
-      "copyright": "℗ 2007 Storm Labels Inc.",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 95,
-     "title": "DAN DAN 心魅かれてく",
-     "artist": "FIELD OF VIEW",
-     "song_no": "3966-06",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3966-06",
-     "last_rank": 96,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/77295564",
-     "bpm": 133,
-     "tags": {
-      "genre": [
-       "Hard Rock",
-       "AOR"
-      ],
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "guitar",
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "1997",
-      "released": "1997-10-08",
-      "label": "B-Gram RECORDS,INC",
-      "album": "Complete of Field of View - At the Being Studio",
-      "copyright": "℗ 2003 B-Gram RECORDS,INC.",
-      "src": [
-       "apple"
-      ]
-     }
+     "title": "フレンズ",
+     "artist": "レベッカ",
+     "song_no": "1593-02",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1593-02",
+     "last_rank": null,
+     "is_new": true
     },
     {
      "rank": 96,
-     "title": "天体観測",
-     "artist": "BUMP OF CHICKEN",
-     "song_no": "6845-01",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6845-01",
-     "last_rank": 93,
+     "title": "赤い糸",
+     "artist": "コブクロ",
+     "song_no": "7142-27",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=7142-27",
+     "last_rank": 87,
      "is_new": false,
      "genre": "J-Pop",
-     "apple": "jp/1465863819",
-     "bpm": 164,
+     "apple": "jp/305785884",
+     "bpm": 84,
      "tags": {
       "genre": [
-       "Punk",
-       "Indie Rock"
+       "Ballad",
+       "Vocal Pop"
       ],
       "mood": [
-       "energetic"
+       "relaxed",
+       "sad",
+       "love"
       ],
       "instrument": [
-       "electricguitar"
+       "guitar"
       ]
      },
      "info": {
-      "year": "2001",
-      "released": "2001-03-14",
-      "label": "TOY'S FACTORY / LONGFELLOW",
-      "album": "天体観測 - Single",
-      "copyright": "℗ 2001 TOY'S FACTORY / LONGFELLOW",
+      "year": "2008",
+      "released": "2008-10-29",
+      "label": "WARNER MUSIC JAPAN INC",
+      "album": "時の足音",
+      "copyright": "℗ 2008 WARNER MUSIC JAPAN INC.",
       "src": [
        "apple"
       ]
@@ -3526,36 +3619,32 @@
     },
     {
      "rank": 97,
-     "title": "魔法の絨毯",
-     "artist": "川崎鷹也",
-     "song_no": "5294-77",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5294-77",
-     "last_rank": 87,
-     "is_new": false,
+     "title": "ファンファーレ",
+     "artist": "玉置浩二",
+     "song_no": "1270-60",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1270-60",
+     "last_rank": null,
+     "is_new": true,
      "genre": "J-Pop",
-     "apple": "jp/1573810335",
-     "bpm": 74,
+     "apple": "jp/1844327943",
+     "bpm": 154,
      "tags": {
       "genre": [
-       "Acoustic"
+       "Pop Rock"
       ],
       "mood": [
-       "relaxed",
-       "love"
+       "energetic"
       ],
       "instrument": [
-       "acousticguitar"
-      ],
-      "vocal": [
-       "male"
+       "guitar"
       ]
      },
      "info": {
-      "year": "2018",
-      "released": "2018-03-14",
-      "label": "FLYING VOICE",
-      "album": "I believe in you",
-      "copyright": "℗ 2018 FLYING VOICE",
+      "year": "2025",
+      "released": "2025-10-13",
+      "label": "Sony Music Labels Inc",
+      "album": "ファンファーレ - Single",
+      "copyright": "℗ 2025 Sony Music Labels Inc.",
       "src": [
        "apple"
       ]
@@ -3563,11 +3652,48 @@
     },
     {
      "rank": 98,
+     "title": "青と夏",
+     "artist": "Mrs. GREEN APPLE",
+     "song_no": "6197-70",
+     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=6197-70",
+     "last_rank": null,
+     "is_new": true,
+     "genre": "Rock",
+     "apple": "jp/1408505264",
+     "bpm": 150,
+     "tags": {
+      "genre": [
+       "Pop Rock"
+      ],
+      "mood": [
+       "happy",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "electricguitar"
+      ]
+     },
+     "info": {
+      "year": "2018",
+      "released": "2018-07-12",
+      "label": "An EMI Records release; ℗ 2018 UNIVERSAL MUSIC LLC",
+      "album": "青と夏 - EP",
+      "copyright": "An EMI Records release; ℗ 2018 UNIVERSAL MUSIC LLC",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 99,
      "title": "猫",
      "artist": "DISH//",
      "song_no": "1049-27",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1049-27",
-     "last_rank": 90,
+     "last_rank": 98,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1537750619",
@@ -3598,43 +3724,13 @@
      }
     },
     {
-     "rank": 99,
-     "title": "ロビンソン",
-     "artist": "スピッツ",
-     "song_no": "3171-02",
-     "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=3171-02",
-     "last_rank": null,
-     "is_new": true,
-     "genre": "Rock",
-     "apple": "jp/1440746483",
-     "bpm": 111,
-     "tags": {
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "1995",
-      "released": "1995-04-05",
-      "label": "UNIVERSAL J",
-      "album": "ハチミツ",
-      "copyright": "℗ 1995 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
      "rank": 100,
      "title": "愛唄",
      "artist": "GReeeeN",
      "song_no": "5022-60",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5022-60",
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 100,
+     "is_new": false,
      "genre": "Hip-Hop/Rap",
      "apple": "jp/1443314142",
      "bpm": 85,
@@ -3663,9 +3759,9 @@
      }
     }
    ],
-   "period_key": "2026-11-05",
+   "period_key": "2026-11-06",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:07+08:00",
+   "fetched_at": "2026-11-07T11:22:13+08:00",
    "stale": false
   },
   {
@@ -3781,6 +3877,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1402042897",
+     "spotify": "2cKiHG16JBiqHdi7Llq0r7",
      "bpm": 106,
      "tags": {
       "mood": [
@@ -3818,6 +3915,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1549545978",
+     "spotify": "23phSRwoMy48rwFpmuAP8q",
      "bpm": 133,
      "tags": {
       "mood": [
@@ -3854,6 +3952,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1538151144",
+     "spotify": "3oYD2O31b05fILFpv0AXRI",
      "bpm": 155,
      "tags": {
       "genre": [
@@ -4002,6 +4101,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1538303081",
+     "spotify": "7lUaEsQVwvNEjaJNcvc1CN",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -4046,6 +4146,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1445037956",
+     "spotify": "5RbMlPFL4gVyEHW2lEOuzG",
      "bpm": 75,
      "tags": {
       "mood": [
@@ -4124,6 +4225,7 @@
      "kkbox": "8lxcS85nvIvoktbyrY",
      "genre": "Rock",
      "apple": "jp/1534620183",
+     "spotify": "7dH0dpi751EoguDDg3xx6J",
      "bpm": 150,
      "tags": {
       "genre": [
@@ -4135,12 +4237,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "優里"
+      ],
+      "composer": [
+       "優里"
+      ],
       "year": "2020",
       "released": "2020-10-25",
       "label": "Sony Music Labels Inc",
       "album": "ドライフラワー - Single",
+      "isrc": "JPU902002405",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "908f012d-22c9-4778-af6e-2738482bdf50",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4201,6 +4312,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1440747285",
+     "spotify": "1ihCiJaXRl4f6Sy4LJov5z",
      "bpm": 97,
      "tags": {
       "genre": [
@@ -4212,12 +4324,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "草野正宗"
+      ],
+      "composer": [
+       "草野正宗"
+      ],
       "year": "1996",
       "released": "1996-04-10",
       "label": "UNIVERSAL J",
       "album": "インディゴ地平線",
       "copyright": "℗ 1996 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "mb": "24df8bcf-ef8a-4e1a-bcc3-5ec898c8b5c9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4232,6 +4352,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536896544",
+     "spotify": "7M3oRWV8h3ssMjNP24jJCF",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -4298,12 +4419,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "上江洌清作"
+      ],
+      "composer": [
+       "MONGOL800"
+      ],
       "year": "2001",
       "released": "2001-09-16",
       "label": "HIGH WAVE CO.,LTD",
       "album": "MESSAGE",
+      "isrc": "JPB590501014",
       "copyright": "℗ 2001 HIGH WAVE CO.,LTD.",
+      "mb": "9d49e3fb-7d90-40c4-a092-d7577c0d7b2a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4365,6 +4495,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1496731154",
+     "spotify": "2SihT7AVMiI2VtaAyVIcnO",
      "bpm": 102,
      "tags": {
       "genre": [
@@ -4380,12 +4511,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "はっとり"
+      ],
+      "composer": [
+       "はっとり"
+      ],
+      "mix": [
+       "佐藤雅彦"
+      ],
+      "recording": [
+       "佐藤雅彦"
+      ],
       "year": "2020",
       "released": "2020-02-07",
       "label": "TALTO",
       "album": "恋人ごっこ - Single",
       "copyright": "℗ TALTO",
+      "mb": "be471ddc-4185-4d9e-abac-8f13da1d4ff8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4437,6 +4582,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1440865459",
+     "spotify": "45jGOHwYKgsRYbAJ8DR61d",
      "bpm": 79,
      "tags": {
       "genre": [
@@ -4498,12 +4644,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kyono Miyako",
+       "OHTORA",
+       "SYO",
+       "Y-クルーズ・エンヤ"
+      ],
+      "composer": [
+       "Kyono Miyako",
+       "OHTORA",
+       "maeshima soshi",
+       "SYO",
+       "Y-クルーズ・エンヤ"
+      ],
+      "arranger": [
+       "New K"
+      ],
       "year": "2026",
-      "released": "2026-08-11",
+      "released": "2026-07-02",
       "label": "SDR Inc",
       "album": "Yes! 東京 (体験入学版)",
       "copyright": "℗ 2026 SDR Inc.",
+      "mb": "4b14128d-aa80-45a9-abc1-b93f62f65d7c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4853,6 +5017,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1654000188",
+     "spotify": "06m8KKTa6rAYJ5I6l2gZgS",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -4870,12 +5035,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "中島みゆき"
+      ],
+      "composer": [
+       "中島みゆき"
+      ],
+      "arranger": [
+       "瀬尾一三"
+      ],
       "year": "1992",
       "released": "1992-10-07",
       "label": "Yamaha Music Entertainment Holdings Inc",
       "album": "命の別名 - Single",
+      "isrc": "JPPC09223720",
       "copyright": "℗ 2002 Yamaha Music Entertainment Holdings Inc.",
+      "mb": "687a38df-d88d-4693-b1de-54509eb548e3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5371,6 +5548,7 @@
      "kkbox": "Gl0SSwbJylVNHBg1G9",
      "genre": "J-Pop",
      "apple": "tw/1537460612",
+     "spotify": "7Cd17G3oNQ34OWUwS8ZxfR",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -5557,6 +5735,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/963626798",
+     "spotify": "1EvVwqTga8655SrGAS6Zba",
      "bpm": 162,
      "tags": {
       "genre": [
@@ -5708,6 +5887,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1821087731",
+     "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
      "tags": {
       "genre": [
@@ -5787,6 +5967,7 @@
      "kkbox": "4pIFIDDBiO7N6MHadn",
      "genre": "Enka",
      "apple": "jp/1838960470",
+     "spotify": "4JKCSjtRkJ2TxwJ8jZUQzH",
      "bpm": 101,
      "tags": {
       "genre": [
@@ -6020,6 +6201,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1537793754",
+     "spotify": "7AIj86wFWqm7X1TZ2hzHwS",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -6035,12 +6217,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "石崎ひゅーい"
+      ],
+      "composer": [
+       "石崎ひゅーい"
+      ],
+      "arranger": [
+       "Tomi Yo"
+      ],
       "year": "2020",
-      "released": "2020-11-10",
+      "released": "2020-11-25",
       "label": "Sony Music Labels Inc",
       "album": "虹 - Single",
+      "isrc": "JPU902002557",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "49ce5f6e-0160-4e68-ba01-1b141b2dbb78",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6123,6 +6317,7 @@
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5980-09",
      "last_rank": null,
      "is_new": null,
+     "kkbox": "5abUosKTyKyO5FKwgO",
      "genre": "Rock",
      "apple": "jp/1538157315",
      "spotify": "1di1C0QI6Y92yZPYn6XYAZ",
@@ -6146,12 +6341,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "谷口鮪"
+      ],
+      "composer": [
+       "谷口鮪"
+      ],
       "year": "2014",
       "released": "2014-11-26",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "TIME",
       "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
+      "mb": "01602290-8692-4a89-8857-7b0e8ab3dc58",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6517,6 +6720,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1862900054",
+     "spotify": "6pdDosBtsc64PmvILB8no7",
      "bpm": 81,
      "tags": {
       "genre": [
@@ -6658,6 +6862,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1795905600",
+     "spotify": "6FhWelfRDMFZRtFUU6SIdC",
      "bpm": 127,
      "tags": {
       "mood": [
@@ -6700,14 +6905,24 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1535535911",
+     "spotify": "1rN9QoVxw5U7TJkyaUR8C1",
      "bpm": 135,
      "info": {
+      "lyricist": [
+       "TK"
+      ],
+      "composer": [
+       "TK"
+      ],
       "year": "2014",
       "released": "2014-07-23",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "unravel - Single",
+      "isrc": "JPU902504638",
       "copyright": "℗ 2014 Sony Music Entertainment (Japan) Inc.",
+      "mb": "272b936c-56f6-4d15-9115-b07f1d05f6e8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6752,6 +6967,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1443293700",
+     "spotify": "237tJYVU76qhKPdiohaOYz",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -6793,6 +7009,7 @@
      "kkbox": "8r0t9DKU59bDRfSO91",
      "genre": "Kayokyoku",
      "apple": "jp/280271444",
+     "spotify": "71wqxjVuvyswfxMzO7rtB5",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -7247,6 +7464,7 @@
      "kkbox": "4mVhoo1Xf387r6B1-R",
      "genre": "Enka",
      "apple": "jp/907354503",
+     "spotify": "6zqzhskMZMmZFaiGGQJohg",
      "bpm": 84,
      "tags": {
       "mood": [
@@ -7330,12 +7548,24 @@
       ]
      },
      "info": {
-      "year": "1997",
-      "released": "1997-10-08",
+      "lyricist": [
+       "坂井泉水"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "arranger": [
+       "葉山たけし"
+      ],
+      "year": "1996",
+      "released": "1996-03-11",
       "label": "B-Gram RECORDS,INC",
       "album": "Complete of Field of View - At the Being Studio",
+      "isrc": "JPC500201309",
       "copyright": "℗ 2003 B-Gram RECORDS,INC.",
+      "mb": "5247757c-b9e5-4cef-bdba-9d9fe8928286",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7343,7 +7573,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:07+08:00",
+   "fetched_at": "2026-11-07T11:22:13+08:00",
    "stale": false
   },
   {
@@ -7459,6 +7689,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1402042897",
+     "spotify": "2cKiHG16JBiqHdi7Llq0r7",
      "bpm": 106,
      "tags": {
       "mood": [
@@ -7496,6 +7727,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1549545978",
+     "spotify": "23phSRwoMy48rwFpmuAP8q",
      "bpm": 133,
      "tags": {
       "mood": [
@@ -7532,6 +7764,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1538151144",
+     "spotify": "3oYD2O31b05fILFpv0AXRI",
      "bpm": 155,
      "tags": {
       "genre": [
@@ -7639,6 +7872,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1538303081",
+     "spotify": "7lUaEsQVwvNEjaJNcvc1CN",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -7724,6 +7958,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1445037956",
+     "spotify": "5RbMlPFL4gVyEHW2lEOuzG",
      "bpm": 75,
      "tags": {
       "mood": [
@@ -7756,6 +7991,7 @@
      "kkbox": "8lxcS85nvIvoktbyrY",
      "genre": "Rock",
      "apple": "jp/1534620183",
+     "spotify": "7dH0dpi751EoguDDg3xx6J",
      "bpm": 150,
      "tags": {
       "genre": [
@@ -7767,12 +8003,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "優里"
+      ],
+      "composer": [
+       "優里"
+      ],
       "year": "2020",
       "released": "2020-10-25",
       "label": "Sony Music Labels Inc",
       "album": "ドライフラワー - Single",
+      "isrc": "JPU902002405",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "908f012d-22c9-4778-af6e-2738482bdf50",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7833,6 +8078,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1440747285",
+     "spotify": "1ihCiJaXRl4f6Sy4LJov5z",
      "bpm": 97,
      "tags": {
       "genre": [
@@ -7844,12 +8090,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "草野正宗"
+      ],
+      "composer": [
+       "草野正宗"
+      ],
       "year": "1996",
       "released": "1996-04-10",
       "label": "UNIVERSAL J",
       "album": "インディゴ地平線",
       "copyright": "℗ 1996 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "mb": "24df8bcf-ef8a-4e1a-bcc3-5ec898c8b5c9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7884,12 +8138,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "上江洌清作"
+      ],
+      "composer": [
+       "MONGOL800"
+      ],
       "year": "2001",
       "released": "2001-09-16",
       "label": "HIGH WAVE CO.,LTD",
       "album": "MESSAGE",
+      "isrc": "JPB590501014",
       "copyright": "℗ 2001 HIGH WAVE CO.,LTD.",
+      "mb": "9d49e3fb-7d90-40c4-a092-d7577c0d7b2a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7904,6 +8167,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536896544",
+     "spotify": "7M3oRWV8h3ssMjNP24jJCF",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -7997,6 +8261,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1496731154",
+     "spotify": "2SihT7AVMiI2VtaAyVIcnO",
      "bpm": 102,
      "tags": {
       "genre": [
@@ -8012,12 +8277,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "はっとり"
+      ],
+      "composer": [
+       "はっとり"
+      ],
+      "mix": [
+       "佐藤雅彦"
+      ],
+      "recording": [
+       "佐藤雅彦"
+      ],
       "year": "2020",
       "released": "2020-02-07",
       "label": "TALTO",
       "album": "恋人ごっこ - Single",
       "copyright": "℗ TALTO",
+      "mb": "be471ddc-4185-4d9e-abac-8f13da1d4ff8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8041,6 +8320,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1440865459",
+     "spotify": "45jGOHwYKgsRYbAJ8DR61d",
      "bpm": 79,
      "tags": {
       "genre": [
@@ -8390,12 +8670,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kyono Miyako",
+       "OHTORA",
+       "SYO",
+       "Y-クルーズ・エンヤ"
+      ],
+      "composer": [
+       "Kyono Miyako",
+       "OHTORA",
+       "maeshima soshi",
+       "SYO",
+       "Y-クルーズ・エンヤ"
+      ],
+      "arranger": [
+       "New K"
+      ],
       "year": "2026",
-      "released": "2026-08-11",
+      "released": "2026-07-02",
       "label": "SDR Inc",
       "album": "Yes! 東京 (体験入学版)",
       "copyright": "℗ 2026 SDR Inc.",
+      "mb": "4b14128d-aa80-45a9-abc1-b93f62f65d7c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8543,6 +8841,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1654000188",
+     "spotify": "06m8KKTa6rAYJ5I6l2gZgS",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -8560,12 +8859,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "中島みゆき"
+      ],
+      "composer": [
+       "中島みゆき"
+      ],
+      "arranger": [
+       "瀬尾一三"
+      ],
       "year": "1992",
       "released": "1992-10-07",
       "label": "Yamaha Music Entertainment Holdings Inc",
       "album": "命の別名 - Single",
+      "isrc": "JPPC09223720",
       "copyright": "℗ 2002 Yamaha Music Entertainment Holdings Inc.",
+      "mb": "687a38df-d88d-4693-b1de-54509eb548e3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9085,6 +9396,7 @@
      "kkbox": "Gl0SSwbJylVNHBg1G9",
      "genre": "J-Pop",
      "apple": "tw/1537460612",
+     "spotify": "7Cd17G3oNQ34OWUwS8ZxfR",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -9277,6 +9589,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/963626798",
+     "spotify": "1EvVwqTga8655SrGAS6Zba",
      "bpm": 162,
      "tags": {
       "genre": [
@@ -9312,6 +9625,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1821087731",
+     "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
      "tags": {
       "genre": [
@@ -9633,6 +9947,7 @@
      "kkbox": "4pIFIDDBiO7N6MHadn",
      "genre": "Enka",
      "apple": "jp/1838960470",
+     "spotify": "4JKCSjtRkJ2TxwJ8jZUQzH",
      "bpm": 101,
      "tags": {
       "genre": [
@@ -9704,6 +10019,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1537793754",
+     "spotify": "7AIj86wFWqm7X1TZ2hzHwS",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -9719,12 +10035,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "石崎ひゅーい"
+      ],
+      "composer": [
+       "石崎ひゅーい"
+      ],
+      "arranger": [
+       "Tomi Yo"
+      ],
       "year": "2020",
-      "released": "2020-11-10",
+      "released": "2020-11-25",
       "label": "Sony Music Labels Inc",
       "album": "虹 - Single",
+      "isrc": "JPU902002557",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "49ce5f6e-0160-4e68-ba01-1b141b2dbb78",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9874,6 +10202,7 @@
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5980-09",
      "last_rank": null,
      "is_new": null,
+     "kkbox": "5abUosKTyKyO5FKwgO",
      "genre": "Rock",
      "apple": "jp/1538157315",
      "spotify": "1di1C0QI6Y92yZPYn6XYAZ",
@@ -9897,12 +10226,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "谷口鮪"
+      ],
+      "composer": [
+       "谷口鮪"
+      ],
       "year": "2014",
       "released": "2014-11-26",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "TIME",
       "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
+      "mb": "01602290-8692-4a89-8857-7b0e8ab3dc58",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9985,6 +10322,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1795905600",
+     "spotify": "6FhWelfRDMFZRtFUU6SIdC",
      "bpm": 127,
      "tags": {
       "mood": [
@@ -10059,14 +10397,24 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1535535911",
+     "spotify": "1rN9QoVxw5U7TJkyaUR8C1",
      "bpm": 135,
      "info": {
+      "lyricist": [
+       "TK"
+      ],
+      "composer": [
+       "TK"
+      ],
       "year": "2014",
       "released": "2014-07-23",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "unravel - Single",
+      "isrc": "JPU902504638",
       "copyright": "℗ 2014 Sony Music Entertainment (Japan) Inc.",
+      "mb": "272b936c-56f6-4d15-9115-b07f1d05f6e8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10426,6 +10774,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1862900054",
+     "spotify": "6pdDosBtsc64PmvILB8no7",
      "bpm": 81,
      "tags": {
       "genre": [
@@ -10713,12 +11062,24 @@
       ]
      },
      "info": {
-      "year": "1997",
-      "released": "1997-10-08",
+      "lyricist": [
+       "坂井泉水"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "arranger": [
+       "葉山たけし"
+      ],
+      "year": "1996",
+      "released": "1996-03-11",
       "label": "B-Gram RECORDS,INC",
       "album": "Complete of Field of View - At the Being Studio",
+      "isrc": "JPC500201309",
       "copyright": "℗ 2003 B-Gram RECORDS,INC.",
+      "mb": "5247757c-b9e5-4cef-bdba-9d9fe8928286",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10798,6 +11159,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1443293700",
+     "spotify": "237tJYVU76qhKPdiohaOYz",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -11001,7 +11363,7 @@
    ],
    "period_key": "2026-10-01_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:07+08:00",
+   "fetched_at": "2026-11-07T11:22:13+08:00",
    "stale": false
   },
   {
@@ -11122,6 +11484,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1300670407",
+     "spotify": "6Tt2iUfGonmGZQLJjUsDph",
      "bpm": 118,
      "tags": {
       "genre": [
@@ -11220,6 +11583,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/280271148",
+     "spotify": "6ZRbzBPyEmkn2QZu4zqhjH",
      "bpm": 218,
      "tags": {
       "genre": [
@@ -11293,6 +11657,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1643875241",
+     "spotify": "5V4kQLAFI9FslUYZubCwKP",
      "bpm": 98,
      "tags": {
       "mood": [
@@ -11332,6 +11697,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1652637236",
+     "spotify": "7JqPOj5n97nxP2MmzOBxHS",
      "bpm": 106,
      "tags": {
       "genre": [
@@ -11344,7 +11710,9 @@
       "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
       "album": "きよしのズンドコ節 - EP",
       "copyright": "℗ 2002 Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "mb": "21a445df-8743-4576-b13f-d478a66fdcd6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -11359,6 +11727,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1699523360",
+     "spotify": "2mUUvTaImlIkTyTUSZl51F",
      "bpm": 67,
      "tags": {
       "genre": [
@@ -11374,12 +11743,21 @@
       ]
      },
      "info": {
-      "year": "2004",
-      "released": "2004-07-21",
+      "lyricist": [
+       "サトウハチロー"
+      ],
+      "composer": [
+       "古関裕而"
+      ],
+      "year": "1993",
+      "released": "1993-10-01",
       "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
       "album": "藤山一郎全曲集",
+      "isrc": "JPCO06505600",
       "copyright": "℗ 2004 Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "mb": "00a0be68-d67b-449f-9bc8-ebfbb5b793d2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -11394,6 +11772,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1289580890",
+     "spotify": "2C3xhs42cbxmTuE1sc4OvC",
      "bpm": 91,
      "tags": {
       "mood": [
@@ -11401,12 +11780,21 @@
       ]
      },
      "info": {
-      "year": "2012",
-      "released": "2012-10-04",
+      "lyricist": [
+       "武政英策"
+      ],
+      "composer": [
+       "武政英策"
+      ],
+      "year": "2000",
+      "released": "2000-11-22",
       "label": "King Record Co.,Ltd",
       "album": "夢 わたしの旅~ペギー葉山 愛唱歌のすべてⅠ オリジナル・ヒット、叙情歌篇+追悼ボーナスCD",
+      "isrc": "JPKI07459078",
       "copyright": "℗ 2017 King Record Co.,Ltd.",
+      "mb": "b640d66d-e739-458e-b514-e8d2d26659dd",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -11429,12 +11817,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "稲葉浩志"
+      ],
+      "composer": [
+       "松本孝弘"
+      ],
+      "arranger": [
+       "松本孝弘"
+      ],
       "year": "1992",
       "released": "1992-12-09",
       "label": "VERMILLION RECORDS",
       "album": "FRIENDS",
+      "isrc": "JPBM00201131",
       "copyright": "℗ VERMILLION RECORDS",
+      "mb": "c1180f7b-7322-4895-bf2e-018e536cbc09",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -11446,7 +11846,26 @@
      "song_no": "2804-01",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2804-01",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "info": {
+      "lyricist": [
+       "山上路夫"
+      ],
+      "composer": [
+       "木下忠司"
+      ],
+      "arranger": [
+       "池多孝春"
+      ],
+      "year": "2002",
+      "released": "2002-09-26",
+      "album": "山上路夫 ソングブック —翼をください—",
+      "isrc": "JPTE07382820",
+      "mb": "85f517e8-c0de-45cb-9172-61ed4f7fac70",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 15,
@@ -13099,6 +13518,7 @@
      "kkbox": "H-JKSjmaCJ6qy6hS20",
      "genre": "Enka",
      "apple": "jp/270405388",
+     "spotify": "4CVXGwVhvmhwB1zPBS5Iaq",
      "bpm": 152,
      "tags": {
       "genre": [
@@ -13110,12 +13530,21 @@
       ]
      },
      "info": {
-      "year": "2007",
-      "released": "2007-12-14",
+      "lyricist": [
+       "吉岡治"
+      ],
+      "composer": [
+       "市川昭介"
+      ],
+      "year": "1996",
+      "released": "1996-10-21",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "五木ひろしベスト 其の三 - EP",
+      "isrc": "JPTK08510312",
       "copyright": "℗ 2007 TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "094fd4e4-6009-4272-83d4-3dba71bc0bd3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13581,12 +14010,15 @@
       ]
      },
      "info": {
-      "year": "2007",
-      "released": "2007-11-21",
+      "year": "1993",
+      "released": "1993-10-01",
       "label": "Nippon Columbia Co., Ltd",
       "album": "<戦後70年 歌のあゆみ> 戦後の大ヒット大全集 ~リンゴの唄・青い山脈~",
+      "isrc": "JPCO07404650",
       "copyright": "℗ 2015 Nippon Columbia Co., Ltd.",
+      "mb": "fb3b79d5-ebb2-459c-92ac-087412451f8d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13829,6 +14261,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1648875851",
+     "spotify": "6rNcfp4dn7ZNPVUH6rZ7Lq",
      "bpm": 165,
      "tags": {
       "mood": [
@@ -13993,7 +14426,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:08+08:00",
+   "fetched_at": "2026-11-07T11:22:14+08:00",
    "stale": false
   },
   {
@@ -14017,6 +14450,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1549545978",
+     "spotify": "23phSRwoMy48rwFpmuAP8q",
      "bpm": 133,
      "tags": {
       "mood": [
@@ -14053,6 +14487,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536896544",
+     "spotify": "7M3oRWV8h3ssMjNP24jJCF",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -14099,6 +14534,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1440865459",
+     "spotify": "45jGOHwYKgsRYbAJ8DR61d",
      "bpm": 79,
      "tags": {
       "genre": [
@@ -14304,6 +14740,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/963626798",
+     "spotify": "1EvVwqTga8655SrGAS6Zba",
      "bpm": 162,
      "tags": {
       "genre": [
@@ -14339,6 +14776,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1821087731",
+     "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
      "tags": {
       "genre": [
@@ -14444,6 +14882,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1537793754",
+     "spotify": "7AIj86wFWqm7X1TZ2hzHwS",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -14459,12 +14898,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "石崎ひゅーい"
+      ],
+      "composer": [
+       "石崎ひゅーい"
+      ],
+      "arranger": [
+       "Tomi Yo"
+      ],
       "year": "2020",
-      "released": "2020-11-10",
+      "released": "2020-11-25",
       "label": "Sony Music Labels Inc",
       "album": "虹 - Single",
+      "isrc": "JPU902002557",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "49ce5f6e-0160-4e68-ba01-1b141b2dbb78",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14477,6 +14928,7 @@
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5980-09",
      "last_rank": null,
      "is_new": null,
+     "kkbox": "5abUosKTyKyO5FKwgO",
      "genre": "Rock",
      "apple": "jp/1538157315",
      "spotify": "1di1C0QI6Y92yZPYn6XYAZ",
@@ -14500,12 +14952,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "谷口鮪"
+      ],
+      "composer": [
+       "谷口鮪"
+      ],
       "year": "2014",
       "released": "2014-11-26",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "TIME",
       "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
+      "mb": "01602290-8692-4a89-8857-7b0e8ab3dc58",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14520,6 +14980,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1795905600",
+     "spotify": "6FhWelfRDMFZRtFUU6SIdC",
      "bpm": 127,
      "tags": {
       "mood": [
@@ -14562,14 +15023,24 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1535535911",
+     "spotify": "1rN9QoVxw5U7TJkyaUR8C1",
      "bpm": 135,
      "info": {
+      "lyricist": [
+       "TK"
+      ],
+      "composer": [
+       "TK"
+      ],
       "year": "2014",
       "released": "2014-07-23",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "unravel - Single",
+      "isrc": "JPU902504638",
       "copyright": "℗ 2014 Sony Music Entertainment (Japan) Inc.",
+      "mb": "272b936c-56f6-4d15-9115-b07f1d05f6e8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14599,12 +15070,24 @@
       ]
      },
      "info": {
-      "year": "1997",
-      "released": "1997-10-08",
+      "lyricist": [
+       "坂井泉水"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "arranger": [
+       "葉山たけし"
+      ],
+      "year": "1996",
+      "released": "1996-03-11",
       "label": "B-Gram RECORDS,INC",
       "album": "Complete of Field of View - At the Being Studio",
+      "isrc": "JPC500201309",
       "copyright": "℗ 2003 B-Gram RECORDS,INC.",
+      "mb": "5247757c-b9e5-4cef-bdba-9d9fe8928286",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14616,7 +15099,23 @@
      "song_no": "5961-01",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=5961-01",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "info": {
+      "lyricist": [
+       "千綿偉功"
+      ],
+      "composer": [
+       "千綿偉功"
+      ],
+      "year": "2019",
+      "released": "2019-04-03",
+      "album": "平成アニソン大賞 mixed by DJ和",
+      "isrc": "JPE209900601",
+      "mb": "845e248c-f2cc-4105-bb86-7070b96fe959",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 16,
@@ -14907,12 +15406,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黒須克彦"
+      ],
+      "composer": [
+       "黒須克彦"
+      ],
+      "arranger": [
+       "大久保薫"
+      ],
       "year": "2012",
       "released": "2012-08-22",
       "label": "Nippon Columbia Co., Ltd",
       "album": "テレビ朝日系アニメ「ドラえもん」主題歌 夢をかなえてドラえもん - EP",
+      "isrc": "JPCO00711360",
       "copyright": "℗ 2014 Nippon Columbia Co., Ltd.",
+      "mb": "56328df0-f22e-475c-9ac2-30a755754d63",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15262,7 +15773,9 @@
       "label": "YOASOBI",
       "album": "アイドル - Single",
       "copyright": "℗ 2023 YOASOBI",
+      "mb": "1ffae469-95e7-46ba-8f60-61c5f35bf7d3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15431,6 +15944,7 @@
      "kkbox": "GmvMVSCD7q4F5571pF",
      "genre": "J-Pop",
      "apple": "jp/1840081736",
+     "spotify": "4oE7MyJhqSD3BaHRpNs8Nl",
      "bpm": 135,
      "tags": {
       "mood": [
@@ -15441,12 +15955,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "小島裕規",
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-22",
       "label": "Sony Music Labels Inc",
       "album": "JANE DOE - Single",
+      "isrc": "JPU902502822",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "mb": "79943016-2bbb-4126-8f15-b546d5d1ec47",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15560,12 +16096,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kristen Anderson‐Lopez",
+       "Robert Lopez"
+      ],
+      "composer": [
+       "Kristen Anderson‐Lopez",
+       "Robert Lopez"
+      ],
       "year": "2013",
       "released": "2013-11-25",
       "label": "Walt Disney Records",
       "album": "アナと雪の女王 ザ・ベスト",
+      "isrc": "USWD11467538",
       "copyright": "℗ 2024 Walt Disney Records",
+      "mb": "1d31cf6d-f3ff-44fb-ab08-2a100318e6e8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17286,7 +17833,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:10+08:00",
+   "fetched_at": "2026-11-07T11:22:16+08:00",
    "stale": false
   },
   {
@@ -17382,6 +17929,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1408577702",
+     "spotify": "1k5F2EwzptN821wy7cPggG",
      "bpm": 153,
      "tags": {
       "instrument": [
@@ -17635,6 +18183,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1648875851",
+     "spotify": "6rNcfp4dn7ZNPVUH6rZ7Lq",
      "bpm": 165,
      "tags": {
       "mood": [
@@ -17693,12 +18242,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kanaria"
+      ],
+      "composer": [
+       "Kanaria"
+      ],
       "year": "2020",
       "released": "2020-08-02",
       "label": "Kanaria",
       "album": "KING",
       "copyright": "℗ 2020 Kanaria",
+      "mb": "11799711-4ca6-4794-b4fa-382913068d4e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17731,12 +18288,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "カンザキイオリ"
+      ],
+      "composer": [
+       "カンザキイオリ"
+      ],
+      "arranger": [
+       "花村智志"
+      ],
       "year": "2021",
       "released": "2021-08-11",
       "label": "KAMITSUBAKI RECORD",
       "album": "不器用な男",
+      "isrc": "JPY392100001",
       "copyright": "℗ KAMITSUBAKI RECORD",
+      "mb": "f8cc2fb9-39d6-4a48-b7e5-121ca6c8beab",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17834,12 +18403,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ナナホシ管弦楽団"
+      ],
+      "composer": [
+       "岩見陸"
+      ],
       "year": "2021",
       "released": "2021-11-20",
       "label": "Nanahoshi Orchestra",
       "album": "抜錨 - Single",
+      "isrc": "JP92Q2301494",
       "copyright": "℗ 2021 Nanahoshi Orchestra",
+      "mb": "d0f18856-ec1b-4d85-bac5-6b6b4fc16ab3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20507,7 +21085,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:11+08:00",
+   "fetched_at": "2026-11-07T11:22:18+08:00",
    "stale": false
   },
   {
@@ -20531,6 +21109,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1737099644",
+     "spotify": "5Ct010aQ4rroKyjKhTlS7I",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -20681,6 +21260,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1585332602",
+     "spotify": "6OC9BOO9qGXQARZGWb8rqy",
      "bpm": 89,
      "tags": {
       "mood": [
@@ -20937,12 +21517,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Junky"
+      ],
+      "composer": [
+       "Junky"
+      ],
+      "arranger": [
+       "Junky"
+      ],
       "year": "2020",
       "released": "2020-08-22",
       "label": "cover corp",
       "album": "#あくあ色ぱれっと - Single",
+      "isrc": "JPV752002946",
       "copyright": "℗ 2020 cover corp.",
+      "mb": "6c055641-fdd8-4f7b-8414-0a67725b5002",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20976,12 +21568,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "笹川真生"
+      ],
+      "composer": [
+       "笹川真生"
+      ],
       "year": "2020",
-      "released": "2020-08-11",
+      "released": "2020-01-03",
       "label": "KAMITSUBAKI RECORD",
       "album": "NEW ROMANCER",
       "copyright": "℗ KAMITSUBAKI RECORD",
+      "mb": "98c15189-fea6-4697-a579-be99b9e94588",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21011,12 +21611,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Sena Kiryuin"
+      ],
+      "composer": [
+       "Giga"
+      ],
       "year": "2024",
-      "released": "2024-05-04",
+      "released": "2024-10-16",
       "label": "COVER Corp",
       "album": "I I I - Single",
       "copyright": "℗ 2024 COVER Corp.",
+      "mb": "dafe1776-e873-4a8b-bd99-5be70c5099ff",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21070,6 +21678,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1665044886",
+     "spotify": "6eBiZCdAjVkcuW4h3F94iV",
      "bpm": 156,
      "tags": {
       "mood": [
@@ -21079,12 +21688,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ナナホシ管弦楽団"
+      ],
+      "composer": [
+       "岩見陸"
+      ],
+      "arranger": [
+       "ナナホシ管弦楽団"
+      ],
+      "mix": [
+       "NNZN"
+      ],
       "year": "2022",
       "released": "2022-12-19",
       "label": "cover corp",
       "album": "Specter",
+      "isrc": "JPV752206785",
       "copyright": "℗ 2023 cover corp.",
+      "mb": "88d6dd15-25dc-4a11-b15f-4bcb7cfd7b61",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23951,7 +24575,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:12+08:00",
+   "fetched_at": "2026-11-07T11:22:19+08:00",
    "stale": false
   },
   {
@@ -23976,6 +24600,7 @@
      "kkbox": "4pIFIDDBiO7N6MHadn",
      "genre": "Enka",
      "apple": "jp/1838960470",
+     "spotify": "4JKCSjtRkJ2TxwJ8jZUQzH",
      "bpm": 101,
      "tags": {
       "genre": [
@@ -24011,6 +24636,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1862900054",
+     "spotify": "6pdDosBtsc64PmvILB8no7",
      "bpm": 81,
      "tags": {
       "genre": [
@@ -24050,6 +24676,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1443293700",
+     "spotify": "237tJYVU76qhKPdiohaOYz",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -24091,6 +24718,7 @@
      "kkbox": "8r0t9DKU59bDRfSO91",
      "genre": "Kayokyoku",
      "apple": "jp/280271444",
+     "spotify": "71wqxjVuvyswfxMzO7rtB5",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -24135,6 +24763,7 @@
      "kkbox": "4mVhoo1Xf387r6B1-R",
      "genre": "Enka",
      "apple": "jp/907354503",
+     "spotify": "6zqzhskMZMmZFaiGGQJohg",
      "bpm": 84,
      "tags": {
       "mood": [
@@ -24173,6 +24802,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1502696662",
+     "spotify": "1CpfFc21rT8CvGj1qvBXf3",
      "bpm": 216,
      "tags": {
       "mood": [
@@ -24214,6 +24844,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1018823640",
+     "spotify": "7vtGnBHiDdqdClzAMYV1V9",
      "bpm": 214,
      "tags": {
       "genre": [
@@ -24248,6 +24879,7 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "jp/1445129117",
+     "spotify": "77MYgI1cBT0KhjszObXZTN",
      "bpm": 69,
      "tags": {
       "genre": [
@@ -24294,6 +24926,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/103834101",
+     "spotify": "0KDuoTEuIKKIjsB5ljqBpm",
      "bpm": 75,
      "tags": {
       "mood": [
@@ -24334,6 +24967,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1440657322",
+     "spotify": "1tXOIRwKnvUvlXK5w1oAjv",
      "bpm": 113,
      "tags": {
       "genre": [
@@ -24380,6 +25014,7 @@
      "kkbox": "OmuwREStTsIBdqHfaI",
      "genre": "Enka",
      "apple": "jp/276449309",
+     "spotify": "6EviNy3HjCSEaze6x7Fz3c",
      "bpm": 90,
      "tags": {
       "mood": [
@@ -24387,12 +25022,24 @@
       ]
      },
      "info": {
-      "year": "2008",
-      "released": "2008-03-14",
+      "lyricist": [
+       "いではく"
+      ],
+      "composer": [
+       "遠藤実"
+      ],
+      "arranger": [
+       "京建輔"
+      ],
+      "year": "1993",
+      "released": "1993",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "千 昌夫ベスト 其の二 - EP",
+      "isrc": "JPTK07700030",
       "copyright": "℗ 2008 TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "1ddc4caf-3d93-4b9b-930a-9d531f419953",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24407,6 +25054,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1848183223",
+     "spotify": "30D9MCa4I4lYpnpKs5JgS8",
      "bpm": 89,
      "tags": {
       "mood": [
@@ -24447,6 +25095,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/288349228",
+     "spotify": "4vPMev7B3eaiHBlS3arJdO",
      "bpm": 115,
      "tags": {
       "mood": [
@@ -24454,12 +25103,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "丘灯至夫"
+      ],
+      "composer": [
+       "遠藤実"
+      ],
+      "arranger": [
+       "福田正"
+      ],
       "year": "1963",
-      "released": "1963-01-01",
+      "released": "1963-06-05",
       "label": "Columbia Music Entertainment, Inc",
       "album": "舟木一夫ゴールデンベスト",
+      "isrc": "JPCO06301490",
       "copyright": "℗ 2008 Columbia Music Entertainment, Inc.",
+      "mb": "da3cdc27-cd8f-4e01-aac2-7380c461e285",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24485,12 +25146,15 @@
       ]
      },
      "info": {
-      "year": "2007",
-      "released": "2007-11-21",
+      "year": "1993",
+      "released": "1993-10-01",
       "label": "Nippon Columbia Co., Ltd",
       "album": "<戦後70年 歌のあゆみ> 戦後の大ヒット大全集 ~リンゴの唄・青い山脈~",
+      "isrc": "JPCO07404650",
       "copyright": "℗ 2015 Nippon Columbia Co., Ltd.",
+      "mb": "fb3b79d5-ebb2-459c-92ac-087412451f8d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24671,12 +25335,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "中山大三郎"
+      ],
+      "composer": [
+       "浜口庫之助"
+      ],
+      "arranger": [
+       "竜崎孝路"
+      ],
       "year": "1987",
       "released": "1987-04-21",
       "label": "Columbia Music Entertainment,inc",
       "album": "島倉千代子全曲集: ちよこまち",
+      "isrc": "JPCO08703650",
       "copyright": "℗ 2005 Columbia Music Entertainment,inc.",
+      "mb": "1efa9755-25ff-4946-9bc9-1c940b2e0a5e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24691,6 +25367,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1838706780",
+     "spotify": "7bZu6g0MtUamsjmrlCztbM",
      "bpm": 102,
      "tags": {
       "mood": [
@@ -24699,12 +25376,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大高ひさを"
+      ],
+      "composer": [
+       "鏑木創"
+      ],
       "year": "1971",
       "released": "1971-11-03",
       "label": "TEICHIKU ENTERTAINMENT,INC",
       "album": "石原裕次郎 ミリオンセラーアルバム",
+      "isrc": "JPTE06055090",
       "copyright": "℗ 2009 TEICHIKU ENTERTAINMENT,INC.",
+      "mb": "fa30ea63-dc50-4d7f-aad6-6efaa4bdf250",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24727,12 +25413,24 @@
       ]
      },
      "info": {
-      "year": "2007",
-      "released": "2007-12-14",
+      "lyricist": [
+       "吉幾三"
+      ],
+      "composer": [
+       "吉幾三"
+      ],
+      "arranger": [
+       "京建輔"
+      ],
+      "year": "1993",
+      "released": "1993",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "芸能生活40周年企画 シングルパーフェクトコレクション",
+      "isrc": "JPTK08500010",
       "copyright": "℗ 2013 TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "499e4c6e-1243-4dcb-8f45-d17d00292ef1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24811,6 +25509,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/409023500",
+     "spotify": "0Qx5ya8Gw9drep5APFHyTs",
      "bpm": 110,
      "tags": {
       "mood": [
@@ -24822,12 +25521,21 @@
       ]
      },
      "info": {
-      "year": "2010",
-      "released": "2010-12-22",
+      "lyricist": [
+       "阿久悠"
+      ],
+      "composer": [
+       "大野克夫"
+      ],
+      "year": "1996",
+      "released": "1996-10-21",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "居酒屋 デシタルリマスタリング版 - EP",
+      "isrc": "JPTK08510309",
       "copyright": "℗ 2010 TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "52c6ea09-4b55-462f-9d08-e123a3684dac",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -25852,6 +26560,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1289580890",
+     "spotify": "2C3xhs42cbxmTuE1sc4OvC",
      "bpm": 91,
      "tags": {
       "mood": [
@@ -25859,12 +26568,21 @@
       ]
      },
      "info": {
-      "year": "2012",
-      "released": "2012-10-04",
+      "lyricist": [
+       "武政英策"
+      ],
+      "composer": [
+       "武政英策"
+      ],
+      "year": "2000",
+      "released": "2000-11-22",
       "label": "King Record Co.,Ltd",
       "album": "夢 わたしの旅~ペギー葉山 愛唱歌のすべてⅠ オリジナル・ヒット、叙情歌篇+追悼ボーナスCD",
+      "isrc": "JPKI07459078",
       "copyright": "℗ 2017 King Record Co.,Ltd.",
+      "mb": "b640d66d-e739-458e-b514-e8d2d26659dd",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -26373,6 +27091,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1652637236",
+     "spotify": "7JqPOj5n97nxP2MmzOBxHS",
      "bpm": 106,
      "tags": {
       "genre": [
@@ -26385,7 +27104,9 @@
       "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
       "album": "きよしのズンドコ節 - EP",
       "copyright": "℗ 2002 Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "mb": "21a445df-8743-4576-b13f-d478a66fdcd6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -26476,7 +27197,26 @@
      "song_no": "2804-01",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2804-01",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "info": {
+      "lyricist": [
+       "山上路夫"
+      ],
+      "composer": [
+       "木下忠司"
+      ],
+      "arranger": [
+       "池多孝春"
+      ],
+      "year": "2002",
+      "released": "2002-09-26",
+      "album": "山上路夫 ソングブック —翼をください—",
+      "isrc": "JPTE07382820",
+      "mb": "85f517e8-c0de-45cb-9172-61ed4f7fac70",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 86,
@@ -26623,6 +27363,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1699523360",
+     "spotify": "2mUUvTaImlIkTyTUSZl51F",
      "bpm": 67,
      "tags": {
       "genre": [
@@ -26638,12 +27379,21 @@
       ]
      },
      "info": {
-      "year": "2004",
-      "released": "2004-07-21",
+      "lyricist": [
+       "サトウハチロー"
+      ],
+      "composer": [
+       "古関裕而"
+      ],
+      "year": "1993",
+      "released": "1993-10-01",
       "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
       "album": "藤山一郎全曲集",
+      "isrc": "JPCO06505600",
       "copyright": "℗ 2004 Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "mb": "00a0be68-d67b-449f-9bc8-ebfbb5b793d2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -26686,6 +27436,7 @@
      "kkbox": "H-JKSjmaCJ6qy6hS20",
      "genre": "Enka",
      "apple": "jp/270405388",
+     "spotify": "4CVXGwVhvmhwB1zPBS5Iaq",
      "bpm": 152,
      "tags": {
       "genre": [
@@ -26697,12 +27448,21 @@
       ]
      },
      "info": {
-      "year": "2007",
-      "released": "2007-12-14",
+      "lyricist": [
+       "吉岡治"
+      ],
+      "composer": [
+       "市川昭介"
+      ],
+      "year": "1996",
+      "released": "1996-10-21",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "五木ひろしベスト 其の三 - EP",
+      "isrc": "JPTK08510312",
       "copyright": "℗ 2007 TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "094fd4e4-6009-4272-83d4-3dba71bc0bd3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -26930,7 +27690,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:13+08:00",
+   "fetched_at": "2026-11-07T11:22:20+08:00",
    "stale": false
   },
   {
@@ -27485,12 +28245,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Carl Falk",
+       "Savan Kotecha",
+       "Rami"
+      ],
+      "composer": [
+       "Carl Falk",
+       "Savan Kotecha",
+       "Rami"
+      ],
       "year": "2011",
       "released": "2011-09-11",
       "label": "Simco Limited",
       "album": "Up All Night (Deluxe Version)",
       "copyright": "℗ 2011 Simco Limited under exclusive licence to Sony Music Entertainment UK Limited",
+      "mb": "b562ff84-d1d9-49e0-9f9b-0163c0b3c37b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -27503,7 +28275,23 @@
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=1114-04",
      "last_rank": null,
      "is_new": null,
-     "spotify": "3spdoTYpuCpmq19tuD0bOe"
+     "spotify": "3spdoTYpuCpmq19tuD0bOe",
+     "info": {
+      "lyricist": [
+       "Paul Anka"
+      ],
+      "composer": [
+       "Claude François",
+       "Jacques Revaux"
+      ],
+      "year": "1997",
+      "released": "1997",
+      "album": "The Legend",
+      "mb": "38d3f4de-6002-4737-93cb-167ca7e103a0",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 13,
@@ -27527,12 +28315,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Freddie Mercury"
+      ],
+      "composer": [
+       "Freddie Mercury"
+      ],
       "year": "1975",
       "released": "1975-10-31",
       "label": "Queen Productions Ltd. (ROW)/Hollywood Records, Inc. (USA & Can)",
       "album": "Bohemian Rhapsody (The Original Soundtrack)",
       "copyright": "℗ 2018 Queen Productions Ltd. (ROW)/Hollywood Records, Inc. (USA & Can)",
+      "mb": "31c6faf8-ea10-4725-b872-ba602a631197",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -27564,12 +28360,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Noel Gallagher"
+      ],
+      "composer": [
+       "Noel Gallagher"
+      ],
       "year": "1995",
       "released": "1995-10-02",
       "label": "Big Brother Recordings Ltd exclusively licensed to Sony Music Entertainment UK Limited",
       "album": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]",
       "copyright": "℗ 2014 Big Brother Recordings Ltd exclusively licensed to Sony Music Entertainment UK Limited",
+      "mb": "7ac31d8f-1ae9-4297-8cc1-60d852ae2adf",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -27598,12 +28402,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Luigi Creatore",
+       "Hugo Peretti",
+       "George David Weiss"
+      ],
+      "composer": [
+       "Luigi Creatore",
+       "Hugo Peretti",
+       "George David Weiss"
+      ],
       "year": "1961",
       "released": "1961-11-11",
       "label": "Sony Music Entertainment",
       "album": "The Essential Elvis Presley",
       "copyright": "℗ 2007 Sony Music Entertainment",
+      "mb": "9c076162-9e51-4837-a19d-355082ea9c75",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -27706,12 +28522,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "John Bettis"
+      ],
+      "composer": [
+       "Richard Carpenter"
+      ],
       "year": "1973",
       "released": "1973-05-01",
       "label": "An A&M Records release; This Compilation ℗ 2000 UMG Recordings, Inc",
       "album": "Gold: Greatest Hits",
       "copyright": "An A&M Records release; This Compilation ℗ 2000 UMG Recordings, Inc.",
+      "mb": "50f87483-1238-4976-a1fc-16b9edb24e53",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -27774,12 +28598,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Walter Afanasieff",
+       "Mariah Carey"
+      ],
+      "composer": [
+       "Walter Afanasieff",
+       "Mariah Carey"
+      ],
       "year": "1994",
       "released": "1994-10-28",
       "label": "This compilation (P) 2019 Sony Music Entertainment",
       "album": "Merry Christmas (Deluxe Anniversary Edition)",
+      "isrc": "USSM11902457",
       "copyright": "℗ This compilation (P) 2019 Sony Music Entertainment",
+      "mb": "e3803737-0db5-4636-9c5b-72f304fe80ac",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -29311,12 +30146,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Avril Lavigne",
+       "The Matrix"
+      ],
+      "composer": [
+       "Avril Lavigne",
+       "The Matrix"
+      ],
       "year": "2002",
       "released": "2002-03-11",
       "label": "Arista Records, LLC",
       "album": "Let Go",
       "copyright": "℗ 2002 Arista Records, LLC",
+      "mb": "62d70c8e-bbdc-48a7-9da1-f0a0c9adead9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -30235,7 +31080,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:14+08:00",
+   "fetched_at": "2026-11-07T11:22:21+08:00",
    "stale": false
   },
   {
@@ -30419,6 +31264,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1018823640",
+     "spotify": "7vtGnBHiDdqdClzAMYV1V9",
      "bpm": 214,
      "tags": {
       "genre": [
@@ -30492,6 +31338,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536224076",
+     "spotify": "3jsOA17bo4Hdsy4Rmznhl7",
      "bpm": 113,
      "tags": {
       "genre": [
@@ -30525,6 +31372,7 @@
      "kkbox": "GmkWTgeD7q4F4vK3kN",
      "genre": "J-Pop",
      "apple": "jp/1538275671",
+     "spotify": "3KnURrjsXA0TDce8N7iOwz",
      "bpm": 81,
      "tags": {
       "genre": [
@@ -30608,6 +31456,7 @@
      "kkbox": "GmvMVSCD7q4F5571pF",
      "genre": "J-Pop",
      "apple": "jp/1840081736",
+     "spotify": "4oE7MyJhqSD3BaHRpNs8Nl",
      "bpm": 135,
      "tags": {
       "mood": [
@@ -30618,12 +31467,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "小島裕規",
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2025",
       "released": "2025-09-22",
       "label": "Sony Music Labels Inc",
       "album": "JANE DOE - Single",
+      "isrc": "JPU902502822",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "mb": "79943016-2bbb-4126-8f15-b546d5d1ec47",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -30638,6 +31509,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1838706780",
+     "spotify": "7bZu6g0MtUamsjmrlCztbM",
      "bpm": 102,
      "tags": {
       "mood": [
@@ -30646,12 +31518,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大高ひさを"
+      ],
+      "composer": [
+       "鏑木創"
+      ],
       "year": "1971",
       "released": "1971-11-03",
       "label": "TEICHIKU ENTERTAINMENT,INC",
       "album": "石原裕次郎 ミリオンセラーアルバム",
+      "isrc": "JPTE06055090",
       "copyright": "℗ 2009 TEICHIKU ENTERTAINMENT,INC.",
+      "mb": "fa30ea63-dc50-4d7f-aad6-6efaa4bdf250",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -30681,12 +31562,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "松本隆"
+      ],
+      "composer": [
+       "山下達郎"
+      ],
       "year": "1997",
       "released": "1997-07-21",
       "label": "(3,13),1998(1-2,4-12) ELOV-Label",
       "album": "B album",
+      "isrc": "JPJE00000130",
       "copyright": "℗ 1997(3,13),1998(1-2,4-12) ELOV-Label, a division of Storm Labels Inc.",
+      "mb": "cdd857ab-3486-498f-b960-7f72e9c96b91",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -30708,12 +31598,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kristen Anderson‐Lopez",
+       "Robert Lopez"
+      ],
+      "composer": [
+       "Kristen Anderson‐Lopez",
+       "Robert Lopez"
+      ],
       "year": "2013",
       "released": "2013-11-25",
       "label": "Walt Disney Records",
       "album": "アナと雪の女王 ザ・ベスト",
+      "isrc": "USWD11467538",
       "copyright": "℗ 2024 Walt Disney Records",
+      "mb": "1d31cf6d-f3ff-44fb-ab08-2a100318e6e8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -30735,12 +31636,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "小渕健太郎"
+      ],
+      "composer": [
+       "小渕健太郎"
+      ],
       "year": "2007",
       "released": "2007-03-21",
       "label": "WARNER MUSIC JAPAN INC",
       "album": "5296",
+      "isrc": "JPWP00601825",
       "copyright": "℗ 2007 WARNER MUSIC JAPAN INC.",
+      "mb": "bb6867da-3a8d-48cd-bd46-04eb00c391ad",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -30755,6 +31665,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/409023500",
+     "spotify": "0Qx5ya8Gw9drep5APFHyTs",
      "bpm": 110,
      "tags": {
       "mood": [
@@ -30766,12 +31677,21 @@
       ]
      },
      "info": {
-      "year": "2010",
-      "released": "2010-12-22",
+      "lyricist": [
+       "阿久悠"
+      ],
+      "composer": [
+       "大野克夫"
+      ],
+      "year": "1996",
+      "released": "1996-10-21",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "居酒屋 デシタルリマスタリング版 - EP",
+      "isrc": "JPTK08510309",
       "copyright": "℗ 2010 TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "52c6ea09-4b55-462f-9d08-e123a3684dac",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -31328,7 +32248,26 @@
      "song_no": "2804-01",
      "song_url": "https://www.clubdam.com/karaokesearch/songleaf.html?requestNo=2804-01",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "info": {
+      "lyricist": [
+       "山上路夫"
+      ],
+      "composer": [
+       "木下忠司"
+      ],
+      "arranger": [
+       "池多孝春"
+      ],
+      "year": "2002",
+      "released": "2002-09-26",
+      "album": "山上路夫 ソングブック —翼をください—",
+      "isrc": "JPTE07382820",
+      "mb": "85f517e8-c0de-45cb-9172-61ed4f7fac70",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 36,
@@ -31434,6 +32373,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1648875851",
+     "spotify": "6rNcfp4dn7ZNPVUH6rZ7Lq",
      "bpm": 165,
      "tags": {
       "mood": [
@@ -33347,7 +34287,7 @@
    ],
    "period_key": "2026-10-25_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-06T11:28:16+08:00",
+   "fetched_at": "2026-11-07T11:22:23+08:00",
    "stale": false
   }
  ]

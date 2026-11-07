@@ -593,6 +593,17 @@
   "status": "ok",
   "track": "tw/1337452975"
  },
+ "blue|yungkai": {
+  "avg_bpm": 65.035,
+  "beats": 32,
+  "bpm": 65.01,
+  "checked": "2026-11-07",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 2,
+  "status": "ok",
+  "track": "tw/1776246888"
+ },
  "bogs|cellmates": {
   "avg_bpm": 118.529,
   "beats": 59,
@@ -1274,6 +1285,17 @@
   "signature": null,
   "status": "ok",
   "track": "tw/1659828259"
+ },
+ "dynamite|bts防彈少年團": {
+  "avg_bpm": 113.976,
+  "beats": 57,
+  "bpm": 113.93,
+  "checked": "2026-11-07",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1596532400"
  },
  "everyheart|寶兒": {
   "avg_bpm": 71.09,
@@ -4949,6 +4971,17 @@
   "status": "ok",
   "track": "jp/1440657322"
  },
+ "でも|高瀬統也": {
+  "avg_bpm": 87.017,
+  "beats": 43,
+  "bpm": 87.017,
+  "checked": "2026-11-07",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "jp/1719147890"
+ },
  "とくべチュして|love": {
   "avg_bpm": 146.939,
   "beats": 73,
@@ -6510,6 +6543,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1537458310"
+ },
+ "ファンファーレ|玉置浩二": {
+  "avg_bpm": 154.158,
+  "beats": 77,
+  "bpm": 154.158,
+  "checked": "2026-11-07",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "jp/1844327943"
  },
  "フィクサー|ぬゆり": {
   "avg_bpm": 134.969,
@@ -8843,6 +8887,17 @@
   "status": "ok",
   "track": "tw/6785850147"
  },
+ "在這座城市遺失了你|告五人": {
+  "avg_bpm": 90.041,
+  "beats": 45,
+  "bpm": 89.999,
+  "checked": "2026-11-07",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1544722555"
+ },
  "在這裡等你|告五人": {
   "avg_bpm": 124.068,
   "beats": 62,
@@ -10437,6 +10492,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1440748204"
+ },
+ "愛人錯過|告五人": {
+  "avg_bpm": 139.865,
+  "beats": 70,
+  "bpm": 139.865,
+  "checked": "2026-11-07",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1546062805"
  },
  "愛作夢的人|蕭煌奇": {
   "avg_bpm": 76.923,
@@ -14573,6 +14639,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1443793493"
+ },
+ "體面|于文文": {
+  "avg_bpm": 85.193,
+  "beats": 43,
+  "bpm": 85.193,
+  "checked": "2026-11-07",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1888421780"
  },
  "高原列車は行く|岡本敦郎": {
   "avg_bpm": 269.437,
