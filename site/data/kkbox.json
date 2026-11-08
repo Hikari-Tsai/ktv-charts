@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "streaming",
  "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
- "checked_at": "2026-11-08T11:24:04+08:00",
+ "checked_at": "2026-11-08T17:58:29+08:00",
  "errors": [],
  "charts": [
   {
@@ -85,6 +85,19 @@
      "genre": "Mandopop",
      "apple": "tw/1692508528",
      "bpm": 75,
+     "range": {
+      "low": 51,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Vocal Pop",
@@ -190,6 +203,19 @@
      "apple": "tw/6780772534",
      "spotify": "7fr9imYju7AXYQa2b2ofGd",
      "bpm": 92,
+     "range": {
+      "low": 58,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Brit Pop",
@@ -280,6 +306,17 @@
      "genre": "Mandopop",
      "apple": "tw/1815583986",
      "bpm": 77,
+     "range": {
+      "low": 42,
+      "high": 64,
+      "m": {
+       "v": "low"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -367,6 +404,19 @@
      "apple": "jp/6810189174",
      "spotify": "0ykKwja0lp6MSQKl71eT9C",
      "bpm": 74,
+     "range": {
+      "low": 60,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -415,6 +465,19 @@
      "apple": "tw/536115199",
      "spotify": "56mzU03ZesV0iRroHR2K04",
      "bpm": 62,
+     "range": {
+      "low": 53,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -840,6 +903,19 @@
      "apple": "tw/6815092483",
      "spotify": "2a3CGolEag3y3weurGvkLV",
      "bpm": 84,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Chiptune"
@@ -920,6 +996,7 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6828048101",
+     "spotify": "7FZDUwHOMnPU9ChFYXSov5",
      "bpm": 178,
      "tags": {
       "mood": [
@@ -953,6 +1030,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1655821308",
+     "spotify": "4PMakIBWXujbe2MIsuZtOc",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -1043,6 +1121,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1859952104",
+     "spotify": "3IBYp3fKyydZ5dDtirLY6P",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -1134,6 +1213,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1810572087",
+     "spotify": "6pFxVcn6T4BdP8mfZpTQHZ",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -1386,12 +1466,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "陳惠婷",
+       "Tizzy Bac"
+      ],
+      "composer": [
+       "陳惠婷",
+       "許哲毓",
+       "林前源",
+       "Tizzy Bac"
+      ],
+      "arranger": [
+       "陳彥奇",
+       "鍾承洋",
+       "Tizzy Bac"
+      ],
+      "producer": [
+       "Tizzy Bac",
+       "盧律銘"
+      ],
       "year": "2026",
       "released": "2026-11-03",
       "label": "Bin Music International Limited",
       "album": "You'll See_XX - Single",
+      "isrc": "TWK232684290",
       "copyright": "℗ 2026 Bin Music International Limited",
+      "mb": "ef2ffb17-c319-43ae-9f2d-06a189acd298",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -1675,6 +1777,19 @@
      "apple": "tw/1632587457",
      "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
+     "range": {
+      "low": 47,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -1,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -2078,7 +2193,7 @@
    ],
    "period_key": "2026-11-07",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:41+08:00",
+   "fetched_at": "2026-11-08T17:58:07+08:00",
    "stale": false
   },
   {
@@ -2155,6 +2270,19 @@
      "genre": "Mandopop",
      "apple": "tw/1692508528",
      "bpm": 75,
+     "range": {
+      "low": 51,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Vocal Pop",
@@ -2251,6 +2379,19 @@
      "apple": "tw/6780772534",
      "spotify": "7fr9imYju7AXYQa2b2ofGd",
      "bpm": 92,
+     "range": {
+      "low": 58,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Brit Pop",
@@ -2342,6 +2483,19 @@
      "apple": "tw/6815092483",
      "spotify": "2a3CGolEag3y3weurGvkLV",
      "bpm": 84,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Chiptune"
@@ -2375,6 +2529,17 @@
      "genre": "Mandopop",
      "apple": "tw/1815583986",
      "bpm": 77,
+     "range": {
+      "low": 42,
+      "high": 64,
+      "m": {
+       "v": "low"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2409,6 +2574,19 @@
      "apple": "jp/6810189174",
      "spotify": "0ykKwja0lp6MSQKl71eT9C",
      "bpm": 74,
+     "range": {
+      "low": 60,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2729,6 +2907,19 @@
      "apple": "tw/536115199",
      "spotify": "56mzU03ZesV0iRroHR2K04",
      "bpm": 62,
+     "range": {
+      "low": 53,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2991,6 +3182,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1655821308",
+     "spotify": "4PMakIBWXujbe2MIsuZtOc",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -3036,6 +3228,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1810572087",
+     "spotify": "6pFxVcn6T4BdP8mfZpTQHZ",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -3115,6 +3308,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1859952104",
+     "spotify": "3IBYp3fKyydZ5dDtirLY6P",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -3530,6 +3724,21 @@
      "apple": "tw/6819661934",
      "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
+     "range": {
+      "low": 63,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -3632,6 +3841,19 @@
      "apple": "tw/6812635397",
      "spotify": "4azVNx8uhpnKezwrNhcvYz",
      "bpm": 88,
+     "range": {
+      "low": 60,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Sound Collage",
@@ -3822,6 +4044,19 @@
      "apple": "tw/1632587457",
      "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
+     "range": {
+      "low": 47,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -1,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -4109,6 +4344,21 @@
      "apple": "tw/6807777966",
      "spotify": "1jvdnSKL2KzLG5vwxrl0C6",
      "bpm": 84,
+     "range": {
+      "low": 50,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 3,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -4195,7 +4445,7 @@
    ],
    "period_key": "2026-10-30_2026-11-05",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:42+08:00",
+   "fetched_at": "2026-11-08T17:58:09+08:00",
    "stale": false
   },
   {
@@ -4263,6 +4513,19 @@
      "apple": "tw/1632587457",
      "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
+     "range": {
+      "low": 47,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -1,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -4311,6 +4574,21 @@
      "apple": "tw/6819661934",
      "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
+     "range": {
+      "low": 63,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -4366,6 +4644,19 @@
      "apple": "tw/1731074668",
      "spotify": "30slz6D2PtbwDimGJaEVsH",
      "bpm": 66,
+     "range": {
+      "low": 55,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "sad",
@@ -4414,6 +4705,19 @@
      "apple": "tw/1620985176",
      "spotify": "0ITqAC19p1USXCh6wtKkDb",
      "bpm": 109,
+     "range": {
+      "low": 55,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Folk"
@@ -4572,6 +4876,19 @@
      "apple": "tw/1445875932",
      "spotify": "4Vo0iTCUlkBfh1Xsx8o3wI",
      "bpm": 124,
+     "range": {
+      "low": 47,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -5272,6 +5589,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1444583865",
+     "spotify": "7AqyDB6MapgfGUXkqyR9L4",
      "bpm": 63,
      "tags": {
       "genre": [
@@ -5367,6 +5685,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1530546318",
+     "spotify": "4kRxP0UA2fg8LqGHj3lZVZ",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -5417,6 +5736,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1837261626",
+     "spotify": "6hvmTHcCOokLzbrTnu6K4A",
      "bpm": 119,
      "tags": {
       "mood": [
@@ -5472,6 +5792,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1386014644",
+     "spotify": "1C4akrSQFUytN9vGBgVkyQ",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -5528,6 +5849,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1494258598",
+     "spotify": "6hGah1oR5TEu7NzZoBWmjB",
      "bpm": 87,
      "tags": {
       "genre": [
@@ -5573,6 +5895,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1691657373",
+     "spotify": "2FpYbwYtGA5a4RUvGY2T6L",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -5633,6 +5956,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1442057187",
+     "spotify": "6ZDoaVTXy9kl3Ir8MQ8Gnx",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -5737,6 +6061,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1504204460",
+     "spotify": "4uZrEi9OP8VW1LbBRl61fd",
      "bpm": 117,
      "tags": {
       "genre": [
@@ -6052,6 +6377,7 @@
      "is_new": false,
      "genre": "Taiwanese Folk",
      "apple": "tw/1689528098",
+     "spotify": "49escgLQOKMPWjjLWAFhxr",
      "bpm": 94,
      "tags": {
       "genre": [
@@ -6592,7 +6918,7 @@
    ],
    "period_key": "2026-11-07",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:44+08:00",
+   "fetched_at": "2026-11-08T17:58:11+08:00",
    "stale": false
   },
   {
@@ -6660,6 +6986,21 @@
      "apple": "tw/6819661934",
      "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
+     "range": {
+      "low": 63,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -6715,6 +7056,19 @@
      "apple": "tw/1632587457",
      "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
+     "range": {
+      "low": 47,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -1,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -6763,6 +7117,19 @@
      "apple": "tw/1620985176",
      "spotify": "0ITqAC19p1USXCh6wtKkDb",
      "bpm": 109,
+     "range": {
+      "low": 55,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Folk"
@@ -6811,6 +7178,19 @@
      "apple": "tw/1731074668",
      "spotify": "30slz6D2PtbwDimGJaEVsH",
      "bpm": 66,
+     "range": {
+      "low": 55,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "sad",
@@ -6969,6 +7349,19 @@
      "apple": "tw/1445875932",
      "spotify": "4Vo0iTCUlkBfh1Xsx8o3wI",
      "bpm": 124,
+     "range": {
+      "low": 47,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -7717,6 +8110,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1444583865",
+     "spotify": "7AqyDB6MapgfGUXkqyR9L4",
      "bpm": 63,
      "tags": {
       "genre": [
@@ -7764,6 +8158,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1530546318",
+     "spotify": "4kRxP0UA2fg8LqGHj3lZVZ",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -7814,6 +8209,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1691657373",
+     "spotify": "2FpYbwYtGA5a4RUvGY2T6L",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -7874,6 +8270,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1837261626",
+     "spotify": "6hvmTHcCOokLzbrTnu6K4A",
      "bpm": 119,
      "tags": {
       "mood": [
@@ -7929,6 +8326,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1442057187",
+     "spotify": "6ZDoaVTXy9kl3Ir8MQ8Gnx",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -7977,6 +8375,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1504204460",
+     "spotify": "4uZrEi9OP8VW1LbBRl61fd",
      "bpm": 117,
      "tags": {
       "genre": [
@@ -8024,6 +8423,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1494258598",
+     "spotify": "6hGah1oR5TEu7NzZoBWmjB",
      "bpm": 87,
      "tags": {
       "genre": [
@@ -8069,6 +8469,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1386014644",
+     "spotify": "1C4akrSQFUytN9vGBgVkyQ",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -8397,6 +8798,7 @@
      "is_new": false,
      "genre": "Taiwanese Folk",
      "apple": "tw/1689528098",
+     "spotify": "49escgLQOKMPWjjLWAFhxr",
      "bpm": 94,
      "tags": {
       "genre": [
@@ -8996,7 +9398,7 @@
    ],
    "period_key": "2026-10-30_2026-11-05",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:46+08:00",
+   "fetched_at": "2026-11-08T17:58:12+08:00",
    "stale": false
   },
   {
@@ -9136,6 +9538,19 @@
      "apple": "tw/6829122414",
      "spotify": "1824ElVTa8XiWOjOlujl81",
      "bpm": 119,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -9170,6 +9585,21 @@
      "apple": "tw/1727526894",
      "spotify": "6Qb7YsAqH4wWFUMbGsCpap",
      "bpm": 123,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -9331,6 +9761,19 @@
      "apple": "tw/6804002999",
      "spotify": "3bgnrHHwyYRtz3ykzAVImy",
      "bpm": 78,
+     "range": {
+      "low": 57,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rap"
@@ -10063,12 +10506,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "JQ",
+       "이지혜"
+      ],
+      "composer": [
+       "SHAUN"
+      ],
+      "arranger": [
+       "SHAUN"
+      ],
       "year": "2018",
       "released": "2018-06-27",
       "label": "285",
       "album": "Way Back Home (Japanese Ver.) - Single",
+      "isrc": "KRF221800012",
       "copyright": "℗ 2023 285",
+      "mb": "49e6cd1d-22da-4428-a5a5-fb84cd16f9f9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10083,6 +10539,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1771105923",
+     "spotify": "1lcBt7LoEikqYmhUoa2cez",
      "bpm": 175,
      "tags": {
       "mood": [
@@ -10096,12 +10553,43 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Amy Allen",
+       "D’Mile",
+       "Sir Dylan",
+       "Omer Fedi",
+       "Carter Lang",
+       "Bruno Mars"
+      ],
+      "composer": [
+       "Amy Allen",
+       "D’Mile",
+       "Sir Dylan",
+       "Omer Fedi",
+       "Carter Lang",
+       "Bruno Mars"
+      ],
+      "producer": [
+       "D’Mile",
+       "Sir Dylan",
+       "Omer Fedi",
+       "Kuk Harrell",
+       "Carter Lang",
+       "Bruno Mars"
+      ],
+      "mix": [
+       "Bryce Bordone",
+       "Serban Ghenea"
+      ],
       "year": "2024",
       "released": "2024-11-22",
       "label": "ROSÉ",
       "album": "rosie",
+      "isrc": "USAT22409167",
       "copyright": "℗ 2024 ROSÉ under exclusive license to Atlantic Recording Corporation for the World excluding Korea",
+      "mb": "660a093e-cf4d-4ddd-9f1c-2ae892f6dcfb",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10189,6 +10677,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1822714116",
+     "spotify": "3AjfuVk6olyesS7cVfofBE",
      "bpm": 133,
      "tags": {
       "genre": [
@@ -10209,8 +10698,11 @@
       "released": "2025-07-01",
       "label": "YG Entertainment",
       "album": "HOT SAUCE - Single",
+      "isrc": "KRA402400090",
       "copyright": "℗ 2025 YG Entertainment",
+      "mb": "3f5e380b-3ca8-4d65-b56d-da0ae3b2c3a4",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10225,6 +10717,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1468058171",
+     "spotify": "1BxfuPKGuaTgP7aM0Bbdwr",
      "bpm": 85,
      "tags": {
       "mood": [
@@ -10239,12 +10732,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Jack Antonoff",
+       "St. Vincent",
+       "Taylor Swift"
+      ],
+      "composer": [
+       "Jack Antonoff",
+       "St. Vincent",
+       "Taylor Swift"
+      ],
       "year": "2019",
       "released": "2019-08-23",
       "label": "Taylor Swift",
       "album": "Lover",
+      "isrc": "USUG12305722",
       "copyright": "℗ 2019 Taylor Swift",
+      "mb": "6624980c-4eff-444d-9e75-66f756a58ccd",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10273,12 +10779,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "D’Mile",
+       "James Fauntleroy",
+       "Lady Gaga",
+       "Bruno Mars",
+       "Andrew Watt"
+      ],
+      "composer": [
+       "D’Mile",
+       "James Fauntleroy",
+       "Lady Gaga",
+       "Bruno Mars",
+       "Andrew Watt"
+      ],
       "year": "2024",
-      "released": "2024-08-16",
+      "released": "2024-10-17",
       "label": "Interscope Records",
       "album": "Die With A Smile - Single",
+      "isrc": "USUM72412854",
       "copyright": "℗ 2024 Interscope Records",
+      "mb": "5f63f44d-5119-446e-bf71-9df46f22dd0c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10293,6 +10816,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6820694260",
+     "spotify": "2SsR0sFUhVlWIyjjlcRDnw",
      "bpm": 104,
      "tags": {
       "genre": [
@@ -10313,7 +10837,9 @@
       "label": "Republic Records",
       "album": "Just Your Type",
       "copyright": "℗ 2026 Republic Records, a division of UMG Recordings, Inc./Wexler Records",
+      "mb": "7e26abbf-4bd5-4209-baf9-d031379246a2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10328,6 +10854,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6812894907",
+     "spotify": "5GKBPdWbW4RQtx9VkQ6xKO",
      "bpm": 137,
      "tags": {
       "genre": [
@@ -10346,11 +10873,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-09-09",
+      "released": "2026-09-17",
       "label": "ROSÉ",
       "album": "new trick - Single",
+      "isrc": "USAT22606409",
       "copyright": "℗ 2026 ROSÉ under exclusive license to Atlantic Recording Corporation for the World excluding Korea",
+      "mb": "afe63650-f900-45de-b737-dae148c714f6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10379,12 +10909,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Justin Bieber",
+       "benny blanco",
+       "Ed Sheeran"
+      ],
+      "composer": [
+       "Justin Bieber",
+       "benny blanco",
+       "Ed Sheeran"
+      ],
       "year": "2015",
       "released": "2015-11-09",
       "label": "Def Jam Recordings",
       "album": "Purpose (Deluxe)",
+      "isrc": "USUM72202846",
       "copyright": "℗ 2015 Def Jam Recordings, a division of UMG Recordings, Inc.",
+      "mb": "fb7b80f0-b618-4e1f-92be-f74115b6b689",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10444,12 +10987,41 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Natalie Hemby",
+       "Lady Gaga",
+       "Hillary Lindsey",
+       "Lori McKenna"
+      ],
+      "composer": [
+       "Natalie Hemby",
+       "Lady Gaga",
+       "Hillary Lindsey",
+       "Lori McKenna"
+      ],
+      "producer": [
+       "Dave Cobb",
+       "Lady Gaga"
+      ],
+      "mix": [
+       "Brandon Bost",
+       "Tom Elmhirst"
+      ],
+      "recording": [
+       "Bo Bodnar",
+       "Gena Johnson",
+       "Benjamin Rice",
+       "Eddie Spear"
+      ],
       "year": "2018",
-      "released": "2018-10-05",
+      "released": "2018-10-04",
       "label": "Interscope Records",
       "album": "A Star Is Born Soundtrack",
+      "isrc": "USUM71813195",
       "copyright": "This Compilation ℗ 2018 Interscope Records",
+      "mb": "101b0830-bca9-4db0-b444-3ba254177998",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10480,12 +11052,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Selena Gomez",
+       "Jacob Kasher",
+       "Charlie Puth"
+      ],
+      "composer": [
+       "Selena Gomez",
+       "Jacob Kasher",
+       "Charlie Puth"
+      ],
       "year": "2016",
-      "released": "2016-01-29",
+      "released": "2016-08-02",
       "label": "Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
       "album": "Nine Track Mind (Special Edition)",
       "copyright": "℗ 2016 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+      "mb": "e2b461c6-b232-4b69-b6f9-db06a414826b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10515,12 +11099,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Robin Davies",
+       "Jahmeelah Lamb‐Rahming"
+      ],
+      "composer": [
+       "Robin Davies",
+       "Jahmeelah Lamb‐Rahming"
+      ],
+      "producer": [
+       "Pinkfong"
+      ],
       "year": "2017",
       "released": "2017-07-27",
       "label": "Smart Study Co., Ltd",
       "album": "Pinkfong Animal Songs",
+      "isrc": "KRE671700001",
       "copyright": "℗ 2017 Smart Study Co., Ltd.",
+      "mb": "4d19d9d5-9174-4037-9dec-21b6c2cbcbb9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10667,12 +11265,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Andrew Cedar",
+       "DJ Frank E",
+       "Charlie Puth",
+       "Wiz Khalifa"
+      ],
+      "composer": [
+       "Andrew Cedar",
+       "DJ Frank E",
+       "Charlie Puth",
+       "Wiz Khalifa"
+      ],
       "year": "2015",
       "released": "2015-03-10",
       "label": "This compilation 2015 Universal Studios and Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States",
       "album": "Furious 7 (Original Motion Picture Soundtrack) [Deluxe Version]",
+      "isrc": "USAT22212071",
       "copyright": "℗ This compilation 2015 Universal Studios and Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+      "mb": "0c594ffe-4be7-4750-9f48-2f077fd7f506",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10722,6 +11335,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1889992129",
+     "spotify": "25nbeJzxF3dwvtTq57QKZi",
      "bpm": 135,
      "tags": {
       "genre": [
@@ -10738,12 +11352,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Amy Allen",
+       "Daniel Nigro",
+       "Olivia Rodrigo"
+      ],
+      "composer": [
+       "Amy Allen",
+       "Daniel Nigro",
+       "Olivia Rodrigo"
+      ],
       "year": "2026",
-      "released": "2026-06-12",
+      "released": "2026-06-16",
       "label": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
+      "isrc": "USUG12605867",
       "copyright": "℗ 2026 Olivia Rodrigo, under exclusive license to Geffen Records",
+      "mb": "33776044-38aa-4113-b245-2573c3aeeed0",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10779,11 +11406,13 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-01-27",
+      "released": "2026-07-06",
       "label": "Cube Entertainment, Inc",
       "album": "Mono (feat. skaiwater) - Single",
       "copyright": "℗ 2026 Cube Entertainment, Inc. under exclusive license to BMG Rights Management (US) LLC",
+      "mb": "79fb4e38-0299-4107-adb9-dc37dddf2b5d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10940,6 +11569,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6808424296",
+     "spotify": "3s2YCL5LHLzXWbw7ezQru3",
      "bpm": 69,
      "tags": {
       "mood": [
@@ -10956,8 +11586,11 @@
       "released": "2026-10-08",
       "label": "Riot Games, Inc",
       "album": "Know My Name (feat. Coco Jones, SOYEON & i-dle) - Single",
+      "isrc": "QZH6S1901231",
       "copyright": "℗ 2026 Riot Games, Inc.",
+      "mb": "170358de-007f-4710-8771-bebfc3ef4241",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -11002,7 +11635,7 @@
    ],
    "period_key": "2026-11-07",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:48+08:00",
+   "fetched_at": "2026-11-08T17:58:14+08:00",
    "stale": false
   },
   {
@@ -11142,6 +11775,21 @@
      "apple": "tw/1727526894",
      "spotify": "6Qb7YsAqH4wWFUMbGsCpap",
      "bpm": 123,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -11201,6 +11849,19 @@
      "apple": "tw/6804002999",
      "spotify": "3bgnrHHwyYRtz3ykzAVImy",
      "bpm": 78,
+     "range": {
+      "low": 57,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rap"
@@ -11554,6 +12215,19 @@
      "apple": "tw/6829122414",
      "spotify": "1824ElVTa8XiWOjOlujl81",
      "bpm": 119,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -12088,6 +12762,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6808424296",
+     "spotify": "3s2YCL5LHLzXWbw7ezQru3",
      "bpm": 69,
      "tags": {
       "mood": [
@@ -12104,8 +12779,11 @@
       "released": "2026-10-08",
       "label": "Riot Games, Inc",
       "album": "Know My Name (feat. Coco Jones, SOYEON & i-dle) - Single",
+      "isrc": "QZH6S1901231",
       "copyright": "℗ 2026 Riot Games, Inc.",
+      "mb": "170358de-007f-4710-8771-bebfc3ef4241",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12120,6 +12798,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1771105923",
+     "spotify": "1lcBt7LoEikqYmhUoa2cez",
      "bpm": 175,
      "tags": {
       "mood": [
@@ -12133,12 +12812,43 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Amy Allen",
+       "D’Mile",
+       "Sir Dylan",
+       "Omer Fedi",
+       "Carter Lang",
+       "Bruno Mars"
+      ],
+      "composer": [
+       "Amy Allen",
+       "D’Mile",
+       "Sir Dylan",
+       "Omer Fedi",
+       "Carter Lang",
+       "Bruno Mars"
+      ],
+      "producer": [
+       "D’Mile",
+       "Sir Dylan",
+       "Omer Fedi",
+       "Kuk Harrell",
+       "Carter Lang",
+       "Bruno Mars"
+      ],
+      "mix": [
+       "Bryce Bordone",
+       "Serban Ghenea"
+      ],
       "year": "2024",
       "released": "2024-11-22",
       "label": "ROSÉ",
       "album": "rosie",
+      "isrc": "USAT22409167",
       "copyright": "℗ 2024 ROSÉ under exclusive license to Atlantic Recording Corporation for the World excluding Korea",
+      "mb": "660a093e-cf4d-4ddd-9f1c-2ae892f6dcfb",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12173,12 +12883,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "JQ",
+       "이지혜"
+      ],
+      "composer": [
+       "SHAUN"
+      ],
+      "arranger": [
+       "SHAUN"
+      ],
       "year": "2018",
       "released": "2018-06-27",
       "label": "285",
       "album": "Way Back Home (Japanese Ver.) - Single",
+      "isrc": "KRF221800012",
       "copyright": "℗ 2023 285",
+      "mb": "49e6cd1d-22da-4428-a5a5-fb84cd16f9f9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12260,12 +12983,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "D’Mile",
+       "James Fauntleroy",
+       "Lady Gaga",
+       "Bruno Mars",
+       "Andrew Watt"
+      ],
+      "composer": [
+       "D’Mile",
+       "James Fauntleroy",
+       "Lady Gaga",
+       "Bruno Mars",
+       "Andrew Watt"
+      ],
       "year": "2024",
-      "released": "2024-08-16",
+      "released": "2024-10-17",
       "label": "Interscope Records",
       "album": "Die With A Smile - Single",
+      "isrc": "USUM72412854",
       "copyright": "℗ 2024 Interscope Records",
+      "mb": "5f63f44d-5119-446e-bf71-9df46f22dd0c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12344,6 +13084,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1889992129",
+     "spotify": "25nbeJzxF3dwvtTq57QKZi",
      "bpm": 135,
      "tags": {
       "genre": [
@@ -12360,12 +13101,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Amy Allen",
+       "Daniel Nigro",
+       "Olivia Rodrigo"
+      ],
+      "composer": [
+       "Amy Allen",
+       "Daniel Nigro",
+       "Olivia Rodrigo"
+      ],
       "year": "2026",
-      "released": "2026-06-12",
+      "released": "2026-06-16",
       "label": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
+      "isrc": "USUG12605867",
       "copyright": "℗ 2026 Olivia Rodrigo, under exclusive license to Geffen Records",
+      "mb": "33776044-38aa-4113-b245-2573c3aeeed0",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12391,12 +13145,41 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Natalie Hemby",
+       "Lady Gaga",
+       "Hillary Lindsey",
+       "Lori McKenna"
+      ],
+      "composer": [
+       "Natalie Hemby",
+       "Lady Gaga",
+       "Hillary Lindsey",
+       "Lori McKenna"
+      ],
+      "producer": [
+       "Dave Cobb",
+       "Lady Gaga"
+      ],
+      "mix": [
+       "Brandon Bost",
+       "Tom Elmhirst"
+      ],
+      "recording": [
+       "Bo Bodnar",
+       "Gena Johnson",
+       "Benjamin Rice",
+       "Eddie Spear"
+      ],
       "year": "2018",
-      "released": "2018-10-05",
+      "released": "2018-10-04",
       "label": "Interscope Records",
       "album": "A Star Is Born Soundtrack",
+      "isrc": "USUM71813195",
       "copyright": "This Compilation ℗ 2018 Interscope Records",
+      "mb": "101b0830-bca9-4db0-b444-3ba254177998",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12425,12 +13208,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Justin Bieber",
+       "benny blanco",
+       "Ed Sheeran"
+      ],
+      "composer": [
+       "Justin Bieber",
+       "benny blanco",
+       "Ed Sheeran"
+      ],
       "year": "2015",
       "released": "2015-11-09",
       "label": "Def Jam Recordings",
       "album": "Purpose (Deluxe)",
+      "isrc": "USUM72202846",
       "copyright": "℗ 2015 Def Jam Recordings, a division of UMG Recordings, Inc.",
+      "mb": "fb7b80f0-b618-4e1f-92be-f74115b6b689",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12458,12 +13254,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Andrew Cedar",
+       "DJ Frank E",
+       "Charlie Puth",
+       "Wiz Khalifa"
+      ],
+      "composer": [
+       "Andrew Cedar",
+       "DJ Frank E",
+       "Charlie Puth",
+       "Wiz Khalifa"
+      ],
       "year": "2015",
       "released": "2015-03-10",
       "label": "This compilation 2015 Universal Studios and Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States",
       "album": "Furious 7 (Original Motion Picture Soundtrack) [Deluxe Version]",
+      "isrc": "USAT22212071",
       "copyright": "℗ This compilation 2015 Universal Studios and Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+      "mb": "0c594ffe-4be7-4750-9f48-2f077fd7f506",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12478,6 +13289,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/6812894907",
+     "spotify": "5GKBPdWbW4RQtx9VkQ6xKO",
      "bpm": 137,
      "tags": {
       "genre": [
@@ -12496,11 +13308,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-09-09",
+      "released": "2026-09-17",
       "label": "ROSÉ",
       "album": "new trick - Single",
+      "isrc": "USAT22606409",
       "copyright": "℗ 2026 ROSÉ under exclusive license to Atlantic Recording Corporation for the World excluding Korea",
+      "mb": "afe63650-f900-45de-b737-dae148c714f6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12536,11 +13351,13 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-01-27",
+      "released": "2026-07-06",
       "label": "Cube Entertainment, Inc",
       "album": "Mono (feat. skaiwater) - Single",
       "copyright": "℗ 2026 Cube Entertainment, Inc. under exclusive license to BMG Rights Management (US) LLC",
+      "mb": "79fb4e38-0299-4107-adb9-dc37dddf2b5d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12571,12 +13388,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Selena Gomez",
+       "Jacob Kasher",
+       "Charlie Puth"
+      ],
+      "composer": [
+       "Selena Gomez",
+       "Jacob Kasher",
+       "Charlie Puth"
+      ],
       "year": "2016",
-      "released": "2016-01-29",
+      "released": "2016-08-02",
       "label": "Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
       "album": "Nine Track Mind (Special Edition)",
       "copyright": "℗ 2016 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+      "mb": "e2b461c6-b232-4b69-b6f9-db06a414826b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12591,6 +13420,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1468058171",
+     "spotify": "1BxfuPKGuaTgP7aM0Bbdwr",
      "bpm": 85,
      "tags": {
       "mood": [
@@ -12605,12 +13435,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Jack Antonoff",
+       "St. Vincent",
+       "Taylor Swift"
+      ],
+      "composer": [
+       "Jack Antonoff",
+       "St. Vincent",
+       "Taylor Swift"
+      ],
       "year": "2019",
       "released": "2019-08-23",
       "label": "Taylor Swift",
       "album": "Lover",
+      "isrc": "USUG12305722",
       "copyright": "℗ 2019 Taylor Swift",
+      "mb": "6624980c-4eff-444d-9e75-66f756a58ccd",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12625,6 +13468,7 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/6820694260",
+     "spotify": "2SsR0sFUhVlWIyjjlcRDnw",
      "bpm": 104,
      "tags": {
       "genre": [
@@ -12645,7 +13489,9 @@
       "label": "Republic Records",
       "album": "Just Your Type",
       "copyright": "℗ 2026 Republic Records, a division of UMG Recordings, Inc./Wexler Records",
+      "mb": "7e26abbf-4bd5-4209-baf9-d031379246a2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12737,12 +13583,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Robin Davies",
+       "Jahmeelah Lamb‐Rahming"
+      ],
+      "composer": [
+       "Robin Davies",
+       "Jahmeelah Lamb‐Rahming"
+      ],
+      "producer": [
+       "Pinkfong"
+      ],
       "year": "2017",
       "released": "2017-07-27",
       "label": "Smart Study Co., Ltd",
       "album": "Pinkfong Animal Songs",
+      "isrc": "KRE671700001",
       "copyright": "℗ 2017 Smart Study Co., Ltd.",
+      "mb": "4d19d9d5-9174-4037-9dec-21b6c2cbcbb9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12812,6 +13672,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1193701400",
+     "spotify": "0tgVpDi06FyKpA1z0VMD4v",
      "bpm": 190,
      "tags": {
       "genre": [
@@ -12824,12 +13685,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Ed Sheeran"
+      ],
+      "composer": [
+       "Ed Sheeran"
+      ],
       "year": "2017",
       "released": "2017-03-03",
       "label": "Asylum Records UK",
       "album": "÷ (Deluxe)",
+      "isrc": "GBAHS1700023",
       "copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
+      "mb": "c1278fab-44ea-432e-a9c2-862c68f453af",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12891,6 +13761,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1822714116",
+     "spotify": "3AjfuVk6olyesS7cVfofBE",
      "bpm": 133,
      "tags": {
       "genre": [
@@ -12911,8 +13782,11 @@
       "released": "2025-07-01",
       "label": "YG Entertainment",
       "album": "HOT SAUCE - Single",
+      "isrc": "KRA402400090",
       "copyright": "℗ 2025 YG Entertainment",
+      "mb": "3f5e380b-3ca8-4d65-b56d-da0ae3b2c3a4",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12990,7 +13864,7 @@
    ],
    "period_key": "2026-10-30_2026-11-05",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:49+08:00",
+   "fetched_at": "2026-11-08T17:58:16+08:00",
    "stale": false
   },
   {
@@ -13134,6 +14008,21 @@
      "apple": "jp/6817316271",
      "spotify": "19XtWJTyMKMfLYUec3FlHx",
      "bpm": 125,
+     "range": {
+      "low": 57,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Jazzdance",
@@ -13190,6 +14079,21 @@
      "apple": "tw/1520198760",
      "spotify": "62Lv9WcrfzJqhvYDbilJy3",
      "bpm": 90,
+     "range": {
+      "low": 60,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable"
@@ -13290,6 +14194,19 @@
      "apple": "tw/1542182767",
      "spotify": "0T4AitQuq8IJhWBWuZwkFA",
      "bpm": 135,
+     "range": {
+      "low": 55,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "high"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Synth-pop"
@@ -14033,6 +14950,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1263790415",
+     "spotify": "7pcTLUekZJQnzDOUDuExVJ",
      "bpm": 96,
      "tags": {
       "genre": [
@@ -14046,12 +14964,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "田中隼人",
+       "米津玄師"
+      ],
       "year": "2017",
-      "released": "2017-08-16",
+      "released": "2017-08-10",
       "label": "TOY'S FACTORY",
       "album": "打上花火 - Single",
+      "isrc": "JPTF01710201",
       "copyright": "℗ 2017 TOY'S FACTORY",
+      "mb": "fb7c0b90-55ed-40e7-b77c-e37013cd874e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14099,6 +15030,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "tw/1838917139",
+     "spotify": "6kjnGjYMk9YAtH1BMD311b",
      "bpm": 87,
      "tags": {
       "genre": [
@@ -14113,12 +15045,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Taka"
+      ],
+      "composer": [
+       "Taka"
+      ],
+      "arranger": [
+       "是永巧一",
+       "ONE OK ROCK"
+      ],
       "year": "2010",
       "released": "2010-06-09",
       "label": "A-Sketch Inc",
       "album": "Niche Syndrome",
+      "isrc": "JPJ221000176",
       "copyright": "℗ 2010 A-Sketch Inc.",
+      "mb": "166d9527-d416-47e1-a608-42e71ff51b91",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14186,6 +15131,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6796579286",
+     "spotify": "0n4Vh3ndK96W7XySl6XpLf",
      "bpm": 139,
      "tags": {
       "genre": [
@@ -14198,12 +15144,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "LOAR",
+       "SHO"
+      ],
+      "composer": [
+       "LOAR",
+       "SHO"
+      ],
+      "arranger": [
+       "SHO"
+      ],
+      "mix": [
+       "VIS"
+      ],
       "year": "2026",
-      "released": "2026-08-23",
+      "released": "2026-07-25",
       "label": "Sony Music Labels Inc",
       "album": "螺旋 - RASEN - Acoustic Ver. - - Single",
+      "isrc": "JPU902602606",
       "copyright": "℗ 2026 Sony Music Labels Inc.",
+      "mb": "af74e947-5fdb-4619-aa30-7d3a13e9c8ac",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14342,11 +15305,14 @@
      },
      "info": {
       "year": "2022",
-      "released": "2022-01-31",
+      "released": "2022-12-07",
       "label": "TTT",
       "album": "13月1日 - EP",
+      "isrc": "TCJPQ2286232",
       "copyright": "℗ 2022 TTT",
+      "mb": "9f4004f5-33a1-4875-873c-d167b06a68f9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14377,7 +15343,9 @@
       "label": "YOASOBI",
       "album": "勇者 - Single",
       "copyright": "℗ 2023 YOASOBI",
+      "mb": "40b266c4-4bc3-40c3-8a39-f75184a1c75e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14392,6 +15360,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1555177261",
+     "spotify": "7uSLJCDetmdm3tQcoYLyty",
      "bpm": 86,
      "tags": {
       "genre": [
@@ -14402,12 +15371,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "藤井風"
+      ],
+      "composer": [
+       "藤井風"
+      ],
+      "producer": [
+       "小島裕規"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2021",
       "released": "2021-03-01",
       "label": "A UNIVERSAL SIGMA / HEHN RECORDS release; ℗ 2021 UNIVERSAL MUSIC LLC",
       "album": "旅路 - Single",
+      "isrc": "JPPO02100112",
       "copyright": "A UNIVERSAL SIGMA / HEHN RECORDS release; ℗ 2021 UNIVERSAL MUSIC LLC",
+      "mb": "4ffbba89-f63a-438a-b032-cf040641c196",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14505,12 +15492,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Ayase"
+      ],
+      "composer": [
+       "Ayase"
+      ],
       "year": "2020",
       "released": "2020-01-18",
       "label": "YOASOBI",
       "album": "あの夢をなぞって - Single",
       "copyright": "℗ 2020 YOASOBI",
+      "mb": "ca415561-6c61-44e8-9b67-46d0c0fcb198",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14633,6 +15628,7 @@
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1531847485",
+     "spotify": "0cSkn2l67csUljEy0EEBPn",
      "bpm": 76,
      "tags": {
       "instrument": [
@@ -14643,12 +15639,32 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "梶浦由記",
+       "LiSA"
+      ],
+      "composer": [
+       "梶浦由記"
+      ],
+      "arranger": [
+       "梶浦由記"
+      ],
+      "mix": [
+       "小岩孝志"
+      ],
+      "recording": [
+       "小岩孝志",
+       "村上宣之"
+      ],
       "year": "2020",
       "released": "2020-10-12",
       "label": "Sony Music Labels Inc",
       "album": "炎 - EP",
+      "isrc": "JPU902002290",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "42242028-2d98-4651-aec5-5cb06da85975",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14884,6 +15900,7 @@
      "is_new": false,
      "genre": "Alternative",
      "apple": "tw/1716523329",
+     "spotify": "0GWNtMohuYUEHVZ40tcnHF",
      "bpm": 117,
      "tags": {
       "mood": [
@@ -14897,12 +15914,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "常田大希"
+      ],
+      "composer": [
+       "常田大希"
+      ],
+      "arranger": [
+       "King Gnu"
+      ],
       "year": "2023",
-      "released": "2023-11-29",
+      "released": "2023-09-01",
       "label": "Sony Music Labels Inc",
       "album": "THE GREATEST UNKNOWN",
+      "isrc": "JPU902303303",
       "copyright": "℗ 2023 Sony Music Labels Inc.",
+      "mb": "d1f278cc-9adf-4a60-9a8f-5bc3fe1c917a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14952,7 +15981,7 @@
    ],
    "period_key": "2026-11-07",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:52+08:00",
+   "fetched_at": "2026-11-08T17:58:18+08:00",
    "stale": false
   },
   {
@@ -15096,6 +16125,21 @@
      "apple": "tw/1520198760",
      "spotify": "62Lv9WcrfzJqhvYDbilJy3",
      "bpm": 90,
+     "range": {
+      "low": 60,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable"
@@ -15126,6 +16170,19 @@
      "apple": "tw/1542182767",
      "spotify": "0T4AitQuq8IJhWBWuZwkFA",
      "bpm": 135,
+     "range": {
+      "low": 55,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "high"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Synth-pop"
@@ -16029,6 +17086,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6796579286",
+     "spotify": "0n4Vh3ndK96W7XySl6XpLf",
      "bpm": 139,
      "tags": {
       "genre": [
@@ -16041,12 +17099,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "LOAR",
+       "SHO"
+      ],
+      "composer": [
+       "LOAR",
+       "SHO"
+      ],
+      "arranger": [
+       "SHO"
+      ],
+      "mix": [
+       "VIS"
+      ],
       "year": "2026",
-      "released": "2026-08-23",
+      "released": "2026-07-25",
       "label": "Sony Music Labels Inc",
       "album": "螺旋 - RASEN - Acoustic Ver. - - Single",
+      "isrc": "JPU902602606",
       "copyright": "℗ 2026 Sony Music Labels Inc.",
+      "mb": "af74e947-5fdb-4619-aa30-7d3a13e9c8ac",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16061,6 +17136,7 @@
      "is_new": true,
      "genre": "J-Pop",
      "apple": "jp/1555177261",
+     "spotify": "7uSLJCDetmdm3tQcoYLyty",
      "bpm": 86,
      "tags": {
       "genre": [
@@ -16071,12 +17147,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "藤井風"
+      ],
+      "composer": [
+       "藤井風"
+      ],
+      "producer": [
+       "小島裕規"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2021",
       "released": "2021-03-01",
       "label": "A UNIVERSAL SIGMA / HEHN RECORDS release; ℗ 2021 UNIVERSAL MUSIC LLC",
       "album": "旅路 - Single",
+      "isrc": "JPPO02100112",
       "copyright": "A UNIVERSAL SIGMA / HEHN RECORDS release; ℗ 2021 UNIVERSAL MUSIC LLC",
+      "mb": "4ffbba89-f63a-438a-b032-cf040641c196",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16166,6 +17260,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "tw/1838917139",
+     "spotify": "6kjnGjYMk9YAtH1BMD311b",
      "bpm": 87,
      "tags": {
       "genre": [
@@ -16180,12 +17275,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Taka"
+      ],
+      "composer": [
+       "Taka"
+      ],
+      "arranger": [
+       "是永巧一",
+       "ONE OK ROCK"
+      ],
       "year": "2010",
       "released": "2010-06-09",
       "label": "A-Sketch Inc",
       "album": "Niche Syndrome",
+      "isrc": "JPJ221000176",
       "copyright": "℗ 2010 A-Sketch Inc.",
+      "mb": "166d9527-d416-47e1-a608-42e71ff51b91",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16202,6 +17310,21 @@
      "apple": "jp/6817316271",
      "spotify": "19XtWJTyMKMfLYUec3FlHx",
      "bpm": 125,
+     "range": {
+      "low": 57,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Jazzdance",
@@ -16256,6 +17379,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1263790415",
+     "spotify": "7pcTLUekZJQnzDOUDuExVJ",
      "bpm": 96,
      "tags": {
       "genre": [
@@ -16269,12 +17393,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "田中隼人",
+       "米津玄師"
+      ],
       "year": "2017",
-      "released": "2017-08-16",
+      "released": "2017-08-10",
       "label": "TOY'S FACTORY",
       "album": "打上花火 - Single",
+      "isrc": "JPTF01710201",
       "copyright": "℗ 2017 TOY'S FACTORY",
+      "mb": "fb7c0b90-55ed-40e7-b77c-e37013cd874e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16329,12 +17466,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Ayase"
+      ],
+      "composer": [
+       "Ayase"
+      ],
       "year": "2020",
       "released": "2020-01-18",
       "label": "YOASOBI",
       "album": "あの夢をなぞって - Single",
       "copyright": "℗ 2020 YOASOBI",
+      "mb": "ca415561-6c61-44e8-9b67-46d0c0fcb198",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16590,7 +17735,9 @@
       "label": "YOASOBI",
       "album": "勇者 - Single",
       "copyright": "℗ 2023 YOASOBI",
+      "mb": "40b266c4-4bc3-40c3-8a39-f75184a1c75e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16605,6 +17752,7 @@
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1531847485",
+     "spotify": "0cSkn2l67csUljEy0EEBPn",
      "bpm": 76,
      "tags": {
       "instrument": [
@@ -16615,12 +17763,32 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "梶浦由記",
+       "LiSA"
+      ],
+      "composer": [
+       "梶浦由記"
+      ],
+      "arranger": [
+       "梶浦由記"
+      ],
+      "mix": [
+       "小岩孝志"
+      ],
+      "recording": [
+       "小岩孝志",
+       "村上宣之"
+      ],
       "year": "2020",
       "released": "2020-10-12",
       "label": "Sony Music Labels Inc",
       "album": "炎 - EP",
+      "isrc": "JPU902002290",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "42242028-2d98-4651-aec5-5cb06da85975",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16919,7 +18087,7 @@
    ],
    "period_key": "2026-10-30_2026-11-05",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:54+08:00",
+   "fetched_at": "2026-11-08T17:58:20+08:00",
    "stale": false
   },
   {
@@ -17028,6 +18196,21 @@
      "apple": "tw/6804744599",
      "spotify": "3Vqe75qMPQP62qE3zr9WLg",
      "bpm": 120,
+     "range": {
+      "low": 57,
+      "high": 76,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -4,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Indie Pop",
@@ -17068,6 +18251,19 @@
      "apple": "tw/6770401926",
      "spotify": "55UDXtbNJBAdTdUdbRu8T3",
      "bpm": 124,
+     "range": {
+      "low": 49,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Trap"
@@ -17928,6 +19124,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1887194026",
+     "spotify": "1D5L58KLBbceOynTP4DQnY",
      "bpm": 147,
      "tags": {
       "genre": [
@@ -17946,8 +19143,11 @@
       "released": "2026-04-30",
       "label": "BELIFT LAB",
       "album": "MAMIHLAPINATAPAI - EP",
+      "isrc": "USA2P2617168",
       "copyright": "℗ 2026 BELIFT LAB",
+      "mb": "7f5a68ff-7751-4bcc-a09a-dabcc4137552",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17962,6 +19162,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1893599773",
+     "spotify": "6vjt2smGK75oc9r2OGFfgp",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -17981,11 +19182,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-05-28",
+      "released": "2026-05-29",
       "label": "SM Entertainment",
       "album": "LEMONADE - The 2nd Album",
+      "isrc": "KRA302600109",
       "copyright": "℗ 2026 SM Entertainment",
+      "mb": "cd196483-8b86-4516-843d-ccf596cb61d9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18020,8 +19224,11 @@
       "released": "2025-07-08",
       "label": "SM Entertainment",
       "album": "Super Junior25 - The 12th Album",
+      "isrc": "KRA302500305",
       "copyright": "℗ 2025 SM Entertainment",
+      "mb": "0fb66cc2-9da2-4bb0-8641-02fb94afd484",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18053,11 +19260,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-10-20",
+      "released": "2026-10-18",
       "label": "Riot Games, Inc",
       "album": "FIRESTARTER (feat. Sophie Powers, MIYEON & SOYEON) - Single",
+      "isrc": "QZH6S1901232",
       "copyright": "℗ 2026 Riot Games, Inc.",
+      "mb": "16bda263-969e-4a80-a648-f56ea9c34657",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18072,6 +19282,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "jp/6828335406",
+     "spotify": "6GNvsmhrkdPp5skYLq42nY",
      "bpm": 164,
      "tags": {
       "genre": [
@@ -18092,7 +19303,9 @@
       "label": "The Muze Entertainment",
       "album": "PULSE - EP",
       "copyright": "℗ 2026 The Muze Entertainment",
+      "mb": "ef977911-0feb-4fa7-8eaa-0e70514b4e9f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18107,6 +19320,7 @@
      "is_new": false,
      "genre": "Dance",
      "apple": "tw/1773262055",
+     "spotify": "198zDKzyktXRG1PGpidY9h",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -18123,12 +19337,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "AiRPLAY",
+       "Choice37",
+       "Masta Wu",
+       "Sonny",
+       "Sandra Wikström",
+       "양현석"
+      ],
+      "composer": [
+       "AiRPLAY",
+       "G‐DRAGON",
+       "Sandra Wikström",
+       "차일준"
+      ],
+      "arranger": [
+       "AiRPLAY",
+       "양현석",
+       "차일준"
+      ],
       "year": "2024",
       "released": "2024-11-01",
       "label": "YG Entertainment",
       "album": "DRIP",
+      "isrc": "KRA402400056",
       "copyright": "℗ 2024 YG Entertainment",
+      "mb": "08ee1722-03ce-45be-bc48-27f236b53901",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18160,12 +19396,19 @@
       ]
      },
      "info": {
+      "arranger": [
+       "Neil Ormandy",
+       "Shift K3Y"
+      ],
       "year": "2024",
       "released": "2024-10-21",
       "label": "SM Entertainment",
       "album": "Whiplash - The 5th Mini Album - EP",
+      "isrc": "KRA302500056",
       "copyright": "℗ 2024 SM Entertainment",
+      "mb": "f91a53c1-59fb-4b3f-80dc-da094675cddf",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18192,12 +19435,32 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "네이슨",
+       "서정아",
+       "Tao Tianran"
+      ],
+      "composer": [
+       "Coll' 8va",
+       "진리",
+       "이유라",
+       "네이슨",
+       "Roar",
+       "SKINNER BOX"
+      ],
+      "arranger": [
+       "네이슨",
+       "Roar"
+      ],
       "year": "2026",
-      "released": "2026-03-11",
+      "released": "2026-04-25",
       "label": "YH ENTERTAINMENT",
       "album": "LOVE CATCHER - EP",
+      "isrc": "KRMIM2627090",
       "copyright": "℗ 2026 YH ENTERTAINMENT",
+      "mb": "7186d1fe-3d37-4992-bb9b-8971ac8e07d1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18232,8 +19495,11 @@
       "released": "2012-03-07",
       "label": "AVEX ENTERTAINMENT INC",
       "album": "ALIVE -MONSTER EDITION-",
+      "isrc": "JPB601603193",
       "copyright": "℗ 2012 AVEX ENTERTAINMENT INC.",
+      "mb": "fb478ef4-f4da-4e93-ab3d-370d43dc3c4f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18265,11 +19531,14 @@
      },
      "info": {
       "year": "2025",
-      "released": "2025-07-11",
+      "released": "2025-12-05",
       "label": "YG Entertainment",
       "album": "JUMP - Single",
+      "isrc": "US23A9233557",
       "copyright": "℗ 2025 YG Entertainment",
+      "mb": "8bbec865-8527-4a28-993a-8c81caf3e6ea",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18304,8 +19573,11 @@
       "released": "2026-09-28",
       "label": "THEBLACKLABEL",
       "album": "CRASH - EP",
+      "isrc": "KSA002652375",
       "copyright": "℗ 2026 THEBLACKLABEL",
+      "mb": "c50c4369-e70b-46ca-81ff-77c82a70fcc8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18320,6 +19592,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6814696407",
+     "spotify": "7DSRgwsNdSEVIwAND74XH4",
      "bpm": 82,
      "tags": {
       "mood": [
@@ -18833,7 +20106,7 @@
    ],
    "period_key": "2026-11-07",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:55+08:00",
+   "fetched_at": "2026-11-08T17:58:22+08:00",
    "stale": false
   },
   {
@@ -18969,6 +20242,21 @@
      "apple": "tw/6804744599",
      "spotify": "3Vqe75qMPQP62qE3zr9WLg",
      "bpm": 120,
+     "range": {
+      "low": 57,
+      "high": 76,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -4,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Indie Pop",
@@ -19009,6 +20297,19 @@
      "apple": "tw/6770401926",
      "spotify": "55UDXtbNJBAdTdUdbRu8T3",
      "bpm": 124,
+     "range": {
+      "low": 49,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Trap"
@@ -19790,8 +21091,11 @@
       "released": "2025-07-08",
       "label": "SM Entertainment",
       "album": "Super Junior25 - The 12th Album",
+      "isrc": "KRA302500305",
       "copyright": "℗ 2025 SM Entertainment",
+      "mb": "0fb66cc2-9da2-4bb0-8641-02fb94afd484",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19862,11 +21166,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-10-20",
+      "released": "2026-10-18",
       "label": "Riot Games, Inc",
       "album": "FIRESTARTER (feat. Sophie Powers, MIYEON & SOYEON) - Single",
+      "isrc": "QZH6S1901232",
       "copyright": "℗ 2026 Riot Games, Inc.",
+      "mb": "16bda263-969e-4a80-a648-f56ea9c34657",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19881,6 +21188,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1887194026",
+     "spotify": "1D5L58KLBbceOynTP4DQnY",
      "bpm": 147,
      "tags": {
       "genre": [
@@ -19899,8 +21207,11 @@
       "released": "2026-04-30",
       "label": "BELIFT LAB",
       "album": "MAMIHLAPINATAPAI - EP",
+      "isrc": "USA2P2617168",
       "copyright": "℗ 2026 BELIFT LAB",
+      "mb": "7f5a68ff-7751-4bcc-a09a-dabcc4137552",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19915,6 +21226,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1893599773",
+     "spotify": "6vjt2smGK75oc9r2OGFfgp",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -19934,11 +21246,14 @@
      },
      "info": {
       "year": "2026",
-      "released": "2026-05-28",
+      "released": "2026-05-29",
       "label": "SM Entertainment",
       "album": "LEMONADE - The 2nd Album",
+      "isrc": "KRA302600109",
       "copyright": "℗ 2026 SM Entertainment",
+      "mb": "cd196483-8b86-4516-843d-ccf596cb61d9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19953,6 +21268,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6815077041",
+     "spotify": "4faIhI9ngcSxIeAmGZnMpA",
      "bpm": 98,
      "tags": {
       "mood": [
@@ -19983,6 +21299,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6814696407",
+     "spotify": "7DSRgwsNdSEVIwAND74XH4",
      "bpm": 82,
      "tags": {
       "mood": [
@@ -20013,6 +21330,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/6815077313",
+     "spotify": "6INW8FjD193sy80NIRUcUd",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -20068,8 +21386,11 @@
       "released": "2012-03-07",
       "label": "AVEX ENTERTAINMENT INC",
       "album": "ALIVE -MONSTER EDITION-",
+      "isrc": "JPB601603193",
       "copyright": "℗ 2012 AVEX ENTERTAINMENT INC.",
+      "mb": "fb478ef4-f4da-4e93-ab3d-370d43dc3c4f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20196,12 +21517,19 @@
       ]
      },
      "info": {
+      "arranger": [
+       "Neil Ormandy",
+       "Shift K3Y"
+      ],
       "year": "2024",
       "released": "2024-10-21",
       "label": "SM Entertainment",
       "album": "Whiplash - The 5th Mini Album - EP",
+      "isrc": "KRA302500056",
       "copyright": "℗ 2024 SM Entertainment",
+      "mb": "f91a53c1-59fb-4b3f-80dc-da094675cddf",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20302,8 +21630,11 @@
       "released": "2026-09-28",
       "label": "THEBLACKLABEL",
       "album": "CRASH - EP",
+      "isrc": "KSA002652375",
       "copyright": "℗ 2026 THEBLACKLABEL",
+      "mb": "c50c4369-e70b-46ca-81ff-77c82a70fcc8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20420,6 +21751,7 @@
      "is_new": false,
      "genre": "Dance",
      "apple": "tw/1773262055",
+     "spotify": "198zDKzyktXRG1PGpidY9h",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -20436,12 +21768,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "AiRPLAY",
+       "Choice37",
+       "Masta Wu",
+       "Sonny",
+       "Sandra Wikström",
+       "양현석"
+      ],
+      "composer": [
+       "AiRPLAY",
+       "G‐DRAGON",
+       "Sandra Wikström",
+       "차일준"
+      ],
+      "arranger": [
+       "AiRPLAY",
+       "양현석",
+       "차일준"
+      ],
       "year": "2024",
       "released": "2024-11-01",
       "label": "YG Entertainment",
       "album": "DRIP",
+      "isrc": "KRA402400056",
       "copyright": "℗ 2024 YG Entertainment",
+      "mb": "08ee1722-03ce-45be-bc48-27f236b53901",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20534,11 +21888,14 @@
      },
      "info": {
       "year": "2025",
-      "released": "2025-07-11",
+      "released": "2025-12-05",
       "label": "YG Entertainment",
       "album": "JUMP - Single",
+      "isrc": "US23A9233557",
       "copyright": "℗ 2025 YG Entertainment",
+      "mb": "8bbec865-8527-4a28-993a-8c81caf3e6ea",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20724,7 +22081,7 @@
    ],
    "period_key": "2026-10-30_2026-11-05",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:57+08:00",
+   "fetched_at": "2026-11-08T17:58:23+08:00",
    "stale": false
   },
   {
@@ -20855,6 +22212,19 @@
      "apple": "tw/1443375396",
      "spotify": "3ftmO1Cwbew497pFiWiyAH",
      "bpm": 177,
+     "range": {
+      "low": 54,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -21254,6 +22624,19 @@
      "apple": "tw/6823209293",
      "spotify": "5fiN4IOzzFcGBotGMetr4H",
      "bpm": 68,
+     "range": {
+      "low": 53,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "instrument": [
        "electricguitar"
@@ -21591,6 +22974,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1478244678",
+     "spotify": "0M8r6Fy0GIBOQzuF9CJEAl",
      "bpm": 154,
      "tags": {
       "genre": [
@@ -21605,12 +22989,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "長谷川集平"
+      ],
+      "composer": [
+       "長谷川集平"
+      ],
       "year": "1991",
       "released": "1991-01-01",
       "label": "Universal Music Ltd",
       "album": "Custom Made",
+      "isrc": "HKD252300132",
       "copyright": "This Compilation ℗ 2004 Universal Music Ltd.",
+      "mb": "b1ae83f2-f5c5-4747-9ec9-8cf308506215",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21711,6 +23104,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/651449680",
+     "spotify": "3xSCLxQ5YLyW9ae76m0sPB",
      "bpm": 140,
      "tags": {
       "mood": [
@@ -21723,12 +23117,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "徐偉賢"
+      ],
       "year": "2003",
       "released": "2003-07-22",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "陳奕迅 廣東精選",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "599c7fbb-7298-4460-ae77-252592762c6c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21743,6 +23145,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/201576167",
+     "spotify": "7jbEmYSciVOLX605a2P14Q",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -21756,12 +23159,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝",
+       "黃家駒"
+      ],
+      "composer": [
+       "黃家駒"
+      ],
       "year": "1993",
       "released": "1993-05-01",
       "label": "Warner Music Hong Kong Ltd",
       "album": "Rock'n'Roll",
+      "isrc": "HKI499327210",
       "copyright": "℗ 1992 Warner Music Hong Kong Ltd.",
+      "mb": "53f66eb5-72be-4444-9d89-ba01dddbd4fb",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21862,6 +23275,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/667921841",
+     "spotify": "2AllsVsmrJkEwXPXwDBCQu",
      "bpm": 130,
      "tags": {
       "mood": [
@@ -21874,12 +23288,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃偉文"
+      ],
+      "composer": [
+       "柳重言"
+      ],
       "year": "2002",
       "released": "2002-01-15",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "2013 陳奕迅 Music Life 精選",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "e9e02779-26f1-4063-a1d3-3a75b7b13f54",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21901,12 +23323,33 @@
       ]
      },
      "info": {
-      "year": "1988",
-      "released": "1988-01-01",
+      "lyricist": [
+       "吉元由美"
+      ],
+      "composer": [
+       "河合奈保子"
+      ],
+      "arranger": [
+       "杜自持"
+      ],
+      "producer": [
+       "黃祖輝"
+      ],
+      "mix": [
+       "黃祖輝"
+      ],
+      "recording": [
+       "黃祖輝"
+      ],
+      "year": "1987",
+      "released": "1987",
       "label": "PolyGram Records Ltd. Hong Kong",
       "album": "命運符號",
+      "isrc": "HKA619900122",
       "copyright": "℗ 1988 PolyGram Records Ltd. Hong Kong",
+      "mb": "3be2c92e-b99b-4650-a0b4-c931f7523d6b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -22056,12 +23499,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "陳小霞"
+      ],
       "year": "2000",
       "released": "2000-01-01",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "2013 陳奕迅 Music Life 精選",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "f467c0dc-838a-41a3-864f-1704ac68294b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -22124,12 +23575,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "李克勤"
+      ],
+      "composer": [
+       "立川俊之"
+      ],
       "year": "1992",
       "released": "1992-01-01",
       "label": "PolyGram Records Ltd. Hong Kong",
       "album": "紅日",
       "copyright": "℗ 1992 PolyGram Records Ltd. Hong Kong",
+      "mb": "a9bbaea4-d977-4695-b7e8-309fbee4b77e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -22208,6 +23667,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1750631769",
+     "spotify": "0UAjKoYNJMiFNOZXn9mjUx",
      "bpm": 66,
      "tags": {
       "genre": [
@@ -22221,7 +23681,9 @@
       "label": "Sony Music Entertainment Taiwan Ltd",
       "album": "一天一點愛戀",
       "copyright": "℗ 1993 Sony Music Entertainment Taiwan Ltd.",
+      "mb": "08c44464-88d9-4edc-a2f2-d50b84e05e9f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -22265,6 +23727,21 @@
      "apple": "tw/1464504134",
      "spotify": "2xsfwyT49o2OCoPieXMxQC",
      "bpm": 74,
+     "range": {
+      "low": 52,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "info": {
       "lyricist": [
        "黃家駒"
@@ -22341,12 +23818,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "謝霆鋒"
+      ],
       "year": "2001",
       "released": "2001-05-22",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "玉蝴蝶",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "33677049-98f9-46a8-88b5-caa530cd6a58",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -22623,7 +24108,7 @@
    ],
    "period_key": "2026-11-07",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:59+08:00",
+   "fetched_at": "2026-11-08T17:58:25+08:00",
    "stale": false
   },
   {
@@ -22754,6 +24239,19 @@
      "apple": "tw/1443375396",
      "spotify": "3ftmO1Cwbew497pFiWiyAH",
      "bpm": 177,
+     "range": {
+      "low": 54,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -22793,6 +24291,19 @@
      "apple": "tw/6823209293",
      "spotify": "5fiN4IOzzFcGBotGMetr4H",
      "bpm": 68,
+     "range": {
+      "low": 53,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "instrument": [
        "electricguitar"
@@ -23573,6 +25084,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1478244678",
+     "spotify": "0M8r6Fy0GIBOQzuF9CJEAl",
      "bpm": 154,
      "tags": {
       "genre": [
@@ -23587,12 +25099,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "長谷川集平"
+      ],
+      "composer": [
+       "長谷川集平"
+      ],
       "year": "1991",
       "released": "1991-01-01",
       "label": "Universal Music Ltd",
       "album": "Custom Made",
+      "isrc": "HKD252300132",
       "copyright": "This Compilation ℗ 2004 Universal Music Ltd.",
+      "mb": "b1ae83f2-f5c5-4747-9ec9-8cf308506215",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23650,6 +25171,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1750631769",
+     "spotify": "0UAjKoYNJMiFNOZXn9mjUx",
      "bpm": 66,
      "tags": {
       "genre": [
@@ -23663,7 +25185,9 @@
       "label": "Sony Music Entertainment Taiwan Ltd",
       "album": "一天一點愛戀",
       "copyright": "℗ 1993 Sony Music Entertainment Taiwan Ltd.",
+      "mb": "08c44464-88d9-4edc-a2f2-d50b84e05e9f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23761,6 +25285,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/651449680",
+     "spotify": "3xSCLxQ5YLyW9ae76m0sPB",
      "bpm": 140,
      "tags": {
       "mood": [
@@ -23773,12 +25298,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "徐偉賢"
+      ],
       "year": "2003",
       "released": "2003-07-22",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "陳奕迅 廣東精選",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "599c7fbb-7298-4460-ae77-252592762c6c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23800,12 +25333,33 @@
       ]
      },
      "info": {
-      "year": "1988",
-      "released": "1988-01-01",
+      "lyricist": [
+       "吉元由美"
+      ],
+      "composer": [
+       "河合奈保子"
+      ],
+      "arranger": [
+       "杜自持"
+      ],
+      "producer": [
+       "黃祖輝"
+      ],
+      "mix": [
+       "黃祖輝"
+      ],
+      "recording": [
+       "黃祖輝"
+      ],
+      "year": "1987",
+      "released": "1987",
       "label": "PolyGram Records Ltd. Hong Kong",
       "album": "命運符號",
+      "isrc": "HKA619900122",
       "copyright": "℗ 1988 PolyGram Records Ltd. Hong Kong",
+      "mb": "3be2c92e-b99b-4650-a0b4-c931f7523d6b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23866,6 +25420,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/201576167",
+     "spotify": "7jbEmYSciVOLX605a2P14Q",
      "bpm": 72,
      "tags": {
       "genre": [
@@ -23879,12 +25434,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝",
+       "黃家駒"
+      ],
+      "composer": [
+       "黃家駒"
+      ],
       "year": "1993",
       "released": "1993-05-01",
       "label": "Warner Music Hong Kong Ltd",
       "album": "Rock'n'Roll",
+      "isrc": "HKI499327210",
       "copyright": "℗ 1992 Warner Music Hong Kong Ltd.",
+      "mb": "53f66eb5-72be-4444-9d89-ba01dddbd4fb",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23899,6 +25464,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/667921841",
+     "spotify": "2AllsVsmrJkEwXPXwDBCQu",
      "bpm": 130,
      "tags": {
       "mood": [
@@ -23911,12 +25477,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃偉文"
+      ],
+      "composer": [
+       "柳重言"
+      ],
       "year": "2002",
       "released": "2002-01-15",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "2013 陳奕迅 Music Life 精選",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "e9e02779-26f1-4063-a1d3-3a75b7b13f54",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23943,12 +25517,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "陳小霞"
+      ],
       "year": "2000",
       "released": "2000-01-01",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "2013 陳奕迅 Music Life 精選",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "f467c0dc-838a-41a3-864f-1704ac68294b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -23975,12 +25557,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "謝霆鋒"
+      ],
       "year": "2001",
       "released": "2001-05-22",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "玉蝴蝶",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "33677049-98f9-46a8-88b5-caa530cd6a58",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24006,12 +25596,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "李克勤"
+      ],
+      "composer": [
+       "立川俊之"
+      ],
       "year": "1992",
       "released": "1992-01-01",
       "label": "PolyGram Records Ltd. Hong Kong",
       "album": "紅日",
       "copyright": "℗ 1992 PolyGram Records Ltd. Hong Kong",
+      "mb": "a9bbaea4-d977-4695-b7e8-309fbee4b77e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24273,6 +25871,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1816674595",
+     "spotify": "56KAZ7TDmxSHw1L5gNvESi",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -24285,12 +25884,15 @@
       ]
      },
      "info": {
-      "year": "2026",
-      "released": "2026-03-26",
+      "year": "2025",
+      "released": "2025-06-09",
       "label": "Warner Music Hong Kong Limited",
       "album": "用背脊唱情歌 - Single",
+      "isrc": "HKI492550205",
       "copyright": "℗ 2024 Warner Music Hong Kong Limited",
+      "mb": "127dd106-aef9-4832-b25c-e93fd0f187a5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24526,7 +26128,7 @@
    ],
    "period_key": "2026-10-30_2026-11-05",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:24:01+08:00",
+   "fetched_at": "2026-11-08T17:58:27+08:00",
    "stale": false
   },
   {
@@ -24614,6 +26216,19 @@
      "apple": "tw/6815092483",
      "spotify": "2a3CGolEag3y3weurGvkLV",
      "bpm": 84,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Chiptune"
@@ -24648,6 +26263,19 @@
      "apple": "jp/6810189174",
      "spotify": "0ykKwja0lp6MSQKl71eT9C",
      "bpm": 74,
+     "range": {
+      "low": 60,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -24850,6 +26478,21 @@
      "apple": "tw/6819661934",
      "spotify": "3n2N7ohFW5m3ktFK7BYtkL",
      "bpm": 129,
+     "range": {
+      "low": 63,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -25356,6 +26999,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "tw/6822442326",
+     "spotify": "42vkACI3R96nMFmyoBd0ax",
      "bpm": 132,
      "tags": {
       "genre": [
@@ -25498,6 +27142,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6805034252",
+     "spotify": "5HN5xeeU37hdbs12PFyfR2",
      "bpm": 71,
      "tags": {
       "genre": [
@@ -25531,6 +27176,7 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6824906541",
+     "spotify": "4sut0wodsc2Vxm4HevjZpK",
      "bpm": 122,
      "tags": {
       "mood": [
@@ -25772,12 +27418,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "陳惠婷",
+       "Tizzy Bac"
+      ],
+      "composer": [
+       "陳惠婷",
+       "許哲毓",
+       "林前源",
+       "Tizzy Bac"
+      ],
+      "arranger": [
+       "陳彥奇",
+       "鍾承洋",
+       "Tizzy Bac"
+      ],
+      "producer": [
+       "Tizzy Bac",
+       "盧律銘"
+      ],
       "year": "2026",
       "released": "2026-11-03",
       "label": "Bin Music International Limited",
       "album": "You'll See_XX - Single",
+      "isrc": "TWK232684290",
       "copyright": "℗ 2026 Bin Music International Limited",
+      "mb": "ef2ffb17-c319-43ae-9f2d-06a189acd298",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -26341,7 +28009,7 @@
    ],
    "period_key": "2026-10-30_2026-11-05",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:24:04+08:00",
+   "fetched_at": "2026-11-08T17:58:29+08:00",
    "stale": false
   }
  ]

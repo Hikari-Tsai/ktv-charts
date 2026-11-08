@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-08T11:23:15+08:00",
+ "checked_at": "2026-11-08T17:57:43+08:00",
  "errors": [],
  "charts": [
   {
@@ -87,6 +87,17 @@
      "genre": "Mandopop",
      "apple": "tw/1815583986",
      "bpm": 77,
+     "range": {
+      "low": 42,
+      "high": 64,
+      "m": {
+       "v": "low"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -121,6 +132,19 @@
      "apple": "tw/536115199",
      "spotify": "56mzU03ZesV0iRroHR2K04",
      "bpm": 62,
+     "range": {
+      "low": 53,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -169,6 +193,19 @@
      "apple": "tw/905226305",
      "spotify": "7z2M7DsEjZjwXBkWG3zd21",
      "bpm": 68,
+     "range": {
+      "low": 56,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -555,6 +592,21 @@
      "apple": "tw/1806088704",
      "spotify": "3ZILOOFldKtW2C7sD3MYXi",
      "bpm": 85,
+     "range": {
+      "low": 60,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Gothic Metal",
@@ -734,6 +786,19 @@
      "apple": "tw/6780772534",
      "spotify": "7fr9imYju7AXYQa2b2ofGd",
      "bpm": 92,
+     "range": {
+      "low": 58,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Brit Pop",
@@ -1024,6 +1089,7 @@
      "kkbox": "-mkR_YsjyaWqX6JguC",
      "genre": "Mandopop",
      "apple": "tw/1834199249",
+     "spotify": "3LlQoKvVnkVvq3KC8anUn8",
      "bpm": 81,
      "tags": {
       "mood": [
@@ -1039,11 +1105,13 @@
      },
      "info": {
       "year": "2017",
-      "released": "2017-12-06",
+      "released": "2017-12-11",
       "label": "Mei Entertainment Ltd",
       "album": "偷故事的人",
       "copyright": "℗ 2017 Mei Entertainment Ltd",
+      "mb": "29ab2458-7177-4fe6-addf-20cf83648aa7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -1155,6 +1223,7 @@
      "kkbox": "H-kONd1aCJ6qxluKUC",
      "genre": "Mandopop",
      "apple": "tw/1442648689",
+     "spotify": "3NXr1tLoDTEjz5V13vbLXG",
      "bpm": 118,
      "tags": {
       "genre": [
@@ -1408,7 +1477,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:11+08:00",
+   "fetched_at": "2026-11-08T17:57:39+08:00",
    "stale": false
   },
   {
@@ -1498,6 +1567,19 @@
      "apple": "tw/1632587457",
      "spotify": "3MHs8CC273iKTyGLVrLwxG",
      "bpm": 72,
+     "range": {
+      "low": 47,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -1,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -1546,6 +1628,19 @@
      "apple": "tw/1731074668",
      "spotify": "30slz6D2PtbwDimGJaEVsH",
      "bpm": 66,
+     "range": {
+      "low": 55,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "sad",
@@ -1594,6 +1689,19 @@
      "apple": "tw/1445875932",
      "spotify": "4Vo0iTCUlkBfh1Xsx8o3wI",
      "bpm": 124,
+     "range": {
+      "low": 47,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -1976,6 +2084,19 @@
      "apple": "tw/1620985176",
      "spotify": "0ITqAC19p1USXCh6wtKkDb",
      "bpm": 109,
+     "range": {
+      "low": 55,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Folk"
@@ -2438,6 +2559,7 @@
      "kkbox": "5XoepcRfELRueWQKaS",
      "genre": "Tai-Pop",
      "apple": "tw/1673893555",
+     "spotify": "5weWNuFaevIYGbBBpHi7u7",
      "bpm": 112,
      "info": {
       "year": "2003",
@@ -2623,6 +2745,7 @@
      "kkbox": "LXC89y3RU4Yl51WzAv",
      "genre": "Taiwanese Folk",
      "apple": "tw/1689528098",
+     "spotify": "49escgLQOKMPWjjLWAFhxr",
      "bpm": 94,
      "tags": {
       "genre": [
@@ -2669,6 +2792,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1722002879",
+     "spotify": "6KHZz5pjgRJ3JSW0CERM2u",
      "bpm": 98,
      "tags": {
       "genre": [
@@ -2712,6 +2836,7 @@
      "kkbox": "T_qRi6PJ6ZmfU5CD6E",
      "genre": "Tai-Pop",
      "apple": "tw/905209961",
+     "spotify": "798BSvqw7wOL6HDboCWDR1",
      "bpm": 128,
      "tags": {
       "genre": [
@@ -2751,7 +2876,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:11+08:00",
+   "fetched_at": "2026-11-08T17:57:39+08:00",
    "stale": false
   },
   {
@@ -2820,6 +2945,19 @@
      "apple": "tw/1049581500",
      "spotify": "4iWvmSCZ0vw3darzWc1qkX",
      "bpm": 134,
+     "range": {
+      "low": 52,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2912,6 +3050,21 @@
      "apple": "tw/1464504134",
      "spotify": "2xsfwyT49o2OCoPieXMxQC",
      "bpm": 74,
+     "range": {
+      "low": 52,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "info": {
       "lyricist": [
        "黃家駒"
@@ -3140,6 +3293,19 @@
      "apple": "tw/1443375396",
      "spotify": "3ftmO1Cwbew497pFiWiyAH",
      "bpm": 177,
+     "range": {
+      "low": 54,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -3626,12 +3792,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "謝霆鋒"
+      ],
       "year": "2001",
       "released": "2001-05-22",
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "玉蝴蝶",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "33677049-98f9-46a8-88b5-caa530cd6a58",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3764,6 +3938,7 @@
      "kkbox": "9ZboLsgus_ZpFOhvCP",
      "genre": "Pop",
      "apple": "tw/894542926",
+     "spotify": "0SRpcoXfVIH9skFfbPzhg5",
      "bpm": 90,
      "tags": {
       "mood": [
@@ -3775,12 +3950,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "黃霑"
+      ],
+      "composer": [
+       "顧嘉煇"
+      ],
       "year": "1996",
       "released": "1996-01-01",
       "label": "East Asia Music (Holdings) Limited",
       "album": "新上海灘 (電影原聲大碟)",
       "copyright": "℗ 1996 East Asia Music (Holdings) Limited",
+      "mb": "f1e9438a-15c9-49b6-8b36-e03e6e6023c8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3794,6 +3977,7 @@
      "is_new": true,
      "genre": "Cantopop",
      "apple": "tw/1480627544",
+     "spotify": "2hBI3IgxXeVzjBEpodrmxq",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -3835,6 +4019,7 @@
      "kkbox": "-sXlK_5Tgs1-D0D9Sz",
      "genre": "Cantopop",
      "apple": "tw/1816674595",
+     "spotify": "56KAZ7TDmxSHw1L5gNvESi",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -3847,12 +4032,15 @@
       ]
      },
      "info": {
-      "year": "2026",
-      "released": "2026-03-26",
+      "year": "2025",
+      "released": "2025-06-09",
       "label": "Warner Music Hong Kong Limited",
       "album": "用背脊唱情歌 - Single",
+      "isrc": "HKI492550205",
       "copyright": "℗ 2024 Warner Music Hong Kong Limited",
+      "mb": "127dd106-aef9-4832-b25c-e93fd0f187a5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3866,6 +4054,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/201659625",
+     "spotify": "63TigVBn7rQlAUtnwD6sZT",
      "bpm": 136,
      "tags": {
       "mood": [
@@ -3879,7 +4068,9 @@
       "label": "Warner Music Hong Kong Ltd",
       "album": "狂野之城",
       "copyright": "℗ 1994 Warner Music Hong Kong Ltd.",
+      "mb": "d94839d8-fefa-48b6-9a26-9b3dda72b701",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3894,6 +4085,7 @@
      "kkbox": "Orpq8_UVf78HWeQCTE",
      "genre": "Cantopop",
      "apple": "tw/446760995",
+     "spotify": "1eId3TVzGrwv73YAWAVQMX",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -3908,12 +4100,33 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "林夕"
+      ],
+      "composer": [
+       "陳光榮"
+      ],
+      "arranger": [
+       "陳光榮"
+      ],
+      "producer": [
+       "陳光榮"
+      ],
+      "mix": [
+       "Raymond Chu"
+      ],
+      "recording": [
+       "Helen Tong"
+      ],
       "year": "2009",
       "released": "2009-05-11",
       "label": "Sony Music Entertainment Hong Kong Ltd",
       "album": "五年新曲加精選",
+      "isrc": "HKA410900019",
       "copyright": "℗ 2011 Sony Music Entertainment Hong Kong Ltd.",
+      "mb": "f49312c0-60f2-4f6c-bb15-e99647903dbe",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3921,7 +4134,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:13+08:00",
+   "fetched_at": "2026-11-08T17:57:41+08:00",
    "stale": false
   },
   {
@@ -4894,6 +5107,7 @@
      "is_new": true,
      "genre": "Enka",
      "apple": "jp/947246586",
+     "spotify": "7ym0sJS6hHArK6xRVlDiAZ",
      "bpm": 87,
      "tags": {
       "genre": [
@@ -4905,12 +5119,24 @@
       ]
      },
      "info": {
-      "year": "2014",
-      "released": "2014-12-17",
+      "lyricist": [
+       "星野榮一"
+      ],
+      "composer": [
+       "遠藤実"
+      ],
+      "arranger": [
+       "前田俊明"
+      ],
+      "year": "2003",
+      "released": "2003-11-19",
       "label": "Nippon Columbia Co., Ltd",
       "album": "演歌師セレクション",
+      "isrc": "JPSR09602285",
       "copyright": "℗ 2014 Nippon Columbia Co., Ltd.",
+      "mb": "d5879e8d-acfa-4a07-b11d-e5d6c1a3ff04",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4924,6 +5150,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/949250892",
+     "spotify": "2iXZA6Ecf9AZHw92tZBNLv",
      "bpm": 91,
      "tags": {
       "genre": [
@@ -4940,12 +5167,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "桑田佳祐"
+      ],
+      "composer": [
+       "桑田佳祐"
+      ],
+      "arranger": [
+       "サザンオールスターズ"
+      ],
       "year": "2000",
       "released": "2000-01-26",
       "label": "TAISHITA Label Music Co., Ltd",
       "album": "TSUNAMI - Single",
+      "isrc": "JPVI09934040",
       "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "mb": "a03a480d-e584-4d9b-93d1-1aa77f27b216",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4959,6 +5198,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/250610812",
+     "spotify": "3zfyzbHuqcT2AAffAyLm02",
      "bpm": 99,
      "tags": {
       "genre": [
@@ -4975,12 +5215,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大塚愛"
+      ],
+      "composer": [
+       "大塚愛"
+      ],
       "year": "2005",
       "released": "2005-09-21",
       "label": "AVEX ENTERTAINMENT INC",
       "album": "愛 am BEST",
+      "isrc": "JPB600540201",
       "copyright": "℗ 2007 AVEX ENTERTAINMENT INC.",
+      "mb": "247b121b-e272-45d3-998c-a81eaf6b2fc1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4995,6 +5244,7 @@
      "kkbox": "ClDYry84FKtg0U_GZz",
      "genre": "J-Pop",
      "apple": "tw/73795313",
+     "spotify": "6InX9TFsaezFfm8E258IuT",
      "bpm": 85,
      "tags": {
       "genre": [
@@ -5011,12 +5261,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "倉木麻衣"
+      ],
+      "composer": [
+       "大野愛果"
+      ],
       "year": "2000",
       "released": "2000-04-26",
       "label": "GIZA studio",
       "album": "delicious way",
       "copyright": "℗ GIZA studio",
+      "mb": "20e2424b-946b-4220-b4b8-18dbbab5c6e8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5024,7 +5282,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:13+08:00",
+   "fetched_at": "2026-11-08T17:57:41+08:00",
    "stale": false
   },
   {
@@ -5230,6 +5488,19 @@
      "apple": "tw/1795046351",
      "spotify": "47BBI51FKFwOMlIiX6m8ya",
      "bpm": 99,
+     "range": {
+      "low": 52,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Pop Rock",
@@ -5305,6 +5576,19 @@
      "apple": "tw/1444320162",
      "spotify": "20I6sIOMTCkB6w7ryavxtO",
      "bpm": 120,
+     "range": {
+      "low": 57,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Disco",
@@ -6059,12 +6343,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Tim Rice"
+      ],
+      "composer": [
+       "Alan Menken"
+      ],
       "year": "1992",
       "released": "1992-01-01",
       "label": "Walt Disney Records, Inc",
       "album": "Aladdin (Special Edition Soundtrack)",
       "copyright": "This Compilation ℗ 2004 Walt Disney Records, Inc",
+      "mb": "a13e5b91-c329-4cca-9c3d-dd51ad9b8cd1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6127,7 +6419,25 @@
      "artist": "Avril Lavigne",
      "song_no": "38083",
      "last_rank": 26,
-     "is_new": false
+     "is_new": false,
+     "spotify": "6sqNctd7MlJoKDOxPVCAvU",
+     "info": {
+      "lyricist": [
+       "Avril Lavigne",
+       "Butch Walker"
+      ],
+      "composer": [
+       "Avril Lavigne",
+       "Butch Walker"
+      ],
+      "year": "2007",
+      "released": "2007",
+      "album": "SingStar Pop Hits",
+      "mb": "ca847ac5-3b31-41aa-8321-b76ea60dfc66",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 25,
@@ -6140,6 +6450,19 @@
      "apple": "jp/1404282100",
      "spotify": "0GjEhVFGZW8afUYGChu3Rr",
      "bpm": 103,
+     "range": {
+      "low": 53,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": -4,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -6181,6 +6504,7 @@
      "kkbox": "WpNxGZRraMOw8kvhrr",
      "genre": "Pop",
      "apple": "tw/1440650859",
+     "spotify": "0pwYLVXVknPSGUQb39cePC",
      "bpm": 70,
      "tags": {
       "mood": [
@@ -6211,6 +6535,7 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/429945616",
+     "spotify": "5WDLRQ3VCdVrKw0njWe5E5",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -6219,12 +6544,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "George Michael",
+       "Andrew Ridgeley"
+      ],
+      "composer": [
+       "George Michael",
+       "Andrew Ridgeley"
+      ],
       "year": "1984",
       "released": "1984-07-24",
       "label": "This compilation (P) 2011 Sony Music Entertainment UK Limited",
       "album": "Ladies & Gentlemen",
       "copyright": "℗ This compilation (P) 2011 Sony Music Entertainment UK Limited",
+      "mb": "1473829f-acf0-4d4e-8346-40f94d0d6f3d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6238,6 +6573,7 @@
      "is_new": false,
      "genre": "Alternative",
      "apple": "tw/1122778616",
+     "spotify": "1mea3bSkSGXuIRvnydlB5b",
      "bpm": 138,
      "tags": {
       "genre": [
@@ -6249,12 +6585,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Guy Berryman",
+       "Jonny Buckland",
+       "Will Champion",
+       "Chris Martin"
+      ],
+      "composer": [
+       "Guy Berryman",
+       "Jonny Buckland",
+       "Will Champion",
+       "Chris Martin"
+      ],
       "year": "2008",
       "released": "2008-05-25",
       "label": "Parlophone Records Ltd, a Warner Music Group Company",
       "album": "Viva la Vida (Prospekt's March Edition)",
       "copyright": "℗ 2008 Parlophone Records Ltd, a Warner Music Group Company",
+      "mb": "498ab52f-c72e-4f1d-9130-0bdb8f331521",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6272,12 +6622,22 @@
      "spotify": "2epbL7s3RFV81K5UhTgZje",
      "bpm": 129,
      "info": {
+      "lyricist": [
+       "Peter Freudenthaler",
+       "Volker Hinkel"
+      ],
+      "composer": [
+       "Peter Freudenthaler",
+       "Volker Hinkel"
+      ],
       "year": "1995",
       "released": "1995-02-01",
       "label": "BMG Rights Management GmbH",
       "album": "Lemon Tree - Single",
       "copyright": "℗ 1995 BMG Rights Management GmbH",
+      "mb": "882129d5-b826-4083-b8ab-1249dfef5692",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6292,6 +6652,7 @@
      "kkbox": "GpPtOrk--IKc3C34W3",
      "genre": "Pop",
      "apple": "tw/1565284244",
+     "spotify": "3tyvQeVxjEAQlgczaaoN3Q",
      "bpm": 71,
      "tags": {
       "genre": [
@@ -6329,7 +6690,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:13+08:00",
+   "fetched_at": "2026-11-08T17:57:41+08:00",
    "stale": false
   },
   {
@@ -6418,6 +6779,19 @@
      "genre": "Mandopop",
      "apple": "tw/1798441739",
      "bpm": 78,
+     "range": {
+      "low": 58,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -6456,6 +6830,21 @@
      "apple": "tw/6807777966",
      "spotify": "1jvdnSKL2KzLG5vwxrl0C6",
      "bpm": 84,
+     "range": {
+      "low": 50,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 3,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -6505,6 +6894,19 @@
      "apple": "tw/6812635397",
      "spotify": "4azVNx8uhpnKezwrNhcvYz",
      "bpm": 88,
+     "range": {
+      "low": 60,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Sound Collage",
@@ -7149,6 +7551,7 @@
      "kkbox": "4sxQip4jOGRFhdwAfD",
      "genre": "Mandopop",
      "apple": "tw/1767813585",
+     "spotify": "6EmZsc7beDRidV7XWjEn4p",
      "bpm": 175,
      "tags": {
       "mood": [
@@ -7329,6 +7732,7 @@
      "is_new": true,
      "genre": "Mandopop",
      "apple": "tw/6784145723",
+     "spotify": "2wMscyLV0LW5VmvsJJWtVh",
      "bpm": 95,
      "tags": {
       "genre": [
@@ -7407,6 +7811,7 @@
      "is_new": false,
      "genre": "Singer/Songwriter",
      "apple": "tw/1851930672",
+     "spotify": "4zm7Q8UTFeDDzCInfEGKMK",
      "bpm": 110,
      "tags": {
       "genre": [
@@ -7472,7 +7877,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:15+08:00",
+   "fetched_at": "2026-11-08T17:57:43+08:00",
    "stale": false
   },
   {
@@ -7548,6 +7953,17 @@
      "apple": "tw/6821889858",
      "spotify": "0t1ZfuqdovjJVELiKPcrn5",
      "bpm": 104,
+     "range": {
+      "low": 48,
+      "high": 72,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -7576,6 +7992,19 @@
      "apple": "tw/6817718972",
      "spotify": "04mXyAtngJEoX4MxJsX1ic",
      "bpm": 84,
+     "range": {
+      "low": 51,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -7622,6 +8051,19 @@
      "apple": "tw/6817718973",
      "spotify": "0dqKID1U8VzSA2El4sLod0",
      "bpm": 104,
+     "range": {
+      "low": 52,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Disco Polo"
@@ -8459,6 +8901,7 @@
      "is_new": true,
      "genre": "Soundtrack",
      "apple": "tw/6824452174",
+     "spotify": "4ZwXNJvtVJf9HCF5hYJ4ir",
      "bpm": 118,
      "tags": {
       "mood": [
@@ -8555,6 +8998,7 @@
      "is_new": true,
      "genre": "Tai-Pop",
      "apple": "tw/6815194131",
+     "spotify": "6eTet01ylV4N4GsOb6s5Kb",
      "bpm": 70,
      "tags": {
       "genre": [
@@ -8639,7 +9083,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T11:23:15+08:00",
+   "fetched_at": "2026-11-08T17:57:43+08:00",
    "stale": false
   }
  ]
