@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-08T21:54:36+08:00",
+ "checked_at": "2026-11-08T22:57:20+08:00",
  "errors": [],
  "charts": [
   {
@@ -1226,6 +1226,19 @@
      "apple": "tw/1861431711",
      "spotify": "3VHi5bCUek6XdiDmqqrirs",
      "bpm": 76,
+     "range": {
+      "low": 52,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -1531,7 +1544,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T21:54:31+08:00",
+   "fetched_at": "2026-11-08T22:57:15+08:00",
    "stale": false
   },
   {
@@ -1967,6 +1980,17 @@
      "apple": "tw/1851115080",
      "spotify": "5Y8Jwa9TKgmy2DKXp49XNF",
      "bpm": 70,
+     "range": {
+      "low": 55,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "info": {
       "lyricist": [
        "吳嘉祥"
@@ -2002,6 +2026,17 @@
      "apple": "tw/1444575653",
      "spotify": "0mDynC7lAwQyeXevpyDwhV",
      "bpm": 124,
+     "range": {
+      "low": 45,
+      "high": 69,
+      "m": {
+       "v": "high"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -2982,7 +3017,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T21:54:31+08:00",
+   "fetched_at": "2026-11-08T22:57:15+08:00",
    "stale": false
   },
   {
@@ -3395,6 +3430,19 @@
      "apple": "tw/471953473",
      "spotify": "0dzJhYyMFD312s4yU5dyRe",
      "bpm": 149,
+     "range": {
+      "low": 47,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -5,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -4305,7 +4353,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T21:54:33+08:00",
+   "fetched_at": "2026-11-08T22:57:17+08:00",
    "stale": false
   },
   {
@@ -4594,6 +4642,19 @@
      "apple": "tw/1814787792",
      "spotify": "5C5xJqzYB62Zu4Kbp825uO",
      "bpm": 137,
+     "range": {
+      "low": 57,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -5479,7 +5540,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T21:54:33+08:00",
+   "fetched_at": "2026-11-08T22:57:17+08:00",
    "stale": false
   },
   {
@@ -5918,6 +5979,19 @@
      "apple": "tw/695721392",
      "spotify": "3AJwUDP919kvQ9QcozQPxg",
      "bpm": 87,
+     "range": {
+      "low": 59,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Indie Rock",
@@ -5968,6 +6042,19 @@
      "apple": "tw/1476095084",
      "spotify": "0SiywuOBRcynK0uKGWdCnn",
      "bpm": 119,
+     "range": {
+      "low": 52,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Synth-pop",
@@ -6072,6 +6159,21 @@
      "apple": "tw/482734113",
      "spotify": "4cluDES4hQEUhmXj6TXkSo",
      "bpm": 125,
+     "range": {
+      "low": 52,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -6943,7 +7045,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T21:54:33+08:00",
+   "fetched_at": "2026-11-08T22:57:17+08:00",
    "stale": false
   },
   {
@@ -7396,6 +7498,21 @@
      "apple": "tw/6781236740",
      "spotify": "21mvY3ASqCjQQQKXJYlIWN",
      "bpm": 75,
+     "range": {
+      "low": 52,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -7431,6 +7548,21 @@
      "genre": "Pop",
      "apple": "tw/1777264199",
      "bpm": 66,
+     "range": {
+      "low": 52,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -7693,6 +7825,21 @@
      "genre": "Mandopop",
      "apple": "tw/1876281769",
      "bpm": 84,
+     "range": {
+      "low": 52,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "instrument": [
        "guitar"
@@ -8167,7 +8314,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T21:54:36+08:00",
+   "fetched_at": "2026-11-08T22:57:20+08:00",
    "stale": false
   },
   {
@@ -8588,6 +8735,17 @@
      "apple": "tw/6817718971",
      "spotify": "5n2DcclvE73jwfxxRkdMa8",
      "bpm": 102,
+     "range": {
+      "low": 40,
+      "high": 64,
+      "m": {
+       "v": "low"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Disco Polo"
@@ -8629,6 +8787,19 @@
      "apple": "tw/6817718977",
      "spotify": "2WXrRu8zV26QbxNrttVepc",
      "bpm": 79,
+     "range": {
+      "low": 52,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "info": {
       "lyricist": [
        "林蔚峻"
@@ -9428,7 +9599,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-08T21:54:36+08:00",
+   "fetched_at": "2026-11-08T22:57:20+08:00",
    "stale": false
   }
  ]
