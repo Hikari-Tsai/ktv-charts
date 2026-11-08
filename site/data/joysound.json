@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.joysound.com/",
- "checked_at": "2026-11-08T17:57:56+08:00",
+ "checked_at": "2026-11-08T21:54:49+08:00",
  "errors": [],
  "charts": [
   {
@@ -259,6 +259,19 @@
      "apple": "jp/1538303081",
      "spotify": "7lUaEsQVwvNEjaJNcvc1CN",
      "bpm": 120,
+     "range": {
+      "low": 59,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Euro House",
@@ -303,6 +316,19 @@
      "apple": "jp/1538151144",
      "spotify": "3oYD2O31b05fILFpv0AXRI",
      "bpm": 155,
+     "range": {
+      "low": 49,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 4,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -351,6 +377,19 @@
      "apple": "jp/1579439168",
      "spotify": "3RvdkNMcSy71m0aT6UF9Uf",
      "bpm": 73,
+     "range": {
+      "low": 58,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -817,6 +856,19 @@
      "apple": "jp/75471729",
      "spotify": "3Kihz14e1cNkpl5PiJOiB7",
      "bpm": 104,
+     "range": {
+      "low": 52,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "AOR",
@@ -1306,6 +1358,21 @@
      "apple": "jp/1706829387",
      "spotify": "03nLyVPeLP7ivujEZW0dIj",
      "bpm": 80,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -1648,6 +1715,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1536905491",
+     "spotify": "35ULe4fU7c5mNimS5lrkq3",
      "bpm": 96,
      "tags": {
       "genre": [
@@ -1663,12 +1731,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "玉置浩二"
+      ],
+      "composer": [
+       "玉置浩二"
+      ],
       "year": "1996",
-      "released": "1996-05-22",
+      "released": "1996-09-13",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "メロディー - Single",
+      "isrc": "JPSR09600669",
       "copyright": "℗ 1996 Sony Music Entertainment (Japan) Inc.",
+      "mb": "c037dcf2-51d8-45ac-9ac5-d505fc8371ad",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -1783,6 +1860,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1444614244",
+     "spotify": "2WpgKrUoWaZHQLTgT6aZBF",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -1802,12 +1880,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吉田美和"
+      ],
+      "composer": [
+       "吉田美和"
+      ],
       "year": "2007",
       "released": "2007-03-07",
       "label": "Dct Records, Inc. Nayutawave Records",
       "album": "大阪LOVER - Single",
+      "isrc": "JPPO00701060",
       "copyright": "℗ 2007 Dct Records, Inc. Nayutawave Records",
+      "mb": "d169a95b-8e1f-4ba5-ad06-0a9b99283262",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -1821,6 +1908,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1537232442",
+     "spotify": "3u924ZVORBYBPETTj6P12m",
      "bpm": 116,
      "tags": {
       "genre": [
@@ -1971,6 +2059,19 @@
      "apple": "jp/1821087731",
      "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
+     "range": {
+      "low": 62,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Drum n Bass"
@@ -2017,6 +2118,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1538122206",
+     "spotify": "5gVYWnovOcEuIyNxkj2czF",
      "bpm": 89,
      "tags": {
       "genre": [
@@ -2034,12 +2136,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "GRe4N BOYZ"
+      ],
+      "composer": [
+       "GRe4N BOYZ"
+      ],
       "year": "2018",
       "released": "2018-08-22",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "アイノカタチ (feat. HIDE) - EP",
+      "isrc": "JPU901903598",
       "copyright": "℗ 2018 Sony Music Entertainment (Japan) Inc.",
+      "mb": "5091201e-b72d-4dbe-99df-7eb5c9361161",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2110,12 +2221,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ORANGE RANGE"
+      ],
+      "composer": [
+       "ORANGE RANGE"
+      ],
       "year": "2007",
       "released": "2007-07-18",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "イケナイ太陽 - Single",
       "copyright": "℗ 2007 Sony Music Entertainment (Japan) Inc.",
+      "mb": "b5de62cc-3db2-4aa2-84f9-268010ccfa6f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2176,12 +2295,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "藤原聡"
+      ],
+      "composer": [
+       "藤原聡"
+      ],
+      "arranger": [
+       "Official髭男dism"
+      ],
       "year": "2019",
-      "released": "2019-04-17",
+      "released": "2019-05-15",
       "label": "PONYCANYON",
       "album": "Traveler",
+      "isrc": "JPPC01900265",
       "copyright": "℗ 2019 PONYCANYON",
+      "mb": "665f6806-11bd-41c7-b2fc-daf4c153f906",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2266,12 +2397,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "斉藤和義"
+      ],
+      "composer": [
+       "斉藤和義"
+      ],
       "year": "1997",
       "released": "1997-11-21",
       "label": "Shinko Music Entertainment CO. ,Ltd",
       "album": "Because",
+      "isrc": "JPFH09705930",
       "copyright": "℗ Shinko Music Entertainment CO. ,Ltd.",
+      "mb": "aec757b3-1d58-48ce-aedf-c00580d5e1f5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2331,12 +2471,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2015",
       "released": "2015-01-21",
       "label": "UNIVERSAL SIGMA",
       "album": "ヒロイン - EP",
+      "isrc": "JPPO01413047",
       "copyright": "℗ 2015 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "f768965a-d240-432f-843e-12855c9e8d02",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2676,6 +2825,7 @@
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1839433876",
+     "spotify": "4ZIr1NSxVihtHcD6EnG65f",
      "bpm": 108,
      "tags": {
       "genre": [
@@ -2690,11 +2840,14 @@
      },
      "info": {
       "year": "2021",
-      "released": "2021-08-18",
+      "released": "2021-08-25",
       "label": "A-Sketch Inc",
       "album": "レイジーサンデー",
+      "isrc": "JPJ222101667",
       "copyright": "℗ 2021 A-Sketch Inc.",
+      "mb": "a5923691-723e-4425-adc6-600c07916ecc",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2807,12 +2960,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "arranger": [
+       "花井諒",
+       "大森元貴"
+      ],
+      "mix": [
+       "安達義規"
+      ],
+      "recording": [
+       "安達義規"
+      ],
       "year": "2023",
       "released": "2023-04-25",
       "label": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
       "album": "ケセラセラ - Single",
+      "isrc": "JPPO02301108",
       "copyright": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "mb": "06ba3885-4887-4e87-be76-87a9cd0b2845",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2837,12 +3009,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "桑田佳祐"
+      ],
+      "composer": [
+       "桑田佳祐"
+      ],
       "year": "2001",
       "released": "2001-10-24",
       "label": "TAISHITA Label Music Co., Ltd",
       "album": "白い恋人達 - Single",
       "copyright": "℗ TAISHITA Label Music Co., Ltd.",
+      "mb": "b54756c8-b85e-46ca-b828-47e2cd2b28db",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2941,6 +3121,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1451577753",
+     "spotify": "3QIAwtEEDOrv0g5NKCGrXZ",
      "bpm": 80,
      "tags": {
       "genre": [
@@ -2999,12 +3180,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "aiko"
+      ],
+      "composer": [
+       "aiko"
+      ],
+      "arranger": [
+       "島田昌典"
+      ],
       "year": "2008",
       "released": "2008-07-23",
       "label": "PONY CANYON INC",
       "album": "KissHug - EP",
+      "isrc": "JPPC00801152",
       "copyright": "℗ 2008 PONY CANYON INC.",
+      "mb": "33961f57-d333-4fe4-a1d5-6806bb7d3ee1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3283,12 +3476,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "n-buna"
+      ],
+      "composer": [
+       "n-buna"
+      ],
       "year": "2018",
       "released": "2018-05-09",
       "label": "U&R records",
       "album": "負け犬にアンコールはいらない",
       "copyright": "℗ 2018 U&R records",
+      "mb": "ec0c5278-0ee1-4ad6-80a1-c0204ba0b4d6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3554,12 +3755,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2012",
       "released": "2012-03-07",
       "label": "UNIVERSAL SIGMA",
       "album": "アンコール",
+      "isrc": "JPPO01200397",
       "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "82ae9f2b-4ea2-4ac0-b277-ae554be21a69",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4099,7 +4309,7 @@
    ],
    "period_key": "2026-11-07",
    "rank_change": "history",
-   "fetched_at": "2026-11-08T17:57:45+08:00",
+   "fetched_at": "2026-11-08T21:54:38+08:00",
    "stale": false
   },
   {
@@ -4350,6 +4560,19 @@
      "apple": "jp/1538303081",
      "spotify": "7lUaEsQVwvNEjaJNcvc1CN",
      "bpm": 120,
+     "range": {
+      "low": 59,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Euro House",
@@ -4394,6 +4617,19 @@
      "apple": "jp/1579439168",
      "spotify": "3RvdkNMcSy71m0aT6UF9Uf",
      "bpm": 73,
+     "range": {
+      "low": 58,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -4452,6 +4688,19 @@
      "apple": "jp/1538151144",
      "spotify": "3oYD2O31b05fILFpv0AXRI",
      "bpm": 155,
+     "range": {
+      "low": 49,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 4,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -4838,6 +5087,21 @@
      "apple": "jp/1706829387",
      "spotify": "03nLyVPeLP7ivujEZW0dIj",
      "bpm": 80,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -5745,6 +6009,19 @@
      "apple": "jp/75471729",
      "spotify": "3Kihz14e1cNkpl5PiJOiB7",
      "bpm": 104,
+     "range": {
+      "low": 52,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "AOR",
@@ -5834,6 +6111,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1538122206",
+     "spotify": "5gVYWnovOcEuIyNxkj2czF",
      "bpm": 89,
      "tags": {
       "genre": [
@@ -5851,12 +6129,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "GRe4N BOYZ"
+      ],
+      "composer": [
+       "GRe4N BOYZ"
+      ],
       "year": "2018",
       "released": "2018-08-22",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "アイノカタチ (feat. HIDE) - EP",
+      "isrc": "JPU901903598",
       "copyright": "℗ 2018 Sony Music Entertainment (Japan) Inc.",
+      "mb": "5091201e-b72d-4dbe-99df-7eb5c9361161",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5870,6 +6157,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1537232442",
+     "spotify": "3u924ZVORBYBPETTj6P12m",
      "bpm": 116,
      "tags": {
       "genre": [
@@ -5915,6 +6203,19 @@
      "apple": "jp/1821087731",
      "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
+     "range": {
+      "low": 62,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Drum n Bass"
@@ -6040,6 +6341,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1839433876",
+     "spotify": "4ZIr1NSxVihtHcD6EnG65f",
      "bpm": 108,
      "tags": {
       "genre": [
@@ -6054,11 +6356,14 @@
      },
      "info": {
       "year": "2021",
-      "released": "2021-08-18",
+      "released": "2021-08-25",
       "label": "A-Sketch Inc",
       "album": "レイジーサンデー",
+      "isrc": "JPJ222101667",
       "copyright": "℗ 2021 A-Sketch Inc.",
+      "mb": "a5923691-723e-4425-adc6-600c07916ecc",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6072,6 +6377,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1444614244",
+     "spotify": "2WpgKrUoWaZHQLTgT6aZBF",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -6091,12 +6397,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吉田美和"
+      ],
+      "composer": [
+       "吉田美和"
+      ],
       "year": "2007",
       "released": "2007-03-07",
       "label": "Dct Records, Inc. Nayutawave Records",
       "album": "大阪LOVER - Single",
+      "isrc": "JPPO00701060",
       "copyright": "℗ 2007 Dct Records, Inc. Nayutawave Records",
+      "mb": "d169a95b-8e1f-4ba5-ad06-0a9b99283262",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6124,12 +6439,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2015",
       "released": "2015-01-21",
       "label": "UNIVERSAL SIGMA",
       "album": "ヒロイン - EP",
+      "isrc": "JPPO01413047",
       "copyright": "℗ 2015 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "f768965a-d240-432f-843e-12855c9e8d02",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6155,12 +6479,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "藤原聡"
+      ],
+      "composer": [
+       "藤原聡"
+      ],
+      "arranger": [
+       "Official髭男dism"
+      ],
       "year": "2019",
-      "released": "2019-04-17",
+      "released": "2019-05-15",
       "label": "PONYCANYON",
       "album": "Traveler",
+      "isrc": "JPPC01900265",
       "copyright": "℗ 2019 PONYCANYON",
+      "mb": "665f6806-11bd-41c7-b2fc-daf4c153f906",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6293,12 +6629,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "aiko"
+      ],
+      "composer": [
+       "aiko"
+      ],
+      "arranger": [
+       "島田昌典"
+      ],
       "year": "2008",
       "released": "2008-07-23",
       "label": "PONY CANYON INC",
       "album": "KissHug - EP",
+      "isrc": "JPPC00801152",
       "copyright": "℗ 2008 PONY CANYON INC.",
+      "mb": "33961f57-d333-4fe4-a1d5-6806bb7d3ee1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6329,12 +6677,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "n-buna"
+      ],
+      "composer": [
+       "n-buna"
+      ],
       "year": "2018",
       "released": "2018-05-09",
       "label": "U&R records",
       "album": "負け犬にアンコールはいらない",
       "copyright": "℗ 2018 U&R records",
+      "mb": "ec0c5278-0ee1-4ad6-80a1-c0204ba0b4d6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6367,12 +6723,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2012",
       "released": "2012-03-07",
       "label": "UNIVERSAL SIGMA",
       "album": "アンコール",
+      "isrc": "JPPO01200397",
       "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "82ae9f2b-4ea2-4ac0-b277-ae554be21a69",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6526,6 +6891,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1536905491",
+     "spotify": "35ULe4fU7c5mNimS5lrkq3",
      "bpm": 96,
      "tags": {
       "genre": [
@@ -6541,12 +6907,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "玉置浩二"
+      ],
+      "composer": [
+       "玉置浩二"
+      ],
       "year": "1996",
-      "released": "1996-05-22",
+      "released": "1996-09-13",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "メロディー - Single",
+      "isrc": "JPSR09600669",
       "copyright": "℗ 1996 Sony Music Entertainment (Japan) Inc.",
+      "mb": "c037dcf2-51d8-45ac-9ac5-d505fc8371ad",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6604,12 +6979,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "arranger": [
+       "花井諒",
+       "大森元貴"
+      ],
+      "mix": [
+       "安達義規"
+      ],
+      "recording": [
+       "安達義規"
+      ],
       "year": "2023",
       "released": "2023-04-25",
       "label": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
       "album": "ケセラセラ - Single",
+      "isrc": "JPPO02301108",
       "copyright": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "mb": "06ba3885-4887-4e87-be76-87a9cd0b2845",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6623,6 +7017,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1451577753",
+     "spotify": "3QIAwtEEDOrv0g5NKCGrXZ",
      "bpm": 80,
      "tags": {
       "genre": [
@@ -6945,12 +7340,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ORANGE RANGE"
+      ],
+      "composer": [
+       "ORANGE RANGE"
+      ],
       "year": "2007",
       "released": "2007-07-18",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "イケナイ太陽 - Single",
       "copyright": "℗ 2007 Sony Music Entertainment (Japan) Inc.",
+      "mb": "b5de62cc-3db2-4aa2-84f9-268010ccfa6f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7129,12 +7532,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "斉藤和義"
+      ],
+      "composer": [
+       "斉藤和義"
+      ],
       "year": "1997",
       "released": "1997-11-21",
       "label": "Shinko Music Entertainment CO. ,Ltd",
       "album": "Because",
+      "isrc": "JPFH09705930",
       "copyright": "℗ Shinko Music Entertainment CO. ,Ltd.",
+      "mb": "aec757b3-1d58-48ce-aedf-c00580d5e1f5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8197,7 +8609,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-08T17:57:47+08:00",
+   "fetched_at": "2026-11-08T21:54:40+08:00",
    "stale": false
   },
   {
@@ -8448,6 +8860,19 @@
      "apple": "jp/1538303081",
      "spotify": "7lUaEsQVwvNEjaJNcvc1CN",
      "bpm": 120,
+     "range": {
+      "low": 59,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Euro House",
@@ -8492,6 +8917,19 @@
      "apple": "jp/1579439168",
      "spotify": "3RvdkNMcSy71m0aT6UF9Uf",
      "bpm": 73,
+     "range": {
+      "low": 58,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -8550,6 +8988,19 @@
      "apple": "jp/1538151144",
      "spotify": "3oYD2O31b05fILFpv0AXRI",
      "bpm": 155,
+     "range": {
+      "low": 49,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 4,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -9699,6 +10150,19 @@
      "apple": "jp/1821087731",
      "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
+     "range": {
+      "low": 62,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Drum n Bass"
@@ -9745,6 +10209,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1537232442",
+     "spotify": "3u924ZVORBYBPETTj6P12m",
      "bpm": 116,
      "tags": {
       "genre": [
@@ -9897,6 +10362,19 @@
      "apple": "jp/75471729",
      "spotify": "3Kihz14e1cNkpl5PiJOiB7",
      "bpm": 104,
+     "range": {
+      "low": 52,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "AOR",
@@ -9939,6 +10417,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1538122206",
+     "spotify": "5gVYWnovOcEuIyNxkj2czF",
      "bpm": 89,
      "tags": {
       "genre": [
@@ -9956,12 +10435,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "GRe4N BOYZ"
+      ],
+      "composer": [
+       "GRe4N BOYZ"
+      ],
       "year": "2018",
       "released": "2018-08-22",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "アイノカタチ (feat. HIDE) - EP",
+      "isrc": "JPU901903598",
       "copyright": "℗ 2018 Sony Music Entertainment (Japan) Inc.",
+      "mb": "5091201e-b72d-4dbe-99df-7eb5c9361161",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -9975,6 +10463,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1839433876",
+     "spotify": "4ZIr1NSxVihtHcD6EnG65f",
      "bpm": 108,
      "tags": {
       "genre": [
@@ -9989,11 +10478,14 @@
      },
      "info": {
       "year": "2021",
-      "released": "2021-08-18",
+      "released": "2021-08-25",
       "label": "A-Sketch Inc",
       "album": "レイジーサンデー",
+      "isrc": "JPJ222101667",
       "copyright": "℗ 2021 A-Sketch Inc.",
+      "mb": "a5923691-723e-4425-adc6-600c07916ecc",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10142,12 +10634,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "n-buna"
+      ],
+      "composer": [
+       "n-buna"
+      ],
       "year": "2018",
       "released": "2018-05-09",
       "label": "U&R records",
       "album": "負け犬にアンコールはいらない",
       "copyright": "℗ 2018 U&R records",
+      "mb": "ec0c5278-0ee1-4ad6-80a1-c0204ba0b4d6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10243,12 +10743,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "藤原聡"
+      ],
+      "composer": [
+       "藤原聡"
+      ],
+      "arranger": [
+       "Official髭男dism"
+      ],
       "year": "2019",
-      "released": "2019-04-17",
+      "released": "2019-05-15",
       "label": "PONYCANYON",
       "album": "Traveler",
+      "isrc": "JPPC01900265",
       "copyright": "℗ 2019 PONYCANYON",
+      "mb": "665f6806-11bd-41c7-b2fc-daf4c153f906",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10262,6 +10774,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1444614244",
+     "spotify": "2WpgKrUoWaZHQLTgT6aZBF",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -10281,12 +10794,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吉田美和"
+      ],
+      "composer": [
+       "吉田美和"
+      ],
       "year": "2007",
       "released": "2007-03-07",
       "label": "Dct Records, Inc. Nayutawave Records",
       "album": "大阪LOVER - Single",
+      "isrc": "JPPO00701060",
       "copyright": "℗ 2007 Dct Records, Inc. Nayutawave Records",
+      "mb": "d169a95b-8e1f-4ba5-ad06-0a9b99283262",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10349,12 +10871,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "aiko"
+      ],
+      "composer": [
+       "aiko"
+      ],
+      "arranger": [
+       "島田昌典"
+      ],
       "year": "2008",
       "released": "2008-07-23",
       "label": "PONY CANYON INC",
       "album": "KissHug - EP",
+      "isrc": "JPPC00801152",
       "copyright": "℗ 2008 PONY CANYON INC.",
+      "mb": "33961f57-d333-4fe4-a1d5-6806bb7d3ee1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10387,12 +10921,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2012",
       "released": "2012-03-07",
       "label": "UNIVERSAL SIGMA",
       "album": "アンコール",
+      "isrc": "JPPO01200397",
       "copyright": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "82ae9f2b-4ea2-4ac0-b277-ae554be21a69",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10489,12 +11032,31 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大森元貴"
+      ],
+      "composer": [
+       "大森元貴"
+      ],
+      "arranger": [
+       "花井諒",
+       "大森元貴"
+      ],
+      "mix": [
+       "安達義規"
+      ],
+      "recording": [
+       "安達義規"
+      ],
       "year": "2023",
       "released": "2023-04-25",
       "label": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
       "album": "ケセラセラ - Single",
+      "isrc": "JPPO02301108",
       "copyright": "An EMI Records release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "mb": "06ba3885-4887-4e87-be76-87a9cd0b2845",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10510,6 +11072,21 @@
      "apple": "jp/1706829387",
      "spotify": "03nLyVPeLP7ivujEZW0dIj",
      "bpm": 80,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -10716,6 +11293,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1451577753",
+     "spotify": "3QIAwtEEDOrv0g5NKCGrXZ",
      "bpm": 80,
      "tags": {
       "genre": [
@@ -10914,12 +11492,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "清水依与吏"
+      ],
+      "composer": [
+       "清水依与吏"
+      ],
       "year": "2015",
       "released": "2015-01-21",
       "label": "UNIVERSAL SIGMA",
       "album": "ヒロイン - EP",
+      "isrc": "JPPO01413047",
       "copyright": "℗ 2015 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "mb": "f768965a-d240-432f-843e-12855c9e8d02",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10933,6 +11520,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1536905491",
+     "spotify": "35ULe4fU7c5mNimS5lrkq3",
      "bpm": 96,
      "tags": {
       "genre": [
@@ -10948,12 +11536,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "玉置浩二"
+      ],
+      "composer": [
+       "玉置浩二"
+      ],
       "year": "1996",
-      "released": "1996-05-22",
+      "released": "1996-09-13",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "メロディー - Single",
+      "isrc": "JPSR09600669",
       "copyright": "℗ 1996 Sony Music Entertainment (Japan) Inc.",
+      "mb": "c037dcf2-51d8-45ac-9ac5-d505fc8371ad",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -10985,12 +11582,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ORANGE RANGE"
+      ],
+      "composer": [
+       "ORANGE RANGE"
+      ],
       "year": "2007",
       "released": "2007-07-18",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "イケナイ太陽 - Single",
       "copyright": "℗ 2007 Sony Music Entertainment (Japan) Inc.",
+      "mb": "b5de62cc-3db2-4aa2-84f9-268010ccfa6f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -11305,12 +11910,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "斉藤和義"
+      ],
+      "composer": [
+       "斉藤和義"
+      ],
       "year": "1997",
       "released": "1997-11-21",
       "label": "Shinko Music Entertainment CO. ,Ltd",
       "album": "Because",
+      "isrc": "JPFH09705930",
       "copyright": "℗ Shinko Music Entertainment CO. ,Ltd.",
+      "mb": "aec757b3-1d58-48ce-aedf-c00580d5e1f5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12284,7 +12898,7 @@
    ],
    "period_key": "2026-10",
    "rank_change": "history",
-   "fetched_at": "2026-11-08T17:57:49+08:00",
+   "fetched_at": "2026-11-08T21:54:41+08:00",
    "stale": false
   },
   {
@@ -12613,6 +13227,19 @@
      "apple": "jp/75471729",
      "spotify": "3Kihz14e1cNkpl5PiJOiB7",
      "bpm": 104,
+     "range": {
+      "low": 52,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "AOR",
@@ -12657,6 +13284,19 @@
      "apple": "jp/1821087731",
      "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
+     "range": {
+      "low": 62,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Drum n Bass"
@@ -13638,6 +14278,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1629360528",
+     "spotify": "5YQNjKZofFhlBCIzTVY6rW",
      "bpm": 102,
      "tags": {
       "mood": [
@@ -13814,6 +14455,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1804230388",
+     "spotify": "3huSUfmhUr4entz2S0G31O",
      "bpm": 138,
      "tags": {
       "mood": [
@@ -13866,6 +14508,7 @@
      "kkbox": "Sop05Y0c1DbhYNyOTK",
      "genre": "Alternative",
      "apple": "jp/1721450223",
+     "spotify": "5eY7692tmgHB9dbmq6wa2M",
      "bpm": 204,
      "tags": {
       "mood": [
@@ -13877,12 +14520,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "n-buna"
+      ],
+      "composer": [
+       "n-buna"
+      ],
+      "arranger": [
+       "n-buna"
+      ],
+      "producer": [
+       "n-buna"
+      ],
       "year": "2024",
       "released": "2024-01-05",
       "label": "A Polydor Records release; ℗ 2024 UNIVERSAL MUSIC LLC",
       "album": "晴る - Single",
+      "isrc": "JPPO02304150",
       "copyright": "A Polydor Records release; ℗ 2024 UNIVERSAL MUSIC LLC",
+      "mb": "bd96e3b9-e014-417b-b9e9-d75143cce05c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13896,6 +14554,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1536220210",
+     "spotify": "5cdFxxGV3b3gcGuXTpPWXt",
      "bpm": 170,
      "tags": {
       "mood": [
@@ -13908,12 +14567,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "YUKI"
+      ],
+      "composer": [
+       "恩田快人"
+      ],
       "year": "1996",
       "released": "1996-02-19",
       "label": "(20),1994(8,9,12,17,22,26,28),1995(1,6,7,15,23,30),1996(3,14,16),1997(5,13,19,24,25),1998(10,11,18,21),2000(2,4,27,29) Sony Music Entertainment (Japan) Inc",
       "album": "The Great Escape -COMPLETE BEST-",
+      "isrc": "JPU901900774",
       "copyright": "℗ 1993(20),1994(8,9,12,17,22,26,28),1995(1,6,7,15,23,30),1996(3,14,16),1997(5,13,19,24,25),1998(10,11,18,21),2000(2,4,27,29) Sony Music Entertainment (Japan) Inc.",
+      "mb": "65148513-a49c-495e-9f9c-11d4b65579fb",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13924,7 +14592,27 @@
      "artist": "DALI",
      "song_url": "https://www.joysound.com/web/search/song/7662",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "spotify": "3fbEsr4mfsFbKYOBU074Fy",
+     "info": {
+      "lyricist": [
+       "小田佳奈子"
+      ],
+      "composer": [
+       "小諸鉄矢"
+      ],
+      "arranger": [
+       "池田大介"
+      ],
+      "year": "1992",
+      "released": "1992-03-21",
+      "album": "Sailor Moon World~ Super Best",
+      "isrc": "JPCO09204090",
+      "mb": "f4052ff7-ede0-47d5-bd47-83ef6bd6356b",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 39,
@@ -13935,6 +14623,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/843629000",
+     "spotify": "5jMs7deblPqg33OKXTtNSe",
      "bpm": 93,
      "tags": {
       "genre": [
@@ -13974,6 +14663,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1537920834",
+     "spotify": "63CbmTcrmJlFYSehryyG48",
      "bpm": 148,
      "tags": {
       "mood": [
@@ -13983,12 +14673,21 @@
       ]
      },
      "info": {
-      "year": "2020",
-      "released": "2020-11-16",
+      "lyricist": [
+       "大森祥子"
+      ],
+      "composer": [
+       "池毅"
+      ],
+      "year": "2019",
+      "released": "2019-04-03",
       "label": "TOEI ANIMATION CO.,LTD",
       "album": "おジャ魔女どれみ Select Best",
+      "isrc": "JPD600301202",
       "copyright": "℗ TOEI ANIMATION CO.,LTD.",
+      "mb": "a70d33f2-f334-42f0-b326-35349d907966",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14016,12 +14715,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "新藤晴一"
+      ],
+      "composer": [
+       "本間昭光"
+      ],
+      "arranger": [
+       "本間昭光",
+       "ポルノグラフィティ"
+      ],
       "year": "2003",
       "released": "2003-09-26",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "メリッサ - Single",
+      "isrc": "JPU900300821",
       "copyright": "℗ 2003 Sony Music Entertainment (Japan) Inc.",
+      "mb": "f70d8edb-5a40-4a0d-b879-a4d960afc921",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14035,6 +14747,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1537428425",
+     "spotify": "2FXnjOr5iBbZLV0efg0Xgi",
      "bpm": 165,
      "tags": {
       "mood": [
@@ -14089,12 +14802,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "n-buna"
+      ],
+      "composer": [
+       "n-buna"
+      ],
+      "arranger": [
+       "n-buna"
+      ],
+      "producer": [
+       "n-buna"
+      ],
       "year": "2020",
       "released": "2020-04-22",
       "label": "A UNIVERSAL J release; ℗ 2020 UNIVERSAL MUSIC LLC",
       "album": "盗作",
+      "isrc": "JPPO02001032",
       "copyright": "A UNIVERSAL J release; ℗ 2020 UNIVERSAL MUSIC LLC",
+      "mb": "2d15d8e5-acbe-4801-8d27-ce0824310cf8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14108,6 +14836,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1594814706",
+     "spotify": "7v8wKvNQQIxkugCFFjrkaO",
      "bpm": 171,
      "tags": {
       "genre": [
@@ -14159,12 +14888,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "藤原聡"
+      ],
+      "composer": [
+       "藤原聡"
+      ],
+      "arranger": [
+       "Official髭男dism"
+      ],
+      "producer": [
+       "藤原聡"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2022",
       "released": "2022-04-15",
       "label": "PONYCANYON/IRORI Records",
       "album": "ミックスナッツEP",
+      "isrc": "JPPC02210469",
       "copyright": "℗ 2022 PONYCANYON/IRORI Records",
+      "mb": "30ed18b6-d95b-4efe-a332-6fcc0e07b087",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14277,12 +15024,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ナガノ"
+      ],
+      "composer": [
+       "トクマルシューゴ",
+       "上水樽力"
+      ],
       "year": "2026",
-      "released": "2026-07-25",
+      "released": "2026-07-24",
       "label": "QTORY RECORDS",
       "album": "『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part1",
+      "isrc": "JPZ922604063",
       "copyright": "℗ 2026 QTORY RECORDS",
+      "mb": "120b6613-649c-4420-a4ab-f3a67d1928c8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14450,12 +15207,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
       "year": "2022",
       "released": "2022-10-12",
       "label": "Sony Music Labels Inc",
       "album": "KICK BACK - Single",
       "copyright": "℗ 2022 Sony Music Labels Inc.",
+      "mb": "52be27bd-5230-4118-b578-363acda9b415",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14530,12 +15295,24 @@
      "apple": "jp/1772211459",
      "bpm": 169,
      "info": {
+      "lyricist": [
+       "藤林聖子"
+      ],
+      "composer": [
+       "田中公平"
+      ],
+      "arranger": [
+       "根岸貴幸"
+      ],
       "year": "1999",
       "released": "1999-11-20",
       "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
       "album": "TVアニメ『ONE PIECE』オープニングテーマ「ウィーアー!」 - EP",
+      "isrc": "JPC009932160",
       "copyright": "℗ 1999 Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "mb": "34028771-b0ca-4571-b98b-07dc1cbe35c3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14637,6 +15414,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/169256668",
+     "spotify": "2tHQgtm46XngnOFgATFJWM",
      "bpm": 194,
      "tags": {
       "genre": [
@@ -14654,12 +15432,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "北川けんいち"
+      ],
+      "composer": [
+       "北川けんいち"
+      ],
       "year": "2004",
       "released": "2004-11-17",
       "label": "AVEX ENTERTAINMENT INC",
       "album": "ROAD OF MAJOR II",
+      "isrc": "JPB600464001",
       "copyright": "℗ 2005 AVEX ENTERTAINMENT INC.",
+      "mb": "2a134494-88a8-4d32-9a5c-bf48de52e974",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15254,12 +16041,25 @@
      "apple": "jp/494522959",
      "bpm": 101,
      "info": {
+      "lyricist": [
+       "羽場仁志",
+       "TEAM HUNTER"
+      ],
+      "composer": [
+       "羽場仁志"
+      ],
+      "arranger": [
+       "新屋豊"
+      ],
       "year": "2011",
       "released": "2011-12-21",
       "label": "VAP INC",
       "album": "departure!",
+      "isrc": "JPVP01107401",
       "copyright": "℗ 2011 VAP INC.",
+      "mb": "2520a082-a081-4863-8578-14ce1e477368",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -15961,7 +16761,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-08T17:57:51+08:00",
+   "fetched_at": "2026-11-08T21:54:44+08:00",
    "stale": false
   },
   {
@@ -16128,6 +16928,21 @@
      "apple": "jp/1622001134",
      "spotify": "4oPCfEDVIKnPJ6UPkhJPCa",
      "bpm": 115,
+     "range": {
+      "low": 52,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -16169,6 +16984,19 @@
      "apple": "jp/1648263854",
      "spotify": "1LecKNeupMa8yZSo4UqcVE",
      "bpm": 170,
+     "range": {
+      "low": 58,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "instrument": [
        "guitar",
@@ -16206,6 +17034,21 @@
      "apple": "jp/1775600454",
      "spotify": "1iywVk6Xx1XmJwd0rExYI3",
      "bpm": 132,
+     "range": {
+      "low": 60,
+      "high": 77,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "vhigh",
+       "key": -5,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop"
@@ -16254,6 +17097,19 @@
      "apple": "jp/1438493118",
      "spotify": "7iS6811erXkWjtiRFydOmn",
      "bpm": 120,
+     "range": {
+      "low": 57,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "House"
@@ -16295,6 +17151,21 @@
      "apple": "jp/1801632799",
      "spotify": "1M7x4zijDc9FV1ksFwvQyY",
      "bpm": 172,
+     "range": {
+      "low": 67,
+      "high": 79,
+      "m": {
+       "v": "vhigh",
+       "key": -1,
+       "oct": -12
+      },
+      "f": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "aggressive",
@@ -17139,6 +18010,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1801477598",
+     "spotify": "3n7wJstsHWn6Yl4oKNMPfq",
      "bpm": 134,
      "tags": {
       "mood": [
@@ -17186,6 +18058,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/1312575495",
+     "spotify": "44i0yotEYW72i9QbpWcn6y",
      "bpm": 149,
      "tags": {
       "mood": [
@@ -17296,6 +18169,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1508329140",
+     "spotify": "2rkSQrbwRoH82pA40rTQf3",
      "bpm": 182,
      "tags": {
       "mood": [
@@ -17338,6 +18212,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1584450381",
+     "spotify": "56xCsaFsih5swf7IZXPYzU",
      "bpm": 221,
      "tags": {
       "mood": [
@@ -17346,12 +18221,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "いよわ"
+      ],
+      "composer": [
+       "いよわ"
+      ],
       "year": "2021",
-      "released": "2021-09-04",
+      "released": "2021-08-29",
       "label": "Iyowa",
       "album": "きゅうくらりん - Single",
       "copyright": "℗ 2021 Iyowa",
+      "mb": "6b97161d-8a43-4f2b-b489-358e17414d1b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17365,6 +18248,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/1147145175",
+     "spotify": "0IEl6PAxLIueFQp08vq07B",
      "bpm": 188,
      "tags": {
       "instrument": [
@@ -17372,12 +18256,28 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "DECO*27"
+      ],
+      "composer": [
+       "DECO*27"
+      ],
+      "arranger": [
+       "DECO*27",
+       "Naoki Itai"
+      ],
+      "mix": [
+       "DECO*27"
+      ],
       "year": "2016",
-      "released": "2016-08-26",
+      "released": "2016-09-28",
       "label": "U/M/A/A Inc",
       "album": "GHOST",
+      "isrc": "JPJ931600129",
       "copyright": "℗ 2016 U/M/A/A Inc.",
+      "mb": "55246900-a2be-4751-82d1-50fbe9a72c30",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17388,7 +18288,22 @@
      "artist": "supercell",
      "song_url": "https://www.joysound.com/web/search/song/134538",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "info": {
+      "lyricist": [
+       "ryo"
+      ],
+      "composer": [
+       "ryo"
+      ],
+      "year": "2008",
+      "released": "2008-08-16",
+      "album": "supercell",
+      "mb": "be45c857-e7a2-4d5b-a664-5113deb745c2",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 39,
@@ -17399,6 +18314,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1020098193",
+     "spotify": "2damFh3XZdKCS7STVInOPo",
      "bpm": 140,
      "tags": {
       "genre": [
@@ -17416,11 +18332,14 @@
      },
      "info": {
       "year": "2010",
-      "released": "2010-09-15",
+      "released": "2010-09-22",
       "label": "EXIT TUNES",
       "album": "EXIT TUNES PRESENTS Vocaloanthems feat.初音ミク",
+      "isrc": "JPC231000493",
       "copyright": "℗ 2010 EXIT TUNES",
+      "mb": "3cf2a2c5-3be0-49ca-9da7-7de3ca68c241",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17449,12 +18368,14 @@
       ]
      },
      "info": {
-      "year": "2022",
-      "released": "2022-01-19",
+      "year": "2012",
+      "released": "2012-04-28",
       "label": "1st PLACE",
       "album": "IA SUPER BEST -THE CREATORS -",
       "copyright": "℗ 2022 1st PLACE",
+      "mb": "9b2c1ad2-0254-44c9-bd1d-d2b35b99c942",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17529,12 +18450,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "マナムジャパン"
+      ],
+      "composer": [
+       "マナムジャパン"
+      ],
+      "arranger": [
+       "マナムジャパン"
+      ],
       "year": "2025",
-      "released": "2025-05-28",
+      "released": "2025-06-04",
       "label": "monet",
       "album": "分かっちゃいないね - Single",
+      "isrc": "JPW462583405",
       "copyright": "℗ 2025 monet",
+      "mb": "7bf6877c-80ec-44d2-94ed-118eec47b4ca",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17588,7 +18521,23 @@
      "artist": "wowaka feat.初音ミク",
      "song_url": "https://www.joysound.com/web/search/song/643416",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "info": {
+      "lyricist": [
+       "wowaka"
+      ],
+      "composer": [
+       "wowaka"
+      ],
+      "year": "2017",
+      "released": "2017-08-30",
+      "album": "HATSUNE MIKU 10th Anniversary Album 「Re:Start」",
+      "isrc": "JPA651703835",
+      "mb": "1971c040-3887-46a2-8b74-b0ffb9558534",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 45,
@@ -17607,12 +18556,24 @@
       ]
      },
      "info": {
-      "year": "2021",
-      "released": "2021-12-15",
+      "lyricist": [
+       "syudou"
+      ],
+      "composer": [
+       "syudou"
+      ],
+      "arranger": [
+       "syudou"
+      ],
+      "year": "2019",
+      "released": "2019-04-28",
       "label": "PONY CANYON INC",
       "album": "EXIT TUNES PRESENTS Vocalodelight (feat. 初音ミク)",
+      "isrc": "JPA651904589",
       "copyright": "℗ 2021 PONY CANYON INC.",
+      "mb": "c4868bb2-f7a4-4ec4-a871-4839ba86d33e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17637,12 +18598,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ピノキオピー"
+      ],
+      "composer": [
+       "ピノキオピー"
+      ],
+      "arranger": [
+       "ピノキオピー"
+      ],
+      "mix": [
+       "ピノキオピー"
+      ],
+      "recording": [
+       "ピノキオピー"
+      ],
       "year": "2021",
       "released": "2021-06-03",
       "label": "mui",
       "album": "ノンブレス・オブリージュ - Single",
+      "isrc": "TCJPP2113884",
       "copyright": "℗ 2021 mui",
+      "mb": "218abc91-a62e-44c2-a2fc-ff856fcd8408",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17653,7 +18632,26 @@
      "artist": "supercell",
      "song_url": "https://www.joysound.com/web/search/song/134537",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "info": {
+      "lyricist": [
+       "ryo"
+      ],
+      "composer": [
+       "ryo"
+      ],
+      "arranger": [
+       "ryo"
+      ],
+      "year": "2008",
+      "released": "2008-01-13",
+      "album": "VOCALOID BEST from ニコニコ動画(あか)",
+      "isrc": "JPP400900041",
+      "mb": "86733fae-4ee5-45ab-8c29-777d6689e736",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 48,
@@ -17678,12 +18676,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "かいりきベア"
+      ],
+      "composer": [
+       "かいりきベア"
+      ],
       "year": "2018",
-      "released": "2018-01-01",
+      "released": "2018-08-02",
       "label": "Kairiki bear",
       "album": "ベノム(feat. flower) - Single",
       "copyright": "℗ 2018 Kairiki bear",
+      "mb": "82ee2d9b-fb37-4c21-83f6-e569d9ad030f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17765,12 +18771,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Chinozo"
+      ],
+      "composer": [
+       "Chinozo"
+      ],
       "year": "2020",
-      "released": "2020-04-13",
+      "released": "2020-04-24",
       "label": "Chinozo",
       "album": "The Deluge",
+      "isrc": "TCJPL2011322",
       "copyright": "℗ 2020 Chinozo",
+      "mb": "e006f1b9-2d43-41e7-9258-33bf8f6a79c2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17999,6 +19014,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1719566849",
+     "spotify": "6HznFPNdvbxgzm5jJyNlwp",
      "bpm": 198,
      "tags": {
       "genre": [
@@ -18018,12 +19034,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吉田夜世"
+      ],
+      "composer": [
+       "吉田夜世"
+      ],
+      "mix": [
+       "吉田夜世"
+      ],
       "year": "2023",
       "released": "2023-12-16",
       "label": "Yoshida Yasei",
       "album": "オーバーライド - Single",
       "copyright": "℗ 2023 Yoshida Yasei",
+      "mb": "7cf575e1-ab63-4992-8cd1-aa99cb7ae20b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18037,6 +19064,7 @@
      "is_new": null,
      "genre": "Anime",
      "apple": "jp/980624406",
+     "spotify": "6vLRX3CvnOx3t0wPprxSU6",
      "bpm": 110,
      "tags": {
       "genre": [
@@ -18052,12 +19080,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ハチ"
+      ],
+      "composer": [
+       "ハチ"
+      ],
+      "arranger": [
+       "ハチ"
+      ],
       "year": "2011",
       "released": "2011-01-19",
       "label": "EXIT TUNES",
       "album": "EXIT TUNES PRESENTS Vocalonexus (ボカロネクサス) feat.初音ミク",
+      "isrc": "JPA651202029",
       "copyright": "℗ 2011 EXIT TUNES",
+      "mb": "97c5c3c7-86e3-44fa-9faa-ef243768450b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18084,12 +19124,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "バルーン"
+      ],
+      "composer": [
+       "バルーン"
+      ],
       "year": "2017",
-      "released": "2017-08-23",
+      "released": "2017-03-09",
       "label": "Balloon",
       "album": "Corridor",
+      "isrc": "JPA651703766",
       "copyright": "℗ 2017 Balloon",
+      "mb": "2a12af44-4fbb-4417-9767-967514065058",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18511,12 +19560,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "cosMo@暴走P"
+      ],
+      "composer": [
+       "cosMo@暴走P"
+      ],
+      "arranger": [
+       "cosMo@暴走P"
+      ],
       "year": "2014",
       "released": "2014-12-10",
       "label": "WARNER MUSIC JAPAN INC",
       "album": "Download (feat.初音ミク)",
+      "isrc": "JPC231900266",
       "copyright": "℗ 2014 WARNER MUSIC JAPAN INC.",
+      "mb": "dd2e42da-89c5-4831-88fe-4cc894536ea2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -19219,7 +20280,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-08T17:57:52+08:00",
+   "fetched_at": "2026-11-08T21:54:45+08:00",
    "stale": false
   },
   {
@@ -19459,6 +20520,19 @@
      "apple": "jp/907354503",
      "spotify": "6zqzhskMZMmZFaiGGQJohg",
      "bpm": 84,
+     "range": {
+      "low": 52,
+      "high": 59,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "sad",
@@ -19497,6 +20571,19 @@
      "apple": "jp/1440657322",
      "spotify": "1tXOIRwKnvUvlXK5w1oAjv",
      "bpm": 113,
+     "range": {
+      "low": 62,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -19542,6 +20629,19 @@
      "apple": "jp/1502696662",
      "spotify": "1CpfFc21rT8CvGj1qvBXf3",
      "bpm": 216,
+     "range": {
+      "low": 54,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "sad",
@@ -20455,6 +21555,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1440748204",
+     "spotify": "0QOMFjwVs2jWhIgdo6Odam",
      "bpm": 122,
      "tags": {
       "genre": [
@@ -20496,6 +21597,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/280918006",
+     "spotify": "3UXQajw311DXxQiEAkuRf2",
      "bpm": 125,
      "tags": {
       "genre": [
@@ -20529,6 +21631,7 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1878548880",
+     "spotify": "6Nng3JnMRQcPoLQb7KWi7j",
      "bpm": 142,
      "tags": {
       "genre": [
@@ -20596,6 +21699,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1080528780",
+     "spotify": "4CjCpbu0nMYYwjYDIO51jD",
      "bpm": 133,
      "tags": {
       "genre": [
@@ -20636,6 +21740,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/312367999",
+     "spotify": "04UJilGhFRLCqhjAGfHX9I",
      "bpm": 88,
      "tags": {
       "mood": [
@@ -20648,8 +21753,11 @@
       "released": "1990-06-25",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "吉 幾三 特撰集",
+      "isrc": "JPTK09011301",
       "copyright": "℗ 1995 TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "5ff4d708-71d6-4c5f-a2a0-2f37975fe526",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20663,6 +21771,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1809075339",
+     "spotify": "2eAOfmTyhSvN0fQNXLQpsc",
      "bpm": 123,
      "tags": {
       "mood": [
@@ -20689,6 +21798,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1440625768",
+     "spotify": "6zJ3yMfQXJ8pYrjNl52vzy",
      "bpm": 93,
      "tags": {
       "genre": [
@@ -20700,12 +21810,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "松井五郎"
+      ],
+      "composer": [
+       "森正明"
+      ],
+      "arranger": [
+       "若草恵"
+      ],
       "year": "2009",
-      "released": "2009-10-02",
+      "released": "2009-01-07",
       "label": "UNIVERSAL MUSIC LLC",
       "album": "Love Songs ~また君に恋してる~",
+      "isrc": "JPTO00802446",
       "copyright": "℗ 2009 UNIVERSAL MUSIC LLC",
+      "mb": "e430520b-e74f-4026-8b6a-68354029dcfe",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20719,6 +21841,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1865441412",
+     "spotify": "7LGeEt6nbEzNsdpEzZZ72x",
      "bpm": 231,
      "tags": {
       "mood": [
@@ -20726,12 +21849,23 @@
       ]
      },
      "info": {
-      "year": "2016",
-      "released": "2016-05-18",
+      "lyricist": [
+       "清水みのる"
+      ],
+      "composer": [
+       "陸奥明"
+      ],
+      "arranger": [
+       "長津義司"
+      ],
+      "year": "1994",
+      "released": "1994-12-01",
       "label": "TEICHIKU ENTERTAINMENT,INC",
       "album": "菅原都々子ゴールデンソングス",
       "copyright": "℗ 2016 TEICHIKU ENTERTAINMENT,INC.",
+      "mb": "91f2422f-83d6-427c-93d1-8663c6ff3606",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20745,6 +21879,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1292139737",
+     "spotify": "6u1ML7d03zEaDZOqEzfkBE",
      "bpm": 74,
      "tags": {
       "mood": [
@@ -20761,7 +21896,9 @@
       "label": "Nippon Columbia Co., Ltd",
       "album": "小林幸子全曲集 2017",
       "copyright": "℗ 2017 Nippon Columbia Co., Ltd.",
+      "mb": "b5fad91d-85e4-4b8c-bcf4-ced8f8adf514",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20777,12 +21914,24 @@
      "apple": "jp/504768649",
      "bpm": 74,
      "info": {
-      "year": "2012",
-      "released": "2012-03-07",
+      "lyricist": [
+       "小椋佳"
+      ],
+      "composer": [
+       "小椋佳"
+      ],
+      "arranger": [
+       "桜庭伸幸"
+      ],
+      "year": "1993",
+      "released": "1993",
       "label": "King Record Co.,Ltd",
       "album": "特選・歌カラベスト3 夢芝居/演歌みたいな別れでも/恋曼陀羅 - EP",
+      "isrc": "JPKI08281045",
       "copyright": "℗ 2012 King Record Co.,Ltd.",
+      "mb": "c4c521d0-ed8e-497b-a3bc-f53cadc6c1c7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20803,12 +21952,15 @@
       ]
      },
      "info": {
-      "year": "2022",
-      "released": "2022-11-23",
+      "year": "1995",
+      "released": "1995-05-29",
       "label": "Nippon Columbia Co., Ltd./NIPPONOPHONE",
       "album": "美空ひばり全曲集 銀ブラ娘",
+      "isrc": "JPCO07369970",
       "copyright": "℗ 2023 Nippon Columbia Co., Ltd./NIPPONOPHONE",
+      "mb": "936ccb52-b751-4339-acfa-d2b70babeb54",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20903,6 +22055,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/1598051372",
+     "spotify": "571FBQbvGncyg4JMAABpAH",
      "bpm": 119,
      "tags": {
       "vocal": [
@@ -20910,12 +22063,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "新條カオル"
+      ],
+      "composer": [
+       "桜田誠一"
+      ],
       "year": "1986",
       "released": "1986-06-05",
       "label": "日本クラウン株式会社",
       "album": "北の漁場/風の追分 - Single",
+      "isrc": "JPCR08650030",
       "copyright": "℗ 1986 日本クラウン株式会社",
+      "mb": "ef229912-564a-4d1d-90b8-6636d909405a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20937,12 +22099,21 @@
       ]
      },
      "info": {
-      "year": "2007",
-      "released": "2007-06-01",
+      "lyricist": [
+       "中山大三郎"
+      ],
+      "composer": [
+       "中山大三郎"
+      ],
+      "year": "2002",
+      "released": "2002-01-23",
       "label": "TEICHIKU ENTERTAINMENT,INC",
       "album": "天童よしみ2016年全曲集",
+      "isrc": "JPTE09507380",
       "copyright": "℗ 2015 TEICHIKU ENTERTAINMENT,INC.",
+      "mb": "9307554f-6f00-414c-8398-6f0a25b31aa7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20958,12 +22129,21 @@
      "apple": "jp/1444179714",
      "bpm": 113,
      "info": {
+      "lyricist": [
+       "山口洋子"
+      ],
+      "composer": [
+       "平尾昌晃"
+      ],
       "year": "1998",
-      "released": "1998-08-07",
+      "released": "1998-02-18",
       "label": "UNIVERSAL MUSIC LLC",
       "album": "アメリカ橋~男のららばい~",
+      "isrc": "JPTO09803020",
       "copyright": "℗ 1998 UNIVERSAL MUSIC LLC",
+      "mb": "3fd70872-7183-4165-806d-451c0c57093d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20991,12 +22171,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ちあき哲也"
+      ],
+      "composer": [
+       "徳久広司"
+      ],
       "year": "1998",
       "released": "1998-08-21",
       "label": "Victor Entertainment, Inc",
       "album": "ノラ - Single",
+      "isrc": "JPVI09624870",
       "copyright": "℗ Victor Entertainment, Inc.",
+      "mb": "b64ba12b-f5a3-4a28-8079-b96b622d4311",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21021,12 +22210,24 @@
       ]
      },
      "info": {
-      "year": "2018",
-      "released": "2018-08-22",
+      "lyricist": [
+       "水木かおる"
+      ],
+      "composer": [
+       "遠藤実"
+      ],
+      "arranger": [
+       "斎藤恒夫"
+      ],
+      "year": "2004",
+      "released": "2004-06-02",
       "label": "VAP INC",
       "album": "歌一輪",
+      "isrc": "JPPO00409530",
       "copyright": "℗ 2018 VAP INC.",
+      "mb": "b4aa5aeb-bedf-4f1d-ad35-5aa738ecebae",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -21244,14 +22445,23 @@
      "is_new": null,
      "genre": "J-Pop",
      "apple": "jp/1611497484",
+     "spotify": "2pJV7mv90UsOAMnB1FZc4d",
      "bpm": 100,
      "info": {
+      "lyricist": [
+       "佐々木勉"
+      ],
+      "composer": [
+       "佐々木勉"
+      ],
       "year": "1982",
       "released": "1982-08-21",
       "label": "(1),1983(2) Sony Music Labels Inc",
       "album": "3年目の浮気 / 5年目の破局 BESTタッグ - Single",
       "copyright": "℗ 1982(1),1983(2) Sony Music Labels Inc.",
+      "mb": "cfa0f12a-c5f0-4fb7-88a9-1c993736f0d6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -22066,7 +23276,8 @@
      "artist": "川中美幸/弦哲也",
      "song_url": "https://www.joysound.com/web/search/song/18356",
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "spotify": "1fVFL1bAZyYGP3Oa9EbHRl"
     },
     {
      "rank": 86,
@@ -22311,6 +23522,7 @@
      "is_new": null,
      "genre": "Kayokyoku",
      "apple": "jp/1598830333",
+     "spotify": "70noGa1oDVWTLM2wGd9Q0h",
      "bpm": 107,
      "tags": {
       "genre": [
@@ -22428,6 +23640,7 @@
      "is_new": null,
      "genre": "Enka",
      "apple": "jp/6810592480",
+     "spotify": "1pAeHwjlhDwenxkGZixzVJ",
      "bpm": 216,
      "tags": {
       "genre": [
@@ -22482,7 +23695,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-08T17:57:54+08:00",
+   "fetched_at": "2026-11-08T21:54:47+08:00",
    "stale": false
   },
   {
@@ -22741,6 +23954,21 @@
      "apple": "tw/1193701392",
      "spotify": "7qiZfU4dY1lWllzX7mPBI3",
      "bpm": 96,
+     "range": {
+      "low": 44,
+      "high": 59,
+      "m": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Reggaeton"
@@ -22865,6 +24093,21 @@
      "apple": "tw/1440618281",
      "spotify": "2z4iVfshdzIhjMXMlg7kr3",
      "bpm": 69,
+     "range": {
+      "low": 59,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -23941,6 +25184,7 @@
      "is_new": null,
      "genre": "Rock",
      "apple": "jp/41737859",
+     "spotify": "3Z2tPWiNiIpg8UMMoowHIk",
      "bpm": 72,
      "tags": {
       "mood": [
@@ -24019,6 +25263,7 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1693783076",
+     "spotify": "5d2a9nScsnQ1nXP6bR5TwB",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -24113,6 +25358,7 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/1443918698",
+     "spotify": "0oW9kM7ZHkatdt52tAS0oI",
      "bpm": 73,
      "tags": {
       "genre": [
@@ -24130,12 +25376,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "John Bettis",
+       "Albert Hammond"
+      ],
+      "composer": [
+       "Richard Carpenter"
+      ],
       "year": "1976",
       "released": "1976-01-01",
       "label": "A&M Records Inc",
       "album": "A Kind of Hush (Remastered)",
       "copyright": "℗ 1976 A&M Records Inc.",
+      "mb": "aac76524-dbc0-4434-8666-525b159a4fda",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24255,6 +25510,7 @@
      "is_new": null,
      "genre": "Alternative",
      "apple": "tw/1679849823",
+     "spotify": "70LcF31zb1H0PyJoS1Sx1r",
      "bpm": 83,
      "tags": {
       "genre": [
@@ -24270,12 +25526,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Thom Yorke"
+      ],
+      "composer": [
+       "Colin Greenwood",
+       "Jonny Greenwood",
+       "Albert Hammond",
+       "Mike Hazlewood",
+       "Ed O’Brien",
+       "Philip Selway"
+      ],
       "year": "1992",
       "released": "1992-09-21",
       "label": "LLLP LLP",
       "album": "Creep - EP",
       "copyright": "℗ 1992 LLLP LLP under exclusive license to XL Recordings Ltd",
+      "mb": "ba4c566d-e8c4-4da0-926f-cf7fde7180b9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24287,6 +25556,7 @@
      "song_url": "https://www.joysound.com/web/search/song/419530",
      "last_rank": null,
      "is_new": null,
+     "spotify": "5d6Mjuu2uCGRPYpFjGpCX5",
      "info": {
       "lyricist": [
        "Ammo",
@@ -24322,6 +25592,7 @@
      "is_new": null,
      "genre": "Pop",
      "apple": "tw/511074294",
+     "spotify": "1QbOvACeYanja5pbnJbAmk",
      "bpm": 165,
      "tags": {
       "genre": [
@@ -24339,12 +25610,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Bill Danoff",
+       "John Denver",
+       "Taffy Nivert"
+      ],
+      "composer": [
+       "Bill Danoff",
+       "John Denver",
+       "Taffy Nivert"
+      ],
       "year": "1971",
       "released": "1971-04-06",
       "label": "RCA Records",
       "album": "Poems, Prayers & Promises",
       "copyright": "℗ 1971 RCA Records, a division of Sony Music Entertainment",
+      "mb": "8c833b65-e156-4c0a-80cc-cff40408c8fa",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24358,6 +25641,7 @@
      "is_new": null,
      "genre": "Alternative",
      "apple": "tw/895127012",
+     "spotify": "41tTCXOzxSWAoVrfeIIh8x",
      "bpm": 87,
      "tags": {
       "genre": [
@@ -24373,12 +25657,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Noel Gallagher"
+      ],
+      "composer": [
+       "Noel Gallagher"
+      ],
       "year": "1995",
       "released": "1995-10-02",
       "label": "Big Brother Recordings Ltd exclusively licensed to Sony Music Entertainment UK Limited",
       "album": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]",
       "copyright": "℗ 2014 Big Brother Recordings Ltd exclusively licensed to Sony Music Entertainment UK Limited",
+      "mb": "57371189-edc2-46a1-85ed-9c5dffb7c16f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24406,12 +25698,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "John Lennon",
+       "Paul McCartney"
+      ],
+      "composer": [
+       "John Lennon",
+       "Paul McCartney"
+      ],
       "year": "1968",
       "released": "1968-08-26",
       "label": "Calderstone Productions Limited (",
       "album": "Past Masters, Vols. 1 & 2",
       "copyright": "This Compilation ℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+      "mb": "4865b5ee-3bc2-4053-b303-0b841d85bb1d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24442,12 +25744,28 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Philip Lawrence",
+       "Ari Levine",
+       "Bruno Mars",
+       "Needlz",
+       "Khalil Walton"
+      ],
+      "composer": [
+       "Philip Lawrence",
+       "Ari Levine",
+       "Bruno Mars",
+       "Needlz",
+       "Khalil Walton"
+      ],
       "year": "2010",
       "released": "2010-07-20",
       "label": "Elektra Entertainment Group Inc. for the United States and WEA International Inc. for the world outside of the United States. All Rights Reserved",
       "album": "Doo-Wops & Hooligans",
       "copyright": "℗ 2010 Elektra Entertainment Group Inc. for the United States and WEA International Inc. for the world outside of the United States. All Rights Reserved.",
+      "mb": "93a89b89-3a02-4501-a55b-ca1d8f6575da",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24462,6 +25780,7 @@
      "kkbox": "WoRj4Btj7FdqOZlAFW",
      "genre": "Hip-Hop/Rap",
      "apple": "tw/1029609244",
+     "spotify": "2JzZzZUQj3Qff7wapcbKjc",
      "bpm": 82,
      "tags": {
       "genre": [
@@ -24550,12 +25869,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Dolores O’Riordan"
+      ],
+      "composer": [
+       "Dolores O’Riordan"
+      ],
       "year": "1994",
       "released": "1994-09-13",
       "label": "The Island Def Jam Music Group",
       "album": "Stars: The Best of the Cranberries 1992-2002",
       "copyright": "This Compilation ℗ 2002 The Island Def Jam Music Group",
+      "mb": "eddd097d-9ff1-4b39-814c-1b5f02813dc3",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24580,12 +25907,41 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Natalie Hemby",
+       "Lady Gaga",
+       "Hillary Lindsey",
+       "Lori McKenna"
+      ],
+      "composer": [
+       "Natalie Hemby",
+       "Lady Gaga",
+       "Hillary Lindsey",
+       "Lori McKenna"
+      ],
+      "producer": [
+       "Dave Cobb",
+       "Lady Gaga"
+      ],
+      "mix": [
+       "Brandon Bost",
+       "Tom Elmhirst"
+      ],
+      "recording": [
+       "Bo Bodnar",
+       "Gena Johnson",
+       "Benjamin Rice",
+       "Eddie Spear"
+      ],
       "year": "2018",
-      "released": "2018-10-05",
+      "released": "2018-10-04",
       "label": "Interscope Records",
       "album": "A Star Is Born Soundtrack",
+      "isrc": "USUM71813195",
       "copyright": "This Compilation ℗ 2018 Interscope Records",
+      "mb": "101b0830-bca9-4db0-b444-3ba254177998",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24614,12 +25970,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Al McKay",
+       "Maurice White",
+       "Allee Willis"
+      ],
+      "composer": [
+       "Al McKay",
+       "Maurice White",
+       "Allee Willis"
+      ],
       "year": "1978",
       "released": "1978-11-18",
       "label": "This compilation (P) 1998 Columbia Records",
       "album": "Greatest Hits",
       "copyright": "℗ This compilation (P) 1998 Columbia Records, a division of Sony Music Entertainment",
+      "mb": "b2191934-933e-4456-8e9d-0799d1fda260",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -24634,6 +26002,7 @@
      "kkbox": "8rsWcqYU59bDS2knsl",
      "genre": "Pop",
      "apple": "tw/1440829613",
+     "spotify": "50kpGaPAhYJ3sGmk6vplg0",
      "bpm": 100,
      "tags": {
       "genre": [
@@ -26198,7 +27567,7 @@
    ],
    "period_key": "2026-10-26_2026-11-01",
    "rank_change": "history",
-   "fetched_at": "2026-11-08T17:57:56+08:00",
+   "fetched_at": "2026-11-08T21:54:49+08:00",
    "stale": false
   }
  ]
