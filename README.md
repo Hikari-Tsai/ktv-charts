@@ -21,8 +21,8 @@
 - **三種語言**：中文、English、日本語，純前端即時切換，預設中文。選擇會記在瀏覽器裡，也可以用 `?lang=en` 或 `?lang=ja` 直接指定。
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
 - **BPM**：歌手後面標出歌曲速度，用 [Beat This!](https://github.com/CPJKU/beat_this) 模型的 ONNX 版本 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 分析 iTunes 的 30 秒試聽估算。
-- **副歌音域與男女生建議**：歌手下方顯示副歌的最低音到最高音（例如 `D3–D4`）、一條迷你音域條與「適合男生／適合女生／男女皆宜」，點一下展開鋼琴鍵盤圖、移調試算，以及男女生各自是否舒適、偏高或偏低與建議升降幾個 Key。先用 UVR MDX-Net 分離人聲，再用 openvpi 的 [GAME](https://github.com/openvpi/GAME) 模型轉成音符，並用演算法過濾鬼點，見「音域」。網頁底部附男女生音域範圍說明。
-- **Hashtag 標籤**：接在歌名與曲風後面，用同樣的圓角標籤，依風格、情緒、樂器、人聲分組以不同顏色標出 `#抒情 #放鬆 #鋼琴 #女聲` 這類標籤，用 Essentia 的 Discogs-EffNet 模型分析試聽得來，每組都有門檻與數量上限。
+- **副歌音域與男女生建議**：歌手下方顯示副歌的最低音到最高音（例如 `D3–D4`）、一條迷你音域條與「適合男生／適合女生／男女皆宜」，點行尾的「鍵盤・移調」按鈕展開鋼琴鍵盤圖、移調試算，以及男女生各自是否舒適、偏高或偏低與建議升降幾個 Key。先用 UVR MDX-Net 分離人聲，再用 openvpi 的 [GAME](https://github.com/openvpi/GAME) 模型轉成音符，並用演算法過濾鬼點，見「音域」。網頁底部附男女生音域範圍說明。
+- **Hashtag 標籤**：接在歌名與曲風後面，用同樣的圓角標籤，依風格、情緒、樂器、人聲分組以不同顏色標出「抒情、放鬆、鋼琴、女聲」這類標籤（不加 #），用 Essentia 的 Discogs-EffNet 模型分析試聽得來，每組都有門檻與數量上限。
 - **出版資訊**：歌手下方顯示發行年份、發行公司、作詞與作曲，點一下展開編曲、製作人、混音、錄音、母帶後製、專輯、發行日期、ISRC、版權標示、歌詞連結與資料來源。台灣的歌查國家圖書館 ISRC 資料，其他歌查 MusicBrainz，年份與版權標示另外取自 Apple，見「出版資訊」。
 - **四個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」、「Spotify 試聽」。
   - YouTube 以「歌名 歌手」當關鍵字開啟 `https://www.youtube.com/results?search_query=`。
@@ -238,7 +238,7 @@ gh secret set SPOTIFY_CLIENT_SECRET --repo <你的帳號>/ktv-charts
 
 ## Hashtag 標籤
 
-BPM 下方的 `#抒情 #放鬆 #鋼琴 #女聲` 是用 MTG（Universitat Pompeu Fabra）的 [Essentia](https://essentia.upf.edu/models.html) Discogs-EffNet 模型分析 iTunes 30 秒試聽得來的，分成四組，各用一種顏色：
+歌名與曲風後面的「抒情、放鬆、鋼琴、女聲」這類圓角標籤是用 MTG（Universitat Pompeu Fabra）的 [Essentia](https://essentia.upf.edu/models.html) Discogs-EffNet 模型分析 iTunes 30 秒試聽得來的，分成四組，各用一種顏色：
 
 | 組別 | 來源模型 | 規則 |
 |---|---|---|
@@ -495,7 +495,7 @@ python3 -m http.server 8000 -d site
 - 曲風與 Apple Music 連結來自 Apple 的 iTunes Search API，曲風是 Apple 商店的分類，不是分析音訊得來的，也可能對到不同版本。
 - BPM、hashtag 與音域是模型分析 30 秒試聽的估計，可能出錯；男女生建議只是一般參考。
 - 出版資訊依歌名與歌手自動比對國家圖書館 ISRC、MusicBrainz 與 Apple 的資料，可能對到翻唱或同名的錄音。
-- 網頁底部也有免責聲明：曲風、BPM、音域與男女生建議、# 標籤與出版資訊由人工智慧模型與自動比對產生，人工智慧有其極限，可能有錯誤或遺漏，僅供參考。
+- 網頁底部也有免責聲明：曲風、BPM、音域與男女生建議、特色標籤與出版資訊由人工智慧模型與自動比對產生，人工智慧有其極限，可能有錯誤或遺漏，僅供參考。
 - 如果你要自行部署或轉載資料，請先確認各網站的使用條款，並保留來源標示與連回官網的連結。
 
 ## 授權

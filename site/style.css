@@ -328,6 +328,30 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
 .range-bar .rb-song { top: 3px; bottom: 3px; border-radius: 2px; background: var(--text); }
 
 /* Keyboard view inside the opened range. */
+/* The range opens into the keyboard: a chip says so, instead of the small arrow other rows use. */
+.song-range summary::after { content: none; }
+.range-open {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 8px;
+  padding: 0 8px;
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.7rem;
+  font-weight: 600;
+  line-height: 1.6;
+  white-space: nowrap;
+  vertical-align: 1px;
+}
+.range-open svg { width: 13px; height: 10px; }
+.range-open::after { content: "▸"; font-size: 0.65rem; transition: transform 0.15s; }
+.song-range[open] .range-open::after { transform: rotate(90deg); }
+.song-range summary:hover .range-open { border-color: var(--accent); }
+.song-range[open] .range-open { background: transparent; }
+
 .info-more dd.range-viz { grid-column: 1 / -1; margin-bottom: 6px; }
 .rk-result, .rk-legend { display: block; }
 .rk { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 3px 6px; align-items: center; }

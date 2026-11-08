@@ -28,14 +28,14 @@ const I18N = {
     closePlayer: "再點一次收起播放器",
     searchHint: "沒有找到對應曲目，改為搜尋「{q}」",
     genreHint: "曲風：{g}（Apple Music 分類）",
-    genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API，Spotify 曲目來自 Spotify Web API；BPM 由 Beat This! 模型、# 標籤由 Essentia（MTG Discogs-EffNet）模型分析 30 秒試聽估算。",
+    genreCredit: "曲風與 Apple Music 連結來自 iTunes Search API，Spotify 曲目來自 Spotify Web API；BPM 由 Beat This! 模型、特色標籤由 Essentia（MTG Discogs-EffNet）模型分析 30 秒試聽估算。",
     tagHint: "{group}：{tag}（Essentia 模型分析 30 秒試聽）",
     tagGroup_genre: "風格",
     tagGroup_mood: "情緒",
     tagGroup_instrument: "樂器",
     tagGroup_vocal: "人聲",
-    aboutTagsTitle: "關於 # 標籤",
-    aboutTagsIntro: "歌名後面的彩色 # 標籤，是用西班牙龐培法布拉大學音樂科技研究組（MTG）的 Essentia Discogs-EffNet 模型分析 iTunes 30 秒試聽得來的。模型先把音訊轉成特徵向量，再由多個小型分類器判斷風格、情緒、樂器與人聲。",
+    aboutTagsTitle: "關於特色標籤",
+    aboutTagsIntro: "歌名後面除了曲風以外的彩色特色標籤，是用西班牙龐培法布拉大學音樂科技研究組（MTG）的 Essentia Discogs-EffNet 模型分析 iTunes 30 秒試聽得來的。模型先把音訊轉成特徵向量，再由多個小型分類器判斷風格、情緒、樂器與人聲。",
     aboutTagsGenre: "Discogs 的 400 種音樂風格，最多 2 個。",
     aboutTagsMood: "快樂、悲傷、放鬆、派對、愛情等情緒，最多 3 個。",
     aboutTagsInstrument: "40 種樂器，最多 3 個。",
@@ -72,9 +72,9 @@ const I18N = {
     infoSrc_apple: "Apple Music",
     infoCredit: "出版資訊（詞曲、編曲、製作人、混音、錄音、發行公司、年份、ISRC）來自國家圖書館 ISRC 資料（政府資料開放授權條款第 1 版）、MusicBrainz（CC0）與 iTunes，自動比對歌名與歌手，可能有誤。歌詞受著作權保護，本站不收錄，只連到 KKBOX 等授權歌詞頁。",
     nameSep: "、",
-    aiDisclaimer: "免責聲明：本站的曲風、BPM、音域與男女生建議、# 標籤與出版資訊，是由人工智慧模型與自動比對程式產生的。人工智慧有其極限，結果可能有錯誤或遺漏，僅供參考，請以唱片公司、KTV 業者與各官方來源公布的資料為準。",
+    aiDisclaimer: "免責聲明：本站的曲風、BPM、音域與男女生建議、特色標籤與出版資訊，是由人工智慧模型與自動比對程式產生的。人工智慧有其極限，結果可能有錯誤或遺漏，僅供參考，請以唱片公司、KTV 業者與各官方來源公布的資料為準。",
     rangeLabel: "副歌音域",
-    rangeHint: "GAME 模型分析 30 秒試聽（多半是副歌）的人聲，過濾鬼點後的最低音與最高音。整首歌的音域可能更寬。點一下看男女生建議",
+    rangeHint: "GAME 模型分析 30 秒試聽（多半是副歌）的人聲，過濾鬼點後的最低音與最高音。整首歌的音域可能更寬。點一下打開鋼琴鍵盤、移調試算與男女生建議",
     rangeSemis: "{n} 個半音",
     rangeSpan: "跨度",
     rangeAdvice: "建議",
@@ -97,6 +97,7 @@ const I18N = {
     keyJoin: "，",
     rangeBarLabel: "副歌音域 {r}，{fit}",
     rangeKeysLabel: "鍵盤上亮起的是副歌用到的音：{r}",
+    rangeOpen: "鍵盤・移調",
     rangeShift: "移調",
     rangeOriginal: "原調",
     rangeApply: "{g}建議",
@@ -155,14 +156,14 @@ const I18N = {
     closePlayer: "Click again to close the player",
     searchHint: "No matching track found; searches for “{q}”",
     genreHint: "Genre: {g} (Apple Music category)",
-    genreCredit: "Genres and Apple Music links come from the iTunes Search API and Spotify tracks from the Spotify Web API; BPM (Beat This! model) and # tags (Essentia's MTG Discogs-EffNet models) are estimated from 30-second previews.",
+    genreCredit: "Genres and Apple Music links come from the iTunes Search API and Spotify tracks from the Spotify Web API; BPM (Beat This! model) and song tags (Essentia's MTG Discogs-EffNet models) are estimated from 30-second previews.",
     tagHint: "{group}: {tag} (Essentia models on a 30-second preview)",
     tagGroup_genre: "Style",
     tagGroup_mood: "Mood",
     tagGroup_instrument: "Instrument",
     tagGroup_vocal: "Vocals",
-    aboutTagsTitle: "About the # tags",
-    aboutTagsIntro: "The coloured # tags after each title come from the Essentia Discogs-EffNet models by the Music Technology Group (MTG) at Universitat Pompeu Fabra, run on the 30-second iTunes preview. The model turns the audio into an embedding, and small classifiers on top of it judge style, mood, instruments and vocals.",
+    aboutTagsTitle: "About the song tags",
+    aboutTagsIntro: "The coloured song tags after each title, besides the genre, come from the Essentia Discogs-EffNet models by the Music Technology Group (MTG) at Universitat Pompeu Fabra, run on the 30-second iTunes preview. The model turns the audio into an embedding, and small classifiers on top of it judge style, mood, instruments and vocals.",
     aboutTagsGenre: "one or two of Discogs' 400 music styles.",
     aboutTagsMood: "up to three moods such as happy, sad, relaxed, party or love.",
     aboutTagsInstrument: "up to three of 40 instruments.",
@@ -199,9 +200,9 @@ const I18N = {
     infoSrc_apple: "Apple Music",
     infoCredit: "Publishing details (songwriters, arranger, producer, mixing, recording, label, year, ISRC) come from Taiwan's National Central Library ISRC records (Open Government Data License v1), MusicBrainz (CC0) and iTunes, matched automatically by title and artist, so some may be wrong. Lyrics are copyrighted, so the site does not copy them and only links to licensed lyrics pages such as KKBOX.",
     nameSep: ", ",
-    aiDisclaimer: "Disclaimer: genres, BPM, vocal ranges and voice advice, # tags and publishing details on this site are produced by AI models and automatic matching. AI has limits, so results may contain errors or omissions. Treat them as a reference only and rely on information published by labels, KTV operators and other official sources.",
+    aiDisclaimer: "Disclaimer: genres, BPM, vocal ranges and voice advice, song tags and publishing details on this site are produced by AI models and automatic matching. AI has limits, so results may contain errors or omissions. Treat them as a reference only and rely on information published by labels, KTV operators and other official sources.",
     rangeLabel: "Chorus range",
-    rangeHint: "Lowest and highest sung note in the 30-second preview (usually the chorus), from the GAME model after filtering ghost notes. The full song may span more. Click for advice for male and female voices",
+    rangeHint: "Lowest and highest sung note in the 30-second preview (usually the chorus), from the GAME model after filtering ghost notes. The full song may span more. Click for a keyboard, key changes and advice for male and female voices",
     rangeSemis: "{n} semitones",
     rangeSpan: "Span",
     rangeAdvice: "Advice",
@@ -224,6 +225,7 @@ const I18N = {
     keyJoin: ", ",
     rangeBarLabel: "Chorus range {r}, {fit}",
     rangeKeysLabel: "Keys lit are the chorus notes: {r}",
+    rangeOpen: "Keyboard & key",
     rangeShift: "Key",
     rangeOriginal: "Original key",
     rangeApply: "{g} advice",
@@ -282,14 +284,14 @@ const I18N = {
     closePlayer: "もう一度押すとプレーヤーを閉じます",
     searchHint: "該当曲が見つからないため「{q}」を検索します",
     genreHint: "ジャンル：{g}（Apple Music の分類）",
-    genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API、Spotify の曲は Spotify Web API から取得。BPM（Beat This! モデル）と # タグ（Essentia の MTG Discogs-EffNet モデル）は 30 秒の試聴音源から推定しています。",
+    genreCredit: "ジャンルと Apple Music のリンクは iTunes Search API、Spotify の曲は Spotify Web API から取得。BPM（Beat This! モデル）と特徴タグ（Essentia の MTG Discogs-EffNet モデル）は 30 秒の試聴音源から推定しています。",
     tagHint: "{group}：{tag}（Essentia モデルで 30 秒の試聴音源から推定）",
     tagGroup_genre: "スタイル",
     tagGroup_mood: "ムード",
     tagGroup_instrument: "楽器",
     tagGroup_vocal: "ボーカル",
-    aboutTagsTitle: "# タグについて",
-    aboutTagsIntro: "曲名の後ろに表示される色付きの # タグは、ポンペウ・ファブラ大学 Music Technology Group（MTG）の Essentia Discogs-EffNet モデルで iTunes の 30 秒試聴音源を分析したものです。音声を特徴ベクトルに変換し、その上の小さな分類器がスタイル、ムード、楽器、ボーカルを判定します。",
+    aboutTagsTitle: "特徴タグについて",
+    aboutTagsIntro: "曲名の後ろに表示される、ジャンル以外の色付きの特徴タグは、ポンペウ・ファブラ大学 Music Technology Group（MTG）の Essentia Discogs-EffNet モデルで iTunes の 30 秒試聴音源を分析したものです。音声を特徴ベクトルに変換し、その上の小さな分類器がスタイル、ムード、楽器、ボーカルを判定します。",
     aboutTagsGenre: "Discogs の 400 種類の音楽スタイルから最大 2 個。",
     aboutTagsMood: "ハッピー、切ない、リラックス、パーティー、ラブなどのムードを最大 3 個。",
     aboutTagsInstrument: "40 種類の楽器から最大 3 個。",
@@ -326,9 +328,9 @@ const I18N = {
     infoSrc_apple: "Apple Music",
     infoCredit: "出版情報（作詞・作曲・編曲・プロデューサー・ミックス・レコーディング・レーベル・発売年・ISRC）は台湾国家図書館の ISRC データ（政府資料開放授権条款 第1版）、MusicBrainz（CC0）、iTunes から曲名と歌手名で自動照合しているため、誤りがある場合があります。歌詞は著作権で保護されているため掲載せず、KKBOX などの正規の歌詞ページへリンクしています。",
     nameSep: "、",
-    aiDisclaimer: "免責事項：本サイトのジャンル、BPM、音域と男女別アドバイス、# タグ、出版情報は AI モデルと自動照合によって生成されています。AI には限界があり、誤りや抜けが含まれる場合があります。参考情報としてご利用いただき、正確な情報はレコード会社・カラオケ事業者などの公式発表をご確認ください。",
+    aiDisclaimer: "免責事項：本サイトのジャンル、BPM、音域と男女別アドバイス、特徴タグ、出版情報は AI モデルと自動照合によって生成されています。AI には限界があり、誤りや抜けが含まれる場合があります。参考情報としてご利用いただき、正確な情報はレコード会社・カラオケ事業者などの公式発表をご確認ください。",
     rangeLabel: "サビ音域",
-    rangeHint: "GAME モデルで 30 秒の試聴音源（主にサビ）の歌声を分析し、ゴーストノートを除いた最低音と最高音。曲全体ではもっと広い場合があります。クリックで男女別のアドバイス",
+    rangeHint: "GAME モデルで 30 秒の試聴音源（主にサビ）の歌声を分析し、ゴーストノートを除いた最低音と最高音。曲全体ではもっと広い場合があります。クリックで鍵盤、キー変更、男女別のアドバイス",
     rangeSemis: "{n} 半音",
     rangeSpan: "幅",
     rangeAdvice: "アドバイス",
@@ -351,6 +353,7 @@ const I18N = {
     keyJoin: "、",
     rangeBarLabel: "サビ音域 {r}、{fit}",
     rangeKeysLabel: "光っている鍵盤がサビで使う音：{r}",
+    rangeOpen: "鍵盤・キー変更",
     rangeShift: "キー",
     rangeOriginal: "原曲キー",
     rangeApply: "{g}向け",
@@ -555,7 +558,7 @@ function tagLabel(group, key) {
   return TAG_EN[key] || key;
 }
 
-// # tags sit beside the title as pills, next to the genre tag.
+// Song tags sit beside the title as pills, next to the genre tag.
 function hashtagTags(row) {
   if (!row.tags) return [];
   return TAG_GROUPS.flatMap((group) => (row.tags[group] || []).map((key) => {
@@ -563,7 +566,7 @@ function hashtagTags(row) {
     return el("span", {
       class: `tag hashtag ${group}`,
       title: t("tagHint", { group: t(`tagGroup_${group}`), tag: label }),
-      text: `#${label}`,
+      text: label,
     });
   }));
 }
@@ -871,6 +874,24 @@ function span(from, to, [a, b]) {
   return `left:${pos(from).toFixed(2)}%;width:${(pos(to) - pos(from)).toFixed(2)}%`;
 }
 
+// Small keyboard icon for the "open the keyboard" chip.
+function pianoIcon() {
+  const ns = "http://www.w3.org/2000/svg";
+  const svg = document.createElementNS(ns, "svg");
+  svg.setAttribute("viewBox", "0 0 14 10");
+  svg.setAttribute("aria-hidden", "true");
+  const rect = (x, y, w, h, fill) => {
+    const r = document.createElementNS(ns, "rect");
+    for (const [k, v] of Object.entries({ x, y, width: w, height: h, fill })) r.setAttribute(k, v);
+    svg.append(r);
+  };
+  rect(0.5, 0.5, 13, 9, "none");
+  svg.lastChild.setAttribute("stroke", "currentColor");
+  for (const x of [3.5, 6.75, 10]) rect(x, 0.5, 0.6, 9, "currentColor");  // gaps between four white keys
+  for (const x of [2.6, 5.85]) rect(x, 0.5, 2.2, 5.5, "currentColor");    // two black keys
+  return svg;
+}
+
 const rangeText = (low, high) => `${noteName(low)}–${noteName(high)}`;
 
 // Mini bar beside the notes: tinted comfortable zones for male and female voices, the chorus on top.
@@ -974,7 +995,8 @@ function rangeBlock(row) {
     el("span", { class: "range-notes", text: rangeText(r.low, r.high) }),
     rangeBar(r),
     el("span", { class: "sep", "aria-hidden": "true", text: "·" }),
-    el("span", { class: `range-fit fit-${fit}`, text: fitText(r) }));
+    el("span", { class: `range-fit fit-${fit}`, text: fitText(r) }),
+    el("span", { class: "range-open" }, pianoIcon(), t("rangeOpen")));
   // The keyboard is built on first open: a chart page has a hundred songs and most stay closed.
   const viz = el("dd", { class: "range-viz" });
   const more = [viz];
