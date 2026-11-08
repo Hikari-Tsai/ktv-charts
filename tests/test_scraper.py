@@ -507,6 +507,15 @@ class VocalRangeTest(unittest.TestCase):
     def phrase(pitches, start=0.0, dur=0.4):
         return [(start + i * dur, dur, float(p)) for i, p in enumerate(pitches)]
 
+    def test_site_zones_match(self):
+        """The keyboard view in site/app.js judges key changes with the same zones as the Python advice."""
+        import re
+        js = (Path(__file__).resolve().parents[1] / "site" / "app.js").read_text(encoding="utf-8")
+        found = re.search(r"const VOICE_ZONES = \{ m: \[(.+?)\], f: \[(.+?)\] \};", js)
+        self.assertIsNotNone(found)
+        parse = lambda text: tuple(int(x) for x in text.split(","))
+        self.assertEqual({"m": parse(found[1]), "f": parse(found[2])}, singrange.ZONES)
+
     def test_note_names(self):
         self.assertEqual(singrange.note_name(60), "C4")
         self.assertEqual(singrange.note_name(69), "A4")

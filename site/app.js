@@ -35,7 +35,7 @@ const I18N = {
     tagGroup_instrument: "樂器",
     tagGroup_vocal: "人聲",
     aboutTagsTitle: "關於 # 標籤",
-    aboutTagsIntro: "歌曲下方的彩色 # 標籤，是用西班牙龐培法布拉大學音樂科技研究組（MTG）的 Essentia Discogs-EffNet 模型分析 iTunes 30 秒試聽得來的。模型先把音訊轉成特徵向量，再由多個小型分類器判斷風格、情緒、樂器與人聲。",
+    aboutTagsIntro: "歌名後面的彩色 # 標籤，是用西班牙龐培法布拉大學音樂科技研究組（MTG）的 Essentia Discogs-EffNet 模型分析 iTunes 30 秒試聽得來的。模型先把音訊轉成特徵向量，再由多個小型分類器判斷風格、情緒、樂器與人聲。",
     aboutTagsGenre: "Discogs 的 400 種音樂風格，最多 2 個。",
     aboutTagsMood: "快樂、悲傷、放鬆、派對、愛情等情緒，最多 3 個。",
     aboutTagsInstrument: "40 種樂器，最多 3 個。",
@@ -95,6 +95,13 @@ const I18N = {
     octDown: "低八度唱",
     keyNone: "升降 Key 也不容易唱得舒服",
     keyJoin: "，",
+    rangeBarLabel: "副歌音域 {r}，{fit}",
+    rangeKeysLabel: "鍵盤上亮起的是副歌用到的音：{r}",
+    rangeShift: "移調",
+    rangeOriginal: "原調",
+    rangeApply: "{g}建議",
+    rangeLegendSong: "副歌用到的音",
+    octFits: "，{o}就舒適",
     rangeNote: "這是副歌音域：依 30 秒試聽（多半是副歌附近）估算，主歌等其他段落可能更高或更低。",
     aboutRangeTitle: "關於副歌音域與男女生建議",
     aboutRangeIntro: "歌手下方的「副歌音域」是先用 UVR MDX-Net（Kim_Vocal_2）把 30 秒試聽裡的人聲分離出來，再用 openvpi 的 GAME 模型把歌聲轉成音符，取最低音與最高音。iTunes 試聽多半截自副歌附近，所以標成副歌音域。",
@@ -155,7 +162,7 @@ const I18N = {
     tagGroup_instrument: "Instrument",
     tagGroup_vocal: "Vocals",
     aboutTagsTitle: "About the # tags",
-    aboutTagsIntro: "The coloured # tags under each song come from the Essentia Discogs-EffNet models by the Music Technology Group (MTG) at Universitat Pompeu Fabra, run on the 30-second iTunes preview. The model turns the audio into an embedding, and small classifiers on top of it judge style, mood, instruments and vocals.",
+    aboutTagsIntro: "The coloured # tags after each title come from the Essentia Discogs-EffNet models by the Music Technology Group (MTG) at Universitat Pompeu Fabra, run on the 30-second iTunes preview. The model turns the audio into an embedding, and small classifiers on top of it judge style, mood, instruments and vocals.",
     aboutTagsGenre: "one or two of Discogs' 400 music styles.",
     aboutTagsMood: "up to three moods such as happy, sad, relaxed, party or love.",
     aboutTagsInstrument: "up to three of 40 instruments.",
@@ -215,6 +222,13 @@ const I18N = {
     octDown: "sing an octave down",
     keyNone: "hard to fit even with a key change",
     keyJoin: ", ",
+    rangeBarLabel: "Chorus range {r}, {fit}",
+    rangeKeysLabel: "Keys lit are the chorus notes: {r}",
+    rangeShift: "Key",
+    rangeOriginal: "Original key",
+    rangeApply: "{g} advice",
+    rangeLegendSong: "chorus notes",
+    octFits: ", comfortable if you {o}",
     rangeNote: "This is the chorus range, estimated from a 30-second preview that is usually around the chorus; verses and other parts may go higher or lower.",
     aboutRangeTitle: "About chorus range and voice advice",
     aboutRangeIntro: "The chorus range under each artist comes from separating the vocals in the 30-second preview with UVR MDX-Net (Kim_Vocal_2), transcribing them into notes with openvpi's GAME model, and taking the lowest and highest note. iTunes previews are usually cut from around the chorus, hence “chorus range”.",
@@ -275,7 +289,7 @@ const I18N = {
     tagGroup_instrument: "楽器",
     tagGroup_vocal: "ボーカル",
     aboutTagsTitle: "# タグについて",
-    aboutTagsIntro: "曲の下に表示される色付きの # タグは、ポンペウ・ファブラ大学 Music Technology Group（MTG）の Essentia Discogs-EffNet モデルで iTunes の 30 秒試聴音源を分析したものです。音声を特徴ベクトルに変換し、その上の小さな分類器がスタイル、ムード、楽器、ボーカルを判定します。",
+    aboutTagsIntro: "曲名の後ろに表示される色付きの # タグは、ポンペウ・ファブラ大学 Music Technology Group（MTG）の Essentia Discogs-EffNet モデルで iTunes の 30 秒試聴音源を分析したものです。音声を特徴ベクトルに変換し、その上の小さな分類器がスタイル、ムード、楽器、ボーカルを判定します。",
     aboutTagsGenre: "Discogs の 400 種類の音楽スタイルから最大 2 個。",
     aboutTagsMood: "ハッピー、切ない、リラックス、パーティー、ラブなどのムードを最大 3 個。",
     aboutTagsInstrument: "40 種類の楽器から最大 3 個。",
@@ -335,6 +349,13 @@ const I18N = {
     octDown: "1 オクターブ下で",
     keyNone: "キーを変えても歌いにくい",
     keyJoin: "、",
+    rangeBarLabel: "サビ音域 {r}、{fit}",
+    rangeKeysLabel: "光っている鍵盤がサビで使う音：{r}",
+    rangeShift: "キー",
+    rangeOriginal: "原曲キー",
+    rangeApply: "{g}向け",
+    rangeLegendSong: "サビで使う音",
+    octFits: "、{o}歌えば歌いやすい",
     rangeNote: "サビの音域です。30 秒の試聴音源（主にサビ付近）から推定しているため、A メロなど他の部分はもっと高い・低い場合があります。",
     aboutRangeTitle: "サビ音域と男女別アドバイスについて",
     aboutRangeIntro: "歌手名の下の「サビ音域」は、30 秒の試聴音源から UVR MDX-Net（Kim_Vocal_2）で歌声を分離し、openvpi の GAME モデルで音符に変換して、最低音と最高音を求めたものです。iTunes の試聴音源は主にサビ付近なので「サビ音域」としています。",
@@ -534,20 +555,17 @@ function tagLabel(group, key) {
   return TAG_EN[key] || key;
 }
 
-function hashtagLine(row) {
-  if (!row.tags) return null;
-  const line = el("div", { class: "hashtags" });
-  for (const group of TAG_GROUPS) {
-    for (const key of row.tags[group] || []) {
-      const label = tagLabel(group, key);
-      line.append(el("span", {
-        class: `hashtag ${group}`,
-        title: t("tagHint", { group: t(`tagGroup_${group}`), tag: label }),
-        text: `#${label}`,
-      }));
-    }
-  }
-  return line.childElementCount ? line : null;
+// # tags sit beside the title as pills, next to the genre tag.
+function hashtagTags(row) {
+  if (!row.tags) return [];
+  return TAG_GROUPS.flatMap((group) => (row.tags[group] || []).map((key) => {
+    const label = tagLabel(group, key);
+    return el("span", {
+      class: `tag hashtag ${group}`,
+      title: t("tagHint", { group: t(`tagGroup_${group}`), tag: label }),
+      text: `#${label}`,
+    });
+  }));
 }
 
 function genreInfo(name) {
@@ -821,17 +839,145 @@ function fitText(r) {
   return ["m", "f"].map(verdict).join(" · ");
 }
 
-// Lowest-highest note and who it suits stay in view; per-voice key advice opens from them.
+// Comfortable top and "high" limit per voice: the same zones as scraper/singrange.py (a test keeps them equal).
+const VOICE_ZONES = { m: [45, 66, 69], f: [53, 72, 76] };
+const BAR_SCALE = [43, 82];   // G2 to A5: the mini bar in the list uses one scale for every song
+const KEYS_SCALE = [40, 89];  // E2 to E6: the keyboard leaves room for a key change of up to 7 either way
+const MAX_SHIFT = 7;
+const BLACK_KEYS = new Set([1, 3, 6, 8, 10]);
+
+function zoneVerdict(low, high, [lo, hi, hard]) {
+  const tooLow = low < lo, tooHigh = high > hi;
+  if (tooLow && tooHigh) return "wide";
+  if (tooHigh) return high > hard ? "vhigh" : "high";
+  return tooLow ? "low" : "ok";
+}
+
+// Verdict for one voice at a given range, plus "an octave down is comfortable" when that fixes it.
+function shiftedVerdict(g, low, high) {
+  const zone = VOICE_ZONES[g];
+  const v = zoneVerdict(low, high, zone);
+  let text = t("voiceVerdict", { g: t(`voice_${g}`), v: t(`v_${v}`) });
+  if (v !== "ok") {
+    const oct = [-12, 12].find((o) => zoneVerdict(low + o, high + o, zone) === "ok");
+    if (oct) text += t("octFits", { o: t(oct < 0 ? "octDown" : "octUp") });
+  }
+  return { v, text };
+}
+
+// Position of the semitones [from, to) on a scale, as CSS left and width.
+function span(from, to, [a, b]) {
+  const pos = (m) => (Math.min(Math.max(m, a), b) - a) / (b - a) * 100;
+  return `left:${pos(from).toFixed(2)}%;width:${(pos(to) - pos(from)).toFixed(2)}%`;
+}
+
+const rangeText = (low, high) => `${noteName(low)}–${noteName(high)}`;
+
+// Mini bar beside the notes: tinted comfortable zones for male and female voices, the chorus on top.
+function rangeBar(r) {
+  const seg = (cls, from, to) => el("span", { class: cls, style: span(from, to, BAR_SCALE) });
+  return el("span", { class: "range-bar", role: "img", "aria-label": t("rangeBarLabel", { r: rangeText(r.low, r.high), fit: fitText(r) }) },
+    seg("rb-zone rb-m", VOICE_ZONES.m[0], VOICE_ZONES.m[1] + 1),
+    seg("rb-zone rb-f", VOICE_ZONES.f[0], VOICE_ZONES.f[1] + 1),
+    seg("rb-song", r.low, r.high + 1));
+}
+
+// Keyboard with each voice's comfortable and high zones, the chorus notes lit, and a key slider.
+// Piano layout: white keys side by side, each black key narrower and centred on the gap between two whites.
+// Returns a note's [left, right] edge in percent of the keyboard width.
+function pianoLayout([a, b]) {
+  const whites = [];
+  for (let m = a; m < b; m++) if (!BLACK_KEYS.has(m % 12)) whites.push(m);
+  const w = 100 / whites.length;
+  const box = (m) => {
+    const i = whites.indexOf(BLACK_KEYS.has(m % 12) ? m + 1 : m);
+    return BLACK_KEYS.has(m % 12) ? [i * w - w * 0.3, i * w + w * 0.3] : [i * w, (i + 1) * w];
+  };
+  // From the left edge of the lowest note to the right edge of the highest, as CSS left and width.
+  const edges = (left, right) => `left:${left.toFixed(2)}%;width:${(right - left).toFixed(2)}%`;
+  const spanNotes = (lo, hi) => edges(box(Math.max(lo, a))[0], box(Math.min(hi, b - 1))[1]);
+  // A zone that continues right after the note `after`, so neighbouring zones never overlap.
+  const spanAfter = (after, hi) => edges(box(after)[1], box(Math.min(hi, b - 1))[1]);
+  return { box, spanNotes, spanAfter };
+}
+
+// Keyboard with each voice's comfortable and high zones, the chorus notes lit, and a key slider.
+function rangeKeys(r) {
+  const [a, b] = KEYS_SCALE;
+  const { box, spanNotes, spanAfter } = pianoLayout(KEYS_SCALE);
+  const lanes = ["m", "f"].flatMap((g) => {
+    const [lo, hi, hard] = VOICE_ZONES[g];
+    return [el("span", { class: "rk-label", text: t(`voice_${g}`) }),
+      el("span", { class: "rk-track" },
+        el("span", { class: `rk-ok rk-${g}`, style: spanNotes(lo, hi) }),
+        el("span", { class: "rk-high", style: spanAfter(hi, hard) }))];
+  });
+  const keys = [];
+  const ticks = [];
+  for (let m = a; m < b; m++) {
+    const black = BLACK_KEYS.has(m % 12);
+    const [left, right] = box(m);
+    keys.push(el("span", black
+      ? { class: "rk-key rk-black", style: `left:${left.toFixed(2)}%;width:${(right - left).toFixed(2)}%` }
+      : { class: "rk-key rk-white" }));
+    if (m % 12 === 0) ticks.push(el("span", { class: "rk-tick", style: `left:${((left + right) / 2).toFixed(2)}%`, text: noteName(m) }));
+  }
+  const board = el("span", { class: "rk-keys", role: "img" }, ...keys);
+  const legend = el("span", { class: "rk-legend" },
+    el("span", { class: "rk-swatch rk-swatch-ok" }), t("v_ok"),
+    el("span", { class: "rk-swatch rk-swatch-high" }), t("v_high"),
+    el("span", { class: "rk-swatch rk-swatch-song" }), t("rangeLegendSong"));
+
+  const slider = el("input", { type: "range", min: -MAX_SHIFT, max: MAX_SHIFT, step: 1, value: 0, "aria-label": t("rangeShift") });
+  const shown = el("output", { class: "rk-shift" });
+  const notes = el("span", { class: "range-notes" });
+  const verdicts = el("span", { class: "rk-verdicts", "aria-live": "polite" });
+  const presets = [el("button", { type: "button", class: "rk-apply", "data-k": 0, text: t("rangeOriginal") })];
+  for (const g of ["m", "f"]) {
+    if (r[g].v !== "ok" && r[g].key !== undefined && r[g].key !== 0) {
+      presets.push(el("button", { type: "button", class: "rk-apply", "data-k": r[g].key, text: t("rangeApply", { g: t(`voice_${g}`) }) }));
+    }
+  }
+  const update = () => {
+    const k = Number(slider.value);
+    const low = r.low + k, high = r.high + k;
+    keys.forEach((key, i) => key.classList.toggle("on", a + i >= low && a + i <= high));
+    const label = k === 0 ? t("rangeOriginal") : t(k > 0 ? "keyUp" : "keyDown", { n: Math.abs(k) });
+    shown.textContent = label;
+    slider.setAttribute("aria-valuetext", label);
+    notes.textContent = rangeText(low, high);
+    board.setAttribute("aria-label", t("rangeKeysLabel", { r: rangeText(low, high) }));
+    verdicts.replaceChildren(...["m", "f"].map((g) => {
+      const { v, text } = shiftedVerdict(g, low, high);
+      return el("span", { class: `rk-verdict v-${v}`, text });
+    }));
+    for (const p of presets) p.setAttribute("aria-pressed", String(Number(p.dataset.k) === k));
+  };
+  slider.addEventListener("input", update);
+  for (const p of presets) p.addEventListener("click", () => { slider.value = p.dataset.k; update(); });
+  update();
+  return [
+    el("span", { class: "rk" }, ...lanes, el("span"), board, el("span"), el("span", { class: "rk-ticks", "aria-hidden": "true" }, ...ticks)),
+    el("span", { class: "rk-controls" }, el("span", { class: "rk-shift-label", text: t("rangeShift") }), slider, shown, ...presets),
+    el("span", { class: "rk-result" }, notes, verdicts),
+    legend,
+  ];
+}
+
+// Lowest-highest note, a mini bar and who it suits stay in view; the keyboard and key advice open from them.
 function rangeBlock(row) {
   const r = row.range;
   if (!r) return null;
   const fit = r.fit === "both" || r[r.fit]?.v === "ok" ? r.fit : "none";
   const line = el("span", { class: "info-brief" },
     el("b", { text: t("rangeLabel") }), " ",
-    el("span", { class: "range-notes", text: `${noteName(r.low)}–${noteName(r.high)}` }),
+    el("span", { class: "range-notes", text: rangeText(r.low, r.high) }),
+    rangeBar(r),
     el("span", { class: "sep", "aria-hidden": "true", text: "·" }),
     el("span", { class: `range-fit fit-${fit}`, text: fitText(r) }));
-  const more = [];
+  // The keyboard is built on first open: a chart page has a hundred songs and most stay closed.
+  const viz = el("dd", { class: "range-viz" });
+  const more = [viz];
   const add = (label, value) => more.push(el("dt", { text: label }), el("dd", {}, value));
   add(t("rangeSpan"), t("rangeSemis", { n: r.high - r.low }));
   for (const g of ["m", "f"]) {
@@ -839,7 +985,10 @@ function rangeBlock(row) {
     add(t(`voice_${g}`), `${t(`v_${r[g].v}`)}${advice ? t("keyJoin") + advice : ""}`);
   }
   more.push(el("dd", { class: "range-note", text: t("rangeNote") }));
-  return el("details", { class: "song-info song-range" },
+  return el("details", {
+    class: "song-info song-range",
+    ontoggle: (e) => { if (e.currentTarget.open && !viz.firstChild) viz.append(...rangeKeys(r)); },
+  },
     el("summary", { title: t("rangeHint") }, line),
     el("dl", { class: "info-more" }, ...more));
 }
@@ -915,9 +1064,8 @@ function songCell(row) {
   if (row.song_no) sub.append(el("span", { class: "song-no", title: t("songNo"), text: `#${row.song_no}` }));
   if (row.bpm) sub.append(el("span", { class: "bpm", title: t("bpmHint"), text: `${row.bpm} BPM` }));
   const head = el("div", { class: "song-title" }, titleNode);
-  const tag = genreTag(row);
-  if (tag) head.append(" ", tag);
-  return [head, sub, rangeBlock(row), infoBlock(row), hashtagLine(row)];
+  for (const tag of [genreTag(row), ...hashtagTags(row)]) if (tag) head.append(" ", tag);
+  return [head, sub, rangeBlock(row), infoBlock(row)];
 }
 
 function linkRow(row, songRow) {

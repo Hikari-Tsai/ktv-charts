@@ -28,6 +28,9 @@
   --ht-mood: #b4447a;
   --ht-instrument: #2f7d4f;
   --ht-vocal: #8a5a00;
+  --key-white: #ffffff;
+  --key-black: #2a2a30;
+  --key-edge: #c9c9d1;
   --radius: 10px;
   color-scheme: light;
 }
@@ -63,6 +66,9 @@
     --ht-mood: #f29cc4;
     --ht-instrument: #7fd3a0;
     --ht-vocal: #e9c46a;
+    --key-white: #d4d4da;
+    --key-black: #141417;
+    --key-edge: #8a8a94;
     color-scheme: dark;
   }
 }
@@ -304,25 +310,105 @@ td.col-change { font-size: 0.82rem; font-variant-numeric: tabular-nums; text-ali
 .range-fit.fit-f { color: var(--ht-mood); }
 .range-fit.fit-both { color: var(--up); }
 .range-fit.fit-none { color: var(--down); }
+/* Mini bar in the list: one scale (G2-A5) for every song, so bars compare at a glance. */
+.range-bar {
+  position: relative;
+  display: inline-block;
+  width: 72px;
+  height: 10px;
+  margin-left: 6px;
+  vertical-align: -1px;
+  border-radius: 3px;
+  background: var(--border);
+  overflow: hidden;
+}
+.range-bar > span, .rk-track > span { position: absolute; top: 0; bottom: 0; }
+.rb-m { background: color-mix(in srgb, var(--kkbox) 35%, transparent); }
+.rb-f { background: color-mix(in srgb, var(--ht-mood) 35%, transparent); }
+.range-bar .rb-song { top: 3px; bottom: 3px; border-radius: 2px; background: var(--text); }
+
+/* Keyboard view inside the opened range. */
+.info-more dd.range-viz { grid-column: 1 / -1; margin-bottom: 6px; }
+.rk-result, .rk-legend { display: block; }
+.rk { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 3px 6px; align-items: center; }
+.rk-label { font-size: 0.72rem; color: var(--text); opacity: 0.75; }
+.rk-track { position: relative; height: 8px; }
+.rk-track > span { border-radius: 2px; }
+.rk-ok.rk-m { background: color-mix(in srgb, var(--kkbox) 45%, transparent); }
+.rk-ok.rk-f { background: color-mix(in srgb, var(--ht-mood) 45%, transparent); }
+.rk-swatch-ok {
+  background: linear-gradient(90deg,
+    color-mix(in srgb, var(--kkbox) 45%, transparent) 50%,
+    color-mix(in srgb, var(--ht-mood) 45%, transparent) 50%);
+}
+.rk-high, .rk-swatch-high { background: color-mix(in srgb, var(--ht-vocal) 55%, transparent); }
+.rk-keys {
+  position: relative;
+  display: flex;
+  height: 36px;
+  border: 1px solid var(--key-edge);
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--key-white);
+}
+.rk-white { flex: 1; border-left: 1px solid var(--key-edge); background: var(--key-white); }
+.rk-white:first-child { border-left: 0; }
+.rk-black {
+  position: absolute;
+  top: 0;
+  height: 60%;
+  z-index: 1;
+  border-radius: 0 0 2px 2px;
+  background: var(--key-black);
+}
+.rk-key.on, .rk-swatch-song { background: var(--accent); }
+.rk-black.on { background: color-mix(in srgb, var(--accent) 65%, #000); }
+.rk-ticks { position: relative; height: 1.2em; font-size: 0.68rem; font-variant-numeric: tabular-nums; }
+.rk-tick { position: absolute; transform: translateX(-50%); }
+.rk-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin-top: 4px; }
+.rk-shift-label { color: var(--text); opacity: 0.75; font-weight: 600; }
+.rk-controls input[type="range"] { flex: 1 1 120px; min-width: 100px; margin: 0; accent-color: var(--accent); }
+.rk-shift { min-width: 5.5em; font-weight: 600; color: var(--text); font-variant-numeric: tabular-nums; }
+.rk-apply {
+  font: inherit;
+  padding: 1px 8px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+.rk-apply:hover { border-color: var(--muted); }
+.rk-apply[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+.rk-apply:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.rk-result { margin-top: 4px; }
+.rk-result .range-notes { margin-right: 8px; }
+.rk-verdicts { display: inline-flex; flex-wrap: wrap; gap: 2px 10px; }
+.rk-verdict { font-weight: 600; }
+.v-ok { color: var(--up); }
+.v-high { color: var(--ht-vocal); }
+.v-vhigh, .v-wide { color: var(--down); }
+.v-low { color: var(--kkbox); }
+.rk-legend { margin-top: 2px; font-size: 0.7rem; }
+.rk-swatch { display: inline-block; width: 10px; height: 8px; margin: 0 4px 0 10px; border-radius: 2px; vertical-align: 0; }
+.rk-swatch:first-child { margin-left: 0; }
 .info-more dd.range-note { grid-column: 1 / -1; font-size: 0.72rem; opacity: 0.85; }
 .about-range li b { color: var(--text); }
 .info-more dt { font-weight: 600; color: var(--text); opacity: 0.75; }
 .info-more dd { margin: 0; overflow-wrap: anywhere; min-width: 0; }
 .info-more a { color: inherit; }
 
-.hashtags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2px 8px;
-  margin-top: 3px;
-  font-size: 0.76rem;
-  line-height: 1.4;
-}
 .hashtag { color: var(--c); font-weight: 600; white-space: nowrap; cursor: default; }
 .hashtag.genre { --c: var(--ht-genre); }
 .hashtag.mood { --c: var(--ht-mood); }
 .hashtag.instrument { --c: var(--ht-instrument); }
 .hashtag.vocal { --c: var(--ht-vocal); }
+.song-title .tag { margin-block: 2px; }
+.tag.hashtag {
+  background: color-mix(in srgb, var(--c) 10%, var(--surface));
+  border-color: color-mix(in srgb, var(--c) 35%, var(--surface));
+  color: var(--c);
+}
 
 .tag {
   --h: 0;
@@ -429,4 +515,6 @@ tbody tr.player-row td { border-top: 0; padding-top: 0; padding-bottom: 12px; pa
   .song-links { gap: 5px; }
   .btn { padding: 2px 7px; font-size: 0.72rem; }
   .btn svg, .btn .icon { width: 12px; height: 12px; }
+  .range-bar { width: 56px; }
+  .rk-keys { height: 30px; }
 }
