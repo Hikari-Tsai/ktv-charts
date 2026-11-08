@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.holiday.com.tw/",
- "checked_at": "2026-11-07T11:21:50+08:00",
+ "checked_at": "2026-11-08T11:23:08+08:00",
  "errors": [],
  "charts": [
   {
@@ -660,6 +660,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1429430104",
+     "spotify": "4vdX5mQE0oXkflFqsqQkUP",
      "bpm": 73,
      "tags": {
       "genre": [
@@ -709,6 +710,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/543849961",
+     "spotify": "2oPu3cNSBLfOwr07Vv27DK",
      "bpm": 66,
      "tags": {
       "genre": [
@@ -730,7 +732,9 @@
       "label": "英皇娛樂 (Emperor Entertainment Group)",
       "album": "不孤單 (國語)",
       "copyright": "℗ 英皇娛樂 (Emperor Entertainment Group)",
+      "mb": "52d218a4-e139-419e-98df-5c48a3fe5c72",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -745,6 +749,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1190504672",
+     "spotify": "6mO5fCJKvB9tr5RAFvBO7z",
      "bpm": 66,
      "tags": {
       "genre": [
@@ -795,6 +800,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/597217626",
+     "spotify": "3n3zzFH7zzO0gJNaw4RKSm",
      "bpm": 68,
      "tags": {
       "genre": [
@@ -816,7 +822,9 @@
       "label": "Comic International Productions Co., Ltd",
       "album": "終極一班2 (電視原聲帶)",
       "copyright": "℗ 2013 Comic International Productions Co., Ltd.",
+      "mb": "7969dd96-1029-445d-a28a-b85f529b385a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -831,6 +839,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1770003012",
+     "spotify": "5HVq8nS0pbM6G7YK8M7DY4",
      "bpm": 84,
      "tags": {
       "genre": [
@@ -876,6 +885,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/255921025",
+     "spotify": "4XrWar13kLO1jr535AzKrQ",
      "bpm": 62,
      "tags": {
       "genre": [
@@ -925,6 +935,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1462400556",
+     "spotify": "3NNDJfWMGHuNpvHWTImmlW",
      "bpm": 92,
      "tags": {
       "genre": [
@@ -976,6 +987,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1592498330",
+     "spotify": "72OVnXDzugvrCU25lMi9au",
      "bpm": 75,
      "tags": {
       "genre": [
@@ -1203,6 +1215,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1811950828",
+     "spotify": "6RN4rGtDTTx9orufM72pC4",
      "bpm": 69,
      "tags": {
       "genre": [
@@ -1375,7 +1388,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:21+08:00",
+   "fetched_at": "2026-11-08T11:22:44+08:00",
    "stale": false
   },
   {
@@ -2064,6 +2077,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/870361601",
+     "spotify": "6ZbYUfTgChCzvxMpOxiJn4",
      "bpm": 113,
      "tags": {
       "genre": [
@@ -2154,6 +2168,7 @@
      "kkbox": "4pvcfXTBiO7N5wR59T",
      "last_rank": 18,
      "is_new": false,
+     "spotify": "3owjOfhRyHi08hDbNXKPui",
      "info": {
       "lyricist": [
        "蔡秉潤",
@@ -2195,6 +2210,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1775889910",
+     "spotify": "01KDzPqoYKiUSV54SKWEHf",
      "bpm": 140,
      "tags": {
       "genre": [
@@ -2252,6 +2268,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/1524231249",
+     "spotify": "5X3Bt3Yh09XVrBT2pYeH4E",
      "bpm": 76,
      "tags": {
       "genre": [
@@ -2346,6 +2363,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/926174356",
+     "spotify": "5so4njCnd5kQVQ24vV1SAY",
      "bpm": 78,
      "tags": {
       "genre": [
@@ -2418,6 +2436,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/717098523",
+     "spotify": "2BRVHpxPcXoKsDQjm02IFk",
      "bpm": 157,
      "tags": {
       "genre": [
@@ -2691,7 +2710,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:25+08:00",
+   "fetched_at": "2026-11-08T11:22:47+08:00",
    "stale": false
   },
   {
@@ -3267,6 +3286,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/723213063",
+     "spotify": "01BlRiOtOp3JBO5mMeIP1O",
      "bpm": 109,
      "tags": {
       "genre": [
@@ -3283,7 +3303,9 @@
       "label": "Sony Music Entertainment Hong Kong Limited",
       "album": "友情歲月",
       "copyright": "℗ 2013 Sony Music Entertainment Hong Kong Limited",
+      "mb": "6d2cff8f-bb09-43db-9044-214b53273444",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3361,6 +3383,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1443310612",
+     "spotify": "6xJggWssdiq6VaFK13MXYB",
      "bpm": 73,
      "tags": {
       "genre": [
@@ -3368,12 +3391,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "大木誠"
+      ],
+      "composer": [
+       "徳永英明"
+      ],
+      "arranger": [
+       "盧東尼"
+      ],
+      "producer": [
+       "陳美威"
+      ],
       "year": "1986",
       "released": "1986-10-23",
       "label": "Universal Music Ltd",
       "album": "相愛",
       "copyright": "℗ 1986 Universal Music Ltd.",
+      "mb": "48d5ef62-7212-4227-afb6-bc3bba22b05a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3388,6 +3425,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1440803866",
+     "spotify": "1Sh8k4m5whTF7mIFdRNRAa",
      "bpm": 144,
      "tags": {
       "genre": [
@@ -3405,12 +3443,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉卓輝"
+      ],
+      "composer": [
+       "黃家駒"
+      ],
       "year": "1990",
       "released": "1990-05-31",
       "label": "Cinepoly Records Co. Ltd",
       "album": "Beyond音樂大全101",
       "copyright": "This Compilation ℗ 2011 Cinepoly Records Co. Ltd.",
+      "mb": "66c2de06-4cba-42d5-84e8-70634121060f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3425,6 +3471,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1444116580",
+     "spotify": "7uzJKRRrTqxUOeTtwQMd36",
      "bpm": 102,
      "tags": {
       "genre": [
@@ -3508,6 +3555,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1443394970",
+     "spotify": "5M8FXrTngqo69sLY55pffy",
      "bpm": 120,
      "tags": {
       "genre": [
@@ -3569,6 +3617,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1049581689",
+     "spotify": "30DewFwZeiMhzuzGvEFrX5",
      "bpm": 118,
      "tags": {
       "mood": [
@@ -3582,12 +3631,14 @@
       ]
      },
      "info": {
-      "year": "2015",
-      "released": "2015-10-16",
+      "year": "2000",
+      "released": "2000-06",
       "label": "Sony Music Entertainment Hong Kong Ltd",
       "album": "相依為命: 20年精彩印記",
       "copyright": "℗ 2015 Sony Music Entertainment Hong Kong Ltd.",
+      "mb": "e2a100f2-53d1-4568-8112-381a928e57df",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3602,6 +3653,7 @@
      "is_new": false,
      "genre": "Cantopop",
      "apple": "tw/1477799567",
+     "spotify": "4XafCNKCV3FnQUoel6NrRK",
      "bpm": 113,
      "tags": {
       "genre": [
@@ -3613,12 +3665,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "何厚華"
+      ],
+      "composer": [
+       "黃卓穎"
+      ],
       "year": "1994",
       "released": "1994-01-01",
       "label": "Cinepoly Records Co. Ltd",
       "album": "但願人長久",
       "copyright": "This Compilation ℗ 1999 Cinepoly Records Co. Ltd.",
+      "mb": "1fa7c3b5-732c-4f8b-bf87-306f87ff31ab",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3780,7 +3840,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:29+08:00",
+   "fetched_at": "2026-11-08T11:22:51+08:00",
    "stale": false
   },
   {
@@ -4599,12 +4659,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "George Michael"
+      ],
+      "composer": [
+       "George Michael"
+      ],
       "year": "1984",
       "released": "1984-01-01",
       "label": "This compilation (P) 2008 Sony BMG Music Entertainment (UK) Limited",
       "album": "Twenty Five",
       "copyright": "℗ This compilation (P) 2008 Sony BMG Music Entertainment (UK) Limited",
+      "mb": "09284f8a-51af-4727-b672-2e9ab3b1f869",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4635,12 +4703,28 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Noonie Bao",
+       "Jesper Borgen",
+       "Anders Frøen",
+       "Gunnar Greve",
+       "Alan Walker"
+      ],
+      "composer": [
+       "Noonie Bao",
+       "Jesper Borgen",
+       "Anders Frøen",
+       "Gunnar Greve",
+       "Alan Walker"
+      ],
       "year": "2016",
       "released": "2016-12-02",
       "label": "Kreatell Music",
       "album": "Different World",
       "copyright": "℗ 2018 Kreatell Music under exclusive license to Sony Music Entertainment Sweden AB",
+      "mb": "a2ef09f1-ff09-4826-9ef5-61de6cd74e3c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4672,12 +4756,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Michael Jackson"
+      ],
+      "composer": [
+       "Michael Jackson"
+      ],
       "year": "1982",
       "released": "1982-11-30",
       "label": "1982, 1987, 1988, 1991, 1995 MJJ Productions Inc",
       "album": "他的歷史:昨日、今日、明日 第一輯(套裝)",
       "copyright": "℗ 1979, 1982, 1987, 1988, 1991, 1995 MJJ Productions Inc.",
+      "mb": "7edb2779-0827-4b72-92e1-1acf088793dc",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4708,12 +4800,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Avril Lavigne",
+       "Butch Walker"
+      ],
+      "composer": [
+       "Avril Lavigne",
+       "Butch Walker"
+      ],
       "year": "2007",
       "released": "2007-04-13",
       "label": "RCA Records",
       "album": "美麗壞東西",
       "copyright": "℗ 2007 RCA Records, a division of Sony Music Entertainment",
+      "mb": "2a645a3b-dd27-4498-ae06-f7d4a044f32d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4728,6 +4830,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1642721873",
+     "spotify": "2epbL7s3RFV81K5UhTgZje",
      "bpm": 129,
      "info": {
       "year": "1995",
@@ -4747,7 +4850,29 @@
      "song_no": "38470",
      "kkbox": "9ZDZSagOs_ZpEZ0FaI",
      "last_rank": 25,
-     "is_new": false
+     "is_new": false,
+     "spotify": "6I9VzXrHxO9rA9A5euc8Ak",
+     "info": {
+      "lyricist": [
+       "Cathy Dennis",
+       "Henrik Jonback",
+       "Christian Karlsson",
+       "Pontus Winnberg"
+      ],
+      "composer": [
+       "Cathy Dennis",
+       "Henrik Jonback",
+       "Christian Karlsson",
+       "Pontus Winnberg"
+      ],
+      "year": "2004",
+      "released": "2004",
+      "album": "Groove Station 10",
+      "mb": "2c4e741b-b0d0-452a-994e-226925516632",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 24,
@@ -4759,6 +4884,7 @@
      "is_new": false,
      "genre": "Soundtrack",
      "apple": "tw/714526448",
+     "spotify": "7fLkHVJAJLENmSvhrEHZxV",
      "bpm": 108,
      "tags": {
       "genre": [
@@ -5000,7 +5126,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:33+08:00",
+   "fetched_at": "2026-11-08T11:22:54+08:00",
    "stale": false
   },
   {
@@ -5496,12 +5622,21 @@
       ]
      },
      "info": {
-      "year": "2020",
-      "released": "2020-10-28",
+      "lyricist": [
+       "中山美穂",
+       "上杉昇"
+      ],
+      "composer": [
+       "織田哲郎"
+      ],
+      "year": "1993",
+      "released": "1993-12-10",
       "label": "GIZA, INC",
       "album": "BURN THE SECRET",
       "copyright": "℗ GIZA, INC.",
+      "mb": "00957a9f-42e9-4367-92a2-d94dd378e62b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5516,6 +5651,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1536760546",
+     "spotify": "6uPyPOSTwYCgPjYINvXUKl",
      "bpm": 137,
      "tags": {
       "genre": [
@@ -5526,12 +5662,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "三浦徳子"
+      ],
+      "composer": [
+       "小田裕一郎"
+      ],
       "year": "1980",
       "released": "1980-07-01",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "SQUALL",
       "copyright": "℗ 1980 Sony Music Entertainment (Japan) Inc.",
+      "mb": "f758b92f-f142-4453-90eb-6d98be6ecdf4",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5593,6 +5737,7 @@
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1440657253",
+     "spotify": "5vFZKGaSPd6318vYlMZWhd",
      "bpm": 231,
      "tags": {
       "genre": [
@@ -5606,12 +5751,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "山上路夫"
+      ],
+      "composer": [
+       "猪俣公章"
+      ],
       "year": "1974",
       "released": "1974-10-21",
       "label": "USM JAPAN",
       "album": "テレサ・テン 40/40 ~ベスト・セレクション",
       "copyright": "℗ 2015 USM JAPAN,  a division of UNIVERSAL MUSIC LLC.",
+      "mb": "13654d9a-72e2-432d-abcb-1d1fef1f5c1d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5626,6 +5779,7 @@
      "is_new": false,
      "genre": "Enka",
      "apple": "jp/1438593072",
+     "spotify": "0Jzfex2R1uMhiJ9GUlinQt",
      "bpm": 71,
      "tags": {
       "mood": [
@@ -5634,12 +5788,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "吉岡治"
+      ],
+      "composer": [
+       "市川昭介"
+      ],
+      "arranger": [
+       "斎藤恒夫"
+      ],
       "year": "1980",
       "released": "1980-02-01",
       "label": "Nippon Columbia Co., Ltd",
       "album": "都はるみ全曲集 2019",
+      "isrc": "JPCO07909190",
       "copyright": "℗ 2018 Nippon Columbia Co., Ltd.",
+      "mb": "9e0ac3b6-594b-4797-9e54-4d07b3d62e8e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5654,6 +5820,7 @@
      "is_new": false,
      "genre": "Kayokyoku",
      "apple": "jp/1740094429",
+     "spotify": "6SjOT9fq1Qd9mNcye1RIeX",
      "bpm": 283,
      "tags": {
       "genre": [
@@ -5872,7 +6039,18 @@
      "song_no": "88690",
      "kkbox": "1-ryVRX3WDhics9E9O",
      "last_rank": 24,
-     "is_new": false
+     "is_new": false,
+     "spotify": "7BvRirLX1FGRM7Ud03kQoU",
+     "info": {
+      "year": "2001",
+      "released": "2001-10-24",
+      "album": "全曲集",
+      "isrc": "JPTA08300420",
+      "mb": "1d84bd42-f446-4281-8d98-a394dfa0b9d0",
+      "src": [
+       "mb"
+      ]
+     }
     },
     {
      "rank": 27,
@@ -5914,6 +6092,7 @@
      "is_new": false,
      "genre": "Enka",
      "apple": "jp/1613465321",
+     "spotify": "3sAvNRUsg1qYcWvvlwq4w7",
      "bpm": 79,
      "tags": {
       "genre": [
@@ -5925,12 +6104,15 @@
       ]
      },
      "info": {
-      "year": "2010",
-      "released": "2010-11-03",
+      "year": "1997",
+      "released": "1997-07-24",
       "label": "TOKUMA JAPAN COMMUNICATIONS",
       "album": "千昌夫大全集～50周年記念BOX",
+      "isrc": "JPTK06910101",
       "copyright": "℗ TOKUMA JAPAN COMMUNICATIONS",
+      "mb": "e10fab36-7f17-4b4b-a166-2b276d2de170",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6013,7 +6195,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:37+08:00",
+   "fetched_at": "2026-11-08T11:22:57+08:00",
    "stale": false
   },
   {
@@ -6685,12 +6867,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "박진영"
+      ],
+      "composer": [
+       "박진영"
+      ],
+      "arranger": [
+       "박진영"
+      ],
+      "mix": [
+       "Manny Marroquin"
+      ],
+      "recording": [
+       "신봉원"
+      ],
       "year": "2011",
       "released": "2011-01-01",
       "label": "JYP Entertainment",
       "album": "A Class",
+      "isrc": "US3DF1836887",
       "copyright": "℗ 2011 JYP Entertainment",
+      "mb": "098306f1-e4eb-4df2-adb3-087c5187e4c8",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6714,6 +6914,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/854890817",
+     "spotify": "0U9jNoTJeTxXToakhsb7pV",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -6732,12 +6933,18 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "中村彼方"
+      ],
       "year": "2010",
       "released": "2010-03-17",
       "label": "SM Entertainment",
       "album": "Run Devil Run",
+      "isrc": "JPPO01128750",
       "copyright": "℗ 2010 SM Entertainment",
+      "mb": "7b16cd11-8a13-4174-9918-de77ae0f0411",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6768,8 +6975,11 @@
       "released": "2016-06-01",
       "label": "BANANA CULTURE",
       "album": "Street",
+      "isrc": "KRB461600572",
       "copyright": "℗ 2016 BANANA CULTURE",
+      "mb": "eff4196d-df13-4956-b9ad-1fd2217cc4b2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6784,6 +6994,7 @@
      "is_new": false,
      "genre": "Hip-Hop/Rap",
      "apple": "tw/1608247201",
+     "spotify": "5npCUsfrlhdyjxyCa32maW",
      "bpm": 70,
      "tags": {
       "genre": [
@@ -6802,8 +7013,11 @@
       "released": "2021-11-29",
       "label": "JYP Entertainment",
       "album": "Christmas EveL - EP",
+      "isrc": "US5TA2100115",
       "copyright": "℗ 2021 JYP Entertainment",
+      "mb": "74c6e574-055f-41d9-8c01-3ffa1b4fab2a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6827,6 +7041,7 @@
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1689324537",
+     "spotify": "4oI41JVdiftLlWKmwOtGye",
      "bpm": 130,
      "tags": {
       "genre": [
@@ -7049,7 +7264,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:41+08:00",
+   "fetched_at": "2026-11-08T11:23:00+08:00",
    "stale": false
   },
   {
@@ -7554,7 +7769,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:43+08:00",
+   "fetched_at": "2026-11-08T11:23:02+08:00",
    "stale": false
   },
   {
@@ -8268,6 +8483,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6771372863",
+     "spotify": "1kYQz3ILMz6t6QiEuMeNpQ",
      "bpm": 71,
      "tags": {
       "genre": [
@@ -8346,6 +8562,7 @@
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1868718645",
+     "spotify": "2yMZPJsE86Lhyw3EYvkznx",
      "bpm": 87,
      "tags": {
       "mood": [
@@ -8388,6 +8605,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6800180368",
+     "spotify": "005eESnSIcR99N474aIINN",
      "bpm": 70,
      "tags": {
       "mood": [
@@ -8643,11 +8861,13 @@
      },
      "info": {
       "year": "2018",
-      "released": "2018-05-16",
+      "released": "2018-12-31",
       "label": "潮石音乐",
       "album": "怪咖",
       "copyright": "℗ 2018 潮石音乐",
+      "mb": "3d129b00-1d64-4954-a2f5-420d895cc264",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8695,6 +8915,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6764376440",
+     "spotify": "3keHMYV9J4c9QZEcNcCOCL",
      "bpm": 69,
      "tags": {
       "mood": [
@@ -8726,6 +8947,7 @@
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6783215356",
+     "spotify": "0zAirwis62ZB9LExKoWXtH",
      "bpm": 123,
      "tags": {
       "mood": [
@@ -8806,7 +9028,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:46+08:00",
+   "fetched_at": "2026-11-08T11:23:05+08:00",
    "stale": false
   },
   {
@@ -9564,6 +9786,7 @@
      "is_new": false,
      "genre": "Tai-Pop",
      "apple": "tw/6767463258",
+     "spotify": "2cNB2tKIezee9LbvVbfDAr",
      "bpm": 126,
      "tags": {
       "mood": [
@@ -9924,7 +10147,7 @@
    ],
    "period_key": "2026-10-27_2026-11-02",
    "rank_change": "site",
-   "fetched_at": "2026-11-07T11:21:50+08:00",
+   "fetched_at": "2026-11-08T11:23:08+08:00",
    "stale": false
   }
  ]

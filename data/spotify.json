@@ -57,6 +57,15 @@
   "name": "All I Want for Christmas Is You",
   "status": "ok"
  },
+ "almondchocolate|illit": {
+  "artist": "ILLIT",
+  "checked": "2026-11-08",
+  "id": "75yAymNsjxzPPNG6LiIQ9P",
+  "market": "JP",
+  "name": "Almond Chocolate",
+  "status": "ok",
+  "v": 2
+ },
  "alone|alanwalker": {
   "artist": "Alan Walker",
   "checked": "2026-11-05",
@@ -64,6 +73,15 @@
   "market": "TW",
   "name": "Alone",
   "status": "ok"
+ },
+ "am1100|hy": {
+  "artist": "HY",
+  "checked": "2026-11-08",
+  "id": "6YcvfXy4wTvjaIniIBuh30",
+  "market": "JP",
+  "name": "AM11:00",
+  "status": "ok",
+  "v": 2
  },
  "anhluônnhưvậy|braycậubảo": {
   "artist": "B Ray",
@@ -113,6 +131,15 @@
   "name": "A Whole New World",
   "status": "ok"
  },
+ "awholenewworld|peabobryson": {
+  "artist": "Peabo Bryson, Regina Belle",
+  "checked": "2026-11-08",
+  "id": "7fLkHVJAJLENmSvhrEHZxV",
+  "market": "TW",
+  "name": "A Whole New World (Aladdin's Theme)",
+  "status": "ok",
+  "v": 2
+ },
  "baby|justinbieber": {
   "artist": "Justin Bieber, Ludacris",
   "checked": "2026-11-05",
@@ -122,8 +149,9 @@
   "status": "ok"
  },
  "baby|東海": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "badgirlgoodgirl|missa": {
   "artist": "miss A",
@@ -132,6 +160,15 @@
   "market": "TW",
   "name": "Bad Girl Good Girl",
   "status": "ok"
+ },
+ "badgirl|hana": {
+  "artist": "HANA",
+  "checked": "2026-11-08",
+  "id": "2bLQ0HMyuUWI7uPRzCy5Lo",
+  "market": "JP",
+  "name": "Bad Girl",
+  "status": "ok",
+  "v": 2
  },
  "badromance|ladygaga": {
   "artist": "Lady Gaga",
@@ -206,8 +243,13 @@
   "status": "ok"
  },
  "birdyfly|陳忻玥": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "陳忻玥",
+  "checked": "2026-11-08",
+  "id": "1kYQz3ILMz6t6QiEuMeNpQ",
+  "market": "TW",
+  "name": "Birdy Fly",
+  "status": "ok",
+  "v": 2
  },
  "birthdaywish|nmixx": {
   "artist": "NMIXX",
@@ -217,9 +259,19 @@
   "name": "Birthday Wish",
   "status": "ok"
  },
+ "blingbangbangborn|creepynuts": {
+  "artist": "Creepy Nuts",
+  "checked": "2026-11-08",
+  "id": "0kdqcbwei4MDWFEX5f33yG",
+  "market": "JP",
+  "name": "Bling-Bang-Bang-Born",
+  "status": "ok",
+  "v": 2
+ },
  "bluesky|銀赫": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "bohemianrhapsody|queen": {
   "artist": "Queen",
@@ -229,9 +281,19 @@
   "name": "Bohemian Rhapsody",
   "status": "ok"
  },
+ "breakfree|arianagrande": {
+  "artist": "Ariana Grande, Zedd",
+  "checked": "2026-11-08",
+  "id": "12KUFSHFgT0XCoiSlvdQi4",
+  "market": "TW",
+  "name": "Break Free",
+  "status": "ok",
+  "v": 2
+ },
  "butterfly|和田光司": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "bàinàykhôngđểđidiễn|anhtúatus": {
   "artist": "Anh Tú Atus",
@@ -296,6 +358,15 @@
   "market": "TW",
   "name": "CHOOM",
   "status": "ok"
+ },
+ "christmasevel|straykids": {
+  "artist": "Stray Kids",
+  "checked": "2026-11-08",
+  "id": "5npCUsfrlhdyjxyCa32maW",
+  "market": "TW",
+  "name": "Christmas EveL",
+  "status": "ok",
+  "v": 2
  },
  "chếttrongem|thinhsuy": {
   "artist": "Thịnh Suy",
@@ -567,6 +638,15 @@
   "name": "Hands Up",
   "status": "ok"
  },
+ "happyhalloweenfeat鏡音リン|junky": {
+  "artist": "Junky, 鏡音リン",
+  "checked": "2026-11-08",
+  "id": "7iS6811erXkWjtiRFydOmn",
+  "market": "JP",
+  "name": "Happy Halloween (feat. 鏡音リン)",
+  "status": "ok",
+  "v": 2
+ },
  "happyhalloween|junkyfeat鏡音リン": {
   "artist": "Junky, 鏡音リン",
   "checked": "2026-11-07",
@@ -576,9 +656,19 @@
   "status": "ok",
   "v": 2
  },
+ "help|kobokanaeru": {
+  "artist": "Kobo Kanaeru",
+  "checked": "2026-11-08",
+  "id": "2sb0MPuym9pDaru5M2DHsU",
+  "market": "JP",
+  "name": "HELP!!",
+  "status": "ok",
+  "v": 2
+ },
  "hinhnhutathichnhau|doãnhiếu": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "holdmetight|陳忻玥張粹方": {
   "artist": "陳忻玥, Dena",
@@ -645,6 +735,15 @@
   "name": "I I I",
   "status": "ok"
  },
+ "illbeback|2pm": {
+  "artist": "2PM",
+  "checked": "2026-11-08",
+  "id": "4oI41JVdiftLlWKmwOtGye",
+  "market": "TW",
+  "name": "I'll Be Back",
+  "status": "ok",
+  "v": 2
+ },
  "imgonnatoesa|soyeon": {
   "artist": "SOYEON, Kian84",
   "checked": "2026-11-05",
@@ -685,6 +784,15 @@
   "name": "It's My Life",
   "status": "ok"
  },
+ "iwannayouwanna|rofmao": {
+  "artist": "ROF-MAO",
+  "checked": "2026-11-08",
+  "id": "1WBkyEfMcX88iGpitPN9tG",
+  "market": "JP",
+  "name": "I wanna! You wanna!",
+  "status": "ok",
+  "v": 2
+ },
  "iwantitthatway|backstreetboys": {
   "artist": "Backstreet Boys",
   "checked": "2026-11-05",
@@ -710,6 +818,15 @@
   "name": "Jumping Machine (跳楼机)",
   "status": "ok"
  },
+ "jupiter|平原綾香": {
+  "artist": "平原綾香",
+  "checked": "2026-11-08",
+  "id": "5IwRgi599tbwNi9wqPYyIX",
+  "market": "JP",
+  "name": "Jupiter",
+  "status": "ok",
+  "v": 2
+ },
  "king|kanaria": {
   "artist": "Kanaria",
   "checked": "2026-11-05",
@@ -734,6 +851,15 @@
   "market": "TW",
   "name": "Last Christmas",
   "status": "ok"
+ },
+ "lemontree|foolsgarden": {
+  "artist": "Fools Garden",
+  "checked": "2026-11-08",
+  "id": "2epbL7s3RFV81K5UhTgZje",
+  "market": "TW",
+  "name": "Lemon Tree",
+  "status": "ok",
+  "v": 2
  },
  "lemon|米津玄師": {
   "artist": "米津玄師",
@@ -784,6 +910,15 @@
   "name": "like JENNIE",
   "status": "ok"
  },
+ "livinonaprayer|bonjovi": {
+  "artist": "Bon Jovi",
+  "checked": "2026-11-08",
+  "id": "37ZJ0p5Jm13JPevGcx4SkF",
+  "market": "TW",
+  "name": "Livin' On A Prayer",
+  "status": "ok",
+  "v": 2
+ },
  "lookscankill|ive": {
   "artist": "IVE",
   "checked": "2026-11-05",
@@ -793,8 +928,13 @@
   "status": "ok"
  },
  "loser|米津玄師": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "米津玄師",
+  "checked": "2026-11-08",
+  "id": "7AqUE5AY514dbzeOAfJRa0",
+  "market": "TW",
+  "name": "LOSER",
+  "status": "ok",
+  "v": 2
  },
  "loversagain|exile": {
   "artist": "EXILE",
@@ -853,6 +993,11 @@
   "name": "MECHA-MECHA",
   "status": "ok"
  },
+ "meos|ateez": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
  "mirrormirror|ive": {
   "artist": "IVE",
   "checked": "2026-11-05",
@@ -868,6 +1013,15 @@
   "market": "TW",
   "name": "MISS ME",
   "status": "ok"
+ },
+ "myboo|清水翔太": {
+  "artist": "清水翔太",
+  "checked": "2026-11-08",
+  "id": "0DxfR2OYoEbSOmmUtWcRIE",
+  "market": "JP",
+  "name": "My Boo",
+  "status": "ok",
+  "v": 2
  },
  "myheartwillgoon|celinedion": {
   "artist": "Céline Dion",
@@ -923,6 +1077,15 @@
   "name": "Năm Qua Đã Làm Gì",
   "status": "ok"
  },
+ "odoriko|vaundy": {
+  "artist": "Vaundy",
+  "checked": "2026-11-08",
+  "id": "1yFeci9dMqBobDPGJroWAZ",
+  "market": "TW",
+  "name": "odoriko",
+  "status": "ok",
+  "v": 2
+ },
  "patientzero|taylorswift": {
   "artist": "Taylor Swift",
   "checked": "2026-11-05",
@@ -932,8 +1095,13 @@
   "status": "ok"
  },
  "pedazos|藝聲": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "藝聲",
+  "checked": "2026-11-08",
+  "id": "7fS4aqE7l4YljkkIEFjAWb",
+  "market": "TW",
+  "name": "Pedazos",
+  "status": "ok",
+  "v": 2
  },
  "penpineappleapplepen|ピコ太郎": {
   "artist": "ピコ太郎",
@@ -977,8 +1145,13 @@
   "status": "ok"
  },
  "rundevilrun|少女時代": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "少女時代",
+  "checked": "2026-11-08",
+  "id": "0U9jNoTJeTxXToakhsb7pV",
+  "market": "JP",
+  "name": "Run Devil Run",
+  "status": "ok",
+  "v": 2
  },
  "sakihokorutokiomatsunowa|藝聲": {
   "artist": "藝聲",
@@ -1005,6 +1178,15 @@
   "name": "Shape of You",
   "status": "ok"
  },
+ "silent|sekainoowari": {
+  "artist": "SEKAI NO OWARI",
+  "checked": "2026-11-08",
+  "id": "6c5k0VC9TBzlcKwtjpzFW2",
+  "market": "JP",
+  "name": "silent",
+  "status": "ok",
+  "v": 2
+ },
  "snakeskin|ive": {
   "artist": "IVE",
   "checked": "2026-11-05",
@@ -1012,6 +1194,15 @@
   "market": "TW",
   "name": "SNAKESKIN",
   "status": "ok"
+ },
+ "sodapop|kpopdemonhunterscasthuntrxsajaboys": {
+  "artist": "Saja Boys, 蔡康明, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee, KPop Demon Hunters Cast",
+  "checked": "2026-11-08",
+  "id": "02sy7FAs8dkDNYsHp4Ul3f",
+  "market": "TW",
+  "name": "Soda Pop",
+  "status": "ok",
+  "v": 2
  },
  "somethingjustlikethis|thechainsmokerscoldplay": {
   "artist": "The Chainsmokers, Coldplay",
@@ -1055,8 +1246,9 @@
   "v": 2
  },
  "stay|宋雨琦": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "stellarstellar|星街すいせい": {
   "artist": "星街すいせい",
@@ -1064,6 +1256,15 @@
   "id": "6OC9BOO9qGXQARZGWb8rqy",
   "market": "JP",
   "name": "Stellar Stellar",
+  "status": "ok",
+  "v": 2
+ },
+ "story|ai": {
+  "artist": "AI",
+  "checked": "2026-11-08",
+  "id": "0V2axJ946WH1vt9t5SGMLV",
+  "market": "JP",
+  "name": "Story",
   "status": "ok",
   "v": 2
  },
@@ -1131,6 +1332,15 @@
   "market": "TW",
   "name": "toxic till the end",
   "status": "ok"
+ },
+ "toxic|britneyspears": {
+  "artist": "Britney Spears",
+  "checked": "2026-11-08",
+  "id": "6I9VzXrHxO9rA9A5euc8Ak",
+  "market": "TW",
+  "name": "Toxic",
+  "status": "ok",
+  "v": 2
  },
  "trainingseason|dualipa": {
   "artist": "Dua Lipa",
@@ -1204,6 +1414,15 @@
   "market": "TW",
   "name": "WATCH ME",
   "status": "ok"
+ },
+ "waybackhome|shaun": {
+  "artist": "SHAUN, Conor Maynard, Sam Feldt",
+  "checked": "2026-11-08",
+  "id": "1ZLrDPgR7mvuTco3rQK8Pk",
+  "market": "TW",
+  "name": "Way Back Home (feat. Conor Maynard) - Sam Feldt Edit",
+  "status": "ok",
+  "v": 2
  },
  "whatmakesyoubeautiful|onedirection": {
   "artist": "One Direction",
@@ -1282,8 +1501,9 @@
   "status": "ok"
  },
  "あ|mproducefeatia": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "あくあ色ぱれっと|湊あくあ": {
   "artist": "湊あくあ",
@@ -1330,9 +1550,19 @@
   "name": "お座敷小唄",
   "status": "ok"
  },
+ "かもめの舟屋|瀬口侑希": {
+  "artist": "瀬口侑希",
+  "checked": "2026-11-08",
+  "id": "0Oxv9YqZEO9b1bKuuiwDJ1",
+  "market": "JP",
+  "name": "かもめの舟屋",
+  "status": "ok",
+  "v": 2
+ },
  "からくりピエロ|40mpfeat初音ミク": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "きよしのズンドコ節|氷川きよし": {
   "artist": "氷川きよし",
@@ -1344,8 +1574,13 @@
   "v": 2
  },
  "きらり|藤井風": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "藤井 風",
+  "checked": "2026-11-08",
+  "id": "3L7ISJTvKx56uhsF28aJ4p",
+  "market": "JP",
+  "name": "きらり",
+  "status": "ok",
+  "v": 2
  },
  "さざんかの宿|大川栄策": {
   "artist": "大川栄策",
@@ -1396,6 +1631,15 @@
   "status": "ok",
   "v": 2
  },
+ "ただ声一つ|ロクデナシ": {
+  "artist": "ロクデナシ",
+  "checked": "2026-11-08",
+  "id": "2e1gUS6Wv8GS8ZT6FMeE1J",
+  "market": "JP",
+  "name": "ただ声一つ",
+  "status": "ok",
+  "v": 2
+ },
  "たぶん|yoasobi": {
   "artist": "YOASOBI",
   "checked": "2026-11-05",
@@ -1409,6 +1653,15 @@
   "checked": "2026-11-07",
   "id": "1tXOIRwKnvUvlXK5w1oAjv",
   "market": "JP",
+  "name": "つぐない",
+  "status": "ok",
+  "v": 2
+ },
+ "つぐない|鄧麗君": {
+  "artist": "鄧麗君",
+  "checked": "2026-11-08",
+  "id": "7BvRirLX1FGRM7Ud03kQoU",
+  "market": "TW",
   "name": "つぐない",
   "status": "ok",
   "v": 2
@@ -1427,8 +1680,13 @@
   "v": 2
  },
  "なんもねえ|忘れらんねえよ": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "忘れらんねえよ",
+  "checked": "2026-11-08",
+  "id": "64VrWyC7jkRtTAOkbzdaVc",
+  "market": "JP",
+  "name": "なんもねえ",
+  "status": "ok",
+  "v": 2
  },
  "ひまわりの約束|秦基博": {
   "artist": "秦 基博",
@@ -1440,16 +1698,31 @@
   "v": 2
  },
  "まつり|藤井風": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "藤井 風",
+  "checked": "2026-11-08",
+  "id": "14QNjDBXGCwEzJZUKkiTem",
+  "market": "JP",
+  "name": "まつり",
+  "status": "ok",
+  "v": 2
  },
  "みだれ髪|美空ひばり": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "美空ひばり",
+  "checked": "2026-11-08",
+  "id": "36EfDLGPWPR2j82QYVg5ar",
+  "market": "JP",
+  "name": "みだれ髪",
+  "status": "ok",
+  "v": 2
  },
  "もうどうなってもいいや|星街すいせい": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "星街すいせい",
+  "checked": "2026-11-08",
+  "id": "17oTdCFRG5Vp4381jehV3U",
+  "market": "JP",
+  "name": "もうどうなってもいいや",
+  "status": "ok",
+  "v": 2
  },
  "アイドル|yoasobi": {
   "artist": "YOASOBI",
@@ -1466,6 +1739,15 @@
   "market": "JP",
   "name": "アスノヨゾラ哨戒班",
   "status": "ok"
+ },
+ "インフェルノ|mrsgreenapple": {
+  "artist": "Mrs. GREEN APPLE",
+  "checked": "2026-11-08",
+  "id": "64yajM6CxtLghmgB53VeXT",
+  "market": "JP",
+  "name": "インフェルノ",
+  "status": "ok",
+  "v": 2
  },
  "カブトムシ|aiko": {
   "artist": "aiko",
@@ -1619,6 +1901,24 @@
   "status": "ok",
   "v": 2
  },
+ "ビリーヴ|シェネル": {
+  "artist": "シェネル",
+  "checked": "2026-11-08",
+  "id": "3fE6DxExpJwYIwsQxQSVnM",
+  "market": "JP",
+  "name": "ビリーヴ",
+  "status": "ok",
+  "v": 2
+ },
+ "ピースサイン|米津玄師": {
+  "artist": "米津玄師",
+  "checked": "2026-11-08",
+  "id": "364JzOajs76bJymjHm3sVY",
+  "market": "JP",
+  "name": "ピースサイン - Peace Sign",
+  "status": "ok",
+  "v": 2
+ },
  "フォニイ|ツミキ": {
   "artist": "可不, ツミキ",
   "checked": "2026-11-05",
@@ -1652,8 +1952,13 @@
   "status": "ok"
  },
  "ブルーバード|いきものがかり": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "いきものがかり",
+  "checked": "2026-11-08",
+  "id": "1WdkBwAsdznWw9xM69KmvR",
+  "market": "JP",
+  "name": "ブルーバード",
+  "status": "ok",
+  "v": 2
  },
  "ブルーライトヨコハマ|いしだあゆみ": {
   "artist": "いしだあゆみ",
@@ -1671,9 +1976,19 @@
   "name": "プロポーズ",
   "status": "ok"
  },
+ "ホワイトキス|鈴木鈴木": {
+  "artist": "鈴木鈴木",
+  "checked": "2026-11-08",
+  "id": "7sRYDTjWTX00fd9BCOflLo",
+  "market": "JP",
+  "name": "ホワイトキス",
+  "status": "ok",
+  "v": 2
+ },
  "ホールニューワールド|石井一孝麻生かほ里": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "マリーゴールド|あいみょん": {
   "artist": "あいみょん",
@@ -1700,6 +2015,15 @@
   "name": "ライラック",
   "status": "ok"
  },
+ "ラヴィ|すりぃ": {
+  "artist": "すりぃ",
+  "checked": "2026-11-08",
+  "id": "6T2b2vKSdZuvbUzK3WIGJM",
+  "market": "JP",
+  "name": "ラヴィ",
+  "status": "ok",
+  "v": 2
+ },
  "ラヴイズオーヴァー|欧陽菲菲": {
   "artist": "歐陽菲菲",
   "checked": "2026-11-07",
@@ -1714,6 +2038,11 @@
   "status": "none",
   "v": 2
  },
+ "ルカルカナイトフィーバー|sam": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
  "レクイエム|kanariafeat星街すいせい": {
   "artist": "Kanaria, Hoshimachi Suisei",
   "checked": "2026-11-05",
@@ -1721,6 +2050,15 @@
   "market": "JP",
   "name": "レクイエム (feat. 星街すいせい)",
   "status": "ok"
+ },
+ "ロウワー|ぬゆり": {
+  "artist": "ぬゆり",
+  "checked": "2026-11-08",
+  "id": "3eIGW5DUVP5zkGFXZSZQ6o",
+  "market": "JP",
+  "name": "ロウワー",
+  "status": "ok",
+  "v": 2
  },
  "ロキ|みきとp": {
   "artist": "みきとP",
@@ -1732,8 +2070,13 @@
   "v": 2
  },
  "ロキ|みきとpfeat鏡音リン": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "みきとP",
+  "checked": "2026-11-08",
+  "id": "5WCK18MbTKuOcmLsOXMaHd",
+  "market": "JP",
+  "name": "ロキ",
+  "status": "ok",
+  "v": 2
  },
  "ロストワンの号哭|nerufeat鏡音リン": {
   "artist": "Neru",
@@ -1769,8 +2112,13 @@
   "v": 2
  },
  "一個人想著一個人|曾沛慈": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "曾沛慈",
+  "checked": "2026-11-08",
+  "id": "3n3zzFH7zzO0gJNaw4RKSm",
+  "market": "TW",
+  "name": "一個人想著一個人",
+  "status": "ok",
+  "v": 2
  },
  "一夜情緣|吳勇濱蕭玉芬": {
   "checked": "2026-11-07",
@@ -1824,8 +2172,13 @@
   "v": 2
  },
  "上水的花|蕭煌奇": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "蕭煌奇",
+  "checked": "2026-11-08",
+  "id": "6ZbYUfTgChCzvxMpOxiJn4",
+  "market": "TW",
+  "name": "上水的花",
+  "status": "ok",
+  "v": 2
  },
  "下一站天后|twins": {
   "artist": "Twins",
@@ -1842,6 +2195,15 @@
   "market": "TW",
   "name": "不冷",
   "status": "ok"
+ },
+ "不可boom|chronoir": {
+  "artist": "ChroNoiR",
+  "checked": "2026-11-08",
+  "id": "4A6yBIw2BlsxIHRQ6ax5qj",
+  "market": "JP",
+  "name": "不可Boom",
+  "status": "ok",
+  "v": 2
  },
  "不愛就不愛|艾薇": {
   "artist": "艾薇 Ivy",
@@ -1873,20 +2235,49 @@
   "status": "ok"
  },
  "丸ノ内サディスティック|椎名林檎": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "椎名林檎",
+  "checked": "2026-11-08",
+  "id": "1mWN1USPKg632qQXG9sfDL",
+  "market": "JP",
+  "name": "丸ノ内サディスティック",
+  "status": "ok",
+  "v": 2
  },
  "亂世巨星|陳小春": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "陳小春",
+  "checked": "2026-11-08",
+  "id": "01BlRiOtOp3JBO5mMeIP1O",
+  "market": "TW",
+  "name": "亂世巨星（電影《97古惑仔：戰無不勝》插曲）",
+  "status": "ok",
+  "v": 2
+ },
+ "二輪草|川中美幸": {
+  "artist": "川中美幸",
+  "checked": "2026-11-08",
+  "id": "1fVFL1bAZyYGP3Oa9EbHRl",
+  "market": "JP",
+  "name": "二輪草",
+  "status": "ok",
+  "v": 2
  },
  "人字拖|薛之謙": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "薛之謙",
+  "checked": "2026-11-08",
+  "id": "3keHMYV9J4c9QZEcNcCOCL",
+  "market": "TW",
+  "name": "人字拖",
+  "status": "ok",
+  "v": 2
  },
  "人生いろいろ|島倉千代子": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "島倉千代子",
+  "checked": "2026-11-08",
+  "id": "6cC7C3WOiQ5zP0yVVe8zdx",
+  "market": "JP",
+  "name": "人生いろいろ",
+  "status": "ok",
+  "v": 2
  },
  "人生的歌|黃乙玲": {
   "artist": "黃乙玲",
@@ -1932,6 +2323,20 @@
   "name": "作陣彼一暝",
   "status": "ok"
  },
+ "你愛誰|蕭玉芬": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
+ "你是|王謙goatak陳華": {
+  "artist": "王謙Goatak, 陳華",
+  "checked": "2026-11-08",
+  "id": "3rrxHBY6G3h1y45tjwlwc4",
+  "market": "TW",
+  "name": "你是__",
+  "status": "ok",
+  "v": 2
+ },
  "你的香水味|周星杰": {
   "artist": "周星杰",
   "checked": "2026-11-05",
@@ -1967,8 +2372,13 @@
   "v": 2
  },
  "借名入局|劉宇寧": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "劉宇寧",
+  "checked": "2026-11-08",
+  "id": "3uhCMZRULpgcDcKNgTudLf",
+  "market": "TW",
+  "name": "借名入局 (《嫁金钗》电视剧娆黛·主题曲/片头曲)",
+  "status": "ok",
+  "v": 2
  },
  "假如有如果|六哲": {
   "artist": "六哲",
@@ -1977,6 +2387,24 @@
   "market": "TW",
   "name": "假如有如果",
   "status": "ok"
+ },
+ "做你的格|玖壹壹": {
+  "artist": "玖壹壹",
+  "checked": "2026-11-08",
+  "id": "01KDzPqoYKiUSV54SKWEHf",
+  "market": "TW",
+  "name": "做你的格",
+  "status": "ok",
+  "v": 2
+ },
+ "傷心酒店|施文彬江蕙": {
+  "artist": "施文彬",
+  "checked": "2026-11-08",
+  "id": "5so4njCnd5kQVQ24vV1SAY",
+  "market": "TW",
+  "name": "傷心酒店",
+  "status": "ok",
+  "v": 2
  },
  "像晴天像雨天|variousartists": {
   "checked": "2026-11-07",
@@ -1992,8 +2420,13 @@
   "status": "ok"
  },
  "兄弟船|鳥羽一郎": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "鳥羽一郎",
+  "checked": "2026-11-08",
+  "id": "3Rx9wSVCpsmxqf6mJ440eF",
+  "market": "JP",
+  "name": "兄弟船",
+  "status": "ok",
+  "v": 2
  },
  "光輝歲月|beyond": {
   "artist": "Beyond",
@@ -2008,14 +2441,37 @@
   "status": "none",
   "v": 2
  },
+ "冬が終わる前に|清水翔太": {
+  "artist": "清水翔太",
+  "checked": "2026-11-08",
+  "id": "5zBUqBe98n04sivkIpNR81",
+  "market": "JP",
+  "name": "冬が終わる前に",
+  "status": "ok",
+  "v": 2
+ },
+ "別れの予感|テレサテン": {
+  "artist": "テレサ・テン",
+  "checked": "2026-11-08",
+  "id": "5nESpaWz7wpvLvF2rI3tpr",
+  "market": "JP",
+  "name": "別れの予感",
+  "status": "ok",
+  "v": 2
+ },
  "別回頭|pamajor": {
   "checked": "2026-11-07",
   "status": "none",
   "v": 2
  },
  "刺到整身軀|春風潤少970": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "春風, 潤少, 970",
+  "checked": "2026-11-08",
+  "id": "3owjOfhRyHi08hDbNXKPui",
+  "market": "TW",
+  "name": "刺到整身軀",
+  "status": "ok",
+  "v": 2
  },
  "北の旅人|石原裕次郎": {
   "artist": "石原裕次郎",
@@ -2027,8 +2483,13 @@
   "v": 2
  },
  "北の流れ星|岩本公水": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "岩本公水",
+  "checked": "2026-11-08",
+  "id": "4ec1n9c6gXUxHB1VdzB1W4",
+  "market": "JP",
+  "name": "北の流れ星",
+  "status": "ok",
+  "v": 2
  },
  "北国の春|千昌夫": {
   "artist": "千昌夫",
@@ -2036,6 +2497,24 @@
   "id": "6EviNy3HjCSEaze6x7Fz3c",
   "market": "JP",
   "name": "北国の春",
+  "status": "ok",
+  "v": 2
+ },
+ "北空港|浜圭介桂銀淑": {
+  "artist": "浜圭介, 桂銀淑",
+  "checked": "2026-11-08",
+  "id": "5LF6Iccslj46lRCYORp7Aj",
+  "market": "JP",
+  "name": "北空港",
+  "status": "ok",
+  "v": 2
+ },
+ "北酒場|細川たかし": {
+  "artist": "細川たかし",
+  "checked": "2026-11-08",
+  "id": "4UPp43yKWgfR5w5H0pLPTt",
+  "market": "JP",
+  "name": "北酒場",
   "status": "ok",
   "v": 2
  },
@@ -2071,6 +2550,15 @@
   "status": "ok",
   "v": 2
  },
+ "友情歲月|陳小春": {
+  "artist": "陳小春",
+  "checked": "2026-11-08",
+  "id": "30DewFwZeiMhzuzGvEFrX5",
+  "market": "TW",
+  "name": "友情歲月",
+  "status": "ok",
+  "v": 2
+ },
  "可是你知道嗎|jocelyn940": {
   "artist": "Jocelyn 9.4.0",
   "checked": "2026-11-05",
@@ -2088,8 +2576,9 @@
   "status": "ok"
  },
  "命運的演歌|謝宜君柯俊傑": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "咱到遮就為止|黃奇斌": {
   "artist": "黃奇斌",
@@ -2148,6 +2637,11 @@
   "checked": "2026-11-05",
   "status": "none"
  },
+ "回憶刪不去|任夏": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
  "在這裡等你|告五人": {
   "artist": "告五人",
   "checked": "2026-11-05",
@@ -2204,8 +2698,9 @@
   "v": 2
  },
  "夢成空|謝宜君": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "大梦归|周深": {
   "artist": "周深",
@@ -2214,6 +2709,15 @@
   "market": "TW",
   "name": "大梦归 (电视剧《兰香如故》主题曲)",
   "status": "ok"
+ },
+ "大阪しぐれ|都はるみ": {
+  "artist": "都はるみ",
+  "checked": "2026-11-08",
+  "id": "0Jzfex2R1uMhiJ9GUlinQt",
+  "market": "JP",
+  "name": "大阪しぐれ",
+  "status": "ok",
+  "v": 2
  },
  "天ノ弱|164featgumi": {
   "artist": "164",
@@ -2289,6 +2793,24 @@
   "status": "ok",
   "v": 2
  },
+ "如果可以|韋禮安": {
+  "artist": "韋禮安",
+  "checked": "2026-11-08",
+  "id": "72OVnXDzugvrCU25lMi9au",
+  "market": "TW",
+  "name": "如果可以 - 電影\"月老\"主題曲",
+  "status": "ok",
+  "v": 2
+ },
+ "妄想感傷代償連盟|deco27": {
+  "artist": "DECO*27",
+  "checked": "2026-11-08",
+  "id": "1fEooTowVu4xNFGoXKxWvR",
+  "market": "JP",
+  "name": "妄想感傷代償連盟",
+  "status": "ok",
+  "v": 2
+ },
  "季候風|王菲": {
   "artist": "王菲",
   "checked": "2026-11-07",
@@ -2298,9 +2820,23 @@
   "status": "ok",
   "v": 2
  },
+ "守村人|薛之謙": {
+  "artist": "薛之謙",
+  "checked": "2026-11-08",
+  "id": "69s2btOZ3I51uNwQ07gJzY",
+  "market": "TW",
+  "name": "守村人",
+  "status": "ok",
+  "v": 2
+ },
  "家家酒|家家": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "家家",
+  "checked": "2026-11-08",
+  "id": "6mO5fCJKvB9tr5RAFvBO7z",
+  "market": "TW",
+  "name": "家家酒",
+  "status": "ok",
+  "v": 2
  },
  "富士山下|陳奕迅": {
   "artist": "陳奕迅",
@@ -2312,8 +2848,22 @@
   "v": 2
  },
  "寫一條歌寫你我爾爾|蕭煌奇": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "蕭煌奇, 茄子蛋",
+  "checked": "2026-11-08",
+  "id": "3EohByRFmkLh1Upve1UpSC",
+  "market": "TW",
+  "name": "寫一條歌，寫你我爾爾",
+  "status": "ok",
+  "v": 2
+ },
+ "對我祝福|許富凱": {
+  "artist": "許富凱",
+  "checked": "2026-11-08",
+  "id": "1LUQH3nRDe3jvDzqriDuDF",
+  "market": "TW",
+  "name": "對我祝福",
+  "status": "ok",
+  "v": 2
  },
  "對等關係|李榮浩張惠妹": {
   "artist": "李榮浩, 張惠妹",
@@ -2477,9 +3027,28 @@
   "name": "恋愛裁判",
   "status": "ok"
  },
+ "恋音と雨空|aaa": {
+  "artist": "AAA",
+  "checked": "2026-11-08",
+  "id": "3KcT7QC0x2XyL6jtfLoGPm",
+  "market": "JP",
+  "name": "恋音と雨空",
+  "status": "ok",
+  "v": 2
+ },
+ "恰恰心花開|陳隨意": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
  "愛が生まれた日|藤谷美和子大内義昭": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "藤谷美和子, 大内 義昭",
+  "checked": "2026-11-08",
+  "id": "0BPdHt9GecWkx8c96JLN2I",
+  "market": "JP",
+  "name": "愛が生まれた日",
+  "status": "ok",
+  "v": 2
  },
  "愛のかたまり|kinkikids": {
   "artist": "KinKi Kids",
@@ -2495,6 +3064,15 @@
   "id": "3F6EVsPTrU7MYCQhVOmDcg",
   "market": "TW",
   "name": "愛上你不是我決定 (feat. A-Lin)",
+  "status": "ok",
+  "v": 2
+ },
+ "愛到才知痛|黃乙玲": {
+  "artist": "黃乙玲",
+  "checked": "2026-11-08",
+  "id": "2BRVHpxPcXoKsDQjm02IFk",
+  "market": "TW",
+  "name": "愛到才知痛",
   "status": "ok",
   "v": 2
  },
@@ -2528,9 +3106,19 @@
   "status": "none",
   "v": 2
  },
+ "愛情的大壞蛋|美秀集團": {
+  "artist": "美秀集團",
+  "checked": "2026-11-08",
+  "id": "5HVq8nS0pbM6G7YK8M7DY4",
+  "market": "TW",
+  "name": "愛情的大壞蛋",
+  "status": "ok",
+  "v": 2
+ },
  "愛情限時批|伍佰萬芳": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "愛燦燦|美空ひばり": {
   "artist": "美空ひばり",
@@ -2544,6 +3132,15 @@
  "愛甲心無留|謝宜君": {
   "checked": "2026-11-07",
   "status": "none",
+  "v": 2
+ },
+ "愛與痛的邊緣|王菲": {
+  "artist": "王菲",
+  "checked": "2026-11-08",
+  "id": "4XafCNKCV3FnQUoel6NrRK",
+  "market": "TW",
+  "name": "愛與痛的邊緣",
+  "status": "ok",
   "v": 2
  },
  "愛請問怎麼走|alin": {
@@ -2564,8 +3161,22 @@
   "v": 2
  },
  "愛錯|王力宏": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "王力宏",
+  "checked": "2026-11-08",
+  "id": "4vdX5mQE0oXkflFqsqQkUP",
+  "market": "TW",
+  "name": "愛錯",
+  "status": "ok",
+  "v": 2
+ },
+ "慢冷|梁靜茹": {
+  "artist": "梁靜茹",
+  "checked": "2026-11-08",
+  "id": "3NNDJfWMGHuNpvHWTImmlW",
+  "market": "TW",
+  "name": "慢冷",
+  "status": "ok",
+  "v": 2
  },
  "慣性溫柔|juiceboy": {
   "artist": "Juice Boy",
@@ -2583,9 +3194,19 @@
   "name": "憨膽",
   "status": "ok"
  },
+ "我不難過|孫燕姿": {
+  "artist": "孫燕姿",
+  "checked": "2026-11-08",
+  "id": "4XrWar13kLO1jr535AzKrQ",
+  "market": "TW",
+  "name": "我不難過",
+  "status": "ok",
+  "v": 2
+ },
  "我們終究成了陌生人|陳曼曼": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "我們都好嗎|禾羽kimi": {
   "artist": "禾羽 Kimi",
@@ -2623,8 +3244,13 @@
   "v": 2
  },
  "我是真的愛上你|王傑": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "王傑",
+  "checked": "2026-11-08",
+  "id": "2oPu3cNSBLfOwr07Vv27DK",
+  "market": "TW",
+  "name": "我是真的愛上你",
+  "status": "ok",
+  "v": 2
  },
  "我無嫁你無娶|丁姵均曾瑋中": {
   "artist": "丁姵均, 曾瑋中",
@@ -2643,8 +3269,22 @@
   "status": "ok"
  },
  "我還有個夢|小宇": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "小宇 宋念宇",
+  "checked": "2026-11-08",
+  "id": "0zAirwis62ZB9LExKoWXtH",
+  "market": "TW",
+  "name": "我還有個夢",
+  "status": "ok",
+  "v": 2
+ },
+ "打上花火|daoko米津玄師": {
+  "artist": "Daoko, 米津玄師",
+  "checked": "2026-11-08",
+  "id": "7pcTLUekZJQnzDOUDuExVJ",
+  "market": "JP",
+  "name": "打上花火",
+  "status": "ok",
+  "v": 2
  },
  "抜錨|ナナホシ管弦楽団": {
   "artist": "ナナホシ管弦楽団",
@@ -2656,8 +3296,13 @@
   "v": 2
  },
  "抜錨|ナナホシ管弦楽団feat巡音ルカ": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "ナナホシ管弦楽団",
+  "checked": "2026-11-08",
+  "id": "4L71ya9XDiFsiBnbOcMIXq",
+  "market": "JP",
+  "name": "抜錨",
+  "status": "ok",
+  "v": 2
  },
  "摯友|alin": {
   "artist": "A-Lin",
@@ -2676,9 +3321,19 @@
   "status": "ok",
   "v": 2
  },
+ "敢愛敢擔當|吳勇濱": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
  "數到十|曾沛慈": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "曾沛慈",
+  "checked": "2026-11-08",
+  "id": "6RN4rGtDTTx9orufM72pC4",
+  "market": "TW",
+  "name": "數到十",
+  "status": "ok",
+  "v": 2
  },
  "旅の夜風|霧島昇ミスコロムビア": {
   "artist": "霧島 昇",
@@ -2689,12 +3344,22 @@
   "status": "ok"
  },
  "星影のワルツ|千昌夫": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "千昌夫",
+  "checked": "2026-11-08",
+  "id": "3sAvNRUsg1qYcWvvlwq4w7",
+  "market": "JP",
+  "name": "星影のワルツ",
+  "status": "ok",
+  "v": 2
  },
  "昴|谷村新司": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "谷村新司",
+  "checked": "2026-11-08",
+  "id": "5GTG3NiNOMAOY3SfSkvLpE",
+  "market": "TW",
+  "name": "昴 - 2017 ver.",
+  "status": "ok",
+  "v": 2
  },
  "時の流れに身をまかせ|テレサテン": {
   "artist": "テレサ・テン",
@@ -2723,12 +3388,18 @@
   "status": "ok"
  },
  "晴天|周杰倫": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "周杰倫",
+  "checked": "2026-11-08",
+  "id": "2zjo2j5j3S0Nk21LKCgc8L",
+  "market": "TW",
+  "name": "晴天",
+  "status": "ok",
+  "v": 2
  },
  "暗裏著迷|劉德華": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "暗裡著迷|劉德華": {
   "artist": "劉德華",
@@ -2740,8 +3411,22 @@
   "v": 2
  },
  "曖昧|王菲": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "王菲",
+  "checked": "2026-11-08",
+  "id": "5GCfGYBzhQ2szULHf8wJYm",
+  "market": "TW",
+  "name": "曖昧",
+  "status": "ok",
+  "v": 2
+ },
+ "最後の雨|中西保志": {
+  "artist": "中西保志",
+  "checked": "2026-11-08",
+  "id": "4yOy3CuNj2AeDBJhAVHnhO",
+  "market": "JP",
+  "name": "最後の雨",
+  "status": "ok",
+  "v": 2
  },
  "最後一個謊|理想混蛋": {
   "artist": "理想混蛋",
@@ -2750,6 +3435,47 @@
   "market": "TW",
   "name": "最後一個謊",
   "status": "ok"
+ },
+ "月下美人|dytica": {
+  "artist": "Dytica",
+  "checked": "2026-11-08",
+  "id": "4VgNMKxhhfOAhsBqSGkk5Y",
+  "market": "JP",
+  "name": "月下美人",
+  "status": "ok",
+  "v": 2
+ },
+ "月娘知影|翁鈺鈞": {
+  "artist": "翁鈺鈞",
+  "checked": "2026-11-08",
+  "id": "2cNB2tKIezee9LbvVbfDAr",
+  "market": "TW",
+  "name": "月娘知影",
+  "status": "ok",
+  "v": 2
+ },
+ "有一種遺憾叫我們|于冬然": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
+ "有你有我|春風": {
+  "artist": "春風, 王識賢",
+  "checked": "2026-11-08",
+  "id": "1MgqdT2ZozDXkwnzUJAeGp",
+  "market": "TW",
+  "name": "有你有我",
+  "status": "ok",
+  "v": 2
+ },
+ "未完成婚姻論|danniemay": {
+  "artist": "Dannie May",
+  "checked": "2026-11-08",
+  "id": "1AukQSQzdaWtsH8z1wdmTO",
+  "market": "JP",
+  "name": "未完成婚姻論",
+  "status": "ok",
+  "v": 2
  },
  "未完成的約定|黃俊榮amsden": {
   "artist": "黄俊荣 Amsden",
@@ -2784,8 +3510,13 @@
   "status": "ok"
  },
  "桜色舞うころ|中島美嘉": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "中島美嘉",
+  "checked": "2026-11-08",
+  "id": "3DqCoE225ySWVHwgzf0kbq",
+  "market": "TW",
+  "name": "桜色舞うころ",
+  "status": "ok",
+  "v": 2
  },
  "棉照被|許富凱": {
   "artist": "許富凱",
@@ -2827,6 +3558,15 @@
   "id": "23phSRwoMy48rwFpmuAP8q",
   "market": "JP",
   "name": "残酷な天使のテーゼ",
+  "status": "ok",
+  "v": 2
+ },
+ "每天愛你多一些|張學友": {
+  "artist": "張學友",
+  "checked": "2026-11-08",
+  "id": "7uzJKRRrTqxUOeTtwQMd36",
+  "market": "TW",
+  "name": "每天愛你多一些",
   "status": "ok",
   "v": 2
  },
@@ -2892,6 +3632,15 @@
   "status": "ok",
   "v": 2
  },
+ "浪花節だよ人生は|木村友衛": {
+  "artist": "木村友衛",
+  "checked": "2026-11-08",
+  "id": "2Jg2MrsZI02E6sZHa2qAPF",
+  "market": "JP",
+  "name": "浪花節だよ人生は",
+  "status": "ok",
+  "v": 2
+ },
  "浮誇|陳奕迅": {
   "artist": "陳奕迅",
   "checked": "2026-11-07",
@@ -2945,12 +3694,39 @@
   "status": "ok",
   "v": 2
  },
+ "火花|lawa": {
+  "artist": "LAWA",
+  "checked": "2026-11-08",
+  "id": "005eESnSIcR99N474aIINN",
+  "market": "TW",
+  "name": "火花",
+  "status": "ok",
+  "v": 2
+ },
  "灰色と青|米津玄師": {
   "artist": "米津玄師, 菅田 将暉",
   "checked": "2026-11-07",
   "id": "3KnURrjsXA0TDce8N7iOwz",
   "market": "JP",
   "name": "灰色と青 ( + 菅田将暉 )",
+  "status": "ok",
+  "v": 2
+ },
+ "灰色軌跡|beyond": {
+  "artist": "Beyond",
+  "checked": "2026-11-08",
+  "id": "1Sh8k4m5whTF7mIFdRNRAa",
+  "market": "TW",
+  "name": "灰色軌跡",
+  "status": "ok",
+  "v": 2
+ },
+ "炙愛|李杰明": {
+  "artist": "李杰明",
+  "checked": "2026-11-08",
+  "id": "2yMZPJsE86Lhyw3EYvkznx",
+  "market": "TW",
+  "name": "炙愛 (最初)",
   "status": "ok",
   "v": 2
  },
@@ -2963,8 +3739,9 @@
   "status": "ok"
  },
  "為愛走天涯|蕭玉芬吳勇濱": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "無字的情批|黃乙玲": {
   "artist": "黃乙玲",
@@ -2992,9 +3769,32 @@
   "name": "無間道",
   "status": "ok"
  },
+ "爆裂愛してる|mlk": {
+  "artist": "M!LK",
+  "checked": "2026-11-08",
+  "id": "1F1hibBCtNeObRMmEMLHNh",
+  "market": "JP",
+  "name": "爆裂愛してる",
+  "status": "ok",
+  "v": 2
+ },
  "牽掛|曾沛慈": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "曾沛慈",
+  "checked": "2026-11-08",
+  "id": "4vPW9udUA3bFCFILwWZntc",
+  "market": "TW",
+  "name": "牽掛",
+  "status": "ok",
+  "v": 2
+ },
+ "玉蝴蝶|謝霆鋒": {
+  "artist": "謝霆鋒",
+  "checked": "2026-11-08",
+  "id": "1DYMqEb36sEyO16itHpRmW",
+  "market": "TW",
+  "name": "玉蝴蝶",
+  "status": "ok",
+  "v": 2
  },
  "王道|葛葉": {
   "artist": "葛葉",
@@ -3011,6 +3811,11 @@
   "market": "TW",
   "name": "甘心替代你",
   "status": "ok",
+  "v": 2
+ },
+ "生まれてはじめて|神田沙也加松たか子": {
+  "checked": "2026-11-08",
+  "status": "none",
   "v": 2
  },
  "甲乙丙丁strangers|李佳薇": {
@@ -3072,6 +3877,15 @@
   "status": "none",
   "v": 2
  },
+ "砂の惑星|ハチfeat初音ミク": {
+  "artist": "ハチ",
+  "checked": "2026-11-08",
+  "id": "2RBQ84niVRC6bBdhe7lc9F",
+  "market": "JP",
+  "name": "砂の惑星 feat.初音ミク",
+  "status": "ok",
+  "v": 2
+ },
  "硝子の少年|kinkikids": {
   "artist": "KinKi Kids",
   "checked": "2026-11-05",
@@ -3089,13 +3903,41 @@
   "status": "ok",
   "v": 2
  },
+ "祝福|yoasobi": {
+  "artist": "YOASOBI",
+  "checked": "2026-11-08",
+  "id": "7ajpbW6tBpqUI9foCtwlLw",
+  "market": "JP",
+  "name": "祝福",
+  "status": "ok",
+  "v": 2
+ },
  "神っぽいな|ピノキオピー": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "ピノキオピー",
+  "checked": "2026-11-08",
+  "id": "5ALRT96oaGuX7VHySBLbQu",
+  "market": "JP",
+  "name": "神っぽいな",
+  "status": "ok",
+  "v": 2
  },
  "空港|テレサテン": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "テレサ・テン",
+  "checked": "2026-11-08",
+  "id": "5vFZKGaSPd6318vYlMZWhd",
+  "market": "JP",
+  "name": "空港",
+  "status": "ok",
+  "v": 2
+ },
+ "空號|arieltsai": {
+  "artist": "Ariel Tsai",
+  "checked": "2026-11-08",
+  "id": "4rGyBHMPNLKeZCImWYSqVv",
+  "market": "JP",
+  "name": "空號",
+  "status": "ok",
+  "v": 2
  },
  "粛聖ロリ神レクイエム|しぐれうい": {
   "artist": "しぐれうい",
@@ -3111,6 +3953,24 @@
   "id": "06m8KKTa6rAYJ5I6l2gZgS",
   "market": "JP",
   "name": "糸",
+  "status": "ok",
+  "v": 2
+ },
+ "紅日|李克勤": {
+  "artist": "李克勤",
+  "checked": "2026-11-08",
+  "id": "5M8FXrTngqo69sLY55pffy",
+  "market": "TW",
+  "name": "紅日",
+  "status": "ok",
+  "v": 2
+ },
+ "紅蓮の弓矢|linkedhorizon": {
+  "artist": "Linked Horizon",
+  "checked": "2026-11-08",
+  "id": "0F8psXXh2oxE5BGdkKaoIs",
+  "market": "JP",
+  "name": "紅蓮の弓矢",
   "status": "ok",
   "v": 2
  },
@@ -3179,9 +4039,19 @@
   "name": "老朋友",
   "status": "ok"
  },
+ "肆無忌憚|薛之謙": {
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
  "自信勇敢咱的名|滅火器": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "滅火器",
+  "checked": "2026-11-08",
+  "id": "62ih8yFo1urUe2RsZV8uvq",
+  "market": "TW",
+  "name": "自信勇敢咱的名",
+  "status": "ok",
+  "v": 2
  },
  "自由的你|gem鄧紫棋": {
   "artist": "G.E.M.",
@@ -3208,8 +4078,22 @@
   "status": "ok"
  },
  "花|藤井風": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "藤井 風",
+  "checked": "2026-11-08",
+  "id": "5RIQU2JDuXC4NkLiHNNMon",
+  "market": "JP",
+  "name": "花",
+  "status": "ok",
+  "v": 2
+ },
+ "花束を君に|宇多田ヒカル": {
+  "artist": "宇多田ヒカル",
+  "checked": "2026-11-08",
+  "id": "31yv1hR9gw1WSEmtqsaZbD",
+  "market": "JP",
+  "name": "花束を君に",
+  "status": "ok",
+  "v": 2
  },
  "若無你我欲去佗位|黃奇斌": {
   "artist": "黃奇斌",
@@ -3220,8 +4104,9 @@
   "status": "ok"
  },
  "莎浪嘿|蕭玉芬": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "莫用虛情來騙阮|周星杰": {
   "artist": "周星杰",
@@ -3231,13 +4116,41 @@
   "name": "莫用虛情來騙阮",
   "status": "ok"
  },
+ "落雨聲|江蕙": {
+  "artist": "江蕙",
+  "checked": "2026-11-08",
+  "id": "5X3Bt3Yh09XVrBT2pYeH4E",
+  "market": "TW",
+  "name": "落雨聲",
+  "status": "ok",
+  "v": 2
+ },
  "蕾|コブクロ": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "コブクロ",
+  "checked": "2026-11-08",
+  "id": "54TCi06LKnlO2NeSrdouQU",
+  "market": "JP",
+  "name": "蕾(つぼみ)",
+  "status": "ok",
+  "v": 2
  },
  "藍雨|張學友": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "張學友",
+  "checked": "2026-11-08",
+  "id": "6xJggWssdiq6VaFK13MXYB",
+  "market": "TW",
+  "name": "藍雨",
+  "status": "ok",
+  "v": 2
+ },
+ "處處吻|楊千嬅": {
+  "artist": "楊千嬅",
+  "checked": "2026-11-08",
+  "id": "0oE2ojWoZcNmGABQi8l1xk",
+  "market": "TW",
+  "name": "處處吻",
+  "status": "ok",
+  "v": 2
  },
  "虹|菅田将暉": {
   "artist": "菅田 将暉",
@@ -3249,8 +4162,13 @@
   "v": 2
  },
  "裏町酒場|美空ひばり": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "美空ひばり",
+  "checked": "2026-11-08",
+  "id": "6voR3I8NWDPzRApxJrElN0",
+  "market": "JP",
+  "name": "裏町酒場",
+  "status": "ok",
+  "v": 2
  },
  "西西里|周杰倫": {
   "artist": "周杰倫",
@@ -3279,8 +4197,9 @@
   "status": "ok"
  },
  "誰人陪我醉|吳勇濱": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "講袂出喙的情話|許富凱": {
   "artist": "許富凱",
@@ -3291,8 +4210,9 @@
   "status": "ok"
  },
  "變廢為寶|薛之謙": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "越後獅子の唄|美空ひばり": {
   "artist": "美空ひばり",
@@ -3358,8 +4278,9 @@
   "status": "ok"
  },
  "那個男人|玄彬": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "郎有情妹有意|陳隨意謝宜君": {
   "checked": "2026-11-07",
@@ -3410,6 +4331,24 @@
   "status": "ok",
   "v": 2
  },
+ "長崎は今日も雨だった|内山田洋とクールファイブ": {
+  "artist": "内山田 洋 と クール・ファイブ",
+  "checked": "2026-11-08",
+  "id": "6SjOT9fq1Qd9mNcye1RIeX",
+  "market": "JP",
+  "name": "長崎は今日も雨だった",
+  "status": "ok",
+  "v": 2
+ },
+ "開始懂了|孫燕姿": {
+  "artist": "孫燕姿",
+  "checked": "2026-11-08",
+  "id": "68tZwwRuo9ip5gRQFG1XWF",
+  "market": "TW",
+  "name": "開始懂了",
+  "status": "ok",
+  "v": 2
+ },
  "閣愛妳一擺|茄子蛋": {
   "artist": "茄子蛋",
   "checked": "2026-11-07",
@@ -3437,8 +4376,9 @@
   "v": 2
  },
  "陳桑|陳隨意": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "離開我的依賴|王艷薇": {
   "artist": "王艷薇",
@@ -3446,6 +4386,15 @@
   "id": "28VBdtYc5Cpmey4Cpvcrby",
   "market": "TW",
   "name": "離開我的依賴",
+  "status": "ok",
+  "v": 2
+ },
+ "離開的一路上|理想混蛋": {
+  "artist": "理想混蛋",
+  "checked": "2026-11-08",
+  "id": "1NoDTQhJsrd5rnpb6PQthK",
+  "market": "TW",
+  "name": "離開的一路上",
   "status": "ok",
   "v": 2
  },
@@ -3502,8 +4451,13 @@
   "v": 2
  },
  "青い珊瑚礁|松田聖子": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "松田聖子",
+  "checked": "2026-11-08",
+  "id": "6uPyPOSTwYCgPjYINvXUKl",
+  "market": "TW",
+  "name": "青い珊瑚礁",
+  "status": "ok",
+  "v": 2
  },
  "青春アミーゴ|修二と彰": {
   "checked": "2026-11-07",
@@ -3520,8 +4474,9 @@
   "v": 2
  },
  "革命途中|ainatheend": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
  },
  "革命道中|アイナジエンド": {
   "artist": "アイナ・ジ・エンド",
@@ -3565,6 +4520,24 @@
   "status": "ok",
   "v": 2
  },
+ "高音厨音域テスト|木村わいpfeat初音ミク": {
+  "artist": "木村わいP",
+  "checked": "2026-11-08",
+  "id": "4NQyMQj6jUkit4IFLZ3o8U",
+  "market": "JP",
+  "name": "高音厨音域テスト",
+  "status": "ok",
+  "v": 2
+ },
+ "魂のルフラン|高橋洋子": {
+  "artist": "高橋洋子",
+  "checked": "2026-11-08",
+  "id": "1NrzI6zJMDJLXTfxRFzGwX",
+  "market": "JP",
+  "name": "魂のルフラン",
+  "status": "ok",
+  "v": 2
+ },
  "鹹酸苦汫|麋先生聖皓": {
   "artist": "麋先生 聖皓, 王識賢",
   "checked": "2026-11-05",
@@ -3582,8 +4555,13 @@
   "status": "ok"
  },
  "黒毛和牛上塩タン焼680円|大塚愛": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "大塚愛",
+  "checked": "2026-11-08",
+  "id": "6BVy2lDVrBUjBjvn3dQPTy",
+  "market": "JP",
+  "name": "黒毛和牛上塩タン焼680円",
+  "status": "ok",
+  "v": 2
  },
  "연애의조건|bestie": {
   "checked": "2026-11-07",
