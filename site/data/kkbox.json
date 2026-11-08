@@ -33,6 +33,21 @@
      "apple": "tw/6785801848",
      "spotify": "629FqLOdjtsXh5b45FTk43",
      "bpm": 130,
+     "range": {
+      "low": 60,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -103,6 +118,21 @@
      "apple": "tw/6825805202",
      "spotify": "25rKfmSz9QTVtilqZU9f8D",
      "bpm": 82,
+     "range": {
+      "low": 52,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -432,6 +462,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6819227477",
      "bpm": 93,
+     "range": {
+      "low": 55,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -555,6 +598,19 @@
      "apple": "tw/1824122176",
      "spotify": "63uBr7KrsE4dUHCjFTzn3W",
      "bpm": 75,
+     "range": {
+      "low": 48,
+      "high": 57,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -2047,6 +2103,21 @@
      "apple": "tw/6785801848",
      "spotify": "629FqLOdjtsXh5b45FTk43",
      "bpm": 130,
+     "range": {
+      "low": 60,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2117,6 +2188,21 @@
      "apple": "tw/6825805202",
      "spotify": "25rKfmSz9QTVtilqZU9f8D",
      "bpm": 82,
+     "range": {
+      "low": 52,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2422,6 +2508,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6819227477",
      "bpm": 93,
+     "range": {
+      "low": 55,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -2517,6 +2616,19 @@
      "apple": "tw/1824122176",
      "spotify": "63uBr7KrsE4dUHCjFTzn3W",
      "bpm": 75,
+     "range": {
+      "low": 48,
+      "high": 57,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -3936,6 +4048,19 @@
      "apple": "tw/6788676704",
      "spotify": "7nDEuBtwQmqv2tQm7EREyb",
      "bpm": 72,
+     "range": {
+      "low": 47,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -4,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -4094,6 +4219,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6819227477",
      "bpm": 93,
+     "range": {
+      "low": 55,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -6478,6 +6616,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6819227477",
      "bpm": 93,
+     "range": {
+      "low": 55,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -8870,6 +9021,19 @@
      "apple": "tw/1771105935",
      "spotify": "5vNRhkKd0yEAg8suGBpjeY",
      "bpm": 149,
+     "range": {
+      "low": 57,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -8919,6 +9083,21 @@
      "apple": "tw/6827293082",
      "spotify": "0SqDNsDiJyvrbXGsIvt0hN",
      "bpm": 128,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Contemporary R&B"
@@ -9400,6 +9579,19 @@
      "apple": "tw/1440670792",
      "spotify": "1D4PL9B8gOg78jiHg3FvBb",
      "bpm": 119,
+     "range": {
+      "low": 59,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -9935,6 +10127,19 @@
      "apple": "tw/1440803930",
      "spotify": "6epn3r7S14KUqlReYr77hA",
      "bpm": 130,
+     "range": {
+      "low": 56,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "RnB/Swing",
@@ -10822,6 +11027,19 @@
      "apple": "tw/1771105935",
      "spotify": "5vNRhkKd0yEAg8suGBpjeY",
      "bpm": 149,
+     "range": {
+      "low": 57,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -10871,6 +11089,21 @@
      "apple": "tw/6827293082",
      "spotify": "0SqDNsDiJyvrbXGsIvt0hN",
      "bpm": 128,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Contemporary R&B"
@@ -11355,6 +11588,19 @@
      "apple": "tw/1440670792",
      "spotify": "1D4PL9B8gOg78jiHg3FvBb",
      "bpm": 119,
+     "range": {
+      "low": 59,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -12036,6 +12282,19 @@
      "apple": "tw/1440803930",
      "spotify": "6epn3r7S14KUqlReYr77hA",
      "bpm": 130,
+     "range": {
+      "low": 56,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "RnB/Swing",
@@ -12756,6 +13015,19 @@
      "apple": "tw/1537460612",
      "spotify": "7Cd17G3oNQ34OWUwS8ZxfR",
      "bpm": 91,
+     "range": {
+      "low": 54,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock",
@@ -12813,6 +13085,21 @@
      "apple": "jp/1445055008",
      "spotify": "39HrUxcvKF3jtLz7fUDWXc",
      "bpm": 90,
+     "range": {
+      "low": 55,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -12933,6 +13220,19 @@
      "apple": "jp/1837658529",
      "spotify": "146nuut7QVZgIZy63ZxhCd",
      "bpm": 135,
+     "range": {
+      "low": 51,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Grime",
@@ -14365,6 +14665,21 @@
      "apple": "jp/1706832137",
      "spotify": "7dTW21YAJxnAOiUh7Rtu9S",
      "bpm": 150,
+     "range": {
+      "low": 57,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -14662,6 +14977,19 @@
      "apple": "tw/1537460612",
      "spotify": "7Cd17G3oNQ34OWUwS8ZxfR",
      "bpm": 91,
+     "range": {
+      "low": 54,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock",
@@ -14719,6 +15047,21 @@
      "apple": "jp/1445055008",
      "spotify": "39HrUxcvKF3jtLz7fUDWXc",
      "bpm": 90,
+     "range": {
+      "low": 55,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -14851,6 +15194,19 @@
      "apple": "jp/1837658529",
      "spotify": "146nuut7QVZgIZy63ZxhCd",
      "bpm": 135,
+     "range": {
+      "low": 51,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Grime",
@@ -15737,6 +16093,21 @@
      "apple": "jp/1706832137",
      "spotify": "7dTW21YAJxnAOiUh7Rtu9S",
      "bpm": 150,
+     "range": {
+      "low": 57,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -16573,6 +16944,19 @@
      "apple": "tw/6820428730",
      "spotify": "5PvLNQRNRj61y3CU4SFIY4",
      "bpm": 130,
+     "range": {
+      "low": 56,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -16747,6 +17131,21 @@
      "apple": "tw/6822369089",
      "spotify": "79kqYxIkS29va2I9AeL9ak",
      "bpm": 130,
+     "range": {
+      "low": 54,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Bubblegum",
@@ -18459,6 +18858,19 @@
      "apple": "tw/6820428730",
      "spotify": "5PvLNQRNRj61y3CU4SFIY4",
      "bpm": 130,
+     "range": {
+      "low": 56,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -18501,6 +18913,21 @@
      "apple": "tw/6822369089",
      "spotify": "79kqYxIkS29va2I9AeL9ak",
      "bpm": 130,
+     "range": {
+      "low": 54,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Bubblegum",
@@ -20322,6 +20749,19 @@
      "apple": "tw/201575679",
      "spotify": "77uktQePd9IdeMPVWlu1cO",
      "bpm": 77,
+     "range": {
+      "low": 53,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Hard Rock",
@@ -20353,6 +20793,19 @@
      "apple": "tw/908972123",
      "spotify": "7JX2ClsnxN9GirkOezr01O",
      "bpm": 78,
+     "range": {
+      "low": 62,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -21007,6 +21460,21 @@
      "apple": "tw/6785801848",
      "spotify": "629FqLOdjtsXh5b45FTk43",
      "bpm": 130,
+     "range": {
+      "low": 60,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -22180,6 +22648,19 @@
      "apple": "tw/908972123",
      "spotify": "7JX2ClsnxN9GirkOezr01O",
      "bpm": 78,
+     "range": {
+      "low": 62,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -22229,6 +22710,19 @@
      "apple": "tw/201575679",
      "spotify": "77uktQePd9IdeMPVWlu1cO",
      "bpm": 77,
+     "range": {
+      "low": 53,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Hard Rock",
@@ -22742,6 +23236,21 @@
      "apple": "tw/6785801848",
      "spotify": "629FqLOdjtsXh5b45FTk43",
      "bpm": 130,
+     "range": {
+      "low": 60,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -24042,6 +24551,21 @@
      "apple": "tw/6825805202",
      "spotify": "25rKfmSz9QTVtilqZU9f8D",
      "bpm": 82,
+     "range": {
+      "low": 52,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -24170,6 +24694,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6819227477",
      "bpm": 93,
+     "range": {
+      "low": 55,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"

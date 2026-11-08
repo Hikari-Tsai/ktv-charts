@@ -26,7 +26,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 135
+    timeout-minutes: 165
     steps:
       # Start from the latest commit on the branch, not the one that queued this run:
       # an earlier run may have pushed new data while this one was waiting.
@@ -105,6 +105,21 @@ jobs:
         continue-on-error: true
         timeout-minutes: 25
         run: python -m scraper.tags --max 1500 --budget 1200
+
+      # Vocal range: UVR MDX-Net (Kim_Vocal_2) separates the vocals, GAME Small transcribes
+      # them into notes and scraper.singrange drops ghost notes. Both models come from pinned
+      # Hugging Face mirrors (aaatmy/*) checked by SHA-256. Tens of seconds per song, so a small batch.
+      - name: Cache vocal range models
+        uses: actions/cache@v4
+        with:
+          path: .cache/vocal
+          key: vocal-game-small-1.0.3-kim-vocal-2-v1
+
+      - name: Detect vocal range
+        if: steps.bpm-tools.outcome == 'success'
+        continue-on-error: true
+        timeout-minutes: 30
+        run: python -m scraper.vocal --max 80 --budget 1500
 
       - name: Commit data
         run: |

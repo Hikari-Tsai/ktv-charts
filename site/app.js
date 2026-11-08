@@ -72,7 +72,39 @@ const I18N = {
     infoSrc_apple: "Apple Music",
     infoCredit: "出版資訊（詞曲、編曲、製作人、混音、錄音、發行公司、年份、ISRC）來自國家圖書館 ISRC 資料（政府資料開放授權條款第 1 版）、MusicBrainz（CC0）與 iTunes，自動比對歌名與歌手，可能有誤。歌詞受著作權保護，本站不收錄，只連到 KKBOX 等授權歌詞頁。",
     nameSep: "、",
-    aiDisclaimer: "免責聲明：本站的曲風、BPM、# 標籤與出版資訊，是由人工智慧模型與自動比對程式產生的。人工智慧有其極限，結果可能有錯誤或遺漏，僅供參考，請以唱片公司、KTV 業者與各官方來源公布的資料為準。",
+    aiDisclaimer: "免責聲明：本站的曲風、BPM、音域與男女生建議、# 標籤與出版資訊，是由人工智慧模型與自動比對程式產生的。人工智慧有其極限，結果可能有錯誤或遺漏，僅供參考，請以唱片公司、KTV 業者與各官方來源公布的資料為準。",
+    rangeLabel: "副歌音域",
+    rangeHint: "GAME 模型分析 30 秒試聽（多半是副歌）的人聲，過濾鬼點後的最低音與最高音。整首歌的音域可能更寬。點一下看男女生建議",
+    rangeSemis: "{n} 個半音",
+    rangeSpan: "跨度",
+    rangeAdvice: "建議",
+    fit_both: "男女皆宜",
+    fit_m: "適合男生",
+    fit_f: "適合女生",
+    voice_m: "男生",
+    voice_f: "女生",
+    voiceVerdict: "{g}{v}",
+    v_ok: "舒適",
+    v_high: "偏高",
+    v_vhigh: "很高",
+    v_low: "偏低",
+    v_wide: "音域很寬",
+    keyUp: "升 {n} Key",
+    keyDown: "降 {n} Key",
+    octUp: "高八度唱",
+    octDown: "低八度唱",
+    keyNone: "升降 Key 也不容易唱得舒服",
+    keyJoin: "，",
+    rangeNote: "這是副歌音域：依 30 秒試聽（多半是副歌附近）估算，主歌等其他段落可能更高或更低。",
+    aboutRangeTitle: "關於副歌音域與男女生建議",
+    aboutRangeIntro: "歌手下方的「副歌音域」是先用 UVR MDX-Net（Kim_Vocal_2）把 30 秒試聽裡的人聲分離出來，再用 openvpi 的 GAME 模型把歌聲轉成音符，取最低音與最高音。iTunes 試聽多半截自副歌附近，所以標成副歌音域。",
+    aboutRangeFilter: "模型轉出來的音符可能有鬼點，所以會先過濾：太短的音（0.1 秒以下）、超出人聲範圍（C2 到 C7 以外）的音、前後都差 7 個半音以上的短音（常見的八度誤判）、和主要旋律相差 5 個半音以上、中間沒有其他音的孤立音，最低音與最高音也要唱滿 0.25 秒或出現 2 次以上才算數。唱的音太少（不到 4 秒）的歌不顯示。",
+    aboutRangeMale: "一般男生舒適音域約 A2–F#4，G4–A4 偏高，A#4 以上很高。參考：男低音約 E2–E4、男中音約 A2–A4、男高音約 C3–C5。",
+    aboutRangeFemale: "一般女生舒適音域約 F3–C5，C#5–E5 偏高，F5 以上很高。參考：女低音約 F3–F5、女中音約 A3–A5、女高音約 C4–C6。",
+    aboutRangeNotes: "音名用國際標準：C4 是鋼琴正中間的 Do（中央 C），A4 = 440 Hz，數字加 1 就高一個八度。KTV 的 1 Key 等於 1 個半音。男生唱女生的歌常低八度唱，女生唱男生的歌常高八度唱，建議裡的「高八度／低八度」就是這個意思。",
+    aboutRangeLimits: "這是模型的推測，只看 30 秒試聽：合唱、和聲、饒舌、假音與很重的效果器都可能讓結果偏差。舒適音域因人而異，請當作參考。",
+    aboutRangeLicense: "GAME 模型以 CC BY-NC-SA 4.0 授權，僅限非商業使用；UVR MDX-Net 模型依 UVR 與作者的授權使用。",
+    aboutRangeMore: "完整規則",
     bpmHint: "由 Beat This! 模型分析 30 秒試聽估算，可能是實際速度的一半或兩倍",
     region_tw: "台灣",
     region_jp: "日本",
@@ -160,7 +192,39 @@ const I18N = {
     infoSrc_apple: "Apple Music",
     infoCredit: "Publishing details (songwriters, arranger, producer, mixing, recording, label, year, ISRC) come from Taiwan's National Central Library ISRC records (Open Government Data License v1), MusicBrainz (CC0) and iTunes, matched automatically by title and artist, so some may be wrong. Lyrics are copyrighted, so the site does not copy them and only links to licensed lyrics pages such as KKBOX.",
     nameSep: ", ",
-    aiDisclaimer: "Disclaimer: genres, BPM, # tags and publishing details on this site are produced by AI models and automatic matching. AI has limits, so results may contain errors or omissions. Treat them as a reference only and rely on information published by labels, KTV operators and other official sources.",
+    aiDisclaimer: "Disclaimer: genres, BPM, vocal ranges and voice advice, # tags and publishing details on this site are produced by AI models and automatic matching. AI has limits, so results may contain errors or omissions. Treat them as a reference only and rely on information published by labels, KTV operators and other official sources.",
+    rangeLabel: "Chorus range",
+    rangeHint: "Lowest and highest sung note in the 30-second preview (usually the chorus), from the GAME model after filtering ghost notes. The full song may span more. Click for advice for male and female voices",
+    rangeSemis: "{n} semitones",
+    rangeSpan: "Span",
+    rangeAdvice: "Advice",
+    fit_both: "Fits any voice",
+    fit_m: "Male voice",
+    fit_f: "Female voice",
+    voice_m: "Male",
+    voice_f: "Female",
+    voiceVerdict: "{g} {v}",
+    v_ok: "comfortable",
+    v_high: "high",
+    v_vhigh: "very high",
+    v_low: "low",
+    v_wide: "very wide",
+    keyUp: "key +{n}",
+    keyDown: "key −{n}",
+    octUp: "sing an octave up",
+    octDown: "sing an octave down",
+    keyNone: "hard to fit even with a key change",
+    keyJoin: ", ",
+    rangeNote: "This is the chorus range, estimated from a 30-second preview that is usually around the chorus; verses and other parts may go higher or lower.",
+    aboutRangeTitle: "About chorus range and voice advice",
+    aboutRangeIntro: "The chorus range under each artist comes from separating the vocals in the 30-second preview with UVR MDX-Net (Kim_Vocal_2), transcribing them into notes with openvpi's GAME model, and taking the lowest and highest note. iTunes previews are usually cut from around the chorus, hence “chorus range”.",
+    aboutRangeFilter: "The transcription can contain ghost notes, so they are filtered first: notes under 0.1 s, notes outside the human range (C2 to C7), short notes 7 or more semitones away from both neighbours (typical octave errors), and isolated notes 5 or more semitones away from the main melody with nothing in between. The lowest and highest note must also last 0.25 s in total or occur at least twice. Songs with under 4 seconds of singing show no range.",
+    aboutRangeMale: "A typical male voice is comfortable around A2–F#4; G4–A4 is high and A#4 and above is very high. For reference: bass about E2–E4, baritone A2–A4, tenor C3–C5.",
+    aboutRangeFemale: "A typical female voice is comfortable around F3–C5; C#5–E5 is high and F5 and above is very high. For reference: alto about F3–F5, mezzo-soprano A3–A5, soprano C4–C6.",
+    aboutRangeNotes: "Note names use scientific pitch: C4 is middle C, A4 = 440 Hz, and each number up is one octave higher. One karaoke key step is one semitone. Men often sing women's songs an octave down and women sing men's songs an octave up; that is what “octave up/down” in the advice means.",
+    aboutRangeLimits: "These are model estimates from a 30-second preview only. Duets, harmonies, rap, falsetto and heavy effects can skew them, and comfortable ranges differ from person to person.",
+    aboutRangeLicense: "The GAME model is licensed CC BY-NC-SA 4.0 (non-commercial use only); the UVR MDX-Net model is used under the terms given by UVR and its author.",
+    aboutRangeMore: "Full rules",
     bpmHint: "Estimated from a 30-second preview with the Beat This! model; may be half or double the real tempo",
     region_tw: "Taiwan",
     region_jp: "Japan",
@@ -248,7 +312,39 @@ const I18N = {
     infoSrc_apple: "Apple Music",
     infoCredit: "出版情報（作詞・作曲・編曲・プロデューサー・ミックス・レコーディング・レーベル・発売年・ISRC）は台湾国家図書館の ISRC データ（政府資料開放授権条款 第1版）、MusicBrainz（CC0）、iTunes から曲名と歌手名で自動照合しているため、誤りがある場合があります。歌詞は著作権で保護されているため掲載せず、KKBOX などの正規の歌詞ページへリンクしています。",
     nameSep: "、",
-    aiDisclaimer: "免責事項：本サイトのジャンル、BPM、# タグ、出版情報は AI モデルと自動照合によって生成されています。AI には限界があり、誤りや抜けが含まれる場合があります。参考情報としてご利用いただき、正確な情報はレコード会社・カラオケ事業者などの公式発表をご確認ください。",
+    aiDisclaimer: "免責事項：本サイトのジャンル、BPM、音域と男女別アドバイス、# タグ、出版情報は AI モデルと自動照合によって生成されています。AI には限界があり、誤りや抜けが含まれる場合があります。参考情報としてご利用いただき、正確な情報はレコード会社・カラオケ事業者などの公式発表をご確認ください。",
+    rangeLabel: "サビ音域",
+    rangeHint: "GAME モデルで 30 秒の試聴音源（主にサビ）の歌声を分析し、ゴーストノートを除いた最低音と最高音。曲全体ではもっと広い場合があります。クリックで男女別のアドバイス",
+    rangeSemis: "{n} 半音",
+    rangeSpan: "幅",
+    rangeAdvice: "アドバイス",
+    fit_both: "男女どちらも",
+    fit_m: "男性向け",
+    fit_f: "女性向け",
+    voice_m: "男性",
+    voice_f: "女性",
+    voiceVerdict: "{g}{v}",
+    v_ok: "歌いやすい",
+    v_high: "やや高い",
+    v_vhigh: "かなり高い",
+    v_low: "やや低い",
+    v_wide: "音域が広い",
+    keyUp: "キー +{n}",
+    keyDown: "キー −{n}",
+    octUp: "1 オクターブ上で",
+    octDown: "1 オクターブ下で",
+    keyNone: "キーを変えても歌いにくい",
+    keyJoin: "、",
+    rangeNote: "サビの音域です。30 秒の試聴音源（主にサビ付近）から推定しているため、A メロなど他の部分はもっと高い・低い場合があります。",
+    aboutRangeTitle: "サビ音域と男女別アドバイスについて",
+    aboutRangeIntro: "歌手名の下の「サビ音域」は、30 秒の試聴音源から UVR MDX-Net（Kim_Vocal_2）で歌声を分離し、openvpi の GAME モデルで音符に変換して、最低音と最高音を求めたものです。iTunes の試聴音源は主にサビ付近なので「サビ音域」としています。",
+    aboutRangeFilter: "変換結果にはゴーストノートが混じるため、先に除外します：0.1 秒未満の音、人の声の範囲（C2〜C7）外の音、前後どちらとも 7 半音以上離れた短い音（よくあるオクターブ誤認）、主旋律から 5 半音以上離れ、間に音がない孤立した音。最低音と最高音は合計 0.25 秒以上か 2 回以上出てくる必要があります。歌声が 4 秒未満の曲は表示しません。",
+    aboutRangeMale: "一般的な男性が歌いやすいのは A2〜F#4（lowA〜mid2F#）くらいで、G4〜A4 はやや高く、A#4 以上はかなり高めです。参考：バス E2〜E4、バリトン A2〜A4、テノール C3〜C5。",
+    aboutRangeFemale: "一般的な女性が歌いやすいのは F3〜C5（mid1F〜hiC）くらいで、C#5〜E5 はやや高く、F5 以上はかなり高めです。参考：アルト F3〜F5、メゾソプラノ A3〜A5、ソプラノ C4〜C6。",
+    aboutRangeNotes: "音名は国際式で、C4 がピアノ中央のド（mid2C）、A4 = 440 Hz、数字が 1 増えると 1 オクターブ上です。カラオケのキー 1 つは半音 1 つ分。男性が女性曲を 1 オクターブ下で、女性が男性曲を 1 オクターブ上で歌うことが多く、アドバイスの「オクターブ上／下」はその意味です。",
+    aboutRangeLimits: "30 秒の試聴音源だけを使ったモデルの推定です。デュエット、ハモリ、ラップ、裏声、強いエフェクトで結果がずれることがあり、歌いやすい音域も人によって違います。",
+    aboutRangeLicense: "GAME モデルは CC BY-NC-SA 4.0（非商用のみ）、UVR MDX-Net モデルは UVR と作者が示す条件で利用しています。",
+    aboutRangeMore: "詳しいルール",
     bpmHint: "Beat This! モデルで 30 秒の試聴音源から推定。実際のテンポの半分または倍の場合があります",
     region_tw: "台湾",
     region_jp: "日本",
@@ -703,6 +799,51 @@ function lyricsLinks(row) {
   return out;
 }
 
+const NOTE_NAMES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
+const noteName = (midi) => `${NOTE_NAMES[midi % 12]}${Math.floor(midi / 12) - 1}`;
+
+function keyAdvice(item) {
+  if (item.v === "ok") return "";
+  if (item.key === undefined) return t("keyNone");
+  const parts = [];
+  if (item.oct > 0) parts.push(t("octUp"));
+  if (item.oct < 0) parts.push(t("octDown"));
+  if (item.key > 0) parts.push(t("keyUp", { n: item.key }));
+  if (item.key < 0) parts.push(t("keyDown", { n: -item.key }));
+  return parts.join(t("keyJoin"));
+}
+
+// "Fits any voice", or "Female voice · male high", or both verdicts when neither fits.
+function fitText(r) {
+  const verdict = (g) => t("voiceVerdict", { g: t(`voice_${g}`), v: t(`v_${r[g].v}`) });
+  if (r.fit === "both") return t("fit_both");
+  if (r[r.fit]?.v === "ok") return `${t(`fit_${r.fit}`)} · ${verdict(r.fit === "m" ? "f" : "m")}`;
+  return ["m", "f"].map(verdict).join(" · ");
+}
+
+// Lowest-highest note and who it suits stay in view; per-voice key advice opens from them.
+function rangeBlock(row) {
+  const r = row.range;
+  if (!r) return null;
+  const fit = r.fit === "both" || r[r.fit]?.v === "ok" ? r.fit : "none";
+  const line = el("span", { class: "info-brief" },
+    el("b", { text: t("rangeLabel") }), " ",
+    el("span", { class: "range-notes", text: `${noteName(r.low)}–${noteName(r.high)}` }),
+    el("span", { class: "sep", "aria-hidden": "true", text: "·" }),
+    el("span", { class: `range-fit fit-${fit}`, text: fitText(r) }));
+  const more = [];
+  const add = (label, value) => more.push(el("dt", { text: label }), el("dd", {}, value));
+  add(t("rangeSpan"), t("rangeSemis", { n: r.high - r.low }));
+  for (const g of ["m", "f"]) {
+    const advice = keyAdvice(r[g]);
+    add(t(`voice_${g}`), `${t(`v_${r[g].v}`)}${advice ? t("keyJoin") + advice : ""}`);
+  }
+  more.push(el("dd", { class: "range-note", text: t("rangeNote") }));
+  return el("details", { class: "song-info song-range" },
+    el("summary", { title: t("rangeHint") }, line),
+    el("dl", { class: "info-more" }, ...more));
+}
+
 // Year, label, lyricist and composer stay in view; everything else opens from them.
 function infoBlock(row) {
   const info = row.info;
@@ -776,7 +917,7 @@ function songCell(row) {
   const head = el("div", { class: "song-title" }, titleNode);
   const tag = genreTag(row);
   if (tag) head.append(" ", tag);
-  return [head, sub, infoBlock(row), hashtagLine(row)];
+  return [head, sub, rangeBlock(row), infoBlock(row), hashtagLine(row)];
 }
 
 function linkRow(row, songRow) {

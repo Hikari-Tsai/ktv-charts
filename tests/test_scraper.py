@@ -9,7 +9,7 @@ from unittest import mock
 import datetime as dt
 
 import scraper.__main__ as main
-from scraper import bpm, credits, enrich, hashtags, info, match, spotify
+from scraper import bpm, credits, enrich, hashtags, info, match, singrange, spotify
 from scraper.history import History, period_key, song_key
 from scraper.sources import dam, joysound, kkbox
 
@@ -396,6 +396,15 @@ class EssentiaFrontEndTest(unittest.TestCase):
         self.assertAlmostEqual(float(area[0]), 1.0, places=3)  # wide-enough bands sum to 1
         self.assertTrue(((area > 0.9) & (area < 1.1)).all())   # narrow ones only roughly
 
+    def test_mdx_stft_round_trip(self):
+        import numpy as np
+        from scraper import vocal
+        x = np.random.default_rng(0).standard_normal((2, vocal.MDX_CHUNK))
+        window = vocal._window()
+        spec = vocal._stft(x, window)
+        self.assertEqual(spec.shape, (2, vocal.N_FFT // 2 + 1, vocal.DIM_T))
+        self.assertTrue(np.allclose(vocal._istft(spec, vocal.MDX_CHUNK, window), x, atol=1e-6))
+
     def test_patching(self):
         import numpy as np
         from scraper import tags
@@ -491,6 +500,65 @@ class CreditsTest(unittest.TestCase):
         self.assertEqual(sites["holiday"]["charts"][0]["rows"][0]["info"]["year"], "2015")
         self.assertEqual(counts["info"], 1)
         self.assertEqual([s["key"] for s in credits.songs(sites, "jp")], [])
+
+
+class VocalRangeTest(unittest.TestCase):
+    @staticmethod
+    def phrase(pitches, start=0.0, dur=0.4):
+        return [(start + i * dur, dur, float(p)) for i, p in enumerate(pitches)]
+
+    def test_note_names(self):
+        self.assertEqual(singrange.note_name(60), "C4")
+        self.assertEqual(singrange.note_name(69), "A4")
+        self.assertEqual(singrange.note_name(45), "A2")
+
+    def test_clean_melody_keeps_its_extremes(self):
+        notes = self.phrase([55, 57, 59, 60, 62, 64, 62, 60, 59, 57, 55, 57, 59, 60, 64, 62])
+        r = singrange.filter_notes(notes)
+        self.assertEqual((r["low"], r["high"], r["dropped"]), (55, 64, 0))
+
+    def test_octave_spike_inside_a_phrase_is_dropped(self):
+        notes = self.phrase([60, 62, 62, 74, 62, 60, 59, 60, 62, 60, 59, 57, 59, 60, 62, 60])
+        notes[3] = (notes[3][0], 0.2, 74.0)  # short octave error between two D4s
+        self.assertEqual(singrange.filter_notes(notes)["high"], 62)
+
+    def test_intro_bass_cut_off_from_the_melody_is_dropped(self):
+        intro = self.phrase([38, 43, 37, 38], dur=0.45)  # D2 G2 C#2 D2: bass in the intro
+        melody = self.phrase([50, 55, 57, 59, 59, 57, 55, 54, 55, 59, 62, 62, 60, 59, 55, 57], start=2.0)
+        r = singrange.filter_notes(intro + melody)
+        self.assertEqual((r["low"], r["high"]), (50, 62))
+        self.assertEqual(r["dropped"], 4)
+
+    def test_brief_extreme_needs_support(self):
+        melody = self.phrase([55, 57, 59, 60, 59, 57, 55, 57, 59, 60, 59, 57, 55, 57])
+        melody.append((melody[-1][0] + 0.4, 0.15, 63.0))  # one 0.15 s E-flat at the end
+        self.assertEqual(singrange.filter_notes(melody)["high"], 60)
+        melody.append((melody[-1][0] + 0.4, 0.15, 63.0))  # sung twice: it counts
+        self.assertEqual(singrange.filter_notes(melody)["high"], 63)
+
+    def test_too_little_singing_gives_nothing(self):
+        self.assertIsNone(singrange.filter_notes(self.phrase([60, 62, 64, 65, 67])))
+        self.assertIsNone(singrange.filter_notes([(i * 0.1, 0.05, 60.0) for i in range(100)]))  # all blips
+
+    def test_advice(self):
+        a = singrange.advise(50, 62)  # D3-D4
+        self.assertEqual((a["fit"], a["m"]["v"], a["f"]["v"]), ("m", "ok", "low"))
+        self.assertEqual((a["f"]["key"], a["f"]["oct"]), (-2, 12))  # an octave up, two keys down
+        a = singrange.advise(58, 77)  # A#3-F5
+        self.assertEqual((a["fit"], a["f"]["v"], a["m"]["v"]), ("f", "vhigh", "vhigh"))
+        self.assertEqual((a["f"]["key"], a["f"]["oct"]), (-5, 0))
+        self.assertEqual(singrange.advise(55, 64)["fit"], "both")
+        self.assertEqual(singrange.advise(40, 80)["m"], {"v": "wide"})  # too wide for any key
+
+    def test_annotate_adds_range(self):
+        key = match.song_key("晴天", "周杰倫")
+        sites = {"holiday": {"charts": [{"id": "b", "rows": [{"rank": 1, "title": "晴天", "artist": "周杰倫"}]}]}}
+        counts = enrich.annotate(sites, {}, {}, ranges={key: {"status": "ok", "low": 50, "high": 62}})
+        row = sites["holiday"]["charts"][0]["rows"][0]
+        self.assertEqual((row["range"]["low"], row["range"]["high"], row["range"]["fit"]), (50, 62, "m"))
+        self.assertEqual(counts["range"], 1)
+        enrich.annotate(sites, {}, {}, ranges={key: {"status": "none"}})
+        self.assertNotIn("range", row)
 
 
 if __name__ == "__main__":

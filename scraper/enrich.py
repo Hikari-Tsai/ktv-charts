@@ -23,6 +23,7 @@ import urllib.parse
 from pathlib import Path
 
 from . import hashtags, info, match
+from .singrange import advise as vocal_advice
 from .net import get_text
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -31,6 +32,7 @@ ITUNES_CACHE = ROOT / "data" / "itunes.json"
 KKBOX_IDS = ROOT / "data" / "kkbox-ids.json"
 BPM_CACHE = ROOT / "data" / "bpm.json"  # written by scraper.bpm
 TAGS_CACHE = ROOT / "data" / "essentia.json"  # written by scraper.tags
+RANGE_CACHE = ROOT / "data" / "vocal-range.json"  # written by scraper.vocal
 SPOTIFY_CACHE = ROOT / "data" / "spotify.json"  # written by scraper.spotify
 APPLE_ALBUM_CACHE = ROOT / "data" / "apple-albums.json"  # written by scraper.credits
 NCL_CACHE = ROOT / "data" / "ncl-isrc.json"  # written by scraper.credits
@@ -254,15 +256,17 @@ def fuzzy_kkbox(key: str, index: dict[str, list[tuple[str, str]]]) -> str | None
 
 
 def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | None = None,
-             tags: dict | None = None, spotify: dict | None = None, credits: tuple | None = None) -> dict:
-    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0, "spotify": 0, "bpm": 0, "tags": 0, "info": 0}
-    bpm, tags, spotify = bpm or {}, tags or {}, spotify or {}
+             tags: dict | None = None, spotify: dict | None = None, credits: tuple | None = None,
+             ranges: dict | None = None) -> dict:
+    counts = {"rows": 0, "genre": 0, "apple": 0, "kkbox": 0, "spotify": 0, "bpm": 0, "tags": 0, "info": 0,
+              "range": 0}
+    bpm, tags, spotify, ranges = bpm or {}, tags or {}, spotify or {}, ranges or {}
     ncl, mb, albums = credits or ({}, {}, {})
     prefix_index = _prefix_index(kkbox_ids)
     for _, _, row in iter_rows(sites):
         counts["rows"] += 1
         key = match.song_key(row.get("title"), row.get("artist"))
-        for field in ("genre", "apple", "spotify", "bpm", "tags", "info"):
+        for field in ("genre", "apple", "spotify", "bpm", "tags", "info", "range"):
             row.pop(field, None)
         entry = cache.get(key) if not key.startswith("|") else None
         if entry and entry.get("status") == "ok":
@@ -280,6 +284,10 @@ def annotate(sites: dict[str, dict], cache: dict, kkbox_ids: dict, bpm: dict | N
         if tempo and tempo.get("status") == "ok" and tempo.get("bpm"):
             row["bpm"] = round(tempo["bpm"])
             counts["bpm"] += 1
+        sung = ranges.get(key) if not key.startswith("|") else None
+        if sung and sung.get("status") == "ok" and sung.get("low") and sung.get("high"):
+            row["range"] = {"low": sung["low"], "high": sung["high"], **vocal_advice(sung["low"], sung["high"])}
+            counts["range"] += 1
         found = hashtags.select_tags(tags.get(key)) if not key.startswith("|") else {}
         if found:
             row["tags"] = found
@@ -312,7 +320,8 @@ def apply_files(site_dir: Path = SITE_DATA) -> dict:
         save_cache(KKBOX_IDS, kkbox_ids)
     counts = annotate(sites, load_cache(ITUNES_CACHE), kkbox_ids, load_cache(BPM_CACHE), load_cache(TAGS_CACHE),
                       load_cache(SPOTIFY_CACHE),
-                      (load_cache(NCL_CACHE), load_cache(MB_CACHE), load_cache(APPLE_ALBUM_CACHE)))
+                      (load_cache(NCL_CACHE), load_cache(MB_CACHE), load_cache(APPLE_ALBUM_CACHE)),
+                      load_cache(RANGE_CACHE))
     write_sites(sites, site_dir)
     return counts
 

@@ -21,6 +21,7 @@
 - **三種語言**：中文、English、日本語，純前端即時切換，預設中文。選擇會記在瀏覽器裡，也可以用 `?lang=en` 或 `?lang=ja` 直接指定。
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
 - **BPM**：歌手後面標出歌曲速度，用 [Beat This!](https://github.com/CPJKU/beat_this) 模型的 ONNX 版本 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 分析 iTunes 的 30 秒試聽估算。
+- **副歌音域與男女生建議**：歌手下方顯示副歌的最低音到最高音（例如 `D3–D4`）與「適合男生／適合女生／男女皆宜」，點一下展開男女生各自是否舒適、偏高或偏低，以及建議升降幾個 Key。先用 UVR MDX-Net 分離人聲，再用 openvpi 的 [GAME](https://github.com/openvpi/GAME) 模型轉成音符，並用演算法過濾鬼點，見「音域」。網頁底部附男女生音域範圍說明。
 - **Hashtag 標籤**：依風格、情緒、樂器、人聲分組標出 `#抒情 #放鬆 #鋼琴 #女聲` 這類標籤，用 Essentia 的 Discogs-EffNet 模型分析試聽得來，每組都有門檻與數量上限。
 - **出版資訊**：歌手下方顯示發行年份、發行公司、作詞與作曲，點一下展開編曲、製作人、混音、錄音、母帶後製、專輯、發行日期、ISRC、版權標示、歌詞連結與資料來源。台灣的歌查國家圖書館 ISRC 資料，其他歌查 MusicBrainz，年份與版權標示另外取自 Apple，見「出版資訊」。
 - **四個連結**：每首歌附「在YouTube搜尋」、「Apple Music 試聽」、「KKBOX 試聽」、「Spotify 試聽」。
@@ -57,11 +58,13 @@ GitHub Actions（每天 03:17 UTC，台灣時間 11:17）
   │    └─ data/bpm.json       BPM 永久快取
   ├─ python -m scraper.tags   用 Essentia 模型分析風格、情緒、樂器與人聲
   │    └─ data/essentia.json  模型分數永久快取
+  ├─ python -m scraper.vocal  分離人聲後用 GAME 轉成音符，過濾鬼點，取最低音與最高音
+  │    └─ data/vocal-range.json 音域永久快取
   ├─ 有變動才 commit 回 main
   └─ 部署 site/ 到 GitHub Pages
 ```
 
-- 排行榜與曲風查詢只用 Python 標準函式庫；只有 BPM 與 hashtag 分析需要 ffmpeg、numpy 與 onnxruntime。
+- 排行榜與曲風查詢只用 Python 標準函式庫；只有 BPM、hashtag 與音域分析需要 ffmpeg、numpy 與 onnxruntime。
 - 網頁是純 HTML、CSS、JavaScript，沒有框架也沒有建置步驟。
 - 每個請求間隔 1 秒，每天只執行一次。iTunes 每分鐘約限 20 次請求，所以查詢間隔 3.2 秒，只查沒看過的歌。
 - 曲風查詢失敗不會影響排行榜更新，只是當天少一些標籤。
@@ -270,6 +273,71 @@ BPM 下方的 `#抒情 #放鬆 #鋼琴 #女聲` 是用 MTG（Universitat Pompeu 
 - **以西方音樂訓練**：二胡、古箏這類樂器沒有對應類別，華語、日語歌的風格常被歸到最接近的西方風格，例如華語抒情歌多半標成「抒情」。
 - **模型判斷不是事實**：這些是機率最高的猜測，可能出錯，網頁的提示文字也標明是模型分析。
 
+## 音域
+
+歌手下方的「副歌音域 D3–D4 · 適合男生」是分析 iTunes 30 秒試聽的歌聲得來的。iTunes 試聽多半截自副歌附近，所以網頁標成「副歌音域」，不是整首歌的音域。最低音與最高音和建議放在外面，點一下展開跨度與男女生各自的建議。程式在 `scraper/vocal.py`（模型與音訊）和 `scraper/singrange.py`（過濾與建議，只用標準函式庫）。
+
+### 模型
+
+| 用途 | 模型 | 來源 | 授權 |
+|---|---|---|---|
+| 人聲分離 | UVR MDX-Net `Kim_Vocal_2.onnx` | [aaatmy/uvr-mdx-net-onnx](https://huggingface.co/aaatmy/uvr-mdx-net-onnx)（UVR 官方檔案的原樣鏡像） | 作者 KimberleyJensen 公開同意任意使用，詳見鏡像的 NOTICE |
+| 歌聲轉音符 | GAME Small v1.0.3（openvpi，Generative Adaptive MIDI Extractor） | [aaatmy/game-small-onnx](https://huggingface.co/aaatmy/game-small-onnx)（官方 ONNX 的原樣鏡像） | CC BY-NC-SA 4.0，僅限非商業使用 |
+
+兩個模型都鎖定 Hugging Face 的 commit，下載後用 SHA-256 檢查，存在 Actions 快取 `.cache/vocal/`，約 118 MB。
+
+### 流程
+
+1. **選歌**：和 BPM 一樣，只分析有 iTunes 曲目的歌，排名高的先做；iTunes 對到的曲目換了就重算。
+2. **解碼**：ffmpeg 把試聽轉成 44,100 Hz 雙聲道。
+3. **分離人聲**：MDX-Net 以 n_fft 7680、hop 1024 做 STFT，取前 3,072 個頻率、每段 256 格，預測人聲頻譜再轉回波形。前奏的貝斯、鋼琴與吉他因此不會被當成音符。實測直接把混音交給 GAME 時，越南歌與演歌的前奏被轉成 C2–B2 之類不合理的音域；先分離後，這些歌因為唱的音不夠而不給結果。
+4. **轉成音符**：GAME 每 8 秒一段、前後各多看 1 秒，依官方流程跑 encoder、segmenter（8 步 D3PM，t = i/8）、estimator，語言設為通用，邊界與有聲門檻 0.2。輸出每個音的起點、長度與浮點 MIDI 音高。
+5. **過濾鬼點**（`filter_notes()`），依序：
+
+   | 規則 | 設定 | 處理的問題 |
+   |---|---|---|
+   | 太短的音 | 短於 0.1 秒 | 子音、換氣、切段雜訊 |
+   | 不可能的音 | C2（MIDI 36）以下或 C7（96）以上 | 明顯的錯誤 |
+   | 尖峰 | 短於 0.3 秒，且和前後相鄰（1 秒內）的音都差 7 個半音以上 | 八度誤判、瞬間的樂器殘留 |
+   | 脫離主體 | 從時長加權的中位音高往上下延伸，遇到相差 5 個半音以上、中間沒有音的空隙就停，空隙外的音全部丟掉 | 殘留的前奏低音、和聲或效果音 |
+   | 極值要有支撐 | 最低音與最高音必須合計唱滿 0.25 秒，或出現 2 次以上，不然往內退一個 | 只閃過一下的音 |
+   | 唱得太少 | 過濾後不到 12 個音或不到 4 秒 | 純音樂、前奏很長的試聽，不給結果 |
+
+6. **存檔**：最低音、最高音（MIDI 整數）、音名、保留的音數、丟掉的音數與總長寫進 `data/vocal-range.json`。
+
+### 男女生建議
+
+建議在寫入網站資料時才由 `advise()` 計算，所以調整門檻不必重新分析音訊。舒適範圍以沒受過訓練的一般人在 KTV 用真聲唱為準：
+
+| | 舒適 | 偏高 | 很高 |
+|---|---|---|---|
+| 男生 | A2–F#4（MIDI 45–66） | 最高音 G4–A4 | 最高音 A#4 以上 |
+| 女生 | F3–C5（MIDI 53–72） | 最高音 C#5–E5 | 最高音 F5 以上 |
+
+- 最低音低於舒適範圍是「偏低」，高低都超出是「音域很寬」。
+- 原調剛好在某一方的舒適範圍內，就標「適合男生」或「適合女生」，兩邊都在範圍內標「男女皆宜」。只適合一方時，後面附上另一方的判斷，例如「適合女生 · 男生偏高」；兩邊都不舒適時，直接列出兩邊的判斷，例如「男生很高 · 女生偏低」。男生上限參考日本卡拉 OK 常用的男性平均音域（約到 mid2G，也就是 G4）。
+- 不舒適的一方會給建議：在 ±7 個 Key 之內，找能讓整段音域落在舒適範圍的最小升降，也考慮男生低八度、女生高八度唱。例如〈晴天〉D3–D4 對女生偏低，建議「高八度唱，降 2 Key」。找不到時顯示「升降 Key 也不容易唱得舒服」。
+- 網頁底部的「關於音域與男女生建議」列出上面的範圍、男低音到女高音的參考音域，以及音名的讀法（C4 是中央 C，1 Key 是 1 個半音）。
+
+### 快取欄位
+
+| 欄位 | 說明 |
+|---|---|
+| `status` | `ok` 表示有音域；`none` 表示沒有，原因寫在 `reason`（`no_preview` 或 `few_notes`） |
+| `low`、`high` | 過濾後的最低音與最高音，MIDI 整數（60 = C4） |
+| `low_name`、`high_name` | 音名，例如 `D3` |
+| `notes`、`dropped` | 保留與丟掉的音數 |
+| `voiced` | 保留的音合計秒數 |
+| `track`、`model`、`v`、`checked` | 分析的 iTunes 曲目、模型、流程版本與日期；`v` 比程式的 `VERSION` 舊就重算 |
+
+### 限制
+
+- **只聽 30 秒**：試聽通常在副歌附近，主歌更低或結尾更高的音可能沒聽到，網頁的提示文字也有說明。
+- **和聲與合唱**：分離出來的人聲包含和聲與合唱，男女對唱會把兩個人的音域算在一起。
+- **饒舌、假音、重效果器**：GAME 以一般歌聲訓練，這些情況比較容易出錯。
+- **隨機性**：GAME 的 D3PM 取樣理論上有隨機成分。實測〈晴天〉、〈Lemon〉、〈アイドル〉各重跑 4 次，過濾後的音域完全相同，但其他歌仍可能差一個半音。
+- **舒適範圍因人而異**：上面的範圍是一般參考，不是每個人都適用。
+
 ## 分批查詢機制
 
 iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 首，所以查詢分成多次 Action 執行完成。
@@ -285,6 +353,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 | 失敗時 | 查詢步驟設成失敗也繼續，排行榜照常發布，只是少一些標籤 |
 | BPM 分析 | 同樣的規則：每次最多 300 首或 20 分鐘，排名高的先做，每 10 首存一次 |
 | Hashtag 分析 | 每首約 1 秒，所以每次最多 1,500 首或 20 分鐘，每 25 首存一次 |
+| 音域分析 | 人聲分離加 GAME 每首約 20 到 40 秒，所以每次最多 80 首或 25 分鐘，排名高的先做，每 10 首存一次 |
 | 出版資訊 | 國家圖書館每首 2 到 6 秒、MusicBrainz 每首 2 到 7 秒，每次最多 20 分鐘，每 25 首存一次 |
 
 **什麼時候會執行**：每天排程一次；推送 `site/`、`scraper/`、`tests/` 或工作流程檔的變更時；以及在 Actions 頁面按 **Run workflow** 手動執行。目前不會自己再開一次 Action 接續，所以首次補齊約需 5 次執行。之後每天新進榜的歌約 10 到 30 首，一次就能查完。想加快補齊，可以手動多執行幾次；同一時間只會跑一個，其他會排隊。
@@ -293,7 +362,7 @@ iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 �
 gh workflow run update.yml
 ```
 
-**時間限制**：曲風查詢最多 25 分鐘，Spotify 查詢最多 10 分鐘，出版資訊最多 20 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 135 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
+**時間限制**：曲風查詢最多 25 分鐘，Spotify 查詢最多 10 分鐘，出版資訊最多 20 分鐘，BPM 與 hashtag 分析各最多 20 分鐘，音域分析最多 25 分鐘，每個步驟另有自己的逾時上限。整個 job 上限 165 分鐘，遠低於 GitHub 單一 job 的 6 小時，所以不會因為歌曲太多而逾時。
 
 ## 專案結構
 
@@ -309,6 +378,8 @@ scraper/               Python 抓取程式
   bpm.py               Beat This! BPM 分析，需要 ffmpeg、numpy、onnxruntime
   tags.py              Essentia 模型分析，需要 ffmpeg、numpy、onnxruntime
   hashtags.py          模型分數轉成 hashtag 的門檻與規則（只用標準函式庫）
+  vocal.py             人聲分離與 GAME 音域分析，需要 ffmpeg、numpy、onnxruntime
+  singrange.py         鬼點過濾與男女生建議（只用標準函式庫）
   net.py               HTTP 請求、重試與請求間隔
   __main__.py          進入點，寫出 site/data/*.json
 site/                  靜態網頁，原樣發布到 GitHub Pages
@@ -325,7 +396,8 @@ data/ncl-isrc.json     國家圖書館 ISRC 紀錄
 data/musicbrainz.json  MusicBrainz 詞曲資料
 data/bpm.json          BPM 快取
 data/essentia.json     Essentia 模型分數快取
-requirements-bpm.txt   BPM 與 hashtag 分析需要的套件
+data/vocal-range.json  音域快取
+requirements-bpm.txt   BPM、hashtag 與音域分析需要的套件
 tests/                 離線單元測試
 docs/                  API 手冊
 .github/workflows/     每日排程與部署
@@ -375,7 +447,13 @@ python3 -m scraper.bpm --max 50
 python3 -m scraper.tags --max 50
 ```
 
-只改了 `scraper/hashtags.py` 的門檻時，用快取重新標註就好：
+分析音域。第一次執行會從 Hugging Face 下載約 118 MB 的模型到 `.cache/vocal/`：
+
+```bash
+python3 -m scraper.vocal --max 20
+```
+
+只改了 `scraper/hashtags.py` 或 `scraper/singrange.py` 裡建議的門檻時，用快取重新標註就好：
 
 ```bash
 python3 -m scraper.enrich --no-network
@@ -408,11 +486,11 @@ python3 -m http.server 8000 -d site
 - 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）、KKBOX、Spotify 沒有任何關係。
 - 排行榜資料取自各家官方網站的公開頁面與網站內部介面，著作權與相關權利屬原網站所有。這些介面沒有官方文件，網站改版時可能失效。
 - 曲風與 Apple Music 連結來自 Apple 的 iTunes Search API，曲風是 Apple 商店的分類，不是分析音訊得來的，也可能對到不同版本。
-- BPM 與 hashtag 是模型分析 30 秒試聽的估計，可能出錯。
+- BPM、hashtag 與音域是模型分析 30 秒試聽的估計，可能出錯；男女生建議只是一般參考。
 - 出版資訊依歌名與歌手自動比對國家圖書館 ISRC、MusicBrainz 與 Apple 的資料，可能對到翻唱或同名的錄音。
-- 網頁底部也有免責聲明：曲風、BPM、# 標籤與出版資訊由人工智慧模型與自動比對產生，人工智慧有其極限，可能有錯誤或遺漏，僅供參考。
+- 網頁底部也有免責聲明：曲風、BPM、音域與男女生建議、# 標籤與出版資訊由人工智慧模型與自動比對產生，人工智慧有其極限，可能有錯誤或遺漏，僅供參考。
 - 如果你要自行部署或轉載資料，請先確認各網站的使用條款，並保留來源標示與連回官網的連結。
 
 ## 授權
 
-程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。Hashtag 使用的 Essentia 模型由 Music Technology Group（Universitat Pompeu Fabra）以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；本專案不散布模型檔，執行時才從官方網站下載（論文：Alonso-Jiménez, Serra & Bogdanov, ISMIR 2022）。按鈕上的 Apple Music 與 Spotify 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。出版資訊來自國家圖書館 ISRC 資料（[政府資料開放授權條款第 1 版](https://data.gov.tw/license)）、MusicBrainz（核心資料為 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)）與 Apple 的 iTunes API。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
+程式碼以 [MIT License](LICENSE) 授權。BPM 使用的 Beat This! 模型權重同樣是 MIT 授權，版權屬 Institute of Computational Perception, JKU Linz。Hashtag 使用的 Essentia 模型由 Music Technology Group（Universitat Pompeu Fabra）以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；本專案不散布模型檔，執行時才從官方網站下載（論文：Alonso-Jiménez, Serra & Bogdanov, ISMIR 2022）。音域使用的 GAME 模型由 [openvpi](https://github.com/openvpi/GAME) 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權，僅限非商業使用；人聲分離使用 [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui) 收錄、KimberleyJensen 訓練的 MDX-Net Kim_Vocal_2 模型，架構來自 kuielab 的 MDX-Net。兩者都從 [aaatmy](https://huggingface.co/aaatmy) 的原樣鏡像下載，本專案不散布模型檔。按鈕上的 Apple Music 與 Spotify 圖示取自 [Simple Icons](https://simpleicons.org/)（CC0），KKBOX 圖示取自 KKBOX 官網的 App 圖示，商標皆屬各自的所有者，僅用來標示連往該服務的連結。出版資訊來自國家圖書館 ISRC 資料（[政府資料開放授權條款第 1 版](https://data.gov.tw/license)）、MusicBrainz（核心資料為 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)）與 Apple 的 iTunes API。MIT 授權只涵蓋本專案的程式碼與文件，不涵蓋 `site/data/` 與 `data/history/` 中取自第三方網站的排行榜資料。
