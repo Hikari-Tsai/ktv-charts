@@ -1143,6 +1143,17 @@
   "status": "ok",
   "track": "jp/77295564"
  },
+ "dangerously|charlieputh": {
+  "avg_bpm": 212.567,
+  "beats": 107,
+  "bpm": 212.567,
+  "checked": "2026-11-09",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1041127299"
+ },
  "darling|西野カナ": {
   "avg_bpm": 160.027,
   "beats": 80,
@@ -1230,6 +1241,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/494522959"
+ },
+ "depends|xg": {
+  "avg_bpm": 111.036,
+  "beats": 56,
+  "bpm": 111.005,
+  "checked": "2026-11-09",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6820577562"
  },
  "deserve|babymonster": {
   "avg_bpm": 102.041,
@@ -1957,6 +1979,17 @@
   "status": "ok",
   "track": "tw/6822497774"
  },
+ "howfarillgo|auliicravalho": {
+  "avg_bpm": 84.189,
+  "beats": 42,
+  "bpm": 84.189,
+  "checked": "2026-11-09",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1440635266"
+ },
  "howling|大神ミオ": {
   "avg_bpm": 175.034,
   "beats": 87,
@@ -2154,6 +2187,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/1570993122"
+ },
+ "insomnia|riize": {
+  "avg_bpm": 72.096,
+  "beats": 37,
+  "bpm": 72.017,
+  "checked": "2026-11-09",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6823459104"
  },
  "intheend|linkinpark": {
   "avg_bpm": 105.082,
@@ -2837,6 +2881,17 @@
   "status": "ok",
   "track": "jp/1796350407"
  },
+ "messy|rosé": {
+  "avg_bpm": 96.974,
+  "beats": 48,
+  "bpm": 96.991,
+  "checked": "2026-11-09",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1810796704"
+ },
  "mirrormirror|ive": {
   "avg_bpm": 97.308,
   "beats": 48,
@@ -3288,6 +3343,17 @@
   "status": "ok",
   "track": "jp/1536147148"
  },
+ "power|gdragon": {
+  "avg_bpm": 89.98,
+  "beats": 45,
+  "bpm": 89.974,
+  "checked": "2026-11-09",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1794882503"
+ },
  "pretender|official髭男dism": {
   "avg_bpm": 95.984,
   "beats": 48,
@@ -3441,6 +3507,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1550926491"
+ },
+ "runawaybaby|brunomars": {
+  "avg_bpm": 163.857,
+  "beats": 82,
+  "bpm": 163.998,
+  "checked": "2026-11-09",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/576670461"
  },
  "rundevilrun|少女時代": {
   "avg_bpm": 129.993,
@@ -4750,6 +4827,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1842202784"
+ },
+ "あいしていたのに|maretu": {
+  "avg_bpm": 91.899,
+  "beats": 46,
+  "bpm": 91.899,
+  "checked": "2026-11-09",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "jp/1700476116"
  },
  "あくあ色ぱれっと|湊あくあ": {
   "avg_bpm": 155.87,
@@ -8337,6 +8425,17 @@
   "status": "ok",
   "track": "tw/6781186062"
  },
+ "不該|周杰倫": {
+  "avg_bpm": 74.896,
+  "beats": 37,
+  "bpm": 74.984,
+  "checked": "2026-11-09",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1118757873"
+ },
  "世界が終るまでは|wands": {
   "avg_bpm": 103.94,
   "beats": 52,
@@ -8446,6 +8545,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/1862900560"
+ },
+ "五月十一彼下埔|沈文程": {
+  "avg_bpm": 112.016,
+  "beats": 56,
+  "bpm": 112.013,
+  "checked": "2026-11-09",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1751468967"
  },
  "人ってただの筒じゃないですか|月ノ美兎": {
   "avg_bpm": 169.811,
@@ -9293,6 +9403,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/860461642"
+ },
+ "半醉半清醒|江蕙": {
+  "avg_bpm": 119.67,
+  "beats": 59,
+  "bpm": 119.67,
+  "checked": "2026-11-09",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1689526238"
  },
  "南国土佐を後にして|ペギー葉山": {
   "avg_bpm": 91.463,
@@ -10833,6 +10954,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1442431589"
+ },
+ "心若下車|蘇宥蓉": {
+  "avg_bpm": 69.863,
+  "beats": 35,
+  "bpm": 69.863,
+  "checked": "2026-11-09",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1537589754"
  },
  "心裡有針|蕭煌奇": {
   "avg_bpm": 77.975,
@@ -15618,6 +15750,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1818285073"
+ },
+ "風雪ながれ旅|北島三郎": {
+  "avg_bpm": 184.459,
+  "beats": 92,
+  "bpm": 184.459,
+  "checked": "2026-11-09",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "jp/1644826082"
  },
  "食虫植物|理芽": {
   "avg_bpm": 123.067,
