@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.holiday.com.tw/",
- "checked_at": "2026-11-10T19:12:59+08:00",
+ "checked_at": "2026-11-11T18:58:27+08:00",
  "errors": [],
  "charts": [
   {
@@ -555,6 +555,21 @@
      "apple": "tw/352569303",
      "spotify": "553GNiNqcudWfsF55RBDqz",
      "bpm": 80,
+     "range": {
+      "low": 59,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -778,6 +793,19 @@
      "apple": "tw/930758244",
      "spotify": "2mqHMawyHWU5B5f2wA299P",
      "bpm": 130,
+     "range": {
+      "low": 60,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -1011,6 +1039,19 @@
      "genre": "Mandopop",
      "apple": "tw/1790602218",
      "bpm": 128,
+     "range": {
+      "low": 51,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -1407,6 +1448,19 @@
      "apple": "tw/1616484709",
      "spotify": "1bQHKplf5fkkecalhAgYp0",
      "bpm": 70,
+     "range": {
+      "low": 57,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -1454,6 +1508,16 @@
      "genre": "Mandopop",
      "apple": "tw/1118757873",
      "spotify": "3mf3pzDv9DCO0QDVh7bUL4",
+     "bpm": 75,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Alternative Rock"
+      ],
+      "mood": [
+       "love"
+      ]
+     },
      "info": {
       "lyricist": [
        "方文山"
@@ -1547,7 +1611,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:34+08:00",
+   "fetched_at": "2026-11-11T18:58:03+08:00",
    "stale": false
   },
   {
@@ -2141,6 +2205,19 @@
      "apple": "tw/1775889910",
      "spotify": "01KDzPqoYKiUSV54SKWEHf",
      "bpm": 140,
+     "range": {
+      "low": 54,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Disco Polo"
@@ -2254,6 +2331,17 @@
      "apple": "tw/1691657373",
      "spotify": "2FpYbwYtGA5a4RUvGY2T6L",
      "bpm": 128,
+     "range": {
+      "low": 49,
+      "high": 71,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Metalcore",
@@ -2345,6 +2433,19 @@
      "apple": "tw/1726977153",
      "spotify": "6m2I6ZyWRkxjBrrLVQILfl",
      "bpm": 150,
+     "range": {
+      "low": 45,
+      "high": 57,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -2690,6 +2791,17 @@
      "genre": "Tai-Pop",
      "apple": "tw/379810345",
      "bpm": 115,
+     "range": {
+      "low": 49,
+      "high": 74,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "wide"
+      },
+      "fit": "f"
+     },
      "tags": {
       "instrument": [
        "electricguitar"
@@ -3002,7 +3114,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:38+08:00",
+   "fetched_at": "2026-11-11T18:58:06+08:00",
    "stale": false
   },
   {
@@ -3587,6 +3699,17 @@
      "apple": "tw/651456035",
      "spotify": "6hpvgQANW5IuKR5gDpdEFH",
      "bpm": 79,
+     "range": {
+      "low": 45,
+      "high": 67,
+      "m": {
+       "v": "high"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -3631,6 +3754,19 @@
      "apple": "tw/1494282170",
      "spotify": "2awAl8NFhJMHg5rpKmF6Qq",
      "bpm": 65,
+     "range": {
+      "low": 50,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 3,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -3754,6 +3890,19 @@
      "apple": "tw/1443717750",
      "spotify": "0pmGleExiQyd0HxV5kAOwK",
      "bpm": 134,
+     "range": {
+      "low": 48,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 5,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -3868,6 +4017,19 @@
      "apple": "tw/1061503473",
      "spotify": "5xtortIimEwkwKWse3nkwd",
      "bpm": 76,
+     "range": {
+      "low": 58,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -4069,6 +4231,17 @@
      "apple": "tw/1443310612",
      "spotify": "6xJggWssdiq6VaFK13MXYB",
      "bpm": 73,
+     "range": {
+      "low": 57,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -4111,6 +4284,19 @@
      "apple": "tw/543764956",
      "spotify": "4qmUx3yvJOt9Jktzr6Kvh0",
      "bpm": 142,
+     "range": {
+      "low": 54,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Electro"
@@ -4224,6 +4410,12 @@
      "genre": "Cantopop",
      "apple": "tw/723212928",
      "spotify": "6JWDzJTavXp4tNTNQk2VHs",
+     "bpm": 117,
+     "tags": {
+      "mood": [
+       "danceable"
+      ]
+     },
      "info": {
       "year": "1998",
       "released": "1998-04-30",
@@ -4288,6 +4480,16 @@
      "genre": "Cantopop",
      "apple": "tw/1803097192",
      "spotify": "1U9iDEO1FM57TcFKNSaBFV",
+     "bpm": 126,
+     "tags": {
+      "mood": [
+       "happy",
+       "danceable"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
      "info": {
       "lyricist": [
        "蕭雅智"
@@ -4315,7 +4517,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:41+08:00",
+   "fetched_at": "2026-11-11T18:58:10+08:00",
    "stale": false
   },
   {
@@ -4942,6 +5144,19 @@
      "apple": "tw/282658482",
      "spotify": "2FRnf9qhLbvw8fu4IBXx78",
      "bpm": 107,
+     "range": {
+      "low": 56,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Euro-Disco",
@@ -5100,6 +5315,21 @@
      "apple": "tw/989874548",
      "spotify": "4VrWlk8IQxevMvERoX08iC",
      "bpm": 95,
+     "range": {
+      "low": 61,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -5142,6 +5372,19 @@
      "apple": "tw/528437613",
      "spotify": "60a0Rd6pjrkxjPbaKzXjfq",
      "bpm": 105,
+     "range": {
+      "low": 49,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 4,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Nu Metal",
@@ -5859,7 +6102,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:44+08:00",
+   "fetched_at": "2026-11-11T18:58:13+08:00",
    "stale": false
   },
   {
@@ -6317,6 +6560,19 @@
      "apple": "tw/1536760546",
      "spotify": "6uPyPOSTwYCgPjYINvXUKl",
      "bpm": 137,
+     "range": {
+      "low": 56,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "City Pop"
@@ -6356,6 +6612,21 @@
      "apple": "tw/75621413",
      "spotify": "5JbIiEY2Ttextq0Eoiw7qn",
      "bpm": 81,
+     "range": {
+      "low": 59,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock"
@@ -6679,6 +6950,23 @@
      "genre": "J-Pop",
      "apple": "jp/1444899623",
      "spotify": "6DJ3dfsY7fOU161ZMjzWIH",
+     "bpm": 95,
+     "tags": {
+      "genre": [
+       "RnB/Swing",
+       "Euro House"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
      "info": {
       "lyricist": [
        "宇多田ヒカル"
@@ -6975,6 +7263,19 @@
      "apple": "jp/1536002900",
      "spotify": "6bkJ4p6uSKmSnKxYpmB4aG",
      "bpm": 132,
+     "range": {
+      "low": 56,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Vocal Pop"
@@ -7094,7 +7395,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:48+08:00",
+   "fetched_at": "2026-11-11T18:58:16+08:00",
    "stale": false
   },
   {
@@ -7723,6 +8024,19 @@
      "apple": "tw/1698413099",
      "spotify": "1EkLacfCJIJcHkJvxlkJKE",
      "bpm": 136,
+     "range": {
+      "low": 57,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -7786,6 +8100,19 @@
      "apple": "tw/982223884",
      "spotify": "68daw5D7jgDf55BJmaiQIf",
      "bpm": 118,
+     "range": {
+      "low": 53,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 4,
+       "oct": -12
+      },
+      "f": {
+       "v": "high"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop"
@@ -8322,7 +8649,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:51+08:00",
+   "fetched_at": "2026-11-11T18:58:19+08:00",
    "stale": false
   },
   {
@@ -8874,6 +9201,19 @@
      "apple": "tw/1866665607",
      "spotify": "6ocZofDa6g2ecY92yIdscI",
      "bpm": 125,
+     "range": {
+      "low": 58,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop"
@@ -8909,6 +9249,19 @@
      "apple": "tw/1768317150",
      "spotify": "5ZuwA1rT1AEsJRQlUbzZuc",
      "bpm": 140,
+     "range": {
+      "low": 54,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "info": {
       "year": "2019",
       "released": "2019-12-22",
@@ -8959,7 +9312,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:52+08:00",
+   "fetched_at": "2026-11-11T18:58:21+08:00",
    "stale": false
   },
   {
@@ -9595,6 +9948,19 @@
      "apple": "tw/6787933015",
      "spotify": "3F6EVsPTrU7MYCQhVOmDcg",
      "bpm": 177,
+     "range": {
+      "low": 57,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -9791,6 +10157,17 @@
      "genre": "Pop",
      "apple": "tw/1886148162",
      "bpm": 68,
+     "range": {
+      "low": 56,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "instrument": [
        "piano"
@@ -9818,6 +10195,33 @@
      "genre": "Mandopop",
      "apple": "tw/1795434990",
      "spotify": "7Exbn2lSVcsap4kNStpP4S",
+     "bpm": 102,
+     "range": {
+      "low": 54,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ]
+     },
      "info": {
       "lyricist": [
        "邱文童"
@@ -9880,6 +10284,21 @@
      "genre": "Mandopop",
      "apple": "tw/6781186062",
      "bpm": 80,
+     "range": {
+      "low": 51,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -10041,6 +10460,25 @@
      "genre": "Mandopop",
      "apple": "tw/6807777976",
      "spotify": "2YGBmvm90FXiSvA3rCOP3T",
+     "bpm": 130,
+     "range": {
+      "low": 50,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 3,
+       "oct": 0
+      },
+      "fit": "m"
+     },
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     },
      "info": {
       "lyricist": [
        "邱建豪 Kidding Chiu"
@@ -10167,6 +10605,16 @@
      "is_new": true,
      "genre": "Pop",
      "apple": "tw/1810512235",
+     "bpm": 196,
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     },
      "info": {
       "year": "2024",
       "released": "2024-12-16",
@@ -10189,6 +10637,19 @@
      "genre": "Mandopop",
      "apple": "tw/6800628085",
      "spotify": "5AWNYhi832yS8dWHBK580F",
+     "bpm": 128,
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "Tropical House"
+      ],
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "guitar"
+      ]
+     },
      "info": {
       "year": "2026",
       "released": "2026-08-14",
@@ -10275,6 +10736,16 @@
      "genre": "Mandopop",
      "apple": "tw/1868628321",
      "spotify": "6570VJUeRPUgAXrI75qtGf",
+     "bpm": 99,
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Bubblegum"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
      "info": {
       "year": "2026",
       "released": "2026-01-09",
@@ -10289,7 +10760,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:56+08:00",
+   "fetched_at": "2026-11-11T18:58:24+08:00",
    "stale": false
   },
   {
@@ -10658,6 +11129,28 @@
      "genre": "Tai-Pop",
      "apple": "tw/6821889857",
      "spotify": "57vovevXqBG7nDcQ9hfIZu",
+     "bpm": 72,
+     "range": {
+      "low": 54,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
      "info": {
       "year": "2026",
       "released": "2026-10-22",
@@ -10680,6 +11173,32 @@
      "genre": "Tai-Pop",
      "apple": "tw/6821889859",
      "spotify": "7hUaouEGheWEMIvjf94LKz",
+     "bpm": 72,
+     "range": {
+      "low": 53,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 4,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Ballad",
+       "Cumbia"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
      "info": {
       "year": "2026",
       "released": "2026-10-22",
@@ -10702,6 +11221,30 @@
      "genre": "Tai-Pop",
      "apple": "tw/6831654396",
      "spotify": "6unRdqMF25cdRspeIs4aZE",
+     "bpm": 88,
+     "range": {
+      "low": 46,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
+     "tags": {
+      "mood": [
+       "relaxed",
+       "sad",
+       "love"
+      ],
+      "vocal": [
+       "male"
+      ]
+     },
      "info": {
       "lyricist": [
        "葉國偉"
@@ -10737,6 +11280,25 @@
      "genre": "Tai-Pop",
      "apple": "tw/6831654401",
      "spotify": "7EP5ELIaWC2NqL0lWKGlrp",
+     "bpm": 124,
+     "range": {
+      "low": 47,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
+     "tags": {
+      "mood": [
+       "relaxed"
+      ]
+     },
      "info": {
       "lyricist": [
        "李學宸"
@@ -10899,6 +11461,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6823510891",
      "bpm": 217,
+     "range": {
+      "low": 48,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 5,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "info": {
       "year": "2026",
       "released": "2026-10-21",
@@ -10921,6 +11496,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6823510889",
      "bpm": 95,
+     "range": {
+      "low": 54,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Disco Polo"
@@ -11180,6 +11768,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6823510892",
      "bpm": 77,
+     "range": {
+      "low": 54,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -11448,7 +12049,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-10T19:12:59+08:00",
+   "fetched_at": "2026-11-11T18:58:27+08:00",
    "stale": false
   }
  ]
