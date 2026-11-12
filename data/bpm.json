@@ -593,6 +593,17 @@
   "status": "ok",
   "track": "tw/310505605"
  },
+ "birdsofafeather|billieeilish": {
+  "avg_bpm": 105.051,
+  "beats": 53,
+  "bpm": 105.002,
+  "checked": "2026-11-12",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1739659142"
+ },
  "birdyfly|陳忻玥": {
   "avg_bpm": 71.042,
   "beats": 36,
@@ -669,6 +680,17 @@
   "signature": 2,
   "status": "ok",
   "track": "tw/1776246888"
+ },
+ "bodytobody|bts防彈少年團": {
+  "avg_bpm": 119.919,
+  "beats": 60,
+  "bpm": 119.986,
+  "checked": "2026-11-12",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1868481905"
  },
  "bogs|cellmates": {
   "avg_bpm": 118.529,
@@ -2881,6 +2903,17 @@
   "status": "ok",
   "track": "jp/1852707917"
  },
+ "masterpiece|lngshot": {
+  "avg_bpm": 70.007,
+  "beats": 35,
+  "bpm": 69.989,
+  "checked": "2026-11-12",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6824464725"
+ },
  "matadayo|藝聲": {
   "avg_bpm": 118.046,
   "beats": 59,
@@ -3243,6 +3276,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/1554815947"
+ },
+ "paraparasakura|郭富城": {
+  "avg_bpm": 150.905,
+  "beats": 76,
+  "bpm": 150.913,
+  "checked": "2026-11-12",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/201543721"
  },
  "patientzero|taylorswift": {
   "avg_bpm": 92.087,
@@ -12032,6 +12076,17 @@
   "signature": null,
   "status": "ok",
   "track": "tw/255921025"
+ },
+ "我們的花語|superjunior": {
+  "avg_bpm": 89.98,
+  "beats": 45,
+  "bpm": 89.98,
+  "checked": "2026-11-12",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1822933232"
  },
  "我們終究成了陌生人|陳曼曼": {
   "avg_bpm": 79.776,
