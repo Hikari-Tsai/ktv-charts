@@ -4,6 +4,11 @@
   "status": "none",
   "v": 2
  },
+ "33|張語噥": {
+  "checked": "2026-11-13",
+  "status": "none",
+  "v": 2
+ },
  "afterthedream|藝聲": {
   "checked": "2026-11-06",
   "status": "none",
@@ -255,6 +260,11 @@
   "status": "none",
   "v": 2
  },
+ "illbehere|圭賢": {
+  "checked": "2026-11-13",
+  "status": "none",
+  "v": 2
+ },
  "irisout|米津玄師": {
   "checked": "2026-11-05",
   "status": "none",
@@ -297,6 +307,11 @@
  },
  "letsdance|藝聲": {
   "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "likeanimals|bts防彈少年團": {
+  "checked": "2026-11-13",
   "status": "none",
   "v": 2
  },
@@ -497,6 +512,21 @@
   "status": "none",
   "v": 2
  },
+ "withoutyou|高爾宣osn": {
+  "album": "Without You",
+  "checked": "2026-11-13",
+  "isrc": "TWCC31900396",
+  "item": 252252,
+  "label": "科科農場",
+  "maker": "科科農場",
+  "performer": [
+   "高爾宣 OSN"
+  ],
+  "released": "2019-04-01",
+  "status": "ok",
+  "title": "Without You",
+  "v": 2
+ },
  "あの夢をなぞって|yoasobi": {
   "checked": "2026-11-07",
   "status": "none",
@@ -675,6 +705,32 @@
   "status": "ok",
   "title": "一樣會愛上你",
   "type": "國語流行專輯",
+  "v": 2
+ },
+ "一片天|王識賢": {
+  "album": "一片天",
+  "checked": "2026-11-13",
+  "credits": {
+   "arranger": [
+    "吳嘉祥"
+   ],
+   "composer": [
+    "吳嘉祥"
+   ],
+   "lyricist": [
+    "吳嘉祥"
+   ]
+  },
+  "isrc": "TWE530322201",
+  "item": 68726,
+  "label": "華特音樂",
+  "maker": "華特音樂",
+  "performer": [
+   "王識賢"
+  ],
+  "released": "2003-09-01",
+  "status": "ok",
+  "title": "一片天",
   "v": 2
  },
  "一生不變|李克勤": {
@@ -867,6 +923,11 @@
   "status": "ok",
   "title": "不愛就不愛",
   "type": "國語流行專輯",
+  "v": 2
+ },
+ "不眠夜|王謙goatak": {
+  "checked": "2026-11-13",
+  "status": "none",
   "v": 2
  },
  "不要救我|徐暐翔vashhsu閻奕格": {
@@ -1205,6 +1266,11 @@
   "status": "ok",
   "title": "你愛誰",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "你是|孟慧圓": {
+  "checked": "2026-11-13",
+  "status": "none",
   "v": 2
  },
  "你是|王謙goatak陳華": {
@@ -1921,6 +1987,11 @@
   "title": "博杯",
   "v": 2
  },
+ "去喜歡那個很忙卻對你有空的人|dj鐵柱": {
+  "checked": "2026-11-13",
+  "status": "none",
+  "v": 2
+ },
  "友情歲月|鄭伊健": {
   "checked": "2026-11-05",
   "status": "none",
@@ -2024,6 +2095,33 @@
  "同往|章昊": {
   "checked": "2026-11-08",
   "status": "none",
+  "v": 2
+ },
+ "告白氣球|周杰倫": {
+  "album": "周杰倫的床邊故事",
+  "checked": "2026-11-13",
+  "credits": {
+   "arranger": [
+    "林邁可"
+   ],
+   "composer": [
+    "周杰倫"
+   ],
+   "lyricist": [
+    "方文山"
+   ]
+  },
+  "isrc": "TWK971601308",
+  "item": 153599,
+  "label": "黑白鍵(周杰倫)",
+  "maker": "黑白鍵(周杰倫)",
+  "performer": [
+   "周杰倫"
+  ],
+  "released": "2016-06-28",
+  "status": "ok",
+  "title": "告白氣球",
+  "type": "國語流行專輯",
   "v": 2
  },
  "命運的演歌|謝宜君柯俊傑": {
@@ -2972,6 +3070,36 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "微醺的愛|王若琳": {
+  "album": "微醺的愛",
+  "checked": "2026-11-13",
+  "credits": {
+   "arranger": [
+    "呂紹淳"
+   ],
+   "composer": [
+    "陳珊妮"
+   ],
+   "lyricist": [
+    "陳珊妮"
+   ],
+   "producer": [
+    "陳珊妮"
+   ]
+  },
+  "isrc": "TWA472635001",
+  "item": 719872,
+  "label": "台灣索尼音樂娛樂股份有限公司",
+  "maker": "台灣索尼音樂娛樂股份有限公司",
+  "performer": [
+   "王若琳"
+  ],
+  "released": "2026-11-03",
+  "status": "ok",
+  "title": "微醺的愛",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "心愛的再會啦|伍佰chinablue": {
   "album": "1999真世界演唱會",
   "checked": "2026-11-08",
@@ -3341,6 +3469,36 @@
   "status": "ok",
   "title": "想和你看五月的晚霞",
   "type": "國語流行專輯",
+  "v": 2
+ },
+ "想見你想見你想見你|八三夭": {
+  "album": "想見你想見你想見你-電視劇《想見你》片尾曲",
+  "checked": "2026-11-13",
+  "credits": {
+   "arranger": [
+    "八三夭",
+    "JerryC"
+   ],
+   "composer": [
+    "八三夭 阿璞"
+   ],
+   "lyricist": [
+    "八三夭 阿璞"
+   ],
+   "producer": [
+    "八三夭"
+   ]
+  },
+  "isrc": "TWA451900058",
+  "item": 283020,
+  "label": "滾石",
+  "maker": "滾石",
+  "performer": [
+   "八三夭 831"
+  ],
+  "released": "2019-11-11",
+  "status": "ok",
+  "title": "想見你想見你想見你-電視劇《想見你》片尾曲",
   "v": 2
  },
  "愛上|劉宇寧": {
@@ -4154,6 +4312,11 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "我護我|張碧晨": {
+  "checked": "2026-11-13",
+  "status": "none",
+  "v": 2
+ },
  "我還有個夢|小宇": {
   "checked": "2026-11-06",
   "status": "none",
@@ -4213,6 +4376,16 @@
  },
  "打上花火|米津玄師": {
   "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
+ "打翻了整夜的香甜|陳忻玥": {
+  "checked": "2026-11-13",
+  "status": "none",
+  "v": 2
+ },
+ "折月亮|劉宇寧": {
+  "checked": "2026-11-13",
   "status": "none",
   "v": 2
  },
@@ -4328,6 +4501,11 @@
   "status": "ok",
   "title": "放下了",
   "type": "國語流行專輯",
+  "v": 2
+ },
+ "放生|士杰": {
+  "checked": "2026-11-13",
+  "status": "none",
   "v": 2
  },
  "放風吹|許富凱": {
@@ -4563,6 +4741,36 @@
   "released": "2026-10-16",
   "status": "ok",
   "title": "更好的人",
+  "type": "國語流行專輯",
+  "v": 2
+ },
+ "最好的朋友|廖欸登adamliao": {
+  "album": "最好的朋友",
+  "checked": "2026-11-13",
+  "credits": {
+   "arranger": [
+    "廖欸登 Adam Liao"
+   ],
+   "composer": [
+    "廖于任"
+   ],
+   "lyricist": [
+    "廖于任"
+   ],
+   "producer": [
+    "廖欸登 Adam Liao"
+   ]
+  },
+  "isrc": "TWAE32604892",
+  "item": 718999,
+  "label": "街聲股份有限公司",
+  "maker": "廖于任",
+  "performer": [
+   "廖欸登 Adam Liao"
+  ],
+  "released": "2026-11-06",
+  "status": "ok",
+  "title": "最好的朋友",
   "type": "國語流行專輯",
   "v": 2
  },
@@ -5662,6 +5870,29 @@
  "皇后大道東|variousartists": {
   "checked": "2026-11-12",
   "status": "none",
+  "v": 2
+ },
+ "皇后大道東|羅大佑": {
+  "album": "皇后大道東",
+  "checked": "2026-11-13",
+  "credits": {
+   "composer": [
+    "羅大佑"
+   ],
+   "lyricist": [
+    "林夕"
+   ]
+  },
+  "isrc": "TWAW19100011",
+  "item": 211116,
+  "label": "種子音樂",
+  "maker": "大右音樂",
+  "performer": [
+   "羅大佑 feat. 蔣志光"
+  ],
+  "released": "1991-07-08",
+  "status": "ok",
+  "title": "皇后大道東",
   "v": 2
  },
  "直到我untili|青井": {
