@@ -76,6 +76,17 @@
   "status": "ok",
   "track": "tw/6823782045"
  },
+ "20|bts防彈少年團": {
+  "avg_bpm": 64.997,
+  "beats": 33,
+  "bpm": 65.007,
+  "checked": "2026-11-14",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1868481914"
+ },
  "33|張語噥": {
   "avg_bpm": 84.963,
   "beats": 43,
@@ -1451,6 +1462,17 @@
   "status": "ok",
   "track": "tw/1596532400"
  },
+ "eeniemeenie|seankingstonjustinbieber": {
+  "avg_bpm": 121.131,
+  "beats": 61,
+  "bpm": 121.164,
+  "checked": "2026-11-14",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/363506752"
+ },
  "everyheart|寶兒": {
   "avg_bpm": 71.09,
   "beats": 36,
@@ -2485,6 +2507,17 @@
   "status": "ok",
   "track": "tw/1653922188"
  },
+ "killa|yoasobi": {
+  "avg_bpm": 139.77,
+  "beats": 70,
+  "bpm": 139.771,
+  "checked": "2026-11-14",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6831510081"
+ },
  "king|kanaria": {
   "avg_bpm": 166.104,
   "beats": 83,
@@ -2803,6 +2836,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1007830771"
+ },
+ "lovesick|chaeryeong": {
+  "avg_bpm": 128.049,
+  "beats": 64,
+  "bpm": 128.01,
+  "checked": "2026-11-14",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6823501139"
  },
  "lovesong|三代目jsoulbrothersfromexiletribe": {
   "avg_bpm": 84.886,
@@ -3727,6 +3771,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/73795313"
+ },
+ "seesaw|crush": {
+  "avg_bpm": 86.986,
+  "beats": 44,
+  "bpm": 87.029,
+  "checked": "2026-11-14",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6822679368"
  },
  "seeyouagain|wizkhalifa": {
   "avg_bpm": 82.192,
@@ -12263,6 +12318,17 @@
   "signature": null,
   "status": "ok",
   "track": "tw/1874801993"
+ },
+ "我年輕過|劉德華": {
+  "avg_bpm": 125.846,
+  "beats": 63,
+  "bpm": 125.846,
+  "checked": "2026-11-14",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6832932027"
  },
  "我很好騙|動力火車": {
   "avg_bpm": 74.074,

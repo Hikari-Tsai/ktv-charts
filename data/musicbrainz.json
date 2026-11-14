@@ -104,6 +104,11 @@
   "status": "none",
   "v": 2
  },
+ "20|bts防彈少年團": {
+  "checked": "2026-11-14",
+  "status": "none",
+  "v": 2
+ },
  "33|張語噥": {
   "checked": "2026-11-13",
   "status": "none",
@@ -2165,6 +2170,27 @@
   "status": "none",
   "v": 2
  },
+ "eeniemeenie|seankingstonjustinbieber": {
+  "album": "Dance Hits June 10",
+  "artist": "Sean Kingston & Justin Bieber",
+  "checked": "2026-11-14",
+  "credits": {
+   "writer": [
+    "Carlos Battey",
+    "Steven Battey",
+    "Justin Bieber",
+    "benny blanco",
+    "Ernest Clark",
+    "Sean Kingston",
+    "Marcos Palacios"
+   ]
+  },
+  "id": "87c5dfa2-b157-411f-98f0-1d1046351f03",
+  "released": "2010-06-01",
+  "status": "ok",
+  "title": "Eenie Meenie",
+  "v": 2
+ },
  "everyheart|寶兒": {
   "checked": "2026-11-08",
   "status": "none",
@@ -3803,6 +3829,32 @@
   "title": "KICK BACK",
   "v": 2
  },
+ "killa|yoasobi": {
+  "album": "KILLA",
+  "artist": "YOASOBI",
+  "checked": "2026-11-14",
+  "credits": {
+   "arranger": [
+    "Ayase",
+    "ツミキ"
+   ],
+   "composer": [
+    "Ayase"
+   ],
+   "lyricist": [
+    "Ayase"
+   ],
+   "producer": [
+    "Ayase"
+   ]
+  },
+  "id": "ced87654-b725-4c1a-a30d-6b54d4c59473",
+  "isrc": "JPP302600795",
+  "released": "2026-11-11",
+  "status": "ok",
+  "title": "KILLA",
+  "v": 2
+ },
  "king|kanaria": {
   "album": "KING",
   "artist": "Kanaria",
@@ -4281,6 +4333,17 @@
   "released": "2007-01-17",
   "status": "ok",
   "title": "Lovers Again",
+  "v": 2
+ },
+ "lovesick|chaeryeong": {
+  "album": "Lovesick",
+  "artist": "CHAERYEONG",
+  "checked": "2026-11-14",
+  "id": "324d2b16-7c30-4404-a6c5-4de71e2a92ac",
+  "isrc": "US5TA2600293",
+  "released": "2026-11-09",
+  "status": "ok",
+  "title": "Lovesick",
   "v": 2
  },
  "lovesong|三代目jsoulbrothersfromexiletribe": {
@@ -5692,6 +5755,17 @@
   "released": "2002-01-10",
   "status": "ok",
   "title": "Secret of my heart",
+  "v": 2
+ },
+ "seesaw|crush": {
+  "album": "seesaw",
+  "artist": "Crush feat. IU",
+  "checked": "2026-11-14",
+  "id": "540f876d-4146-4627-9629-6fcd59d58492",
+  "isrc": "ZZA0P2622376",
+  "released": "2026-10-21",
+  "status": "ok",
+  "title": "seesaw",
   "v": 2
  },
  "seeyouagain|wizkhalifa": {
@@ -8353,6 +8427,22 @@
   "released": "1999-11-03",
   "status": "ok",
   "title": "すきま風",
+  "v": 2
+ },
+ "すずめ|radwimps": {
+  "artist": "RADWIMPS feat. 十明",
+  "checked": "2026-11-14",
+  "credits": {
+   "composer": [
+    "野田洋次郎"
+   ],
+   "lyricist": [
+    "野田洋次郎"
+   ]
+  },
+  "id": "c02b1dd8-72f7-404e-826c-27cc12d00c69",
+  "status": "ok",
+  "title": "すずめ",
   "v": 2
  },
  "せんせい|森昌子": {
@@ -11354,6 +11444,17 @@
   "title": "ピースサイン",
   "v": 2
  },
+ "ファンファーレ|玉置浩二": {
+  "album": "ファンファーレ",
+  "artist": "玉置浩二",
+  "checked": "2026-11-14",
+  "id": "4805908e-f5a7-4d51-813c-9fc2bfd4231d",
+  "isrc": "JPU902503528",
+  "released": "2025-10-13",
+  "status": "ok",
+  "title": "ファンファーレ",
+  "v": 2
+ },
  "フィクサー|ぬゆり": {
   "album": "EXIT TUNES PRESENTS Vocalostream feat. 初音ミク",
   "artist": "ぬゆり",
@@ -11442,6 +11543,25 @@
  "フレグランス|mahirurinzo": {
   "checked": "2026-11-10",
   "status": "none",
+  "v": 2
+ },
+ "フレンズ|レベッカ": {
+  "album": "ALL STAR 80’s NON‐STOP BEST",
+  "artist": "レベッカ",
+  "checked": "2026-11-14",
+  "credits": {
+   "composer": [
+    "土橋安騎夫"
+   ],
+   "lyricist": [
+    "NOKKO"
+   ]
+  },
+  "id": "0f07271c-7acd-4dc5-8355-7ba3daadcf5f",
+  "isrc": "JPP401700191",
+  "released": "2017-08-02",
+  "status": "ok",
+  "title": "フレンズ",
   "v": 2
  },
  "ブラッディグルービー|chronoir": {
@@ -13016,6 +13136,11 @@
   "released": "2025-12-24",
   "status": "ok",
   "title": "不可Boom",
+  "v": 2
+ },
+ "不眠夜|王謙goatak": {
+  "checked": "2026-11-14",
+  "status": "none",
   "v": 2
  },
  "不要救我|徐暐翔vashhsu閻奕格": {
@@ -16385,6 +16510,11 @@
  },
  "我只想|variousartists": {
   "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "我年輕過|劉德華": {
+  "checked": "2026-11-14",
   "status": "none",
   "v": 2
  },

@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-13T18:59:44+08:00",
+ "checked_at": "2026-11-14T18:26:49+08:00",
  "errors": [],
  "charts": [
   {
@@ -1147,6 +1147,19 @@
      "apple": "tw/298837675",
      "spotify": "68tZwwRuo9ip5gRQFG1XWF",
      "bpm": 115,
+     "range": {
+      "low": 58,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -1198,6 +1211,19 @@
      "apple": "tw/1811950828",
      "spotify": "6RN4rGtDTTx9orufM72pC4",
      "bpm": 69,
+     "range": {
+      "low": 56,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -1253,6 +1279,21 @@
      "apple": "tw/1834199249",
      "spotify": "3LlQoKvVnkVvq3KC8anUn8",
      "bpm": 81,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -1602,6 +1643,19 @@
      "apple": "tw/1770003012",
      "spotify": "5HVq8nS0pbM6G7YK8M7DY4",
      "bpm": 84,
+     "range": {
+      "low": 52,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 5,
+       "oct": -12
+      },
+      "f": {
+       "v": "wide"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock"
@@ -1692,7 +1746,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-13T18:59:40+08:00",
+   "fetched_at": "2026-11-14T18:26:45+08:00",
    "stale": false
   },
   {
@@ -2796,6 +2850,19 @@
      "apple": "tw/1524231249",
      "spotify": "5X3Bt3Yh09XVrBT2pYeH4E",
      "bpm": 76,
+     "range": {
+      "low": 57,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -2844,6 +2911,19 @@
      "apple": "tw/926174356",
      "spotify": "5so4njCnd5kQVQ24vV1SAY",
      "bpm": 78,
+     "range": {
+      "low": 52,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -3131,6 +3211,21 @@
      "apple": "tw/717098523",
      "spotify": "2BRVHpxPcXoKsDQjm02IFk",
      "bpm": 157,
+     "range": {
+      "low": 57,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -3265,7 +3360,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-13T18:59:40+08:00",
+   "fetched_at": "2026-11-14T18:26:45+08:00",
    "stale": false
   },
   {
@@ -4190,6 +4285,19 @@
      "apple": "tw/1444116580",
      "spotify": "7uzJKRRrTqxUOeTtwQMd36",
      "bpm": 102,
+     "range": {
+      "low": 56,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -4527,6 +4635,17 @@
      "apple": "tw/1049581689",
      "spotify": "30DewFwZeiMhzuzGvEFrX5",
      "bpm": 118,
+     "range": {
+      "low": 54,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "mood": [
        "love"
@@ -4727,7 +4846,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-13T18:59:42+08:00",
+   "fetched_at": "2026-11-14T18:26:47+08:00",
    "stale": false
   },
   {
@@ -5574,6 +5693,19 @@
      "apple": "jp/1536353150",
      "spotify": "2A97bms3lEk8DlnGJGs88r",
      "bpm": 114,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Synth-pop"
@@ -5732,6 +5864,19 @@
      "apple": "jp/1444899623",
      "spotify": "6DJ3dfsY7fOU161ZMjzWIH",
      "bpm": 95,
+     "range": {
+      "low": 53,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 4,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "RnB/Swing",
@@ -5962,7 +6107,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-13T18:59:42+08:00",
+   "fetched_at": "2026-11-14T18:26:47+08:00",
    "stale": false
   },
   {
@@ -7373,6 +7518,19 @@
      "apple": "tw/1642721873",
      "spotify": "2epbL7s3RFV81K5UhTgZje",
      "bpm": 129,
+     "range": {
+      "low": 54,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "info": {
       "lyricist": [
        "Peter Freudenthaler",
@@ -7555,7 +7713,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-13T18:59:42+08:00",
+   "fetched_at": "2026-11-14T18:26:47+08:00",
    "stale": false
   },
   {
@@ -8538,6 +8696,19 @@
      "genre": "Mandopop",
      "apple": "tw/6777277213",
      "bpm": 105,
+     "range": {
+      "low": 52,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -8581,6 +8752,19 @@
      "apple": "tw/1787930096",
      "spotify": "69s2btOZ3I51uNwQ07gJzY",
      "bpm": 107,
+     "range": {
+      "low": 41,
+      "high": 61,
+      "m": {
+       "v": "low",
+       "key": 4,
+       "oct": 0
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -8629,6 +8813,19 @@
      "apple": "tw/1767813585",
      "spotify": "6EmZsc7beDRidV7XWjEn4p",
      "bpm": 175,
+     "range": {
+      "low": 48,
+      "high": 57,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -8926,7 +9123,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-13T18:59:44+08:00",
+   "fetched_at": "2026-11-14T18:26:49+08:00",
    "stale": false
   },
   {
@@ -9920,6 +10117,19 @@
      "genre": "Tai-Pop",
      "apple": "tw/6814704613",
      "bpm": 133,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Disco Polo"
@@ -10272,7 +10482,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-13T18:59:44+08:00",
+   "fetched_at": "2026-11-14T18:26:49+08:00",
    "stale": false
   }
  ]
