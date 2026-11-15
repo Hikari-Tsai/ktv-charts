@@ -309,6 +309,15 @@
   "status": "ok",
   "v": 2
  },
+ "awake|星街すいせい": {
+  "artist": "星街すいせい",
+  "checked": "2026-11-15",
+  "id": "1jb8JI9CDoSrvkBZZNR7Sj",
+  "market": "JP",
+  "name": "AWAKE",
+  "status": "ok",
+  "v": 2
+ },
  "awholenewworld|bradkaneandleasalonga": {
   "artist": "Brad Kane, Lea Salonga, Disney",
   "checked": "2026-11-05",
@@ -422,6 +431,15 @@
   "market": "TW",
   "name": "BANG BANG BANG",
   "status": "ok"
+ },
+ "bangbang|ive": {
+  "artist": "IVE",
+  "checked": "2026-11-15",
+  "id": "5jh0xRA7huSeMxCPAmyCav",
+  "market": "TW",
+  "name": "BANG BANG",
+  "status": "ok",
+  "v": 2
  },
  "basketcase|greenday": {
   "artist": "Green Day",
@@ -606,6 +624,15 @@
   "status": "ok",
   "v": 2
  },
+ "bpm|kvibaba": {
+  "artist": "Kvi Baba, KREVA",
+  "checked": "2026-11-15",
+  "id": "6SMUXzvpo1dGg1N7QaMjvy",
+  "market": "JP",
+  "name": "BPM (feat. KREVA)",
+  "status": "ok",
+  "v": 2
+ },
  "breakfree|arianagrande": {
   "artist": "Ariana Grande, Zedd",
   "checked": "2026-11-08",
@@ -735,6 +762,15 @@
   "id": "2O9bMJticxbQ8FH3NiQ7Xh",
   "market": "TW",
   "name": "Catch Catch",
+  "status": "ok",
+  "v": 2
+ },
+ "challengers|rofmao": {
+  "artist": "ROF-MAO",
+  "checked": "2026-11-15",
+  "id": "5hiDry6kEeLSz04EjqV0te",
+  "market": "JP",
+  "name": "Challengers",
   "status": "ok",
   "v": 2
  },
@@ -1140,6 +1176,15 @@
   "status": "ok",
   "v": 2
  },
+ "endlesslove|dianarosslionelrichie": {
+  "artist": "Lionel Richie, Diana Ross",
+  "checked": "2026-11-15",
+  "id": "5iwyLsQ5yjnCaRrJGyAPZM",
+  "market": "TW",
+  "name": "Endless Love",
+  "status": "ok",
+  "v": 2
+ },
  "everyheart|寶兒": {
   "checked": "2026-11-08",
   "status": "none",
@@ -1390,6 +1435,15 @@
   "id": "1kPpge9JDLpcj15qgrPbYX",
   "market": "TW",
   "name": "Good Time",
+  "status": "ok",
+  "v": 2
+ },
+ "go|cortis": {
+  "artist": "CORTIS",
+  "checked": "2026-11-15",
+  "id": "6OWWZtNQORY1McaZmOrwhc",
+  "market": "TW",
+  "name": "GO!",
   "status": "ok",
   "v": 2
  },
@@ -2241,6 +2295,24 @@
   "status": "ok",
   "v": 2
  },
+ "lovemetender|elvispresley": {
+  "artist": "Elvis Presley",
+  "checked": "2026-11-15",
+  "id": "7iBBcw61QVJxI3NDzlpX2E",
+  "market": "TW",
+  "name": "Love Me Tender",
+  "status": "ok",
+  "v": 2
+ },
+ "loveme|engelberthumperdinck": {
+  "artist": "Engelbert Humperdinck",
+  "checked": "2026-11-15",
+  "id": "4JLftssaZA9VKwV5bLyaxQ",
+  "market": "JP",
+  "name": "Love Me With All Your Heart (Cuando Calienta El Sol)",
+  "status": "ok",
+  "v": 2
+ },
  "loversagain|exile": {
   "artist": "EXILE",
   "checked": "2026-11-05",
@@ -2433,6 +2505,15 @@
   "id": "7rvmQB9tqUHWO6weobTGPO",
   "market": "TW",
   "name": "Mono (feat. skaiwater)",
+  "status": "ok",
+  "v": 2
+ },
+ "moonriver|andywilliams": {
+  "artist": "Andy Williams",
+  "checked": "2026-11-15",
+  "id": "24AIahNHzBxm9S12peXbnG",
+  "market": "JP",
+  "name": "Moon River (From \"Breakfast at Tiffany's\")",
   "status": "ok",
   "v": 2
  },
@@ -2960,6 +3041,15 @@
   "id": "4OSBTYWVwsQhGLF9NHvIbR",
   "market": "TW",
   "name": "Rolling in the Deep",
+  "status": "ok",
+  "v": 2
+ },
+ "rosier|lunasea": {
+  "artist": "LUNA SEA",
+  "checked": "2026-11-15",
+  "id": "5zDJTh29etPW72SpGNEQfx",
+  "market": "JP",
+  "name": "ROSIER",
   "status": "ok",
   "v": 2
  },
@@ -3761,6 +3851,15 @@
   "status": "ok",
   "v": 2
  },
+ "wegoup|babymonster": {
+  "artist": "BABYMONSTER",
+  "checked": "2026-11-15",
+  "id": "49DTiFx70EuJLV7hDsCo6z",
+  "market": "TW",
+  "name": "WE GO UP",
+  "status": "ok",
+  "v": 2
+ },
  "wewillrockyou|queen": {
   "artist": "Queen",
   "checked": "2026-11-09",
@@ -3837,6 +3936,15 @@
   "id": "6uPnrBgweGOcwjFL4ItAvV",
   "market": "TW",
   "name": "Whiplash",
+  "status": "ok",
+  "v": 2
+ },
+ "whitechristmas|bingcrosby": {
+  "artist": "Bing Crosby",
+  "checked": "2026-11-15",
+  "id": "6ajihXpsHpDnIdqtBXZYGN",
+  "market": "JP",
+  "name": "White Christmas - Remastered 2006",
   "status": "ok",
   "v": 2
  },
@@ -4085,6 +4193,15 @@
   "status": "ok",
   "v": 2
  },
+ "あなたのキスを数えましょうyouweremine|小柳ゆき": {
+  "artist": "小柳ゆき",
+  "checked": "2026-11-15",
+  "id": "01mVpKQ4EhDNeUyPccJMSa",
+  "market": "JP",
+  "name": "あなたのキスを数えましょう〜You were mine〜",
+  "status": "ok",
+  "v": 2
+ },
  "あなたの夜が明けるまで|傘村トータ": {
   "artist": "傘村トータ",
   "checked": "2026-11-11",
@@ -4109,6 +4226,15 @@
   "id": "5ptl2PXkiSth54HCuGO7vN",
   "market": "TW",
   "name": "あの夢をなぞって",
+  "status": "ok",
+  "v": 2
+ },
+ "あばれ太鼓|坂本冬美": {
+  "artist": "坂本冬美",
+  "checked": "2026-11-15",
+  "id": "0AjDA3VfzUjawYmWL56dlE",
+  "market": "JP",
+  "name": "あばれ太鼓",
   "status": "ok",
   "v": 2
  },
@@ -4201,6 +4327,15 @@
   "status": "ok",
   "v": 2
  },
+ "うたかたよいかないで|himehina": {
+  "artist": "HIMEHINA",
+  "checked": "2026-11-15",
+  "id": "5WTf5P3ohMJofmADOhXfDe",
+  "market": "JP",
+  "name": "うたかたよいかないで",
+  "status": "ok",
+  "v": 2
+ },
  "おとせサンダー|ぼっちぼろまる": {
   "artist": "ぼっちぼろまる",
   "checked": "2026-11-08",
@@ -4225,6 +4360,15 @@
   "id": "430YN1QkuFwZi3ftzyJ7Xz",
   "market": "JP",
   "name": "おまえに",
+  "status": "ok",
+  "v": 2
+ },
+ "おもいで酒|小林幸子": {
+  "artist": "小林幸子",
+  "checked": "2026-11-15",
+  "id": "2pVuvc3rQEU3ht4e17MrcY",
+  "market": "JP",
+  "name": "おもいで酒",
   "status": "ok",
   "v": 2
  },
@@ -4286,6 +4430,15 @@
   "status": "none",
   "v": 2
  },
+ "からたち日記|島倉千代子": {
+  "artist": "島倉千代子",
+  "checked": "2026-11-15",
+  "id": "6rAZrZTYgxCqLcNVuHv7ij",
+  "market": "JP",
+  "name": "からたち日記",
+  "status": "ok",
+  "v": 2
+ },
  "きゃぴ|宝鐘マリン": {
   "artist": "宝鐘マリン",
   "checked": "2026-11-08",
@@ -4331,6 +4484,24 @@
   "status": "ok",
   "v": 2
  },
+ "ここに幸あり|大津美子": {
+  "artist": "大津美子",
+  "checked": "2026-11-15",
+  "id": "17yISdpH3gR4js2EPtFfEl",
+  "market": "JP",
+  "name": "ここに幸あり",
+  "status": "ok",
+  "v": 2
+ },
+ "この世の花|島倉千代子": {
+  "artist": "島倉千代子",
+  "checked": "2026-11-15",
+  "id": "1sM9RORs5nZARSbefpQqow",
+  "market": "JP",
+  "name": "この世の花",
+  "status": "ok",
+  "v": 2
+ },
  "この恋はスクープされない|コレサワ": {
   "artist": "コレサワ",
   "checked": "2026-11-08",
@@ -4355,6 +4526,15 @@
   "id": "0KDuoTEuIKKIjsB5ljqBpm",
   "market": "JP",
   "name": "さざんかの宿",
+  "status": "ok",
+  "v": 2
+ },
+ "さそり座の女|美川憲一": {
+  "artist": "美川憲一",
+  "checked": "2026-11-15",
+  "id": "1DA2cjuQFEICQ4BoOQxhkB",
+  "market": "JP",
+  "name": "さそり座の女",
   "status": "ok",
   "v": 2
  },
@@ -4779,6 +4959,15 @@
   "status": "ok",
   "v": 2
  },
+ "むらさき雨情|藤あや子": {
+  "artist": "藤あや子",
+  "checked": "2026-11-15",
+  "id": "7CKIxtiHVsRBjSVOY4xxaA",
+  "market": "JP",
+  "name": "むらさき雨情",
+  "status": "ok",
+  "v": 2
+ },
  "もうどうなってもいいや|星街すいせい": {
   "artist": "星街すいせい",
   "checked": "2026-11-08",
@@ -4922,6 +5111,11 @@
   "status": "ok",
   "v": 2
  },
+ "アカシアの雨がやむとき|西田佐知子": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
+ },
  "アゲハ蝶|ポルノグラフィティ": {
   "artist": "ポルノグラフィティ",
   "checked": "2026-11-08",
@@ -4963,6 +5157,15 @@
   "id": "3XZmisjPFwdcInk4MDIQ5H",
   "market": "JP",
   "name": "アメリカ橋",
+  "status": "ok",
+  "v": 2
+ },
+ "アンコ椿は恋の花|都はるみ": {
+  "artist": "都はるみ",
+  "checked": "2026-11-15",
+  "id": "4RUlsq0YUshkGpfOUrDdP5",
+  "market": "JP",
+  "name": "アンコ椿は恋の花",
   "status": "ok",
   "v": 2
  },
@@ -5358,6 +5561,15 @@
   "id": "5u9rjyUgfIJXRk0RHKQ2GK",
   "market": "JP",
   "name": "ザッツ！超常",
+  "status": "ok",
+  "v": 2
+ },
+ "シクラメンのかほり|布施明": {
+  "artist": "布施明",
+  "checked": "2026-11-15",
+  "id": "6uSX1X9o8bsYaH2aDuH6lk",
+  "market": "JP",
+  "name": "シクラメンのかほり",
   "status": "ok",
   "v": 2
  },
@@ -5831,6 +6043,15 @@
   "status": "ok",
   "v": 2
  },
+ "バレリーコ|みきとpfeatgumi": {
+  "artist": "みきとP",
+  "checked": "2026-11-15",
+  "id": "1OP63a9JgViqfmn1k27RO7",
+  "market": "JP",
+  "name": "バレリーコ",
+  "status": "ok",
+  "v": 2
+ },
  "パイパイ仮面でどうかしらん|宝鐘マリン": {
   "artist": "宝鐘マリン",
   "checked": "2026-11-08",
@@ -5838,6 +6059,11 @@
   "market": "JP",
   "name": "パイパイ仮面でどうかしらん？",
   "status": "ok",
+  "v": 2
+ },
+ "パタカラみそしる音頭で口腔体操|ごぼう先生": {
+  "checked": "2026-11-15",
+  "status": "none",
   "v": 2
  },
  "パプリカ|foorin": {
@@ -6362,6 +6588,24 @@
   "name": "モニタリング",
   "status": "ok"
  },
+ "モブノデレラ|me": {
+  "artist": "≠ME",
+  "checked": "2026-11-15",
+  "id": "5qdTi6i3G7iM0PbwuqqkTT",
+  "market": "JP",
+  "name": "モブノデレラ",
+  "status": "ok",
+  "v": 2
+ },
+ "ヤキツキ|緋八マナ": {
+  "artist": "緋八マナ",
+  "checked": "2026-11-15",
+  "id": "2wDL97Xz3Isi30RexYtfXV",
+  "market": "JP",
+  "name": "ヤキツキ",
+  "status": "ok",
+  "v": 2
+ },
  "ヤミタイガール|れるりりfeatgumi": {
   "checked": "2026-11-10",
   "status": "none",
@@ -6383,6 +6627,11 @@
   "market": "JP",
   "name": "ライラック",
   "status": "ok"
+ },
+ "ラジオ体操第一おしみ先生の解説|ごぼう先生": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
  },
  "ラブストリは突然に|小田和正": {
   "artist": "小田和正",
@@ -6968,6 +7217,24 @@
   "id": "3DnPgyRtKLL0RwjHlJqScz",
   "market": "JP",
   "name": "二人でお酒を",
+  "status": "ok",
+  "v": 2
+ },
+ "二人の世界|石原裕次郎": {
+  "artist": "石原裕次郎",
+  "checked": "2026-11-15",
+  "id": "4ESeGTLZZ50oCp8o2RUjOi",
+  "market": "JP",
+  "name": "二人の世界",
+  "status": "ok",
+  "v": 2
+ },
+ "二人は若い|ディックミネ星玲子": {
+  "artist": "ディック・ミネ, 星 玲子",
+  "checked": "2026-11-15",
+  "id": "40NoiMPExBf1hRVjqIJJNV",
+  "market": "JP",
+  "name": "二人は若い",
   "status": "ok",
   "v": 2
  },
@@ -7645,6 +7912,15 @@
   "status": "ok",
   "v": 2
  },
+ "北上夜曲|和田弘とマヒナスターズ多摩幸子": {
+  "artist": "和田弘とマヒナスターズ",
+  "checked": "2026-11-15",
+  "id": "1wAzdKrRHR1si8k4vNYEeN",
+  "market": "JP",
+  "name": "北上夜曲",
+  "status": "ok",
+  "v": 2
+ },
  "北国の春|千昌夫": {
   "artist": "千昌夫",
   "checked": "2026-11-07",
@@ -7871,6 +8147,15 @@
   "status": "ok",
   "v": 2
  },
+ "君といつまでも|加山雄三": {
+  "artist": "加山雄三",
+  "checked": "2026-11-15",
+  "id": "4YsgmDiRlo9i10ooIDyPKf",
+  "market": "JP",
+  "name": "君といつまでも",
+  "status": "ok",
+  "v": 2
+ },
  "君のまま|百足韻マン": {
   "artist": "百足, 韻マン",
   "checked": "2026-11-10",
@@ -7904,6 +8189,15 @@
   "id": "5VVkCfHAa2ayYRBGbRyRD1",
   "market": "JP",
   "name": "君をのせて",
+  "status": "ok",
+  "v": 2
+ },
+ "君恋し|フランク永井": {
+  "artist": "フランク永井",
+  "checked": "2026-11-15",
+  "id": "2VJ4EiMOGlUxEfRvNGca5q",
+  "market": "JP",
+  "name": "君恋し",
   "status": "ok",
   "v": 2
  },
@@ -7950,6 +8244,15 @@
   "market": "JP",
   "name": "命に嫌われている",
   "status": "ok"
+ },
+ "命ばっかり|ぬゆり": {
+  "artist": "ぬゆり",
+  "checked": "2026-11-15",
+  "id": "0yEvK14lJzaw4UcvZh12du",
+  "market": "JP",
+  "name": "命ばっかり",
+  "status": "ok",
+  "v": 2
  },
  "命運的演歌|謝宜君柯俊傑": {
   "checked": "2026-11-08",
@@ -8060,8 +8363,13 @@
   "v": 2
  },
  "四季の歌|芹洋子": {
-  "checked": "2026-11-05",
-  "status": "none"
+  "artist": "芹洋子",
+  "checked": "2026-11-15",
+  "id": "3KhvfA3MiHFeCXke8gHHn1",
+  "market": "JP",
+  "name": "四季の歌",
+  "status": "ok",
+  "v": 2
  },
  "回る空うさぎ|orangestar": {
   "artist": "Orangestar",
@@ -8211,6 +8519,15 @@
   "id": "2eAOfmTyhSvN0fQNXLQpsc",
   "market": "JP",
   "name": "夜明けのブルース",
+  "status": "ok",
+  "v": 2
+ },
+ "夜桜お七|坂本冬美": {
+  "artist": "坂本冬美",
+  "checked": "2026-11-15",
+  "id": "0xVeFfxG615KHq8u15TxEq",
+  "market": "JP",
+  "name": "夜桜お七",
   "status": "ok",
   "v": 2
  },
@@ -8428,6 +8745,15 @@
   "status": "ok",
   "v": 2
  },
+ "女のみち|宮史郎とぴんからトリオ": {
+  "artist": "宮史郎ぴんからトリオ",
+  "checked": "2026-11-15",
+  "id": "3PwLpL3xWYv0plJjosgM07",
+  "market": "JP",
+  "name": "女のみち",
+  "status": "ok",
+  "v": 2
+ },
  "女の一生|古都清乃": {
   "artist": "古都清乃",
   "checked": "2026-11-09",
@@ -8532,6 +8858,15 @@
   "id": "2ACZ3Gr66MoMzMr6QeXIFG",
   "market": "TW",
   "name": "季候風",
+  "status": "ok",
+  "v": 2
+ },
+ "学生時代|ペギー葉山": {
+  "artist": "ペギー葉山",
+  "checked": "2026-11-15",
+  "id": "1iLL4htU4z0LXmAIBfxNJj",
+  "market": "JP",
+  "name": "学生時代",
   "status": "ok",
   "v": 2
  },
@@ -8678,6 +9013,15 @@
   "name": "小さな恋のうた",
   "status": "ok"
  },
+ "小指の想い出|伊東ゆかり": {
+  "artist": "伊東ゆかり",
+  "checked": "2026-11-15",
+  "id": "7cgjn8ZrkfsqdiQfrwxLTa",
+  "market": "JP",
+  "name": "小指の想い出",
+  "status": "ok",
+  "v": 2
+ },
  "小樽のひとよ|鶴岡雅義と東京ロマンチカ": {
   "artist": "鶴岡雅義と東京ロマンチカ",
   "checked": "2026-11-10",
@@ -8741,12 +9085,30 @@
   "status": "ok",
   "v": 2
  },
+ "岸壁の母|二葉百合子": {
+  "artist": "二葉百合子",
+  "checked": "2026-11-15",
+  "id": "3pLf2y2AFUXX22Fyt62hxO",
+  "market": "JP",
+  "name": "岸壁の母",
+  "status": "ok",
+  "v": 2
+ },
  "島のうた|セイレーン人魚": {
   "artist": "セイレーン（CV.鈴木みのり）, 人魚（CV.大木咲絵子）, 人魚（CV.七瀬彩夏）",
   "checked": "2026-11-08",
   "id": "6w3HMh6z5VhTJi90M7o1EX",
   "market": "JP",
   "name": "島のうた (セイレーンver.)",
+  "status": "ok",
+  "v": 2
+ },
+ "島のブルース|三沢あけみ和田弘とマヒナスターズ": {
+  "artist": "三沢あけみ, 和田弘とマヒナスターズ",
+  "checked": "2026-11-15",
+  "id": "7IlAalTrV5E8VlBzIQFyhj",
+  "market": "JP",
+  "name": "島のブルース",
   "status": "ok",
   "v": 2
  },
@@ -9050,6 +9412,24 @@
   "status": "ok",
   "v": 2
  },
+ "恋のバカンス|ザピーナッツ": {
+  "artist": "ザ・ピーナッツ",
+  "checked": "2026-11-15",
+  "id": "5SkmsuNc2qQTJZh92Ihm1j",
+  "market": "JP",
+  "name": "恋のバカンス",
+  "status": "ok",
+  "v": 2
+ },
+ "恋の季節|ピンキーとキラーズ": {
+  "artist": "ピンキーとキラーズ",
+  "checked": "2026-11-15",
+  "id": "54Ur7FJ6WcnupIDqBtwGLs",
+  "market": "JP",
+  "name": "恋の季節",
+  "status": "ok",
+  "v": 2
+ },
  "恋の町札幌|石原裕次郎": {
   "artist": "石原裕次郎",
   "checked": "2026-11-11",
@@ -9123,6 +9503,15 @@
   "id": "4I1L92UCPlYMdHYJ7r8Jhl",
   "market": "JP",
   "name": "悪魔の踊り方",
+  "status": "ok",
+  "v": 2
+ },
+ "悲しい酒|美空ひばり": {
+  "artist": "美空ひばり",
+  "checked": "2026-11-15",
+  "id": "3hvdpHnR8JZnjZE65UX2Nq",
+  "market": "JP",
+  "name": "悲しい酒",
   "status": "ok",
   "v": 2
  },
@@ -9239,6 +9628,15 @@
   "status": "ok",
   "v": 2
  },
+ "愛して愛して愛しちゃったのよ|田代美代子和田弘とマヒナスターズ": {
+  "artist": "田代美代子, 和田弘とマヒナスターズ",
+  "checked": "2026-11-15",
+  "id": "5Q9Ei7gGpQX0W2Kv0QY4g8",
+  "market": "JP",
+  "name": "愛して愛して愛しちゃったのよ",
+  "status": "ok",
+  "v": 2
+ },
  "愛して愛して愛して|きくお": {
   "artist": "きくお",
   "checked": "2026-11-11",
@@ -9271,6 +9669,15 @@
   "id": "6WjmLWvLcUm9kwThhFfatB",
   "market": "JP",
   "name": "愛のままで…",
+  "status": "ok",
+  "v": 2
+ },
+ "愛の奇跡|ヒデとロザンナ": {
+  "artist": "ヒデとロザンナ",
+  "checked": "2026-11-15",
+  "id": "6iaumBlTc9J9KBNK9ISl8z",
+  "market": "JP",
+  "name": "愛の奇跡",
   "status": "ok",
   "v": 2
  },
@@ -9712,6 +10119,15 @@
   "name": "我甘願重新愛過",
   "status": "ok"
  },
+ "我的貓會後空翻|陳華": {
+  "artist": "陳華",
+  "checked": "2026-11-15",
+  "id": "2t7Ki40DOY8YG38SEeD4xt",
+  "market": "TW",
+  "name": "我的貓會後空翻",
+  "status": "ok",
+  "v": 2
+ },
  "我護我|張碧晨": {
   "checked": "2026-11-13",
   "status": "none",
@@ -9823,6 +10239,15 @@
   "id": "4L71ya9XDiFsiBnbOcMIXq",
   "market": "JP",
   "name": "抜錨",
+  "status": "ok",
+  "v": 2
+ },
+ "抱抱你自己|吳克羣畢夏": {
+  "artist": "吳克群, 毕夏",
+  "checked": "2026-11-15",
+  "id": "58IFR7mA94uCxzNlZjtQTu",
+  "market": "TW",
+  "name": "抱抱你自己 (听，谁在唱歌2 第4期 ) - Live",
   "status": "ok",
   "v": 2
  },
@@ -9942,6 +10367,15 @@
   "name": "旅の夜風",
   "status": "ok"
  },
+ "旅姿三人男|ディックミネ": {
+  "artist": "ディック・ミネ",
+  "checked": "2026-11-15",
+  "id": "2GNInSBxE3ucuOCld8aDer",
+  "market": "JP",
+  "name": "旅姿三人男",
+  "status": "ok",
+  "v": 2
+ },
  "旅行的天賦|告五人": {
   "artist": "告五人",
   "checked": "2026-11-08",
@@ -9983,6 +10417,15 @@
   "status": "ok",
   "v": 2
  },
+ "明日があるさ|坂本九": {
+  "artist": "坂本九",
+  "checked": "2026-11-15",
+  "id": "7edUqTDihMDPMZmjHKvD6F",
+  "market": "JP",
+  "name": "明日があるさ",
+  "status": "ok",
+  "v": 2
+ },
  "明日晴れるかな|桑田佳祐": {
   "artist": "桑田佳祐",
   "checked": "2026-11-10",
@@ -10012,6 +10455,15 @@
   "id": "3sAvNRUsg1qYcWvvlwq4w7",
   "market": "JP",
   "name": "星影のワルツ",
+  "status": "ok",
+  "v": 2
+ },
+ "星降る街角|敏いとうとハッピーブルー": {
+  "artist": "敏いとうとハッピー&ブルー",
+  "checked": "2026-11-15",
+  "id": "2bmgXsL0BOlLaWPPoGcKl2",
+  "market": "JP",
+  "name": "星降る街角",
   "status": "ok",
   "v": 2
  },
@@ -10054,6 +10506,15 @@
  "時の流れに身をまかせ|テレサテン": {
   "artist": "テレサ・テン",
   "checked": "2026-11-07",
+  "id": "237tJYVU76qhKPdiohaOYz",
+  "market": "JP",
+  "name": "時の流れに身をまかせ",
+  "status": "ok",
+  "v": 2
+ },
+ "時の流れに身をまかせ|五木ひろしテレサテン": {
+  "artist": "テレサ・テン",
+  "checked": "2026-11-15",
   "id": "237tJYVU76qhKPdiohaOYz",
   "market": "JP",
   "name": "時の流れに身をまかせ",
@@ -10248,12 +10709,30 @@
   "status": "ok",
   "v": 2
  },
+ "有楽町で逢いましょう|フランク永井": {
+  "artist": "フランク永井",
+  "checked": "2026-11-15",
+  "id": "5v77euvxNvhmFnzZieFQ6I",
+  "market": "JP",
+  "name": "有楽町で逢いましょう",
+  "status": "ok",
+  "v": 2
+ },
  "朋友而已|劉芯妤": {
   "artist": "劉芯妤",
   "checked": "2026-11-08",
   "id": "5FZijjk03KdWEAMW3lzfra",
   "market": "TW",
   "name": "朋友而已",
+  "status": "ok",
+  "v": 2
+ },
+ "木曽路の女|原田悠里": {
+  "artist": "原田悠里",
+  "checked": "2026-11-15",
+  "id": "1t0y7KAbD32wGEm5O5I7eB",
+  "market": "JP",
+  "name": "木曽路の女",
   "status": "ok",
   "v": 2
  },
@@ -10315,6 +10794,15 @@
   "id": "2hBI3IgxXeVzjBEpodrmxq",
   "market": "TW",
   "name": "李香蘭",
+  "status": "ok",
+  "v": 2
+ },
+ "東京だョおっ母さん|島倉千代子": {
+  "artist": "島倉千代子",
+  "checked": "2026-11-15",
+  "id": "0gGPfbN6HPBjb85hm0eGip",
+  "market": "JP",
+  "name": "東京だョおっ母さん",
   "status": "ok",
   "v": 2
  },
@@ -10397,6 +10885,15 @@
   "status": "ok",
   "v": 2
  },
+ "柳ヶ瀬ブルース|美川憲一": {
+  "artist": "美川憲一",
+  "checked": "2026-11-15",
+  "id": "2VnW3ivaitnNCb0P1arrX1",
+  "market": "JP",
+  "name": "柳ヶ瀬ブルース",
+  "status": "ok",
+  "v": 2
+ },
  "栄光の架橋|ゆず": {
   "artist": "ゆず",
   "checked": "2026-11-10",
@@ -10438,6 +10935,15 @@
   "id": "4vFapV2DcgLLX8arO74G0v",
   "market": "TW",
   "name": "極速 - Beautiful Day 2011演唱會",
+  "status": "ok",
+  "v": 2
+ },
+ "樹枝孤鳥|伍佰chinablue": {
+  "artist": "伍佰",
+  "checked": "2026-11-15",
+  "id": "4KUZSTcd2VRk7CBSJpkJ7c",
+  "market": "TW",
+  "name": "樹枝孤鳥",
   "status": "ok",
   "v": 2
  },
@@ -10642,6 +11148,15 @@
   "status": "ok",
   "v": 2
  },
+ "浪花節だよ人生は|細川たかし": {
+  "artist": "細川たかし",
+  "checked": "2026-11-15",
+  "id": "2eVEQkJCbdEThECJAOhAmu",
+  "market": "JP",
+  "name": "浪花節だよ人生は",
+  "status": "ok",
+  "v": 2
+ },
  "浮誇|陳奕迅": {
   "artist": "陳奕迅",
   "checked": "2026-11-07",
@@ -10713,6 +11228,15 @@
   "name": "深い森",
   "status": "ok"
  },
+ "深海少女|ゆうゆfeat初音ミク": {
+  "artist": "ゆうゆ",
+  "checked": "2026-11-15",
+  "id": "4I1xEA5xpHZnmR8NmJWE0R",
+  "market": "JP",
+  "name": "深海少女 -deep sea girl-",
+  "status": "ok",
+  "v": 2
+ },
  "渡月橋|倉木麻衣": {
   "artist": "倉木麻衣",
   "checked": "2026-11-10",
@@ -10746,6 +11270,15 @@
   "id": "5glPFBAuA1C85tBcVWVzvO",
   "market": "JP",
   "name": "満ちてゆく",
+  "status": "ok",
+  "v": 2
+ },
+ "演歌兄弟|北島三郎鳥羽一郎": {
+  "artist": "北島三郎, 鳥羽一郎",
+  "checked": "2026-11-15",
+  "id": "5jGSHSaGWpvudeCa2kRHRc",
+  "market": "JP",
+  "name": "演歌兄弟",
   "status": "ok",
   "v": 2
  },
@@ -10876,6 +11409,15 @@
   "id": "1ccNLIJMQxsTleaULYWwZD",
   "market": "TW",
   "name": "無條件",
+  "status": "ok",
+  "v": 2
+ },
+ "無法松の一生|村田英雄": {
+  "artist": "村田英雄",
+  "checked": "2026-11-15",
+  "id": "04ER94Ix43Zj48SoTMjX8H",
+  "market": "JP",
+  "name": "無法松の一生",
   "status": "ok",
   "v": 2
  },
@@ -11026,6 +11568,15 @@
   "status": "ok",
   "v": 2
  },
+ "甘噛み|葛葉": {
+  "artist": "葛葉",
+  "checked": "2026-11-15",
+  "id": "5Jx1XBiDQsR8p1UtetnJfH",
+  "market": "JP",
+  "name": "甘噛み",
+  "status": "ok",
+  "v": 2
+ },
  "甘心替代你|鄭伊健": {
   "artist": "鄭伊健",
   "checked": "2026-11-07",
@@ -11139,6 +11690,15 @@
   "id": "5hFHG3UfvrOfhcV8anlU8g",
   "market": "JP",
   "name": "白い恋人達",
+  "status": "ok",
+  "v": 2
+ },
+ "白い海峡|大月みやこ": {
+  "artist": "大月みやこ",
+  "checked": "2026-11-15",
+  "id": "21ZanTR33rT2atc4tY3wo8",
+  "market": "JP",
+  "name": "白い海峡",
   "status": "ok",
   "v": 2
  },
@@ -11339,6 +11899,15 @@
  "神のまにまに|れるりりfeat初音ミク鏡音リンgumi": {
   "checked": "2026-11-09",
   "status": "none",
+  "v": 2
+ },
+ "神田川|南こうせつとかぐや姫": {
+  "artist": "南こうせつ, かぐや姫",
+  "checked": "2026-11-15",
+  "id": "7ygte8d28X9oXQNC5Sfglp",
+  "market": "JP",
+  "name": "神田川",
+  "status": "ok",
   "v": 2
  },
  "私は最強|ado": {
@@ -11567,6 +12136,15 @@
   "id": "2RMBCQdXkfFArpX3NIuuNm",
   "market": "JP",
   "name": "織姫とBABY",
+  "status": "ok",
+  "v": 2
+ },
+ "美しい十代|三田明": {
+  "artist": "三田明",
+  "checked": "2026-11-15",
+  "id": "0J3XkFtxEzDdxlaiIiuQpP",
+  "market": "JP",
+  "name": "美しい十代",
   "status": "ok",
   "v": 2
  },
@@ -11865,6 +12443,15 @@
   "status": "ok",
   "v": 2
  },
+ "街のサンドイッチマン|鶴田浩二": {
+  "artist": "鶴田浩二",
+  "checked": "2026-11-15",
+  "id": "5PwSuSSKQH2UXMMOUsezg2",
+  "market": "JP",
+  "name": "街のサンドイッチマン",
+  "status": "ok",
+  "v": 2
+ },
  "表裏一体|ゆず": {
   "artist": "ゆず",
   "checked": "2026-11-08",
@@ -11901,6 +12488,15 @@
   "status": "ok",
   "v": 2
  },
+ "襟裳岬|森進一": {
+  "artist": "森 進一",
+  "checked": "2026-11-15",
+  "id": "53nRDrgWGBAi3xc9WkKPoh",
+  "market": "JP",
+  "name": "襟裳岬",
+  "status": "ok",
+  "v": 2
+ },
  "西西里|周杰倫": {
   "artist": "周杰倫",
   "checked": "2026-11-07",
@@ -11916,6 +12512,15 @@
   "id": "4azVNx8uhpnKezwrNhcvYz",
   "market": "TW",
   "name": "要去什麼地方",
+  "status": "ok",
+  "v": 2
+ },
+ "見上げてごらん夜の星を|坂本九": {
+  "artist": "坂本九",
+  "checked": "2026-11-15",
+  "id": "5S59A1VzjLyjwp9iEfx2ou",
+  "market": "JP",
+  "name": "見上げてごらん夜の星を",
   "status": "ok",
   "v": 2
  },
@@ -12263,6 +12868,15 @@
   "status": "ok",
   "v": 2
  },
+ "銀座カンカン娘|高峰秀子": {
+  "artist": "高峰秀子",
+  "checked": "2026-11-15",
+  "id": "25XsxYHorQiCJBs5TJ33s9",
+  "market": "JP",
+  "name": "銀座カンカン娘(高峰　秀子)",
+  "status": "ok",
+  "v": 2
+ },
  "長く短い祭|椎名林檎": {
   "artist": "椎名林檎, 浮雲",
   "checked": "2026-11-12",
@@ -12536,6 +13150,15 @@
   "status": "none",
   "v": 2
  },
+ "青春時代|森田公一とトップギャラン": {
+  "artist": "森田公一, トップギャラン",
+  "checked": "2026-11-15",
+  "id": "7HO2UEGcOTXBqoVIw3KCtV",
+  "market": "JP",
+  "name": "青春時代",
+  "status": "ok",
+  "v": 2
+ },
  "青春病|藤井風": {
   "artist": "藤井 風",
   "checked": "2026-11-07",
@@ -12689,6 +13312,15 @@
   "id": "3PK5ERLCyMuQ5Cb89GbZVL",
   "market": "JP",
   "name": "魔法の絨毯",
+  "status": "ok",
+  "v": 2
+ },
+ "鳥取砂丘|水森かおり": {
+  "artist": "水森かおり",
+  "checked": "2026-11-15",
+  "id": "6DlmLZisJHUrfYoGLH09EF",
+  "market": "JP",
+  "name": "鳥取砂丘",
   "status": "ok",
   "v": 2
  },

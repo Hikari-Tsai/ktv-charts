@@ -532,6 +532,34 @@
   "title": "Automatic",
   "v": 2
  },
+ "awake|星街すいせい": {
+  "album": "新星目録",
+  "artist": "星街すいせい",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "Giga",
+    "TeddyLoid"
+   ],
+   "composer": [
+    "Giga",
+    "TeddyLoid"
+   ],
+   "lyricist": [
+    "草野華余子"
+   ],
+   "mix": [
+    "Giga",
+    "TeddyLoid"
+   ]
+  },
+  "id": "7dfb4e0c-09ae-4ef5-b34c-d273d9201f4f",
+  "isrc": "JPV752409500",
+  "released": "2024-11-15",
+  "status": "ok",
+  "title": "AWAKE",
+  "v": 2
+ },
  "awholenewworld|bradkaneandleasalonga": {
   "album": "Disney's Music of Dreams",
   "artist": "Brad Kane and Lea Salonga",
@@ -823,6 +851,17 @@
   "released": "2018-08-17",
   "status": "ok",
   "title": "BANG BANG BANG",
+  "v": 2
+ },
+ "bangbang|ive": {
+  "album": "BANG BANG",
+  "artist": "IVE",
+  "checked": "2026-11-15",
+  "id": "8ac80b9c-7a1a-408d-a94a-317db026bf21",
+  "isrc": "QM4TX2628847",
+  "released": "2026-02-09",
+  "status": "ok",
+  "title": "BANG BANG",
   "v": 2
  },
  "basketcase|greenday": {
@@ -1134,6 +1173,17 @@
   "title": "Booo!",
   "v": 2
  },
+ "bpm|kvibaba": {
+  "album": "BPM",
+  "artist": "Kvi Baba feat. KREVA",
+  "checked": "2026-11-15",
+  "id": "6bffec0e-4be1-4052-b53f-57449e026657",
+  "isrc": "JPTF02650144",
+  "released": "2026-04-22",
+  "status": "ok",
+  "title": "BPM",
+  "v": 2
+ },
  "breakfree|arianagrande": {
   "album": "One Love Manchester",
   "artist": "Ariana Grande",
@@ -1398,6 +1448,16 @@
   "released": "2026-04-25",
   "status": "ok",
   "title": "Catch Catch (Chinese ver.)",
+  "v": 2
+ },
+ "challengers|rofmao": {
+  "album": "Overflow",
+  "artist": "ROF-MAO",
+  "checked": "2026-11-15",
+  "id": "9f17f823-a6d2-4e02-a817-ccdab8fd36c0",
+  "released": "2023-10-18",
+  "status": "ok",
+  "title": "Challengers",
   "v": 2
  },
  "chandelier|sia": {
@@ -2191,6 +2251,31 @@
   "title": "Eenie Meenie",
   "v": 2
  },
+ "endlesslove|dianarosslionelrichie": {
+  "album": "Why Do Fools Fall in Love",
+  "artist": "Diana Ross",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "Ray Chew"
+   ],
+   "composer": [
+    "Lionel Richie"
+   ],
+   "lyricist": [
+    "Lionel Richie"
+   ],
+   "producer": [
+    "Diana Ross"
+   ]
+  },
+  "id": "7c5d5e60-9bef-4cd0-bf49-030dbe899a5e",
+  "isrc": "GBAYE0800075",
+  "released": "1981",
+  "status": "ok",
+  "title": "Endless Love",
+  "v": 2
+ },
  "everyheart|寶兒": {
   "checked": "2026-11-08",
   "status": "none",
@@ -2717,6 +2802,17 @@
   "released": "2013",
   "status": "ok",
   "title": "Good Time",
+  "v": 2
+ },
+ "go|cortis": {
+  "album": "COLOR OUTSIDE THE LINES",
+  "artist": "CORTIS",
+  "checked": "2026-11-15",
+  "id": "2be878ce-e5b7-4504-86f4-fd78286c46af",
+  "isrc": "USA2P2536188",
+  "released": "2025-09-08",
+  "status": "ok",
+  "title": "GO!",
   "v": 2
  },
  "go|flow": {
@@ -4316,6 +4412,49 @@
   "status": "none",
   "v": 2
  },
+ "lovemetender|elvispresley": {
+  "album": "Memories: The ’68 Comeback Special",
+  "artist": "Elvis Presley",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "George R. Poulton"
+   ],
+   "lyricist": [
+    "Ken Darby"
+   ],
+   "writer": [
+    "Vera Matson",
+    "Elvis Presley"
+   ]
+  },
+  "id": "bd0ac3e6-7b69-4b11-8065-47de47406a53",
+  "isrc": "USRC16807764",
+  "released": "1998-10-13",
+  "status": "ok",
+  "title": "Love Me Tender",
+  "v": 2
+ },
+ "loveme|engelberthumperdinck": {
+  "album": "Beautiful Music Complete 2 (Volume Two)",
+  "artist": "Engelbert Humperdinck",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "Rafael Gastón Perez"
+   ],
+   "lyricist": [
+    "Carlos Martinoli",
+    "Carlos Rigual",
+    "Mario Rigual"
+   ]
+  },
+  "id": "60fea7ed-214b-4279-b879-82a1d65ffcba",
+  "released": "1998",
+  "status": "ok",
+  "title": "Love Me With All Your Heart",
+  "v": 2
+ },
  "loversagain|exile": {
   "album": "EXTREME BEST",
   "artist": "EXILE",
@@ -4618,6 +4757,24 @@
   "released": "2026-07-06",
   "status": "ok",
   "title": "Mono (Mono ver.)",
+  "v": 2
+ },
+ "moonriver|andywilliams": {
+  "album": "Can't Get Used to Losing You",
+  "artist": "Andy Williams",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "Henry Mancini"
+   ],
+   "lyricist": [
+    "Johnny Mercer"
+   ]
+  },
+  "id": "fa141c94-0c18-4831-a6c0-47c3ce14c014",
+  "released": "2002",
+  "status": "ok",
+  "title": "Moon River",
   "v": 2
  },
  "mrbrightside|thekillers": {
@@ -5588,6 +5745,25 @@
   "released": "2011-04-28",
   "status": "ok",
   "title": "Rolling in the Deep",
+  "v": 2
+ },
+ "rosier|lunasea": {
+  "album": "SINGLES",
+  "artist": "LUNA SEA",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "J"
+   ],
+   "lyricist": [
+    "河村隆一"
+   ]
+  },
+  "id": "c1844c36-0452-49fe-b54d-334abc1766cc",
+  "isrc": "JPMV09400790",
+  "released": "1994-07-21",
+  "status": "ok",
+  "title": "ROSIER",
   "v": 2
  },
  "rpg|sekainoowari": {
@@ -7148,6 +7324,17 @@
   "title": "We Don’t Talk Anymore",
   "v": 2
  },
+ "wegoup|babymonster": {
+  "album": "WE GO UP",
+  "artist": "BABYMONSTER",
+  "checked": "2026-11-15",
+  "id": "2e59ee6e-64ff-43a5-883e-87417a2ef001",
+  "isrc": "KRA402400151",
+  "released": "2025-10-10",
+  "status": "ok",
+  "title": "WE GO UP",
+  "v": 2
+ },
  "wewillrockyou|queen": {
   "album": "ESPN Presents: Jock Rock, Volume 1",
   "artist": "Queen",
@@ -7289,6 +7476,24 @@
   "released": "2025-03-27",
   "status": "ok",
   "title": "Whiplash (English version)",
+  "v": 2
+ },
+ "whitechristmas|bingcrosby": {
+  "album": "White Christmas",
+  "artist": "Bing Crosby",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "Irving Berlin"
+   ],
+   "lyricist": [
+    "Irving Berlin"
+   ]
+  },
+  "id": "a9f95658-f037-4208-bf0b-86b0dda821d4",
+  "released": "1977-11",
+  "status": "ok",
+  "title": "White Christmas",
   "v": 2
  },
  "windingroad|絢香コブクロ": {
@@ -7794,6 +7999,24 @@
   "title": "あずさ2号",
   "v": 2
  },
+ "あなたのキスを数えましょうyouweremine|小柳ゆき": {
+  "album": "SPHERE〜球宇宙〜",
+  "artist": "小柳ゆき",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "中崎英也"
+   ],
+   "lyricist": [
+    "高柳恋"
+   ]
+  },
+  "id": "52d9f697-270b-468b-a1ff-b23ce31f8975",
+  "released": "2020-07-01",
+  "status": "ok",
+  "title": "あなたのキスを数えましょう〜You were mine〜",
+  "v": 2
+ },
  "あなたの夜が明けるまで|傘村トータ": {
   "album": "IA SUPER BEST -THE CREATORS-",
   "artist": "傘村トータ feat. IA, Fukase (Normal)",
@@ -7841,6 +8064,28 @@
   "id": "ca415561-6c61-44e8-9b67-46d0c0fcb198",
   "status": "ok",
   "title": "あの夢をなぞって",
+  "v": 2
+ },
+ "あばれ太鼓|坂本冬美": {
+  "album": "「道」 〜坂本冬美30周年記念オールタイムベスト〜",
+  "artist": "坂本冬美",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "京建輔"
+   ],
+   "composer": [
+    "猪俣公章"
+   ],
+   "lyricist": [
+    "たかたかし"
+   ]
+  },
+  "id": "17825c4c-ec4f-4957-a929-d46c0fd00d1b",
+  "isrc": "JPTO00601658",
+  "released": "2006-11-22",
+  "status": "ok",
+  "title": "あばれ太鼓",
   "v": 2
  },
  "あぶく|ヨルシカ": {
@@ -8003,6 +8248,35 @@
   "title": "うぇいびー",
   "v": 2
  },
+ "うたかたよいかないで|himehina": {
+  "album": "うたかたよいかないで",
+  "artist": "HIMEHINA",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "Motokiyo"
+   ],
+   "composer": [
+    "Motokiyo"
+   ],
+   "lyricist": [
+    "ゴゴ"
+   ],
+   "mix": [
+    "手塚貴博"
+   ],
+   "recording": [
+    "マジカルすず",
+    "手塚貴博"
+   ]
+  },
+  "id": "ce437872-2b8c-4d6d-bb10-26f4170f39f4",
+  "isrc": "JPA651904772",
+  "released": "2019-09-11",
+  "status": "ok",
+  "title": "うたかたよいかないで",
+  "v": 2
+ },
  "おとせサンダー|ぼっちぼろまる": {
   "album": "beatmania IIDX 30 RESIDENT ORIGINAL SOUNDTRACK",
   "artist": "ぼっちぼろまる",
@@ -8056,6 +8330,24 @@
   "released": "1994-06-25",
   "status": "ok",
   "title": "おまえに",
+  "v": 2
+ },
+ "おもいで酒|小林幸子": {
+  "album": "演歌 こころうた",
+  "artist": "小林幸子",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "梅谷忠洋"
+   ],
+   "lyricist": [
+    "高田直和"
+   ]
+  },
+  "id": "63ceac66-716d-422d-b896-173645b50441",
+  "released": "2006",
+  "status": "ok",
+  "title": "おもいで酒",
   "v": 2
  },
  "おジャ魔女カーニバル|maho堂": {
@@ -8151,6 +8443,24 @@
   "released": "2011-07-20",
   "status": "ok",
   "title": "からくりピエロ",
+  "v": 2
+ },
+ "からたち日記|島倉千代子": {
+  "album": "島倉千代子リサイタル",
+  "artist": "島倉千代子",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "遠藤実"
+   ],
+   "lyricist": [
+    "西澤義久"
+   ]
+  },
+  "id": "746855ed-f620-4b2d-b384-f12de53f172b",
+  "released": "1975-09",
+  "status": "ok",
+  "title": "からたち日記",
   "v": 2
  },
  "きゃぴ|宝鐘マリン": {
@@ -8259,6 +8569,35 @@
   "title": "くちなしの花",
   "v": 2
  },
+ "ここに幸あり|大津美子": {
+  "album": "大津美子",
+  "artist": "大津美子",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "飯田三郎"
+   ],
+   "lyricist": [
+    "高橋掬太郎"
+   ]
+  },
+  "id": "51742e24-bddc-4272-80ad-ac09d006f6b9",
+  "isrc": "JPKI07356782",
+  "released": "2000-06-07",
+  "status": "ok",
+  "title": "ここに幸あり",
+  "v": 2
+ },
+ "この世の花|島倉千代子": {
+  "album": "オリジナル・ヒットと懐メロと",
+  "artist": "島倉千代子",
+  "checked": "2026-11-15",
+  "id": "d3fb88ad-677d-479e-ae95-7f00eda09482",
+  "released": "1977-05",
+  "status": "ok",
+  "title": "この世の花",
+  "v": 2
+ },
  "この恋はスクープされない|コレサワ": {
   "album": "純愛クローゼット",
   "artist": "コレサワ",
@@ -8308,6 +8647,24 @@
   "released": "1982-08-01",
   "status": "ok",
   "title": "さざんかの宿",
+  "v": 2
+ },
+ "さそり座の女|美川憲一": {
+  "album": "Best 16",
+  "artist": "美川憲一",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "中川博之"
+   ],
+   "lyricist": [
+    "斉藤律子"
+   ]
+  },
+  "id": "19edc02b-bdef-4bd9-88ac-0b658721ca02",
+  "released": "2003-06-25",
+  "status": "ok",
+  "title": "さそり座の女",
   "v": 2
  },
  "さよならの前に|aaa": {
@@ -9086,6 +9443,17 @@
   "title": "みちのくひとり旅",
   "v": 2
  },
+ "むらさき雨情|藤あや子": {
+  "album": "R40’S SURE THINGS!! 本命演歌 III",
+  "artist": "藤あや子",
+  "checked": "2026-11-15",
+  "id": "7aea8a68-2db4-407d-af9e-96834718f9ce",
+  "isrc": "JPSR09150061",
+  "released": "1995-11-01",
+  "status": "ok",
+  "title": "むらさき雨情",
+  "v": 2
+ },
  "もうどうなってもいいや|星街すいせい": {
   "album": "もうどうなってもいいや",
   "artist": "星街すいせい",
@@ -9376,6 +9744,16 @@
   "title": "アカシア",
   "v": 2
  },
+ "アカシアの雨がやむとき|西田佐知子": {
+  "album": "アカシアの雨がやむとき / 夜霧のテレビ塔",
+  "artist": "西田佐知子",
+  "checked": "2026-11-15",
+  "id": "62b5986b-718a-4789-96fd-276f7a89dadd",
+  "released": "1960-04",
+  "status": "ok",
+  "title": "アカシアの雨がやむとき",
+  "v": 2
+ },
  "アゲハ蝶|ポルノグラフィティ": {
   "album": "ポルノグラフィティ全書 ～ALL TIME SINGLES～",
   "artist": "ポルノグラフィティ",
@@ -9447,6 +9825,28 @@
   "released": "1998-02-18",
   "status": "ok",
   "title": "アメリカ橋",
+  "v": 2
+ },
+ "アンコ椿は恋の花|都はるみ": {
+  "album": "ベスト100シリーズ 昭和の大ヒット100",
+  "artist": "都はるみ",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "市川昭介"
+   ],
+   "composer": [
+    "市川昭介"
+   ],
+   "lyricist": [
+    "星野哲郎"
+   ]
+  },
+  "id": "5226e30b-43f2-4011-abf0-60192256e8da",
+  "isrc": "JPCO06403370",
+  "released": "1990-12-01",
+  "status": "ok",
+  "title": "アンコ椿は恋の花",
   "v": 2
  },
  "アンノウンマザーグース|wowaka": {
@@ -10298,6 +10698,28 @@
  "ザッツ超常|mlk": {
   "checked": "2026-11-09",
   "status": "none",
+  "v": 2
+ },
+ "シクラメンのかほり|布施明": {
+  "album": "音の魔術師／作編曲家・萩田光雄の世界",
+  "artist": "布施明",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "萩田光雄"
+   ],
+   "composer": [
+    "小椋佳"
+   ],
+   "lyricist": [
+    "小椋佳"
+   ]
+  },
+  "id": "7c087683-3fe3-4859-8285-ec2736127793",
+  "isrc": "JPKI07559511",
+  "released": "1993",
+  "status": "ok",
+  "title": "シクラメンのかほり",
   "v": 2
  },
  "シビルアイ|星導ショウ": {
@@ -11242,6 +11664,11 @@
   "title": "バブリン",
   "v": 2
  },
+ "バレリーコ|みきとpfeatgumi": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
+ },
  "パイパイ仮面でどうかしらん|宝鐘マリン": {
   "album": "Ahoy!! キミたちみんなパイレーツ♡",
   "artist": "宝鐘マリン",
@@ -11268,6 +11695,11 @@
   "released": "2024-09-16",
   "status": "ok",
   "title": "パイパイ仮面でどうかしらん？",
+  "v": 2
+ },
+ "パタカラみそしる音頭で口腔体操|ごぼう先生": {
+  "checked": "2026-11-15",
+  "status": "none",
   "v": 2
  },
  "パプリカ|foorin": {
@@ -12338,6 +12770,40 @@
   "title": "モニタリング",
   "v": 2
  },
+ "モブノデレラ|me": {
+  "album": "モブノデレラ / 神様の言うとーり！",
+  "artist": "≠ME",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "杉山勝彦"
+   ],
+   "composer": [
+    "関口颯太",
+    "杉山勝彦"
+   ],
+   "lyricist": [
+    "指原莉乃"
+   ]
+  },
+  "id": "fa8329ce-220e-4d3e-8292-db49724ff04b",
+  "isrc": "JPKI02511172",
+  "released": "2025-04-30",
+  "status": "ok",
+  "title": "モブノデレラ",
+  "v": 2
+ },
+ "ヤキツキ|緋八マナ": {
+  "album": "ヤキツキ",
+  "artist": "緋八マナ",
+  "checked": "2026-11-15",
+  "id": "d11669cb-ece2-4e1e-9822-ee918328d188",
+  "isrc": "JPY252500085",
+  "released": "2025-06-30",
+  "status": "ok",
+  "title": "ヤキツキ",
+  "v": 2
+ },
  "ヤミタイガール|れるりりfeatgumi": {
   "checked": "2026-11-09",
   "status": "none",
@@ -12407,6 +12873,11 @@
   "released": "2024-04-12",
   "status": "ok",
   "title": "ライラック",
+  "v": 2
+ },
+ "ラジオ体操第一おしみ先生の解説|ごぼう先生": {
+  "checked": "2026-11-15",
+  "status": "none",
   "v": 2
  },
  "ラブストリは突然に|小田和正": {
@@ -13297,6 +13768,39 @@
   "title": "二人でお酒を",
   "v": 2
  },
+ "二人の世界|石原裕次郎": {
+  "album": "大全集～石原裕次郎の世界～",
+  "artist": "石原裕次郎",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "山倉たかし"
+   ],
+   "composer": [
+    "鶴岡雅義"
+   ],
+   "lyricist": [
+    "池田充男"
+   ]
+  },
+  "id": "5d8f24c5-16bd-474e-a172-e5f9c9636bd1",
+  "isrc": "JPTE07362170",
+  "released": "2003-12-17",
+  "status": "ok",
+  "title": "二人の世界",
+  "v": 2
+ },
+ "二人は若い|ディックミネ星玲子": {
+  "album": "定番ベスト",
+  "artist": "ディック・ミネ、星玲子",
+  "checked": "2026-11-15",
+  "id": "f768c74d-1aec-413f-9ed8-be4bde6bef0f",
+  "isrc": "JPTE03555540",
+  "released": "2004-08-01",
+  "status": "ok",
+  "title": "二人は若い",
+  "v": 2
+ },
  "二輪草|川中美幸": {
   "album": "テイチクアワー 一五一会",
   "artist": "川中美幸",
@@ -14058,6 +14562,11 @@
   "title": "北の漁場",
   "v": 2
  },
+ "北上夜曲|和田弘とマヒナスターズ多摩幸子": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
+ },
  "北国の春|千昌夫": {
   "album": "ザ・プレミアム昭和演歌",
   "artist": "千昌夫",
@@ -14342,6 +14851,24 @@
   "title": "君という名の翼",
   "v": 2
  },
+ "君といつまでも|加山雄三": {
+  "album": "Chansons japonaises : Les années 60 et 70",
+  "artist": "加山雄三",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "加山雄三"
+   ],
+   "lyricist": [
+    "岩谷時子"
+   ]
+  },
+  "id": "53b2d7e3-e6d3-42cd-9446-f7a4e649dab7",
+  "released": "1997",
+  "status": "ok",
+  "title": "君といつまでも",
+  "v": 2
+ },
  "君のまま|百足韻マン": {
   "album": "君のまま",
   "artist": "百足 & 韻マン",
@@ -14419,6 +14946,24 @@
   "title": "君をのせて",
   "v": 2
  },
+ "君恋し|フランク永井": {
+  "album": "精選盤 昭和の流行歌",
+  "artist": "フランク永井",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "佐々紅華"
+   ],
+   "lyricist": [
+    "時雨音羽"
+   ]
+  },
+  "id": "469f8f6e-3209-4bf6-a5f2-0f3da9f5c0db",
+  "released": "1993",
+  "status": "ok",
+  "title": "君恋し",
+  "v": 2
+ },
  "吾亦紅|すぎもとまさと": {
   "checked": "2026-11-09",
   "status": "none",
@@ -14485,6 +15030,17 @@
   "released": "2021-08-11",
   "status": "ok",
   "title": "命に嫌われている",
+  "v": 2
+ },
+ "命ばっかり|ぬゆり": {
+  "album": "plotoplan",
+  "artist": "ぬゆり",
+  "checked": "2026-11-15",
+  "id": "5529ecfa-ca46-400e-98b3-066eca33406a",
+  "isrc": "JPA651703963",
+  "released": "2017-12-29",
+  "status": "ok",
+  "title": "命ばっかり",
   "v": 2
  },
  "命運的演歌|謝宜君柯俊傑": {
@@ -14674,6 +15230,25 @@
   "title": "囍帖街",
   "v": 2
  },
+ "四季の歌|芹洋子": {
+  "album": "続・青春歌年鑑 ’77 PLUS",
+  "artist": "芹洋子",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "荒木とよひさ"
+   ],
+   "lyricist": [
+    "荒木とよひさ"
+   ]
+  },
+  "id": "b3c623c2-c5a8-4ba2-a58a-b9dc10123885",
+  "isrc": "JPKI07560290",
+  "released": "1993",
+  "status": "ok",
+  "title": "四季の歌",
+  "v": 2
+ },
  "回る空うさぎ|orangestar": {
   "album": "SEASIDE SOLILOQUIES",
   "artist": "Orangestar",
@@ -14856,6 +15431,28 @@
  "夜明けのブルース|五木ひろし": {
   "checked": "2026-11-08",
   "status": "none",
+  "v": 2
+ },
+ "夜桜お七|坂本冬美": {
+  "album": "あなたに贈るベストソング 演歌ヒット特選集",
+  "artist": "坂本冬美",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "若草恵"
+   ],
+   "composer": [
+    "三木たかし"
+   ],
+   "lyricist": [
+    "林あまり"
+   ]
+  },
+  "id": "b6d53f0e-ef54-46fd-8ddf-82868d240c48",
+  "isrc": "JPTO00701337",
+  "released": "2007-09-26",
+  "status": "ok",
+  "title": "夜桜お七",
   "v": 2
  },
  "夜玫瑰|謝宜君": {
@@ -15194,6 +15791,28 @@
   "title": "奥飛騨慕情",
   "v": 2
  },
+ "女のみち|宮史郎とぴんからトリオ": {
+  "album": "昭和40年代の流行歌: 悲しい酒",
+  "artist": "宮史郎とぴんからトリオ",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "佐伯亮"
+   ],
+   "composer": [
+    "並木ひろし"
+   ],
+   "lyricist": [
+    "宮史郎"
+   ]
+  },
+  "id": "1f23d351-83f6-4cea-82c8-f9b42b1e5dd9",
+  "isrc": "JPCO07206060",
+  "released": "1993-10-01",
+  "status": "ok",
+  "title": "女のみち",
+  "v": 2
+ },
  "女の一生|古都清乃": {
   "checked": "2026-11-08",
   "status": "none",
@@ -15330,6 +15949,17 @@
   "title": "季候風",
   "v": 2
  },
+ "学生時代|ペギー葉山": {
+  "album": "懐かしのNHK紅白歌合戦",
+  "artist": "ペギー葉山",
+  "checked": "2026-11-15",
+  "id": "5ce66e3e-b858-4607-a295-bfd14f2a5748",
+  "isrc": "JPKI06430219",
+  "released": "2012-11-30",
+  "status": "ok",
+  "title": "学生時代",
+  "v": 2
+ },
  "宗右衛門町ブルース|平和勝次とダークホース": {
   "album": "オール・ザット・演歌&歌謡曲ベスト40",
   "artist": "平和勝次とダークホース",
@@ -15391,6 +16021,16 @@
   "released": "2001-09-16",
   "status": "ok",
   "title": "小さな恋のうた",
+  "v": 2
+ },
+ "小指の想い出|伊東ゆかり": {
+  "album": "ゆかりのグレイテスト・ヒッツ 1967–1970",
+  "artist": "伊東ゆかり",
+  "checked": "2026-11-15",
+  "id": "f4849b94-9a19-4e97-81b8-234a19f8f94f",
+  "released": "2015-06-20",
+  "status": "ok",
+  "title": "小指の想い出",
   "v": 2
  },
  "小樽のひとよ|鶴岡雅義と東京ロマンチカ": {
@@ -15489,6 +16129,28 @@
   "title": "居酒屋",
   "v": 2
  },
+ "岸壁の母|二葉百合子": {
+  "album": "続・青春歌年鑑 ’76 PLUS",
+  "artist": "二葉百合子",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "白石十四男"
+   ],
+   "composer": [
+    "平川浪竜"
+   ],
+   "lyricist": [
+    "藤田まさと"
+   ]
+  },
+  "id": "8307b2db-f426-4408-9b01-6dd447f70bde",
+  "isrc": "JPKI07149399",
+  "released": "1997-02-05",
+  "status": "ok",
+  "title": "岸壁の母",
+  "v": 2
+ },
  "島のうた|セイレーン人魚": {
   "album": "『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part1",
   "artist": "セイレーン(CV.鈴木みのり), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏)",
@@ -15507,6 +16169,25 @@
   "released": "2026-07-24",
   "status": "ok",
   "title": "島のうた (セイレーンver.)",
+  "v": 2
+ },
+ "島のブルース|三沢あけみ和田弘とマヒナスターズ": {
+  "album": "日本の流行歌スターたち(53) 和田弘とマヒナスターズ Vol.2 デラックス",
+  "artist": "三沢あけみ・和田弘とマヒナスターズ",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "渡久地政信"
+   ],
+   "lyricist": [
+    "吉川静夫"
+   ]
+  },
+  "id": "63842c97-b99b-4489-ac21-48b12171cc77",
+  "isrc": "JPVI06300090",
+  "released": "1963-04-20",
+  "status": "ok",
+  "title": "島のブルース",
   "v": 2
  },
  "島人ぬ宝|begin": {
@@ -15842,6 +16523,51 @@
   "title": "恋におちて −Fall in love− (英語ヴァージョン)",
   "v": 2
  },
+ "恋のバカンス|ザピーナッツ": {
+  "album": "モスラがきます。 ~ザ・ピーナッツ DANCE MIX 1991~",
+  "artist": "ザ・ピーナッツ",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "宮川泰"
+   ],
+   "lyricist": [
+    "岩谷時子"
+   ],
+   "producer": [
+    "川崎ツトム",
+    "十枝光太郎"
+   ]
+  },
+  "id": "0f6d34fe-e25f-414c-977c-ae66caee4993",
+  "isrc": "JPKI09126950",
+  "released": "1991-11-21",
+  "status": "ok",
+  "title": "恋のバカンス",
+  "v": 2
+ },
+ "恋の季節|ピンキーとキラーズ": {
+  "album": "歌姫クロニクル〜1968–1984〜",
+  "artist": "ピンキーとキラーズ",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "いずみたく"
+   ],
+   "composer": [
+    "いずみたく"
+   ],
+   "lyricist": [
+    "岩谷時子"
+   ]
+  },
+  "id": "061d59d4-7e58-45e3-8c46-c7ba7e74d24b",
+  "isrc": "JPKI06839332",
+  "released": "1993",
+  "status": "ok",
+  "title": "恋の季節",
+  "v": 2
+ },
  "恋の町札幌|石原裕次郎": {
   "album": "北海道歌物語",
   "artist": "石原裕次郎",
@@ -15992,6 +16718,17 @@
   "title": "悪魔の踊り方",
   "v": 2
  },
+ "悲しい酒|美空ひばり": {
+  "album": "懐かしのNHK紅白歌合戦",
+  "artist": "美空ひばり",
+  "checked": "2026-11-15",
+  "id": "e2463811-3644-4911-82f1-85928939ef5e",
+  "isrc": "JPCO06605550",
+  "released": "2012-11-30",
+  "status": "ok",
+  "title": "悲しい酒",
+  "v": 2
+ },
  "悲恋傷ひれんしょう|真木ことみ": {
   "checked": "2026-11-08",
   "status": "none",
@@ -16119,6 +16856,11 @@
   "title": "愛されるより 愛したい",
   "v": 2
  },
+ "愛して愛して愛しちゃったのよ|田代美代子和田弘とマヒナスターズ": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
+ },
  "愛して愛して愛して|きくお": {
   "album": "きくおミク3",
   "artist": "きくお",
@@ -16214,6 +16956,28 @@
   "released": "2008-01-23",
   "status": "ok",
   "title": "愛のままで…",
+  "v": 2
+ },
+ "愛の奇跡|ヒデとロザンナ": {
+  "album": "昭和の歌姫伝説〜コロムビア編〜",
+  "artist": "ヒデとロザンナ",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "中川昌"
+   ],
+   "composer": [
+    "田辺信一"
+   ],
+   "lyricist": [
+    "中村小太郎"
+   ]
+  },
+  "id": "e407f78d-e265-4307-a377-0d25076fa755",
+  "isrc": "JPCO06804560",
+  "released": "1969-11-25",
+  "status": "ok",
+  "title": "愛の奇跡",
   "v": 2
  },
  "愛の終着駅|八代亜紀": {
@@ -16543,6 +17307,11 @@
   "status": "none",
   "v": 2
  },
+ "我的貓會後空翻|陳華": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
+ },
  "我護我|張碧晨": {
   "checked": "2026-11-13",
   "status": "none",
@@ -16729,6 +17498,11 @@
   "title": "抜錨",
   "v": 2
  },
+ "抱抱你自己|吳克羣畢夏": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
+ },
  "捌|mechatua": {
   "checked": "2026-11-08",
   "status": "none",
@@ -16797,6 +17571,25 @@
   "released": "1990-12-01",
   "status": "ok",
   "title": "旅の夜風",
+  "v": 2
+ },
+ "旅姿三人男|ディックミネ": {
+  "album": "定番ベスト",
+  "artist": "ディック・ミネ",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "鈴木哲夫"
+   ],
+   "lyricist": [
+    "宮本旅人"
+   ]
+  },
+  "id": "63f69f1e-b443-4694-a8f4-3085f27c2e20",
+  "isrc": "JPTE06972930",
+  "released": "2000-08-23",
+  "status": "ok",
+  "title": "旅姿三人男",
   "v": 2
  },
  "旅行的天賦|告五人": {
@@ -16897,6 +17690,16 @@
   "title": "明年今日",
   "v": 2
  },
+ "明日があるさ|坂本九": {
+  "album": "坂本九リサイタル",
+  "artist": "坂本九",
+  "checked": "2026-11-15",
+  "id": "28b231d4-dfa3-4903-9177-b6f962f95de1",
+  "released": "1966-10-05",
+  "status": "ok",
+  "title": "明日があるさ",
+  "v": 2
+ },
  "明日晴れるかな|桑田佳祐": {
   "album": "桑田さんのお仕事 07/08 〜魅惑のAVマリアージュ〜",
   "artist": "桑田佳祐",
@@ -16951,6 +17754,11 @@
   "released": "1997-07-24",
   "status": "ok",
   "title": "星影のワルツ",
+  "v": 2
+ },
+ "星降る街角|敏いとうとハッピーブルー": {
+  "checked": "2026-11-15",
+  "status": "none",
   "v": 2
  },
  "春泥棒|ヨルシカ": {
@@ -17027,6 +17835,24 @@
   "id": "26d86c54-7387-4c6d-8fef-66295a74ccf5",
   "isrc": "JPPO00005970",
   "released": "2000-09-20",
+  "status": "ok",
+  "title": "時の流れに身をまかせ",
+  "v": 2
+ },
+ "時の流れに身をまかせ|五木ひろしテレサテン": {
+  "album": "五木ひろしベストコレクション",
+  "artist": "五木ひろし",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "三木たかし"
+   ],
+   "lyricist": [
+    "荒木とよひさ"
+   ]
+  },
+  "id": "aaab18a3-d6a3-49fc-8f49-83a085f4ce99",
+  "released": "2015-08-12",
   "status": "ok",
   "title": "時の流れに身をまかせ",
   "v": 2
@@ -17308,6 +18134,43 @@
   "status": "none",
   "v": 2
  },
+ "有楽町で逢いましょう|フランク永井": {
+  "album": "歌声よ永遠に～フランク永井のすべて",
+  "artist": "フランク永井",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "吉田正"
+   ],
+   "lyricist": [
+    "佐伯孝夫"
+   ]
+  },
+  "id": "8b80e669-9b39-4b77-8366-9fed151b4cf2",
+  "isrc": "JPVI00900590",
+  "released": "2009-02-25",
+  "status": "ok",
+  "title": "有楽町で逢いましょう",
+  "v": 2
+ },
+ "木曽路の女|原田悠里": {
+  "album": "演歌 こころうた",
+  "artist": "原田悠里",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "伊藤雪彦"
+   ],
+   "lyricist": [
+    "やしろよう"
+   ]
+  },
+  "id": "d0cc181b-9552-478b-8133-c949b292c1dd",
+  "released": "2006",
+  "status": "ok",
+  "title": "木曽路の女",
+  "v": 2
+ },
  "未完成婚姻論|danniemay": {
   "album": "MERAKI",
   "artist": "Dannie May",
@@ -17387,6 +18250,28 @@
  "机さする|青木遥": {
   "checked": "2026-11-09",
   "status": "none",
+  "v": 2
+ },
+ "東京だョおっ母さん|島倉千代子": {
+  "album": "ベスト100シリーズ 昭和の大ヒット100",
+  "artist": "島倉千代子",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "船村徹"
+   ],
+   "composer": [
+    "船村徹"
+   ],
+   "lyricist": [
+    "野村俊夫"
+   ]
+  },
+  "id": "dca2713f-6cab-44e1-800e-4632d19b2977",
+  "isrc": "JPCO05600120",
+  "released": "1993",
+  "status": "ok",
+  "title": "東京だョおっ母さん",
   "v": 2
  },
  "東京のバスガール|コロムビアローズ": {
@@ -17498,6 +18383,24 @@
   "released": "1993-10-01",
   "status": "ok",
   "title": "柔",
+  "v": 2
+ },
+ "柳ヶ瀬ブルース|美川憲一": {
+  "album": "Best 16",
+  "artist": "美川憲一",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "宇佐英雄"
+   ],
+   "lyricist": [
+    "宇佐英雄"
+   ]
+  },
+  "id": "4915fe48-c0a1-48c9-85df-eaa7009bafe0",
+  "released": "2003-06-25",
+  "status": "ok",
+  "title": "柳ヶ瀬ブルース",
   "v": 2
  },
  "栄光の架橋|ゆず": {
@@ -17873,6 +18776,25 @@
   "title": "浪花節だよ人生は",
   "v": 2
  },
+ "浪花節だよ人生は|細川たかし": {
+  "album": "ベスト100シリーズ 昭和の大ヒット100",
+  "artist": "細川たかし",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "四方章人"
+   ],
+   "lyricist": [
+    "藤田まさと"
+   ]
+  },
+  "id": "3b38eb27-b235-4f65-850c-90dcdc68c86a",
+  "isrc": "JPCO08436090",
+  "released": "1990-12-01",
+  "status": "ok",
+  "title": "浪花節だよ人生は",
+  "v": 2
+ },
  "浮誇|陳奕迅": {
   "album": "U87",
   "artist": "陳奕迅",
@@ -17950,6 +18872,16 @@
   "title": "深い森",
   "v": 2
  },
+ "深海少女|ゆうゆfeat初音ミク": {
+  "album": "V♥25 -Gloria-",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "checked": "2026-11-15",
+  "id": "1307d203-def2-4c0d-9d11-4e3405aa7b34",
+  "released": "2013",
+  "status": "ok",
+  "title": "深海少女",
+  "v": 2
+ },
  "渡月橋|倉木麻衣": {
   "album": "渡月橋 ~君 想ふ~",
   "artist": "倉木麻衣",
@@ -18008,6 +18940,11 @@
   "released": "2024-03-15",
   "status": "ok",
   "title": "満ちてゆく",
+  "v": 2
+ },
+ "演歌兄弟|北島三郎鳥羽一郎": {
+  "checked": "2026-11-15",
+  "status": "none",
   "v": 2
  },
  "瀬戸の花嫁|小柳ルミ子": {
@@ -18195,6 +19132,28 @@
   "released": "2015-07-10",
   "status": "ok",
   "title": "無條件",
+  "v": 2
+ },
+ "無法松の一生|村田英雄": {
+  "album": "精選盤 昭和の流行歌",
+  "artist": "村田英雄",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "古賀政男"
+   ],
+   "composer": [
+    "古賀政男"
+   ],
+   "lyricist": [
+    "吉野夫二郎"
+   ]
+  },
+  "id": "97837fd8-0d22-4a23-8b33-2fce85ccd73d",
+  "isrc": "JPCO05800430",
+  "released": "1993",
+  "status": "ok",
+  "title": "無法松の一生",
   "v": 2
  },
  "熱き心に|小林旭": {
@@ -18401,6 +19360,25 @@
   "title": "珍島物語",
   "v": 2
  },
+ "甘噛み|葛葉": {
+  "album": "Sweet Bite",
+  "artist": "葛葉",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "明希"
+   ],
+   "lyricist": [
+    "マオ"
+   ]
+  },
+  "id": "4570e389-c021-4a65-a6f1-eb6022270356",
+  "isrc": "JPPO02200035",
+  "released": "2022-03-09",
+  "status": "ok",
+  "title": "甘噛み",
+  "v": 2
+ },
  "生まれてはじめて|神田沙也加松たか子": {
   "album": "アナと雪の女王 (オリジナル・サウンドトラック -デラックス・エディション-)",
   "artist": "神田沙也加、松たか子",
@@ -18510,6 +19488,25 @@
   "released": "2008-03-12",
   "status": "ok",
   "title": "白い恋人達",
+  "v": 2
+ },
+ "白い海峡|大月みやこ": {
+  "album": "大月みやこ 60周年記念コンサート このひと時 今もあなたと",
+  "artist": "大月みやこ",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "伊藤雪彦"
+   ],
+   "lyricist": [
+    "池田充男"
+   ]
+  },
+  "id": "c426e89d-5a20-4902-aff1-318ea761ddbe",
+  "isrc": "JPKI02315504",
+  "released": "2024-03-13",
+  "status": "ok",
+  "title": "白い海峡",
   "v": 2
  },
  "白い雲のように|猿岩石": {
@@ -18860,6 +19857,11 @@
   "title": "神のまにまに",
   "v": 2
  },
+ "神田川|南こうせつとかぐや姫": {
+  "checked": "2026-11-15",
+  "status": "none",
+  "v": 2
+ },
  "私は最強|ado": {
   "album": "マーズ",
   "artist": "Ado",
@@ -19185,6 +20187,25 @@
   "released": "2025-12-01",
   "status": "ok",
   "title": "織姫とBABY",
+  "v": 2
+ },
+ "美しい十代|三田明": {
+  "album": "決定版！吉田メロディー",
+  "artist": "三田明",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "吉田正"
+   ],
+   "lyricist": [
+    "宮川哲夫"
+   ]
+  },
+  "id": "7536f00d-7a37-43b6-a552-1c39f5e51a7c",
+  "isrc": "JPVI06300560",
+  "released": "1993",
+  "status": "ok",
+  "title": "美しい十代",
   "v": 2
  },
  "美しい鰭|スピッツ": {
@@ -19719,6 +20740,26 @@
   "title": "裸の心",
   "v": 2
  },
+ "襟裳岬|森進一": {
+  "album": "グランド・デラックス",
+  "artist": "森進一",
+  "checked": "2026-11-15",
+  "id": "ed00c079-e71b-453d-aa5d-114160474f67",
+  "released": "1974-07-25",
+  "status": "ok",
+  "title": "襟裳岬",
+  "v": 2
+ },
+ "見上げてごらん夜の星を|坂本九": {
+  "album": "坂本九メモリアルボックス",
+  "artist": "坂本九",
+  "checked": "2026-11-15",
+  "id": "770a9a02-2eda-4a1b-8a72-c43e865268b1",
+  "released": "1994-09-07",
+  "status": "ok",
+  "title": "見上げてごらん夜の星を",
+  "v": 2
+ },
  "誰人陪我醉|吳勇濱": {
   "checked": "2026-11-08",
   "status": "none",
@@ -20195,6 +21236,16 @@
   "title": "銀座の恋の物語",
   "v": 2
  },
+ "銀座カンカン娘|高峰秀子": {
+  "album": "銀座カンカン娘 / わが夢わが歌",
+  "artist": "高峰秀子",
+  "checked": "2026-11-15",
+  "id": "5a19cf5b-8e04-49d4-902c-74623ec25b27",
+  "released": "1949-04",
+  "status": "ok",
+  "title": "銀座カンカン娘",
+  "v": 2
+ },
  "長く短い祭|椎名林檎": {
   "album": "TOKYO ~ TRIP ~",
   "artist": "椎名林檎",
@@ -20562,6 +21613,28 @@
   "title": "青春アミーゴ",
   "v": 2
  },
+ "青春時代|森田公一とトップギャラン": {
+  "album": "EVERGREEN J‐SONGS",
+  "artist": "森田公一とトップギャラン",
+  "checked": "2026-11-15",
+  "credits": {
+   "arranger": [
+    "森田公一"
+   ],
+   "composer": [
+    "森田公一"
+   ],
+   "lyricist": [
+    "阿久悠"
+   ]
+  },
+  "id": "83c433e7-3b6f-424c-8141-e17265eaba9c",
+  "isrc": "JPSR07609260",
+  "released": "1997-05-21",
+  "status": "ok",
+  "title": "青春時代",
+  "v": 2
+ },
  "青春病|藤井風": {
   "album": "Fujii Kaze “NAN-NAN SHOW 2020” HELP EVER HURT NEVER",
   "artist": "藤井 風",
@@ -20791,6 +21864,25 @@
   "released": "2018-07-25",
   "status": "ok",
   "title": "魔法の絨毯",
+  "v": 2
+ },
+ "鳥取砂丘|水森かおり": {
+  "album": "メモリアルコンサート ～歌謡紀行～ 2022.9.25",
+  "artist": "水森かおり",
+  "checked": "2026-11-15",
+  "credits": {
+   "composer": [
+    "弦哲也"
+   ],
+   "lyricist": [
+    "木下龍太郎"
+   ]
+  },
+  "id": "08f7fe75-7aa3-419b-b78a-f902187f6ed7",
+  "isrc": "JPTK02207960",
+  "released": "2022-12-21",
+  "status": "ok",
+  "title": "鳥取砂丘",
   "v": 2
  },
  "鳴門海流|三山ひろし": {

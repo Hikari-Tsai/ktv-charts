@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.holiday.com.tw/",
- "checked_at": "2026-11-14T18:26:42+08:00",
+ "checked_at": "2026-11-15T18:54:10+08:00",
  "errors": [],
  "charts": [
   {
@@ -1328,6 +1328,19 @@
      "apple": "tw/597217626",
      "spotify": "3n3zzFH7zzO0gJNaw4RKSm",
      "bpm": 68,
+     "range": {
+      "low": 53,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": -4,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -1721,7 +1734,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:16+08:00",
+   "fetched_at": "2026-11-15T18:53:45+08:00",
    "stale": false
   },
   {
@@ -3289,7 +3302,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:19+08:00",
+   "fetched_at": "2026-11-15T18:53:48+08:00",
    "stale": false
   },
   {
@@ -4768,7 +4781,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:23+08:00",
+   "fetched_at": "2026-11-15T18:53:51+08:00",
    "stale": false
   },
   {
@@ -6090,6 +6103,19 @@
      "apple": "tw/268993517",
      "spotify": "54JKnDB3CzVu8wNAOM27BI",
      "bpm": 71,
+     "range": {
+      "low": 65,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -6422,7 +6448,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:26+08:00",
+   "fetched_at": "2026-11-15T18:53:55+08:00",
    "stale": false
   },
   {
@@ -7782,7 +7808,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:30+08:00",
+   "fetched_at": "2026-11-15T18:53:58+08:00",
    "stale": false
   },
   {
@@ -9135,7 +9161,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:33+08:00",
+   "fetched_at": "2026-11-15T18:54:01+08:00",
    "stale": false
   },
   {
@@ -9811,7 +9837,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:35+08:00",
+   "fetched_at": "2026-11-15T18:54:03+08:00",
    "stale": false
   },
   {
@@ -11339,7 +11365,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:38+08:00",
+   "fetched_at": "2026-11-15T18:54:06+08:00",
    "stale": false
   },
   {
@@ -12715,7 +12741,7 @@
    ],
    "period_key": "2026-11-03_2026-11-09",
    "rank_change": "site",
-   "fetched_at": "2026-11-14T18:26:42+08:00",
+   "fetched_at": "2026-11-15T18:54:10+08:00",
    "stale": false
   }
  ]

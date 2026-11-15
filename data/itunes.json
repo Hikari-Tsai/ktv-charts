@@ -318,6 +318,15 @@
   "name": "Automatic",
   "status": "ok"
  },
+ "awake|星街すいせい": {
+  "artist": "星街すいせい",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "J-Pop",
+  "id": 1779410832,
+  "name": "AWAKE",
+  "status": "ok"
+ },
  "awholenewworld|bradkaneandleasalonga": {
   "checked": "2026-11-04",
   "status": "none"
@@ -427,6 +436,15 @@
   "genre": "Hip-Hop/Rap",
   "id": 1314237014,
   "name": "BANG BANG BANG",
+  "status": "ok"
+ },
+ "bangbang|ive": {
+  "artist": "IVE",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "K-Pop",
+  "id": 1872628039,
+  "name": "BANG BANG",
   "status": "ok"
  },
  "basketcase|greenday": {
@@ -636,6 +654,15 @@
   "name": "Booo!",
   "status": "ok"
  },
+ "bpm|kvibaba": {
+  "artist": "Kvi Baba",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Hip-Hop/Rap",
+  "id": 1892738152,
+  "name": "BPM (feat. KREVA)",
+  "status": "ok"
+ },
  "brandnew|mrsgreenapple": {
   "artist": "Mrs. GREEN APPLE",
   "cc": "jp",
@@ -795,6 +822,15 @@
   "genre": "K-Pop",
   "id": 1882581639,
   "name": "Catch Catch",
+  "status": "ok"
+ },
+ "challengers|rofmao": {
+  "artist": "ROF-MAO",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "J-Pop",
+  "id": 1698435439,
+  "name": "Challengers",
   "status": "ok"
  },
  "chandelier|sia": {
@@ -1230,6 +1266,15 @@
   "name": "Eenie Meenie",
   "status": "ok"
  },
+ "endlesslove|dianarosslionelrichie": {
+  "artist": "LIONEL RICHIE & 黛安娜羅絲",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "R&B/Soul",
+  "id": 1440842122,
+  "name": "Endless Love (From \"The Endless Love\" Soundtrack)",
+  "status": "ok"
+ },
  "everyheart|寶兒": {
   "artist": "寶兒",
   "cc": "tw",
@@ -1501,6 +1546,15 @@
   "genre": "Pop",
   "id": 1440860821,
   "name": "Good Time",
+  "status": "ok"
+ },
+ "go|cortis": {
+  "artist": "CORTIS",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "K-Pop",
+  "id": 1832031336,
+  "name": "GO!",
   "status": "ok"
  },
  "go|flow": {
@@ -2394,6 +2448,15 @@
   "name": "Love Me Madly",
   "status": "ok"
  },
+ "lovemetender|elvispresley": {
+  "artist": "Elvis Aron Presley",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "Rock",
+  "id": 674507904,
+  "name": "Love Me Tender (From \"Love Me Tender\")",
+  "status": "ok"
+ },
  "loveme|engelberthumperdinck": {
   "checked": "2026-11-04",
   "status": "none"
@@ -3110,6 +3173,15 @@
   "genre": "Pop",
   "id": 413623677,
   "name": "Rolling In the Deep",
+  "status": "ok"
+ },
+ "rosier|lunasea": {
+  "artist": "LUNA SEA",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Rock",
+  "id": 1716066225,
+  "name": "ROSIER",
   "status": "ok"
  },
  "rpg|sekainoowari": {
@@ -3968,6 +4040,15 @@
   "name": "We Don't Talk Anymore (feat. Selena Gomez)",
   "status": "ok"
  },
+ "wegoup|babymonster": {
+  "artist": "BABYMONSTER",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "Korean Hip-Hop",
+  "id": 1843247941,
+  "name": "WE GO UP",
+  "status": "ok"
+ },
  "wereallalone|bozscaggs": {
   "artist": "Boz Scaggs",
   "cc": "jp",
@@ -4057,6 +4138,10 @@
   "id": 1772644601,
   "name": "Whiplash",
   "status": "ok"
+ },
+ "whitechristmas|bingcrosby": {
+  "checked": "2026-11-15",
+  "status": "none"
  },
  "windingroad|絢香コブクロ": {
   "artist": "絢香×コブクロ",
@@ -4304,6 +4389,15 @@
   "name": "あずさ2号 (2015 Remaster)",
   "status": "ok"
  },
+ "あなたのキスを数えましょうyouweremine|小柳ゆき": {
+  "artist": "小柳ゆき",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "J-Pop",
+  "id": 285608818,
+  "name": "あなたのキスを数えましょう~You Were Mine~ <album Version>",
+  "status": "ok"
+ },
  "あなたの夜が明けるまで|傘村トータ": {
   "artist": "傘村トータ",
   "cc": "jp",
@@ -4540,6 +4634,15 @@
   "genre": "Anime",
   "id": 1368260334,
   "name": "からくりピエロ",
+  "status": "ok"
+ },
+ "からたち日記|島倉千代子": {
+  "artist": "島倉千代子",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Enka",
+  "id": 103822297,
+  "name": "からたち日記",
   "status": "ok"
  },
  "きゃぴ|宝鐘マリン": {
@@ -6235,6 +6338,15 @@
   "name": "バブリン",
   "status": "ok"
  },
+ "バレリーコ|みきとpfeatgumi": {
+  "artist": "みきとP",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Anime",
+  "id": 1521399734,
+  "name": "バレリーコ (feat. GUMI)",
+  "status": "ok"
+ },
  "パイパイ仮面でどうかしらん|宝鐘マリン": {
   "artist": "宝鐘マリン",
   "cc": "jp",
@@ -6779,6 +6891,15 @@
   "name": "モニタリング",
   "status": "ok"
  },
+ "モブノデレラ|me": {
+  "artist": "≠ME",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "J-Pop",
+  "id": 1808903734,
+  "name": "モブノデレラ",
+  "status": "ok"
+ },
  "ヤキツキ|緋八マナ": {
   "artist": "緋八マナ",
   "cc": "jp",
@@ -6809,6 +6930,10 @@
   "id": 1739088799,
   "name": "ライラック",
   "status": "ok"
+ },
+ "ラジオ体操第一おしみ先生の解説|ごぼう先生": {
+  "checked": "2026-11-15",
+  "status": "none"
  },
  "ラブストリは突然に|小田和正": {
   "artist": "小田 和正",
@@ -7457,6 +7582,15 @@
   "genre": "Kayokyoku",
   "id": 1189864241,
   "name": "二人でお酒を",
+  "status": "ok"
+ },
+ "二人の世界|石原裕次郎": {
+  "artist": "石原裕次郎",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 1838711254,
+  "name": "二人の世界",
   "status": "ok"
  },
  "二人は若い|ディックミネ星玲子": {
@@ -8179,6 +8313,15 @@
   "name": "北ウイング",
   "status": "ok"
  },
+ "北上夜曲|和田弘とマヒナスターズ多摩幸子": {
+  "artist": "多摩幸子/和田弘とマヒナスターズ",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 1136158587,
+  "name": "北上夜曲",
+  "status": "ok"
+ },
  "北国の春|千昌夫": {
   "artist": "千昌夫",
   "cc": "jp",
@@ -8425,6 +8568,15 @@
   "name": "君という名の翼",
   "status": "ok"
  },
+ "君といつまでも|加山雄三": {
+  "artist": "加山雄三",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 562830654,
+  "name": "君といつまでも",
+  "status": "ok"
+ },
  "君のまま|百足韻マン": {
   "artist": "百足 & 韻マン",
   "cc": "jp",
@@ -8513,6 +8665,15 @@
   "genre": "J-Pop",
   "id": 1688512736,
   "name": "命に嫌われている",
+  "status": "ok"
+ },
+ "命ばっかり|ぬゆり": {
+  "artist": "ぬゆり",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Anime",
+  "id": 1648876228,
+  "name": "命ばっかり",
   "status": "ok"
  },
  "命運的演歌|謝宜君柯俊傑": {
@@ -8828,6 +8989,15 @@
   "name": "夜明けのブルース",
   "status": "ok"
  },
+ "夜桜お七|坂本冬美": {
+  "artist": "坂本冬美",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 1439283144,
+  "name": "夜桜お七",
+  "status": "ok"
+ },
  "夜玫瑰|謝宜君": {
   "artist": "謝宜君",
   "cc": "tw",
@@ -9069,6 +9239,15 @@
   "genre": "Kayokyoku",
   "id": 1350401861,
   "name": "奥飛騨慕情",
+  "status": "ok"
+ },
+ "女のみち|宮史郎とぴんからトリオ": {
+  "artist": "宮 史郎とぴんからトリオ",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Enka",
+  "id": 926643636,
+  "name": "女のみち",
   "status": "ok"
  },
  "女の一生|古都清乃": {
@@ -9352,6 +9531,15 @@
   "genre": "Mandopop",
   "id": 1017697311,
   "name": "小幸運 (電影《我的少女時代》主題曲)",
+  "status": "ok"
+ },
+ "小指の想い出|伊東ゆかり": {
+  "artist": "伊東ゆかり",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "J-Pop",
+  "id": 1658453046,
+  "name": "小指の想い出",
   "status": "ok"
  },
  "小樽のひとよ|鶴岡雅義と東京ロマンチカ": {
@@ -9793,6 +9981,15 @@
   "genre": "Kayokyoku",
   "id": 1137837005,
   "name": "恋のバカンス",
+  "status": "ok"
+ },
+ "恋の季節|ピンキーとキラーズ": {
+  "artist": "ピンキーとキラーズ",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 1729584110,
+  "name": "恋の季節",
   "status": "ok"
  },
  "恋の町札幌|石原裕次郎": {
@@ -10544,6 +10741,15 @@
   "name": "我甘願重新愛過 (Feat.狗柏)",
   "status": "ok"
  },
+ "我的貓會後空翻|陳華": {
+  "artist": "陳華",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "Mandopop",
+  "id": 6830581290,
+  "name": "我的貓會後空翻",
+  "status": "ok"
+ },
  "我護我|張碧晨": {
   "artist": "張碧晨",
   "cc": "tw",
@@ -10668,6 +10874,15 @@
   "genre": "Anime",
   "id": 1593988227,
   "name": "抜錨",
+  "status": "ok"
+ },
+ "抱抱你自己|吳克羣畢夏": {
+  "artist": "吳克群 & 畢夏",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "Mandopop",
+  "id": 6831055453,
+  "name": "抱抱你自己 (聽,誰在唱歌2 第4期) [Live]",
   "status": "ok"
  },
  "拒絕再玩|張國榮": {
@@ -10897,6 +11112,15 @@
   "genre": "Enka",
   "id": 1613465321,
   "name": "星影のワルツ",
+  "status": "ok"
+ },
+ "星降る街角|敏いとうとハッピーブルー": {
+  "artist": "敏いとう と ハッピー&ブルー",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 1327784948,
+  "name": "星降る街角",
   "status": "ok"
  },
  "春よ来い|松任谷由実": {
@@ -11427,6 +11651,15 @@
   "genre": "Cantopop",
   "id": 345895772,
   "name": "極速",
+  "status": "ok"
+ },
+ "樹枝孤鳥|伍佰chinablue": {
+  "artist": "伍佰",
+  "cc": "tw",
+  "checked": "2026-11-15",
+  "genre": "Tai-Pop",
+  "id": 379810442,
+  "name": "樹枝孤鳥",
   "status": "ok"
  },
  "欲落未落|dior大穎": {
@@ -12238,6 +12471,15 @@
   "genre": "J-Pop",
   "id": 1083421429,
   "name": "白い恋人達",
+  "status": "ok"
+ },
+ "白い海峡|大月みやこ": {
+  "artist": "大月みやこ",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 1797032352,
+  "name": "白い海峡",
   "status": "ok"
  },
  "白い雲のように|猿岩石": {
@@ -13798,6 +14040,15 @@
   "checked": "2026-11-04",
   "status": "none"
  },
+ "青春時代|森田公一とトップギャラン": {
+  "artist": "森田公一 & トップギャラン",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Kayokyoku",
+  "id": 1537120391,
+  "name": "青春時代",
+  "status": "ok"
+ },
  "青春病|藤井風": {
   "artist": "藤井 風",
   "cc": "jp",
@@ -13975,6 +14226,15 @@
   "genre": "J-Pop",
   "id": 1573810335,
   "name": "魔法の絨毯",
+  "status": "ok"
+ },
+ "鳥取砂丘|水森かおり": {
+  "artist": "水森かおり",
+  "cc": "jp",
+  "checked": "2026-11-15",
+  "genre": "Enka",
+  "id": 1840555325,
+  "name": "鳥取砂丘",
   "status": "ok"
  },
  "鳴門海流|三山ひろし": {
