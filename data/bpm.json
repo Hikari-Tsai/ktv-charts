@@ -692,6 +692,17 @@
   "status": "ok",
   "track": "jp/1720332181"
  },
+ "bluejeans|hana": {
+  "avg_bpm": 110.054,
+  "beats": 55,
+  "bpm": 110.036,
+  "checked": "2026-11-16",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "jp/1821849522"
+ },
  "bluesky|銀赫": {
   "avg_bpm": 126.876,
   "beats": 63,
@@ -1131,6 +1142,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/924335634"
+ },
+ "countingstars|onerepublic": {
+  "avg_bpm": 122.163,
+  "beats": 62,
+  "bpm": 122.068,
+  "checked": "2026-11-16",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1440862803"
  },
  "crash|alldayproject": {
   "avg_bpm": 131.935,
@@ -1978,6 +2000,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/6763656725"
+ },
+ "healtheworld|michaeljackson": {
+  "avg_bpm": 78.136,
+  "beats": 39,
+  "bpm": 78.136,
+  "checked": "2026-11-16",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/322847189"
  },
  "heartman|øzi": {
   "avg_bpm": 100.134,
@@ -5455,6 +5488,17 @@
   "status": "ok",
   "track": "jp/103822297"
  },
+ "かわいいだけじゃだめですか|cutiestreet": {
+  "avg_bpm": 170.04,
+  "beats": 85,
+  "bpm": 170.041,
+  "checked": "2026-11-16",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "jp/6827088616"
+ },
  "きゃぴ|宝鐘マリン": {
   "avg_bpm": 145.161,
   "beats": 73,
@@ -6664,6 +6708,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1549781226"
+ },
+ "キャットラビング|香椎モイミ": {
+  "avg_bpm": 162.953,
+  "beats": 79,
+  "bpm": 162.953,
+  "checked": "2026-11-16",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "jp/1688513108"
  },
  "キューティーハニー|倖田來未": {
   "avg_bpm": 154.826,
@@ -9480,6 +9535,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/6828790130"
+ },
+ "再會啦心愛的無緣的人|施文彬": {
+  "avg_bpm": 70.055,
+  "beats": 35,
+  "bpm": 70.121,
+  "checked": "2026-11-16",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/908225691"
  },
  "再見的時候電影陽光女子合唱團主題曲再見版|洪佩瑜": {
   "avg_bpm": 119.595,
@@ -13011,6 +13077,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1555177261"
+ },
+ "日曜日|backnumber": {
+  "avg_bpm": 99.932,
+  "beats": 50,
+  "bpm": 99.986,
+  "checked": "2026-11-16",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "jp/1451577775"
  },
  "早知結局會失去|任夏": {
   "avg_bpm": 66.025,

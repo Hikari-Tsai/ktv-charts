@@ -150,6 +150,11 @@
   "title": "The Closer You Are",
   "v": 2
  },
+ "countingstars|onerepublic": {
+  "checked": "2026-11-16",
+  "status": "none",
+  "v": 2
+ },
  "cruelsummer|taylorswift": {
   "checked": "2026-11-08",
   "status": "none",
@@ -1685,6 +1690,21 @@
  "再一次愛你|ray黃霆睿": {
   "checked": "2026-11-08",
   "status": "none",
+  "v": 2
+ },
+ "再會啦心愛的無緣的人|施文彬": {
+  "album": "再會啦心愛的無緣的人",
+  "checked": "2026-11-16",
+  "isrc": "TWA239500036",
+  "item": 12940,
+  "label": "點將",
+  "maker": "點將",
+  "performer": [
+   "施文彬"
+  ],
+  "released": "1995-01-01",
+  "status": "ok",
+  "title": "再會啦心愛的無緣的人",
   "v": 2
  },
  "再見的時候電影陽光女子合唱團主題曲再見版|洪佩瑜": {
@@ -5482,6 +5502,33 @@
   "title": "炙愛",
   "v": 2
  },
+ "炮仔聲|江蕙": {
+  "album": "戲夢 江蕙LIVE CD",
+  "checked": "2026-11-16",
+  "credits": {
+   "arranger": [
+    "洪敬堯等樂團"
+   ],
+   "composer": [
+    "森祐士"
+   ],
+   "lyricist": [
+    "黃士祐"
+   ]
+  },
+  "isrc": "TWI431300624",
+  "item": 118450,
+  "label": "環球國際",
+  "maker": "喜歡音樂",
+  "performer": [
+   "江蕙"
+  ],
+  "released": "2013-11-27",
+  "status": "ok",
+  "title": "炮仔聲",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "為愛守孤單|袁小迪": {
   "album": "為愛守孤單",
   "checked": "2026-11-10",
@@ -7414,6 +7461,29 @@
   "released": "2008-12-01",
   "status": "ok",
   "title": "餓狼傳說",
+  "v": 2
+ },
+ "體面|于文文": {
+  "album": "《體面》(電影《前任3：再見前任》插曲)",
+  "checked": "2026-11-16",
+  "credits": {
+   "composer": [
+    "于文文"
+   ],
+   "lyricist": [
+    "唐恬"
+   ]
+  },
+  "isrc": "TWDL71700578",
+  "item": 205592,
+  "label": "眾水之音",
+  "maker": "眾水之音",
+  "performer": [
+   "于文文"
+  ],
+  "released": "2018-02-01",
+  "status": "ok",
+  "title": "體面",
   "v": 2
  },
  "鹹酸苦汫|麋先生聖皓": {

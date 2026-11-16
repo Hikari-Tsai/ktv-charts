@@ -1102,6 +1102,26 @@
   "title": "Bling-Bang-Bang-Born",
   "v": 2
  },
+ "bluejeans|hana": {
+  "album": "HANA",
+  "artist": "HANA",
+  "checked": "2026-11-16",
+  "credits": {
+   "arranger": [
+    "Ryosuke “Dr.R” Sakai"
+   ],
+   "producer": [
+    "ちゃんみな",
+    "Ryosuke “Dr.R” Sakai"
+   ]
+  },
+  "id": "10dd89b5-6c8d-46d9-a0e0-2fb59f9e9019",
+  "isrc": "JPU902502140",
+  "released": "2025-07-14",
+  "status": "ok",
+  "title": "Blue Jeans",
+  "v": 2
+ },
  "bluesky|銀赫": {
   "checked": "2026-11-08",
   "status": "none",
@@ -1182,6 +1202,25 @@
   "released": "2026-04-22",
   "status": "ok",
   "title": "BPM",
+  "v": 2
+ },
+ "brandnew|mrsgreenapple": {
+  "album": "POPS",
+  "artist": "Mrs. GREEN APPLE",
+  "checked": "2026-11-16",
+  "credits": {
+   "composer": [
+    "大森元貴"
+   ],
+   "lyricist": [
+    "大森元貴"
+   ]
+  },
+  "id": "dff00c41-0af6-4a2e-a908-a89196bab78b",
+  "isrc": "JPPO02602482",
+  "released": "2026-07-12",
+  "status": "ok",
+  "title": "Brand New",
   "v": 2
  },
  "breakfree|arianagrande": {
@@ -1658,6 +1697,25 @@
   "status": "none",
   "v": 2
  },
+ "countingstars|onerepublic": {
+  "album": "Hit Mania Champions 2014",
+  "artist": "OneRepublic",
+  "checked": "2026-11-16",
+  "credits": {
+   "composer": [
+    "Ryan Tedder"
+   ],
+   "lyricist": [
+    "Ryan Tedder"
+   ]
+  },
+  "id": "f5d1d1e2-e31a-4cec-a87d-d0d8d9b221ef",
+  "isrc": "USUM71301306",
+  "released": "2014-03-04",
+  "status": "ok",
+  "title": "Counting Stars",
+  "v": 2
+ },
  "crash|alldayproject": {
   "album": "CRASH",
   "artist": "ALLDAY PROJECT",
@@ -2050,6 +2108,21 @@
   "released": "2017-03-17",
   "status": "ok",
   "title": "Despacito",
+  "v": 2
+ },
+ "desperado|eagles": {
+  "album": "2004-10-20: Hong Kong Coliseum, Hong Kong",
+  "artist": "Eagles",
+  "checked": "2026-11-16",
+  "credits": {
+   "writer": [
+    "Glenn Frey",
+    "Don Henley"
+   ]
+  },
+  "id": "78bf9dcb-82fb-4b67-a273-1c8e68eb8e4b",
+  "status": "ok",
+  "title": "Desperado",
   "v": 2
  },
  "die|ladygagabrunomars": {
@@ -2993,6 +3066,24 @@
   "released": "2026-05-29",
   "status": "ok",
   "title": "hate that i made you love me",
+  "v": 2
+ },
+ "healtheworld|michaeljackson": {
+  "album": "Not Guilty: Special Fan Edition",
+  "artist": "Michael Jackson",
+  "checked": "2026-11-16",
+  "credits": {
+   "composer": [
+    "Michael Jackson"
+   ],
+   "lyricist": [
+    "Michael Jackson"
+   ]
+  },
+  "id": "5a2c5dbe-1fd1-4036-bcff-c189c102c110",
+  "released": "2005",
+  "status": "ok",
+  "title": "Heal the World",
   "v": 2
  },
  "help|kobokanaeru": {
@@ -8463,6 +8554,27 @@
   "title": "からたち日記",
   "v": 2
  },
+ "かわいいだけじゃだめですか|cutiestreet": {
+  "artist": "CUTIE STREET",
+  "checked": "2026-11-16",
+  "credits": {
+   "arranger": [
+    "早川博隆",
+    "渡邉俊彦"
+   ],
+   "composer": [
+    "早川博隆",
+    "渡邉俊彦"
+   ],
+   "lyricist": [
+    "早川博隆"
+   ]
+  },
+  "id": "dedfe89d-2d12-4c85-a2a0-24d291b4df74",
+  "status": "ok",
+  "title": "かわいいだけじゃだめですか？",
+  "v": 2
+ },
  "きゃぴ|宝鐘マリン": {
   "album": "Kyapi",
   "artist": "宝鐘マリン",
@@ -10349,6 +10461,22 @@
   "released": "1997-04-23",
   "status": "ok",
   "title": "キミがいれば",
+  "v": 2
+ },
+ "キャットラビング|香椎モイミ": {
+  "artist": "香椎モイミ feat. 可不",
+  "checked": "2026-11-16",
+  "credits": {
+   "composer": [
+    "香椎モイミ"
+   ],
+   "lyricist": [
+    "香椎モイミ"
+   ]
+  },
+  "id": "d2401d5b-09db-4b93-936a-08ebf80b2ed1",
+  "status": "ok",
+  "title": "キャットラビング",
   "v": 2
  },
  "キュートなカノジョfeat可不|syudou": {
@@ -14204,6 +14332,11 @@
   "status": "none",
   "v": 2
  },
+ "再會啦心愛的無緣的人|施文彬": {
+  "checked": "2026-11-16",
+  "status": "none",
+  "v": 2
+ },
  "冬が終わる前に|清水翔太": {
   "album": "ALL SINGLES BEST",
   "artist": "清水翔太",
@@ -15357,6 +15490,17 @@
   "released": "2026-10-02",
   "status": "ok",
   "title": "夕星-ゆうづつ-",
+  "v": 2
+ },
+ "夕焼け雲|千昌夫": {
+  "album": "最新ベストヒット〜きんぴら",
+  "artist": "千昌夫",
+  "checked": "2026-11-16",
+  "id": "37822718-020e-41e2-86a8-a1900aa32ca3",
+  "isrc": "JPTK07610101",
+  "released": "1997-07-24",
+  "status": "ok",
+  "title": "夕焼け雲",
   "v": 2
  },
  "夕陽の丘|石原裕次郎浅丘ルリ子": {
@@ -16698,6 +16842,16 @@
   "released": "2022-01-10",
   "status": "ok",
   "title": "悪魔の子",
+  "v": 2
+ },
+ "悪魔の踊り方|こんにちは谷田さん": {
+  "album": "悪魔の踊り方",
+  "artist": "こんにちは谷田さん feat. 鏡音リン",
+  "checked": "2026-11-16",
+  "id": "b4b3e301-6bd8-4baa-8f00-581cbdefc4bf",
+  "released": "2018-04-28",
+  "status": "ok",
+  "title": "悪魔の踊り方",
   "v": 2
  },
  "悪魔の踊り方|キタニタツヤ": {
@@ -20649,6 +20803,25 @@
   "released": "2026-07-25",
   "status": "ok",
   "title": "螺旋",
+  "v": 2
+ },
+ "街のサンドイッチマン|鶴田浩二": {
+  "album": "決定版！吉田メロディー",
+  "artist": "鶴田浩二",
+  "checked": "2026-11-16",
+  "credits": {
+   "composer": [
+    "吉田正"
+   ],
+   "lyricist": [
+    "宮川哲夫"
+   ]
+  },
+  "id": "22b55c1f-2211-4797-b6e7-c8436b09de45",
+  "isrc": "JPVI05300040",
+  "released": "1993",
+  "status": "ok",
+  "title": "街のサンドイッチマン",
   "v": 2
  },
  "表裏一体|ゆず": {

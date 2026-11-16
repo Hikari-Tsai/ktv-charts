@@ -570,6 +570,15 @@
   "status": "ok",
   "v": 2
  },
+ "bluejeans|hana": {
+  "artist": "HANA",
+  "checked": "2026-11-16",
+  "id": "5klNADgwB1K5j2quV0SCDL",
+  "market": "JP",
+  "name": "Blue Jeans",
+  "status": "ok",
+  "v": 2
+ },
  "bluesky|銀赫": {
   "checked": "2026-11-08",
   "status": "none",
@@ -630,6 +639,15 @@
   "id": "6SMUXzvpo1dGg1N7QaMjvy",
   "market": "JP",
   "name": "BPM (feat. KREVA)",
+  "status": "ok",
+  "v": 2
+ },
+ "brandnew|mrsgreenapple": {
+  "artist": "Mrs. GREEN APPLE",
+  "checked": "2026-11-16",
+  "id": "3Z8NMM7IRu4YKDHBo6vmX3",
+  "market": "JP",
+  "name": "Brand New",
   "status": "ok",
   "v": 2
  },
@@ -884,6 +902,15 @@
   "status": "ok",
   "v": 2
  },
+ "countingstars|onerepublic": {
+  "artist": "OneRepublic",
+  "checked": "2026-11-16",
+  "id": "2tpWsVSb9UEmDRxAl1zhX1",
+  "market": "TW",
+  "name": "Counting Stars",
+  "status": "ok",
+  "v": 2
+ },
  "crash|alldayproject": {
   "artist": "ALLDAY PROJECT",
   "checked": "2026-11-05",
@@ -1077,6 +1104,15 @@
   "id": "6habFhsOp2NvshLv26DqMb",
   "market": "TW",
   "name": "Despacito",
+  "status": "ok",
+  "v": 2
+ },
+ "desperado|eagles": {
+  "artist": "Eagles",
+  "checked": "2026-11-16",
+  "id": "2TjnCxxQRYn56Ye8gkUKiW",
+  "market": "TW",
+  "name": "Desperado - 2013 Remaster",
   "status": "ok",
   "v": 2
  },
@@ -1538,6 +1574,15 @@
   "id": "20jbSiX29FDX4oQxBXyUEi",
   "market": "TW",
   "name": "hate that i made you love me",
+  "status": "ok",
+  "v": 2
+ },
+ "healtheworld|michaeljackson": {
+  "artist": "Michael Jackson",
+  "checked": "2026-11-16",
+  "id": "7woW97CfcWaKtuC6W5BP2K",
+  "market": "TW",
+  "name": "Heal the World",
   "status": "ok",
   "v": 2
  },
@@ -4439,6 +4484,15 @@
   "status": "ok",
   "v": 2
  },
+ "かわいいだけじゃだめですか|cutiestreet": {
+  "artist": "CUTIE STREET",
+  "checked": "2026-11-16",
+  "id": "6njCYAgcQgHAmbN7VChcrI",
+  "market": "JP",
+  "name": "かわいいだけじゃだめですか？",
+  "status": "ok",
+  "v": 2
+ },
  "きゃぴ|宝鐘マリン": {
   "artist": "宝鐘マリン",
   "checked": "2026-11-08",
@@ -5391,6 +5445,15 @@
   "id": "4cwWUglunNMl5dj7yumQXo",
   "market": "JP",
   "name": "キミがいれば - 暗殺者ヴァージョン",
+  "status": "ok",
+  "v": 2
+ },
+ "キャットラビング|香椎モイミ": {
+  "artist": "香椎モイミ",
+  "checked": "2026-11-16",
+  "id": "2EjDBwyMAALFfKaaSUCRkz",
+  "market": "JP",
+  "name": "キャットラビング",
   "status": "ok",
   "v": 2
  },
@@ -7681,6 +7744,15 @@
   "status": "ok",
   "v": 2
  },
+ "再會啦心愛的無緣的人|施文彬": {
+  "artist": "施文彬",
+  "checked": "2026-11-16",
+  "id": "5XZKK64s6wjd0P5MowNuB1",
+  "market": "TW",
+  "name": "再會啦心愛的無緣的人",
+  "status": "ok",
+  "v": 2
+ },
  "再見的時候電影陽光女子合唱團主題曲再見版|洪佩瑜": {
   "artist": "洪佩瑜",
   "checked": "2026-11-08",
@@ -8459,6 +8531,15 @@
   "market": "JP",
   "name": "夕星-ゆうづつ-",
   "status": "ok"
+ },
+ "夕焼け雲|千昌夫": {
+  "artist": "千昌夫",
+  "checked": "2026-11-16",
+  "id": "6rdLvrmN4DyOaGUyj8yEKz",
+  "market": "JP",
+  "name": "夕焼け雲",
+  "status": "ok",
+  "v": 2
  },
  "夕陽の丘|石原裕次郎浅丘ルリ子": {
   "artist": "石原裕次郎, 浅丘ルリ子",
@@ -9497,6 +9578,11 @@
   "status": "ok",
   "v": 2
  },
+ "悪魔の踊り方|こんにちは谷田さん": {
+  "checked": "2026-11-16",
+  "status": "none",
+  "v": 2
+ },
  "悪魔の踊り方|キタニタツヤ": {
   "artist": "キタニタツヤ",
   "checked": "2026-11-10",
@@ -10400,6 +10486,15 @@
   "id": "7uSLJCDetmdm3tQcoYLyty",
   "market": "JP",
   "name": "旅路",
+  "status": "ok",
+  "v": 2
+ },
+ "日曜日|backnumber": {
+  "artist": "back number",
+  "checked": "2026-11-16",
+  "id": "7a0rnqKRdCSHqqfx5Nfp6V",
+  "market": "JP",
+  "name": "日曜日",
   "status": "ok",
   "v": 2
  },
@@ -11351,6 +11446,15 @@
   "id": "2yMZPJsE86Lhyw3EYvkznx",
   "market": "TW",
   "name": "炙愛 (最初)",
+  "status": "ok",
+  "v": 2
+ },
+ "炮仔聲|江蕙": {
+  "artist": "江蕙",
+  "checked": "2026-11-16",
+  "id": "1IIOOY4F1Tw3vTrOKBDeju",
+  "market": "TW",
+  "name": "炮仔聲",
   "status": "ok",
   "v": 2
  },
@@ -13251,6 +13355,15 @@
   "id": "4wl9iITsMpHSpCOxlVQZuR",
   "market": "TW",
   "name": "餓狼傳說",
+  "status": "ok",
+  "v": 2
+ },
+ "體面|于文文": {
+  "artist": "于文文",
+  "checked": "2026-11-16",
+  "id": "6TBpC71F18s4B6VkW6Qrv3",
+  "market": "TW",
+  "name": "體面（《前任3 再見前任》電影插曲）",
   "status": "ok",
   "v": 2
  },
