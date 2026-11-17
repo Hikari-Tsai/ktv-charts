@@ -450,6 +450,17 @@
   "status": "ok",
   "track": "tw/1440803930"
  },
+ "badday|danielpowter": {
+  "avg_bpm": 69.959,
+  "beats": 35,
+  "bpm": 69.987,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/63816165"
+ },
  "badgirlgoodgirl|missa": {
   "avg_bpm": 136.182,
   "beats": 69,
@@ -526,6 +537,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1872628039"
+ },
+ "barbiegirl|aqua": {
+  "avg_bpm": 129.905,
+  "beats": 65,
+  "bpm": 129.905,
+  "checked": "2026-11-17",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1440768563"
  },
  "basketcase|greenday": {
   "avg_bpm": 170.455,
@@ -856,6 +878,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/1756473589"
+ },
+ "butter|bts防彈少年團": {
+  "avg_bpm": 110.147,
+  "beats": 56,
+  "bpm": 110.03,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1627575769"
  },
  "buzzlove|voltaction": {
   "avg_bpm": 122.163,
@@ -1550,6 +1583,17 @@
   "status": "ok",
   "track": "tw/1440842122"
  },
+ "endlessseason|圭賢": {
+  "avg_bpm": 71.967,
+  "beats": 36,
+  "bpm": 71.967,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6831071728"
+ },
  "everyheart|寶兒": {
   "avg_bpm": 71.09,
   "beats": 36,
@@ -1714,6 +1758,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/1767556411"
+ },
+ "freeloop|danielpowter": {
+  "avg_bpm": 75.366,
+  "beats": 37,
+  "bpm": 75.338,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/63816163"
  },
  "gangnamstyle|psy泫雅": {
   "avg_bpm": 131.935,
@@ -2121,6 +2176,17 @@
   "signature": null,
   "status": "ok",
   "track": "tw/6829122414"
+ },
+ "hooligan|bts防彈少年團": {
+  "avg_bpm": 131.148,
+  "beats": 65,
+  "bpm": 131.148,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1868481906"
  },
  "hotelcalifornia|eagles": {
   "avg_bpm": 73.569,
@@ -2561,6 +2627,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/79140884"
+ },
+ "justgivemeareason|pinknateruess": {
+  "avg_bpm": 95.041,
+  "beats": 47,
+  "bpm": 95.046,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/545728187"
  },
  "justgivemeareason|pnk": {
   "avg_bpm": 95.041,
@@ -3276,6 +3353,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1692762654"
+ },
+ "normal|bts防彈少年團": {
+  "avg_bpm": 75.051,
+  "beats": 38,
+  "bpm": 75.008,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1885720624"
  },
  "nothingsgonnachangemyloveforyou|方大同": {
   "avg_bpm": 129.01,
@@ -4618,6 +4706,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/913346311"
+ },
+ "up|ateez": {
+  "avg_bpm": 80.917,
+  "beats": 41,
+  "bpm": 80.917,
+  "checked": "2026-11-17",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6819932404"
  },
  "utsushikagami|藝聲": {
   "avg_bpm": 150.101,
@@ -8634,6 +8733,17 @@
   "status": "ok",
   "track": "tw/6831316011"
  },
+ "一見鍾情|翁立友林琇琪": {
+  "avg_bpm": 86.066,
+  "beats": 43,
+  "bpm": 86.066,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6830057735"
+ },
  "一起老去|薛凱琪": {
   "avg_bpm": 95.041,
   "beats": 47,
@@ -8953,6 +9063,17 @@
   "status": "ok",
   "track": "jp/1801477598"
  },
+ "乾杯|長渕剛": {
+  "avg_bpm": 68.088,
+  "beats": 34,
+  "bpm": 68.088,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6781496615"
+ },
  "亂世巨星|陳小春": {
   "avg_bpm": 109.053,
   "beats": 54,
@@ -9118,6 +9239,17 @@
   "status": "ok",
   "track": "tw/6784721573"
  },
+ "以後別做朋友|周興哲": {
+  "avg_bpm": 65.484,
+  "beats": 33,
+  "bpm": 65.488,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/903273144"
+ },
  "伊是阮老爸|賴銘偉": {
   "avg_bpm": 86.124,
   "beats": 43,
@@ -9194,6 +9326,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1754576706"
+ },
+ "你怎麼可以幸福的那麼快|承桓": {
+  "avg_bpm": 79.973,
+  "beats": 40,
+  "bpm": 79.979,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6777275431"
  },
  "你愛誰|蕭玉芬": {
   "avg_bpm": 126.016,
@@ -9679,6 +9822,17 @@
   "status": "ok",
   "track": "tw/1876281769"
  },
+ "別等我不愛你才後悔|戴羽彤": {
+  "avg_bpm": 79.161,
+  "beats": 40,
+  "bpm": 79.161,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1864854036"
+ },
  "刻在我心底的名字|盧廣仲": {
   "avg_bpm": 65.085,
   "beats": 33,
@@ -10096,6 +10250,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/570906515"
+ },
+ "向山野|譚維維": {
+  "avg_bpm": 68.916,
+  "beats": 33,
+  "bpm": 68.949,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1842555935"
  },
  "君という名の翼|コブクロ": {
   "avg_bpm": 134.511,
@@ -10823,6 +10988,17 @@
   "status": "ok",
   "track": "jp/1465863819"
  },
+ "天光以前|草屯囝仔": {
+  "avg_bpm": 66.488,
+  "beats": 34,
+  "bpm": 66.519,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6808174432"
+ },
  "天后|陳勢安": {
   "avg_bpm": 80.027,
   "beats": 40,
@@ -11527,6 +11703,17 @@
   "status": "ok",
   "track": "tw/1724292700"
  },
+ "後來你愛她|陳墨一": {
+  "avg_bpm": 77.978,
+  "beats": 37,
+  "bpm": 77.978,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1860278520"
+ },
  "從前你|于冬然": {
   "avg_bpm": 77.975,
   "beats": 39,
@@ -11659,6 +11846,17 @@
   "status": "ok",
   "track": "tw/1537589754"
  },
+ "心落雨|吳申梅": {
+  "avg_bpm": 80.913,
+  "beats": 40,
+  "bpm": 80.913,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 3,
+  "status": "ok",
+  "track": "tw/6773627379"
+ },
  "心裡有針|蕭煌奇": {
   "avg_bpm": 77.975,
   "beats": 39,
@@ -11713,6 +11911,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/6817718973"
+ },
+ "思念你的心肝你敢知|曾心梅": {
+  "avg_bpm": 123.984,
+  "beats": 62,
+  "bpm": 124.051,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1499496332"
  },
  "怪々々々|剣持刀也": {
   "avg_bpm": 185.984,
@@ -12517,6 +12726,17 @@
   "status": "ok",
   "track": "tw/6820056711"
  },
+ "我不等|小宇cosmos": {
+  "avg_bpm": 74.023,
+  "beats": 37,
+  "bpm": 74.023,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1891404702"
+ },
  "我不難過|孫燕姿": {
   "avg_bpm": 62.198,
   "beats": 31,
@@ -12748,6 +12968,17 @@
   "status": "ok",
   "track": "tw/6783215356"
  },
+ "戒不了的思念|煙嗓船長": {
+  "avg_bpm": 85.003,
+  "beats": 42,
+  "bpm": 85.012,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1859719879"
+ },
  "或許你也|洪暐哲waji": {
   "avg_bpm": 72.967,
   "beats": 36,
@@ -12890,6 +13121,17 @@
   "signature": null,
   "status": "ok",
   "track": "tw/6831055453"
+ },
+ "拍噗仔|吳申梅": {
+  "avg_bpm": 145.064,
+  "beats": 73,
+  "bpm": 145.064,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6797392932"
  },
  "拒絕再玩|張國榮": {
   "avg_bpm": 118.046,
@@ -13165,6 +13407,17 @@
   "signature": 3,
   "status": "ok",
   "track": "jp/1613465321"
+ },
+ "星星下的海|趙乃吉": {
+  "avg_bpm": 67.808,
+  "beats": 34,
+  "bpm": 67.808,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1837489583"
  },
  "星降る街角|敏いとうとハッピーブルー": {
   "avg_bpm": 158.436,
@@ -13804,6 +14057,17 @@
   "status": "ok",
   "track": "jp/1440893427"
  },
+ "楓|周杰倫": {
+  "avg_bpm": 91.899,
+  "beats": 46,
+  "bpm": 91.899,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/536009647"
+ },
  "極速|鄭伊健": {
   "avg_bpm": 144.898,
   "beats": 72,
@@ -14442,6 +14706,17 @@
   "status": "ok",
   "track": "jp/516170668"
  },
+ "無緣的情話|袁小迪麗小花": {
+  "avg_bpm": 80.247,
+  "beats": 40,
+  "bpm": 80.247,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6831654397"
+ },
  "無賴|鄭中基": {
   "avg_bpm": 111.261,
   "beats": 56,
@@ -14937,6 +15212,17 @@
   "status": "ok",
   "track": "jp/1774207327"
  },
+ "瞳をとじて|平井堅": {
+  "avg_bpm": 70.659,
+  "beats": 36,
+  "bpm": 70.659,
+  "checked": "2026-11-17",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "jp/1536100668"
+ },
  "矢切の渡し|細川たかし": {
   "avg_bpm": 131.668,
   "beats": 66,
@@ -14991,6 +15277,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1494282170"
+ },
+ "祝某人|黃靜美": {
+  "avg_bpm": 61.966,
+  "beats": 30,
+  "bpm": 61.966,
+  "checked": "2026-11-17",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1777263477"
  },
  "祝祭無スティバル|剣持刀也": {
   "avg_bpm": 98.189,
@@ -15927,6 +16224,17 @@
   "status": "ok",
   "track": "tw/859838196"
  },
+ "趁早|張宇": {
+  "avg_bpm": 116.011,
+  "beats": 58,
+  "bpm": 115.982,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/914677891"
+ },
  "越冬つばめ|森昌子": {
   "avg_bpm": 86.831,
   "beats": 41,
@@ -16169,6 +16477,17 @@
   "status": "ok",
   "track": "jp/724677682"
  },
+ "都是最好的|coco這個李文": {
+  "avg_bpm": 99.057,
+  "beats": 50,
+  "bpm": 99.005,
+  "checked": "2026-11-17",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1770262996"
+ },
  "酒よ|吉幾三": {
   "avg_bpm": 83.799,
   "beats": 41,
@@ -16278,6 +16597,17 @@
   "signature": null,
   "status": "ok",
   "track": "jp/1740094429"
+ },
+ "長恨曲|翁立友": {
+  "avg_bpm": 64.953,
+  "beats": 33,
+  "bpm": 64.953,
+  "checked": "2026-11-17",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6830057734"
  },
  "長良川艶歌|五木ひろし": {
   "avg_bpm": 73.973,

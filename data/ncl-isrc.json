@@ -80,6 +80,11 @@
   "status": "none",
   "v": 2
  },
+ "badday|danielpowter": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "beautyandabeat|justinbieber": {
   "checked": "2026-11-07",
   "status": "none",
@@ -135,6 +140,16 @@
   "status": "none",
   "v": 2
  },
+ "butter|bts防彈少年團": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
+ "canyoucelebrate|安室奈美惠": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "closer|thechainsmokers": {
   "album": "Old School Oldies 3",
   "checked": "2026-11-08",
@@ -175,6 +190,11 @@
   "status": "none",
   "v": 2
  },
+ "endlessseason|圭賢": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "everyheart|寶兒": {
   "checked": "2026-11-07",
   "status": "none",
@@ -187,6 +207,11 @@
  },
  "firstlove|宇多田光": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "freeloop|danielpowter": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -267,6 +292,11 @@
  },
  "hongkong|theweeknd": {
   "checked": "2026-11-05",
+  "status": "none",
+  "v": 2
+ },
+ "hooligan|bts防彈少年團": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -384,6 +414,11 @@
  },
  "neverdie永不落幕|5566": {
   "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "normal|bts防彈少年團": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -612,6 +647,11 @@
   "status": "none",
   "v": 2
  },
+ "ハルカ|yoasobi": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "ハルジオン|yoasobi": {
   "checked": "2026-11-12",
   "status": "none",
@@ -758,8 +798,41 @@
   "status": "none",
   "v": 2
  },
+ "一生作伴|潘姵莉陳祈信": {
+  "album": "花離枝",
+  "checked": "2026-11-17",
+  "credits": {
+   "arranger": [
+    "蔡明勳"
+   ],
+   "composer": [
+    "陳祈信"
+   ],
+   "lyricist": [
+    "蔡宜霖"
+   ]
+  },
+  "isrc": "TWE532632404",
+  "item": 654644,
+  "label": "華特國際音樂股份有限公司",
+  "maker": "華特國際音樂股份有限公司",
+  "performer": [
+   "潘姵莉",
+   "陳祈信"
+  ],
+  "released": "2026-11-03",
+  "status": "ok",
+  "title": "一生作伴",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "一萬零一次沉溺|李佳薇": {
   "checked": "2026-11-11",
+  "status": "none",
+  "v": 2
+ },
+ "一見鍾情|翁立友林琇琪": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -1026,6 +1099,11 @@
   "status": "none",
   "v": 2
  },
+ "乾杯|長渕剛": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "亂世巨星|陳小春": {
   "checked": "2026-11-06",
   "status": "none",
@@ -1256,6 +1334,30 @@
   "status": "ok",
   "title": "作陣彼一暝",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "你怎麼可以幸福的那麼快|承桓": {
+  "album": "你怎麼可以幸福的那麼快",
+  "checked": "2026-11-17",
+  "credits": {
+   "composer": [
+    "蒙尼"
+   ],
+   "lyricist": [
+    "蒙尼"
+   ]
+  },
+  "isrc": "TWHD32607506",
+  "item": 649376,
+  "label": "嗨庫文化傳媒有限公司",
+  "maker": "嗨庫文化傳媒有限公司",
+  "performer": [
+   "承桓"
+  ],
+  "released": "2026-06-03",
+  "status": "ok",
+  "title": "你怎麼可以幸福的那麼快",
+  "type": "國語流行專輯",
   "v": 2
  },
  "你愛誰|蕭玉芬": {
@@ -1814,6 +1916,30 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "別等我不愛你才後悔|戴羽彤": {
+  "album": "別等我不愛你才後悔",
+  "checked": "2026-11-17",
+  "credits": {
+   "composer": [
+    "何子岸"
+   ],
+   "lyricist": [
+    "蒙尼"
+   ]
+  },
+  "isrc": "TWHD32524302",
+  "item": 618228,
+  "label": "嗨庫文化傳媒有限公司",
+  "maker": "嗨庫文化傳媒有限公司",
+  "performer": [
+   "戴羽彤"
+  ],
+  "released": "2025-12-23",
+  "status": "ok",
+  "title": "別等我不愛你才後悔",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "刺到整身軀|春風潤少970": {
   "album": "刺到整身軀",
   "checked": "2026-11-06",
@@ -2129,6 +2255,11 @@
  },
  "同往|章昊": {
   "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
+ "向山野|譚維維": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -2475,9 +2606,74 @@
   "status": "none",
   "v": 2
  },
+ "天光以前|草屯囝仔": {
+  "album": "天光以前",
+  "checked": "2026-11-17",
+  "credits": {
+   "arranger": [
+    "葉正豪"
+   ],
+   "composer": [
+    "李明倉"
+   ],
+   "lyricist": [
+    "李明倉"
+   ],
+   "producer": [
+    "吳永吉"
+   ]
+  },
+  "isrc": "TWMX32600002",
+  "item": 680192,
+  "label": "無海娛樂有限公司",
+  "maker": "無海娛樂有限公司",
+  "performer": [
+   "草屯囝仔"
+  ],
+  "released": "2026-09-16",
+  "status": "ok",
+  "title": "天光以前",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "天后|陳勢安": {
   "checked": "2026-11-05",
   "status": "none",
+  "v": 2
+ },
+ "天城越え|石川さゆり": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
+ "天長遞酒|宛宛兒": {
+  "album": "天長遞酒",
+  "checked": "2026-11-17",
+  "credits": {
+   "arranger": [
+    "冠老闆"
+   ],
+   "composer": [
+    "俞碩鈞"
+   ],
+   "lyricist": [
+    "俞碩鈞|蔡沅彣|宛宛兒"
+   ],
+   "producer": [
+    "a.tothe.t|俞碩鈞"
+   ]
+  },
+  "isrc": "TWCT52648335",
+  "item": 660407,
+  "label": "杰思國際娛樂股份有限公司",
+  "maker": "杰思國際娛樂股份有限公司",
+  "performer": [
+   "宛宛兒"
+  ],
+  "released": "2026-07-20",
+  "status": "ok",
+  "title": "天長遞酒",
+  "type": "國語流行專輯",
   "v": 2
  },
  "太陽與地球|盧廣仲": {
@@ -3076,6 +3272,11 @@
   "status": "none",
   "v": 2
  },
+ "後來你愛她|陳墨一": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "從前你|于冬然": {
   "checked": "2026-11-05",
   "status": "none",
@@ -3292,6 +3493,30 @@
   "title": "心若下車",
   "v": 2
  },
+ "心落雨|吳申梅": {
+  "album": "心落雨",
+  "checked": "2026-11-17",
+  "credits": {
+   "composer": [
+    "周韋杰"
+   ],
+   "lyricist": [
+    "周韋杰"
+   ]
+  },
+  "isrc": "TWU712612500",
+  "item": 677218,
+  "label": "滾石移動股份有限公司",
+  "maker": "喜上梅梢娛樂有限公司",
+  "performer": [
+   "吳申梅"
+  ],
+  "released": "2026-06-08",
+  "status": "ok",
+  "title": "心落雨",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "心裡有針|蕭煌奇": {
   "checked": "2026-11-05",
   "status": "none",
@@ -3417,6 +3642,31 @@
   "type": "台語流行專輯",
   "v": 2
  },
+ "思念你的心肝你敢知|曾心梅": {
+  "album": "酒是舞伴你是生命(曾心梅台語原聲典藏專輯3)",
+  "checked": "2026-11-17",
+  "credits": {
+   "composer": [
+    "王尚宏"
+   ],
+   "lyricist": [
+    "陳美玲",
+    "洪芝庭"
+   ]
+  },
+  "isrc": "TWAN70320483",
+  "item": 447613,
+  "label": "詠聯文創科技股份有限公司",
+  "maker": "鄉城唱片股份有限公司",
+  "performer": [
+   "曾心梅"
+  ],
+  "released": "2023-02-22",
+  "status": "ok",
+  "title": "思念你的心肝你敢知",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "怪我太貪心|楊不乖": {
   "checked": "2026-11-06",
   "status": "none",
@@ -3434,6 +3684,11 @@
  },
  "恰恰心花開|陳隨意": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "悲願|金旼鐘": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -3999,6 +4254,11 @@
   "status": "none",
   "v": 2
  },
+ "我不等|小宇cosmos": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "我不難過|孫燕姿": {
   "album": "未完成",
   "checked": "2026-11-06",
@@ -4367,6 +4627,11 @@
   "status": "none",
   "v": 2
  },
+ "戒不了的思念|煙嗓船長": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "或許你也|洪暐哲waji": {
   "checked": "2026-11-07",
   "status": "none",
@@ -4437,6 +4702,32 @@
  "抱抱你自己|吳克羣畢夏": {
   "checked": "2026-11-15",
   "status": "none",
+  "v": 2
+ },
+ "拍噗仔|吳申梅": {
+  "album": "拍噗仔",
+  "checked": "2026-11-17",
+  "credits": {
+   "composer": [
+    "亦辰兒",
+    "吳申梅"
+   ],
+   "lyricist": [
+    "亦辰兒",
+    "吳申梅"
+   ]
+  },
+  "isrc": "TWU712623098",
+  "item": 691358,
+  "label": "滾石移動股份有限公司",
+  "maker": "喜上梅梢娛樂有限公司",
+  "performer": [
+   "吳申梅"
+  ],
+  "released": "2026-08-05",
+  "status": "ok",
+  "title": "拍噗仔",
+  "type": "台語流行專輯",
   "v": 2
  },
  "拒絕再玩|張國榮": {
@@ -4649,6 +4940,11 @@
  },
  "星影のワルツ|千昌夫": {
   "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "星星下的海|趙乃吉": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -5081,6 +5377,32 @@
   "status": "ok",
   "title": "棉照被",
   "type": "台語流行專輯",
+  "v": 2
+ },
+ "楓|周杰倫": {
+  "album": "11月的蕭邦",
+  "checked": "2026-11-17",
+  "credits": {
+   "arranger": [
+    "鍾興民"
+   ],
+   "composer": [
+    "周杰倫"
+   ],
+   "lyricist": [
+    "宋健彰"
+   ]
+  },
+  "isrc": "TWK970500908",
+  "item": 80901,
+  "label": "新力博德曼",
+  "maker": "黑白鍵(周杰倫)",
+  "performer": [
+   "周杰倫"
+  ],
+  "released": "2005-11-01",
+  "status": "ok",
+  "title": "楓",
   "v": 2
  },
  "極速|鄭伊健": {
@@ -5679,6 +6001,34 @@
   "status": "none",
   "v": 2
  },
+ "無緣的情話|袁小迪麗小花": {
+  "album": "為愛守孤單",
+  "checked": "2026-11-17",
+  "credits": {
+   "arranger": [
+    "丁天牧"
+   ],
+   "composer": [
+    "朱德寶"
+   ],
+   "lyricist": [
+    "朱德寶"
+   ]
+  },
+  "isrc": "TWE532632302",
+  "item": 664706,
+  "label": "華特國際音樂股份有限公司",
+  "maker": "華特國際音樂股份有限公司",
+  "performer": [
+   "袁小迪",
+   "麗小花"
+  ],
+  "released": "2026-11-03",
+  "status": "ok",
+  "title": "無緣的情話",
+  "type": "台語流行專輯",
+  "v": 2
+ },
  "無賴|鄭中基": {
   "album": "怪胎 鄭中基 新曲+精選",
   "checked": "2026-11-05",
@@ -5962,6 +6312,35 @@
   "type": "國語流行專輯",
   "v": 2
  },
+ "癡情玫瑰花|underlover玖壹壹": {
+  "album": "Lover",
+  "checked": "2026-11-17",
+  "credits": {
+   "arranger": [
+    "DJ西瓜(蘇昭文)"
+   ],
+   "composer": [
+    "楊琳"
+   ],
+   "lyricist": [
+    "玖壹壹 洪春風",
+    "蕭昱峋"
+   ]
+  },
+  "isrc": "TWD971500033",
+  "item": 143404,
+  "label": "東聲音樂",
+  "maker": "東聲音樂",
+  "performer": [
+   "Under Lover (地下情人)",
+   "玖壹壹 洪春風"
+  ],
+  "released": "2015-12-15",
+  "status": "ok",
+  "title": "癡情玫瑰花",
+  "type": "國語流行專輯",
+  "v": 2
+ },
  "癡情的男子漢|洋蔥睿兒": {
   "checked": "2026-11-10",
   "status": "none",
@@ -6047,6 +6426,11 @@
   "released": "2008-12-01",
   "status": "ok",
   "title": "祇想一生跟你走",
+  "v": 2
+ },
+ "祝某人|黃靜美": {
+  "checked": "2026-11-17",
+  "status": "none",
   "v": 2
  },
  "祝福|yoasobi": {
@@ -6233,6 +6617,11 @@
  },
  "總覺得做什麼都錯|pizzali": {
   "checked": "2026-11-07",
+  "status": "none",
+  "v": 2
+ },
+ "美麗的痛苦|金旼鐘": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },
@@ -6749,6 +7138,29 @@
   "title": "趁我還會記",
   "v": 2
  },
+ "趁早|張宇": {
+  "album": "張宇男人的好新歌+精選",
+  "checked": "2026-11-17",
+  "credits": {
+   "composer": [
+    "張宇"
+   ],
+   "lyricist": [
+    "十一郎"
+   ]
+  },
+  "isrc": "TWB430415002",
+  "item": 39414,
+  "label": "維京百代",
+  "maker": "喜得",
+  "performer": [
+   "張宇"
+  ],
+  "released": "2005-03-01",
+  "status": "ok",
+  "title": "趁早",
+  "v": 2
+ },
  "跳樓機|lbi利比": {
   "checked": "2026-11-06",
   "status": "none",
@@ -7030,6 +7442,11 @@
   "status": "none",
   "v": 2
  },
+ "都是最好的|coco這個李文": {
+  "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
  "酒よ|吉幾三": {
   "checked": "2026-11-07",
   "status": "none",
@@ -7042,6 +7459,11 @@
  },
  "長崎は今日も雨だった|内山田洋とクールファイブ": {
   "checked": "2026-11-06",
+  "status": "none",
+  "v": 2
+ },
+ "長恨曲|翁立友": {
+  "checked": "2026-11-17",
   "status": "none",
   "v": 2
  },

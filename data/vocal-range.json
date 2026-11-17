@@ -321,6 +321,20 @@
   "v": 1,
   "voiced": 28.4
  },
+ "badday|danielpowter": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 78,
+  "status": "ok",
+  "track": "tw/63816165",
+  "v": 1,
+  "voiced": 22.7
+ },
  "badgirlgoodgirl|missa": {
   "checked": "2026-11-11",
   "dropped": 4,
@@ -404,6 +418,20 @@
   "track": "tw/1314237014",
   "v": 1,
   "voiced": 20.7
+ },
+ "beatit|michaeljackson": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 75,
+  "high_name": "D#5",
+  "low": 61,
+  "low_name": "C#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 76,
+  "status": "ok",
+  "track": "tw/269573341",
+  "v": 1,
+  "voiced": 21.4
  },
  "beautyandabeatfeatnickiminaj|justinbieber": {
   "checked": "2026-11-08",
@@ -544,6 +572,20 @@
   "track": "tw/1776246888",
   "v": 1,
   "voiced": 26.0
+ },
+ "bodytobody|bts防彈少年團": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 73,
+  "high_name": "C#5",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 63,
+  "status": "ok",
+  "track": "tw/1868481905",
+  "v": 1,
+  "voiced": 24.5
  },
  "bohemianrhapsody|queen": {
   "checked": "2026-11-11",
@@ -1387,6 +1429,20 @@
   "v": 1,
   "voiced": 22.9
  },
+ "illbehere|圭賢": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 62,
+  "high_name": "D4",
+  "low": 47,
+  "low_name": "B2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 56,
+  "status": "ok",
+  "track": "tw/6831071727",
+  "v": 1,
+  "voiced": 19.5
+ },
  "imgonnatoesa|soyeon": {
   "checked": "2026-11-08",
   "dropped": 3,
@@ -1555,6 +1611,20 @@
   "v": 1,
   "voiced": 22.7
  },
+ "justgivemeareason|pinknateruess": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 73,
+  "high_name": "C#5",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 75,
+  "status": "ok",
+  "track": "tw/545728187",
+  "v": 1,
+  "voiced": 26.1
+ },
  "king|kanaria": {
   "checked": "2026-11-09",
   "dropped": 9,
@@ -1708,6 +1778,20 @@
   "track": "tw/1118367642",
   "v": 1,
   "voiced": 20.3
+ },
+ "likeanimals|bts防彈少年團": {
+  "checked": "2026-11-17",
+  "dropped": 0,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 57,
+  "status": "ok",
+  "track": "tw/1868482085",
+  "v": 1,
+  "voiced": 25.7
  },
  "likejennie|jennie": {
   "checked": "2026-11-11",
@@ -1933,6 +2017,20 @@
   "v": 1,
   "voiced": 26.9
  },
+ "nevergonnagiveyouup|rickastley": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 84,
+  "status": "ok",
+  "track": "tw/1559523359",
+  "v": 1,
+  "voiced": 25.9
+ },
  "nightdancer|imase": {
   "checked": "2026-11-09",
   "dropped": 3,
@@ -2058,6 +2156,20 @@
   "track": "tw/1193701400",
   "v": 1,
   "voiced": 24.4
+ },
+ "pickupthephone|henrymoodie": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 78,
+  "status": "ok",
+  "track": "tw/1691508823",
+  "v": 1,
+  "voiced": 23.6
  },
  "pokerface|ladygaga": {
   "checked": "2026-11-12",
@@ -2563,6 +2675,34 @@
   "v": 1,
   "voiced": 14.7
  },
+ "vivalavida|coldplay": {
+  "checked": "2026-11-17",
+  "dropped": 6,
+  "high": 65,
+  "high_name": "F4",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 70,
+  "status": "ok",
+  "track": "tw/1122778616",
+  "v": 1,
+  "voiced": 26.3
+ },
+ "volumeup|4minute": {
+  "checked": "2026-11-17",
+  "dropped": 5,
+  "high": 77,
+  "high_name": "F5",
+  "low": 63,
+  "low_name": "D#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 91,
+  "status": "ok",
+  "track": "tw/1336761095",
+  "v": 1,
+  "voiced": 25.7
+ },
  "watchme|kdaleagueoflegends": {
   "checked": "2026-11-08",
   "dropped": 3,
@@ -2590,6 +2730,20 @@
   "track": "tw/1709260737",
   "v": 1,
   "voiced": 22.9
+ },
+ "wedonttalkanymore|charlieputh": {
+  "checked": "2026-11-17",
+  "dropped": 5,
+  "high": 71,
+  "high_name": "B4",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 91,
+  "status": "ok",
+  "track": "tw/1137789930",
+  "v": 1,
+  "voiced": 23.2
  },
  "whatmakesyoubeautiful|onedirection": {
   "checked": "2026-11-08",
@@ -2859,6 +3013,20 @@
   "v": 1,
   "voiced": 17.3
  },
+ "くちなしの花|渡哲也": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 53,
+  "high_name": "F3",
+  "low": 44,
+  "low_name": "G#2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 16,
+  "status": "ok",
+  "track": "jp/1676882338",
+  "v": 1,
+  "voiced": 8.6
+ },
  "ここに幸あり|大津美子": {
   "checked": "2026-11-15",
   "model": "game-small-1.0.3+kim-vocal-2",
@@ -2894,6 +3062,20 @@
   "track": "jp/103834101",
   "v": 1,
   "voiced": 25.7
+ },
+ "さよならの前に|aaa": {
+  "checked": "2026-11-17",
+  "dropped": 5,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 96,
+  "status": "ok",
+  "track": "jp/920303888",
+  "v": 1,
+  "voiced": 26.4
  },
  "さよならエレジー|菅田将暉": {
   "checked": "2026-11-08",
@@ -3525,6 +3707,20 @@
   "v": 1,
   "voiced": 22.6
  },
+ "フェイクプリンスリアルプリンセス|mechatua": {
+  "checked": "2026-11-17",
+  "dropped": 8,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 100,
+  "status": "ok",
+  "track": "jp/6789023817",
+  "v": 1,
+  "voiced": 22.8
+ },
  "フォニイ|ツミキ": {
   "checked": "2026-11-12",
   "dropped": 12,
@@ -3762,6 +3958,20 @@
   "track": "jp/1445129117",
   "v": 1,
   "voiced": 22.5
+ },
+ "リンゴの唄|並木路子": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 76,
+  "high_name": "E5",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 48,
+  "status": "ok",
+  "track": "jp/935544016",
+  "v": 1,
+  "voiced": 27.6
  },
  "ルカルカナイトフィーバー|sam": {
   "checked": "2026-11-08",
@@ -4015,6 +4225,20 @@
   "v": 1,
   "voiced": 24.4
  },
+ "一見鍾情|翁立友林琇琪": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 68,
+  "status": "ok",
+  "track": "tw/6830057735",
+  "v": 1,
+  "voiced": 26.6
+ },
  "一起老去|薛凱琪": {
   "checked": "2026-11-09",
   "dropped": 1,
@@ -4084,6 +4308,20 @@
   "track": "tw/870361601",
   "v": 1,
   "voiced": 24.3
+ },
+ "上海灘|葉麗儀": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 72,
+  "high_name": "C5",
+  "low": 54,
+  "low_name": "F#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 35,
+  "status": "ok",
+  "track": "tw/1442451443",
+  "v": 1,
+  "voiced": 21.8
  },
  "下一站天后|twins": {
   "checked": "2026-11-11",
@@ -4169,6 +4407,20 @@
   "v": 1,
   "voiced": 19.7
  },
+ "不該|周杰倫張惠妹": {
+  "checked": "2026-11-17",
+  "dropped": 5,
+  "high": 71,
+  "high_name": "B4",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 74,
+  "status": "ok",
+  "track": "tw/1118757873",
+  "v": 1,
+  "voiced": 24.0
+ },
  "世界が終るまでは|wands": {
   "checked": "2026-11-08",
   "dropped": 1,
@@ -4210,6 +4462,20 @@
   "track": "jp/1384341683",
   "v": 1,
   "voiced": 27.7
+ },
+ "乾杯|長渕剛": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 64,
+  "high_name": "E4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 32,
+  "status": "ok",
+  "track": "tw/6781496615",
+  "v": 1,
+  "voiced": 9.6
  },
  "亂世巨星|陳小春": {
   "checked": "2026-11-12",
@@ -4280,6 +4546,20 @@
   "track": "tw/1445875932",
   "v": 1,
   "voiced": 11.8
+ },
+ "伊的身邊已經有別人2023|許富凱": {
+  "checked": "2026-11-17",
+  "dropped": 4,
+  "high": 71,
+  "high_name": "B4",
+  "low": 48,
+  "low_name": "C3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 98,
+  "status": "ok",
+  "track": "tw/1691657373",
+  "v": 1,
+  "voiced": 27.3
  },
  "伊的身邊已經有別人2023|許富凱血肉果汁機": {
   "checked": "2026-11-11",
@@ -4477,6 +4757,20 @@
   "v": 1,
   "voiced": 27.2
  },
+ "優しい彗星|yoasobi": {
+  "checked": "2026-11-17",
+  "dropped": 0,
+  "high": 74,
+  "high_name": "D5",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 91,
+  "status": "ok",
+  "track": "tw/1593438803",
+  "v": 1,
+  "voiced": 27.5
+ },
  "兄弟船|鳥羽一郎": {
   "checked": "2026-11-12",
   "model": "game-small-1.0.3+kim-vocal-2",
@@ -4582,6 +4876,20 @@
   "track": "tw/1876281769",
   "v": 1,
   "voiced": 22.6
+ },
+ "別等我不愛你才後悔|戴羽彤": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 65,
+  "high_name": "F4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 75,
+  "status": "ok",
+  "track": "tw/1864854036",
+  "v": 1,
+  "voiced": 23.0
  },
  "北の旅人|石原裕次郎": {
   "checked": "2026-11-08",
@@ -4765,6 +5073,34 @@
   "v": 1,
   "voiced": 28.1
  },
+ "向山野|譚維維": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 21,
+  "status": "ok",
+  "track": "tw/1842555935",
+  "v": 1,
+  "voiced": 20.3
+ },
+ "君の知らない物語|supercell": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 69,
+  "high_name": "A4",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 75,
+  "status": "ok",
+  "track": "jp/1537428425",
+  "v": 1,
+  "voiced": 27.2
+ },
  "命に嫌われている|カンザキイオリ": {
   "checked": "2026-11-09",
   "dropped": 15,
@@ -4820,6 +5156,20 @@
   "track": "tw/6817668876",
   "v": 1,
   "voiced": 27.1
+ },
+ "哇哩勒|欸你這週要幹嘛": {
+  "checked": "2026-11-17",
+  "dropped": 7,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 95,
+  "status": "ok",
+  "track": "tw/6800675789",
+  "v": 1,
+  "voiced": 25.9
  },
  "喜歡你|gem鄧紫棋": {
   "checked": "2026-11-08",
@@ -5108,6 +5458,20 @@
   "track": "tw/1839368232",
   "v": 1,
   "voiced": 24.6
+ },
+ "失戀無罪|alin": {
+  "checked": "2026-11-17",
+  "dropped": 17,
+  "high": 77,
+  "high_name": "F5",
+  "low": 65,
+  "low_name": "F4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 44,
+  "status": "ok",
+  "track": "tw/930758230",
+  "v": 1,
+  "voiced": 16.6
  },
  "奇跡の地球|桑田佳祐mrchildren": {
   "checked": "2026-11-15",
@@ -5557,6 +5921,20 @@
   "v": 1,
   "voiced": 26.3
  },
+ "後來你愛她|陳墨一": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 63,
+  "high_name": "D#4",
+  "low": 54,
+  "low_name": "F#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 41,
+  "status": "ok",
+  "track": "tw/1860278520",
+  "v": 1,
+  "voiced": 13.5
+ },
  "從前你|于冬然": {
   "checked": "2026-11-08",
   "dropped": 2,
@@ -5668,6 +6046,20 @@
   "track": "tw/6817718973",
   "v": 1,
   "voiced": 24.8
+ },
+ "思念你的心肝你敢知|曾心梅": {
+  "checked": "2026-11-17",
+  "dropped": 5,
+  "high": 72,
+  "high_name": "C5",
+  "low": 63,
+  "low_name": "D#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 16,
+  "status": "ok",
+  "track": "tw/1499496332",
+  "v": 1,
+  "voiced": 8.4
  },
  "怪我太貪心|楊不乖": {
   "checked": "2026-11-11",
@@ -5831,6 +6223,20 @@
   "track": "jp/1810382629",
   "v": 1
  },
+ "愛をこめて花束を|superfly": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 74,
+  "high_name": "D5",
+  "low": 62,
+  "low_name": "D4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 70,
+  "status": "ok",
+  "track": "jp/279691859",
+  "v": 1,
+  "voiced": 23.5
+ },
  "愛上你不是我決定|蕭敬騰alin": {
   "checked": "2026-11-11",
   "dropped": 3,
@@ -5943,6 +6349,34 @@
   "v": 1,
   "voiced": 18.5
  },
+ "愛我你會死2018|草屯囝仔": {
+  "checked": "2026-11-17",
+  "dropped": 4,
+  "high": 63,
+  "high_name": "D#4",
+  "low": 48,
+  "low_name": "C3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 113,
+  "status": "ok",
+  "track": "tw/1386014644",
+  "v": 1,
+  "voiced": 27.4
+ },
+ "愛無時差|玟靈陳偉強": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 66,
+  "status": "ok",
+  "track": "tw/6815194131",
+  "v": 1,
+  "voiced": 26.6
+ },
  "愛燦燦|美空ひばり": {
   "checked": "2026-11-08",
   "dropped": 2,
@@ -5970,6 +6404,20 @@
   "track": "tw/6823510890",
   "v": 1,
   "voiced": 26.2
+ },
+ "愛甲超過|向蕙玲": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 72,
+  "high_name": "C5",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 14,
+  "status": "ok",
+  "track": "tw/1673893555",
+  "v": 1,
+  "voiced": 14.8
  },
  "愛與痛的邊緣|王菲": {
   "checked": "2026-11-13",
@@ -6068,6 +6516,20 @@
   "track": "tw/6819661934",
   "v": 1,
   "voiced": 23.5
+ },
+ "我不等|小宇cosmos": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 50,
+  "status": "ok",
+  "track": "tw/1891404702",
+  "v": 1,
+  "voiced": 23.0
  },
  "我不難過|孫燕姿": {
   "checked": "2026-11-13",
@@ -6307,6 +6769,34 @@
   "v": 1,
   "voiced": 20.6
  },
+ "抱抱你自己|吳克羣畢夏": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 64,
+  "high_name": "E4",
+  "low": 47,
+  "low_name": "B2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 49,
+  "status": "ok",
+  "track": "tw/6831055453",
+  "v": 1,
+  "voiced": 22.0
+ },
+ "拍噗仔|吳申梅": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 72,
+  "high_name": "C5",
+  "low": 58,
+  "low_name": "A#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 65,
+  "status": "ok",
+  "track": "tw/6797392932",
+  "v": 1,
+  "voiced": 21.8
+ },
  "拒絕再玩|張國榮": {
   "checked": "2026-11-14",
   "dropped": 5,
@@ -6405,6 +6895,20 @@
   "v": 1,
   "voiced": 11.7
  },
+ "昔の名前で出ています|小林旭": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 66,
+  "high_name": "F#4",
+  "low": 50,
+  "low_name": "D3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 51,
+  "status": "ok",
+  "track": "jp/1536892283",
+  "v": 1,
+  "voiced": 22.2
+ },
  "星影のワルツ|千昌夫": {
   "checked": "2026-11-14",
   "dropped": 2,
@@ -6418,6 +6922,34 @@
   "track": "jp/1613465321",
   "v": 1,
   "voiced": 27.4
+ },
+ "星星下的海|趙乃吉": {
+  "checked": "2026-11-17",
+  "dropped": 0,
+  "high": 71,
+  "high_name": "B4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 37,
+  "status": "ok",
+  "track": "tw/1837489583",
+  "v": 1,
+  "voiced": 15.6
+ },
+ "昴|谷村新司": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 63,
+  "high_name": "D#4",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 33,
+  "status": "ok",
+  "track": "tw/306381118",
+  "v": 1,
+  "voiced": 14.6
  },
  "時の流れに身をまかせ|テレサテン": {
   "checked": "2026-11-08",
@@ -6897,6 +7429,20 @@
   "v": 1,
   "voiced": 18.9
  },
+ "浪花節だよ人生は|木村友衛": {
+  "checked": "2026-11-17",
+  "dropped": 4,
+  "high": 61,
+  "high_name": "C#4",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 18,
+  "status": "ok",
+  "track": "jp/1680426437",
+  "v": 1,
+  "voiced": 6.0
+ },
  "浮誇|陳奕迅": {
   "checked": "2026-11-08",
   "dropped": 1,
@@ -7037,6 +7583,20 @@
   "v": 1,
   "voiced": 21.5
  },
+ "炎|lisa": {
+  "checked": "2026-11-17",
+  "dropped": 5,
+  "high": 76,
+  "high_name": "E5",
+  "low": 63,
+  "low_name": "D#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 82,
+  "status": "ok",
+  "track": "jp/1531847485",
+  "v": 1,
+  "voiced": 25.2
+ },
  "点描の唄|mrsgreenapple": {
   "checked": "2026-11-08",
   "dropped": 2,
@@ -7106,6 +7666,20 @@
   "track": "tw/650710716",
   "v": 1,
   "voiced": 27.6
+ },
+ "無緣的情話|袁小迪麗小花": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 69,
+  "high_name": "A4",
+  "low": 48,
+  "low_name": "C3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 68,
+  "status": "ok",
+  "track": "tw/6831654397",
+  "v": 1,
+  "voiced": 27.8
  },
  "無賴|鄭中基": {
   "checked": "2026-11-08",
@@ -7246,6 +7820,20 @@
   "track": "jp/1753806120",
   "v": 1,
   "voiced": 23.8
+ },
+ "用背脊唱情歌|garetht": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 66,
+  "high_name": "F#4",
+  "low": 46,
+  "low_name": "A#2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 60,
+  "status": "ok",
+  "track": "tw/1816674595",
+  "v": 1,
+  "voiced": 21.1
  },
  "甲乙丙丁strangers|李佳薇": {
   "checked": "2026-11-08",
@@ -7422,6 +8010,20 @@
   "track": "tw/1494282170",
   "v": 1,
   "voiced": 17.6
+ },
+ "祝某人|黃靜美": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 65,
+  "high_name": "F4",
+  "low": 48,
+  "low_name": "C3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 77,
+  "status": "ok",
+  "track": "tw/1777263477",
+  "v": 1,
+  "voiced": 21.2
  },
  "祝福|yoasobi": {
   "checked": "2026-11-12",
@@ -7759,6 +8361,20 @@
   "v": 1,
   "voiced": 21.4
  },
+ "花になって|緑黄色社会": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 75,
+  "high_name": "D#5",
+  "low": 63,
+  "low_name": "D#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 73,
+  "status": "ok",
+  "track": "jp/1711411579",
+  "v": 1,
+  "voiced": 20.0
+ },
  "花束を君に|宇多田ヒカル": {
   "checked": "2026-11-14",
   "dropped": 2,
@@ -7969,6 +8585,20 @@
   "v": 1,
   "voiced": 25.8
  },
+ "誰人陪我醉|吳勇濱": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 65,
+  "high_name": "F4",
+  "low": 46,
+  "low_name": "A#2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 51,
+  "status": "ok",
+  "track": "tw/6823510110",
+  "v": 1,
+  "voiced": 25.3
+ },
  "講袂出喙的情話|許富凱": {
   "checked": "2026-11-09",
   "dropped": 2,
@@ -8010,6 +8640,20 @@
   "track": "tw/6825917675",
   "v": 1,
   "voiced": 24.8
+ },
+ "趁早|張宇": {
+  "checked": "2026-11-17",
+  "dropped": 1,
+  "high": 62,
+  "high_name": "D4",
+  "low": 47,
+  "low_name": "B2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 63,
+  "status": "ok",
+  "track": "tw/914677891",
+  "v": 1,
+  "voiced": 20.3
  },
  "越後獅子の唄|美空ひばり": {
   "checked": "2026-11-15",
@@ -8137,6 +8781,20 @@
   "v": 1,
   "voiced": 21.4
  },
+ "適當|蕭景鴻": {
+  "checked": "2026-11-17",
+  "dropped": 4,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 57,
+  "status": "ok",
+  "track": "tw/6784145723",
+  "v": 1,
+  "voiced": 25.0
+ },
  "郎有情妹有意|陳隨意謝宜君": {
   "checked": "2026-11-09",
   "dropped": 3,
@@ -8235,6 +8893,34 @@
   "v": 1,
   "voiced": 26.8
  },
+ "長崎は今日も雨だった|内山田洋とクールファイブ": {
+  "checked": "2026-11-17",
+  "dropped": 0,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 48,
+  "low_name": "C3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 53,
+  "status": "ok",
+  "track": "jp/1740094429",
+  "v": 1,
+  "voiced": 28.4
+ },
+ "長恨曲|翁立友": {
+  "checked": "2026-11-17",
+  "dropped": 2,
+  "high": 62,
+  "high_name": "D4",
+  "low": 50,
+  "low_name": "D3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 61,
+  "status": "ok",
+  "track": "tw/6830057734",
+  "v": 1,
+  "voiced": 25.8
+ },
  "開始懂了|孫燕姿": {
   "checked": "2026-11-14",
   "dropped": 2,
@@ -8290,6 +8976,20 @@
   "track": "tw/1443717750",
   "v": 1,
   "voiced": 25.1
+ },
+ "陪你到這|陳華": {
+  "checked": "2026-11-17",
+  "dropped": 3,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 78,
+  "status": "ok",
+  "track": "tw/1891683695",
+  "v": 1,
+  "voiced": 23.6
  },
  "陳桑|陳隨意": {
   "checked": "2026-11-12",
@@ -8431,6 +9131,20 @@
   "v": 1,
   "voiced": 22.1
  },
+ "面目全非|張遠": {
+  "checked": "2026-11-17",
+  "dropped": 6,
+  "high": 69,
+  "high_name": "A4",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 90,
+  "status": "ok",
+  "track": "tw/6822986773",
+  "v": 1,
+  "voiced": 26.3
+ },
  "革命道中|アイナジエンド": {
   "checked": "2026-11-08",
   "dropped": 1,
@@ -8444,6 +9158,20 @@
   "track": "jp/1821087731",
   "v": 1,
   "voiced": 18.2
+ },
+ "風雪ながれ旅|北島三郎": {
+  "checked": "2026-11-17",
+  "dropped": 0,
+  "high": 74,
+  "high_name": "D5",
+  "low": 50,
+  "low_name": "D3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 22,
+  "status": "ok",
+  "track": "jp/1644826082",
+  "v": 1,
+  "voiced": 10.9
  },
  "食虫植物|理芽": {
   "checked": "2026-11-09",
