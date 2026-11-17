@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.clubdam.com/",
- "checked_at": "2026-11-17T19:53:02+08:00",
+ "checked_at": "2026-11-18T04:04:17+08:00",
  "errors": [],
  "charts": [
   {
@@ -5099,7 +5099,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:53+08:00",
+   "fetched_at": "2026-11-18T04:04:08+08:00",
    "stale": false
   },
   {
@@ -10192,7 +10192,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:53+08:00",
+   "fetched_at": "2026-11-18T04:04:08+08:00",
    "stale": false
   },
   {
@@ -15279,7 +15279,7 @@
    ],
    "period_key": "2026-10-01_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:53+08:00",
+   "fetched_at": "2026-11-18T04:04:08+08:00",
    "stale": false
   },
   {
@@ -19486,7 +19486,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:54+08:00",
+   "fetched_at": "2026-11-18T04:04:10+08:00",
    "stale": false
   },
   {
@@ -24446,7 +24446,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:56+08:00",
+   "fetched_at": "2026-11-18T04:04:11+08:00",
    "stale": false
   },
   {
@@ -27551,6 +27551,21 @@
      "apple": "jp/1554407037",
      "spotify": "02vOyaNCKGX8uhjggOIH83",
      "bpm": 171,
+     "range": {
+      "low": 54,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -28889,7 +28904,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:57+08:00",
+   "fetched_at": "2026-11-18T04:04:12+08:00",
    "stale": false
   },
   {
@@ -33576,7 +33591,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:58+08:00",
+   "fetched_at": "2026-11-18T04:04:13+08:00",
    "stale": false
   },
   {
@@ -37960,7 +37975,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:53:00+08:00",
+   "fetched_at": "2026-11-18T04:04:15+08:00",
    "stale": false
   },
   {
@@ -42838,7 +42853,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:53:01+08:00",
+   "fetched_at": "2026-11-18T04:04:16+08:00",
    "stale": false
   },
   {
@@ -47174,7 +47189,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:53:02+08:00",
+   "fetched_at": "2026-11-18T04:04:17+08:00",
    "stale": false
   }
  ]

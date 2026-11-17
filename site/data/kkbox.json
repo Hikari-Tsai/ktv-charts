@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "streaming",
  "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
- "checked_at": "2026-11-17T19:53:24+08:00",
+ "checked_at": "2026-11-18T04:04:42+08:00",
  "errors": [],
  "charts": [
   {
@@ -2526,7 +2526,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:04+08:00",
+   "fetched_at": "2026-11-18T04:04:19+08:00",
    "stale": false
   },
   {
@@ -5067,7 +5067,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:05+08:00",
+   "fetched_at": "2026-11-18T04:04:21+08:00",
    "stale": false
   },
   {
@@ -7828,7 +7828,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:07+08:00",
+   "fetched_at": "2026-11-18T04:04:23+08:00",
    "stale": false
   },
   {
@@ -10629,7 +10629,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:09+08:00",
+   "fetched_at": "2026-11-18T04:04:24+08:00",
    "stale": false
   },
   {
@@ -13294,7 +13294,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:10+08:00",
+   "fetched_at": "2026-11-18T04:04:26+08:00",
    "stale": false
   },
   {
@@ -15975,7 +15975,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:12+08:00",
+   "fetched_at": "2026-11-18T04:04:28+08:00",
    "stale": false
   },
   {
@@ -18229,6 +18229,19 @@
      "apple": "tw/1538275670",
      "spotify": "6y9aL2ilkD6UkOq2QJeNyi",
      "bpm": 122,
+     "range": {
+      "low": 53,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Reggaeton",
@@ -18563,7 +18576,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:14+08:00",
+   "fetched_at": "2026-11-18T04:04:30+08:00",
    "stale": false
   },
   {
@@ -20286,6 +20299,17 @@
      "apple": "jp/1605552326",
      "spotify": "7qPkJMGh2f9HdE3paVoRb4",
      "bpm": 75,
+     "range": {
+      "low": 54,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -20490,6 +20514,19 @@
      "apple": "tw/1538275670",
      "spotify": "6y9aL2ilkD6UkOq2QJeNyi",
      "bpm": 122,
+     "range": {
+      "low": 53,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Reggaeton",
@@ -21158,7 +21195,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:16+08:00",
+   "fetched_at": "2026-11-18T04:04:32+08:00",
    "stale": false
   },
   {
@@ -23537,7 +23574,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:18+08:00",
+   "fetched_at": "2026-11-18T04:04:34+08:00",
    "stale": false
   },
   {
@@ -25901,7 +25938,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:19+08:00",
+   "fetched_at": "2026-11-18T04:04:36+08:00",
    "stale": false
   },
   {
@@ -28350,7 +28387,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:21+08:00",
+   "fetched_at": "2026-11-18T04:04:38+08:00",
    "stale": false
   },
   {
@@ -30818,7 +30855,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:23+08:00",
+   "fetched_at": "2026-11-18T04:04:40+08:00",
    "stale": false
   },
   {
@@ -32973,7 +33010,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-17T19:53:24+08:00",
+   "fetched_at": "2026-11-18T04:04:42+08:00",
    "stale": false
   }
  ]

@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.joysound.com/",
- "checked_at": "2026-11-17T19:52:52+08:00",
+ "checked_at": "2026-11-18T04:04:06+08:00",
  "errors": [],
  "charts": [
   {
@@ -2970,6 +2970,21 @@
      "apple": "jp/1648876333",
      "spotify": "3wJHCry960drNlAUGrJLmz",
      "bpm": 140,
+     "range": {
+      "low": 64,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock",
@@ -5071,7 +5086,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:41+08:00",
+   "fetched_at": "2026-11-18T04:03:55+08:00",
    "stale": false
   },
   {
@@ -7972,6 +7987,21 @@
      "apple": "jp/1648876333",
      "spotify": "3wJHCry960drNlAUGrJLmz",
      "bpm": 140,
+     "range": {
+      "low": 64,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock",
@@ -10123,7 +10153,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:43+08:00",
+   "fetched_at": "2026-11-18T04:03:57+08:00",
    "stale": false
   },
   {
@@ -12414,6 +12444,21 @@
      "apple": "jp/1648876333",
      "spotify": "3wJHCry960drNlAUGrJLmz",
      "bpm": 140,
+     "range": {
+      "low": 64,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock",
@@ -15137,7 +15182,7 @@
    ],
    "period_key": "2026-10",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:45+08:00",
+   "fetched_at": "2026-11-18T04:03:59+08:00",
    "stale": false
   },
   {
@@ -19937,7 +19982,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:47+08:00",
+   "fetched_at": "2026-11-18T04:04:01+08:00",
    "stale": false
   },
   {
@@ -23240,6 +23285,21 @@
      "apple": "jp/1554407037",
      "spotify": "02vOyaNCKGX8uhjggOIH83",
      "bpm": 171,
+     "range": {
+      "low": 54,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -24051,6 +24111,19 @@
      "apple": "jp/1688513108",
      "spotify": "2EjDBwyMAALFfKaaSUCRkz",
      "bpm": 163,
+     "range": {
+      "low": 54,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -24163,7 +24236,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:48+08:00",
+   "fetched_at": "2026-11-18T04:04:02+08:00",
    "stale": false
   },
   {
@@ -28323,7 +28396,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:50+08:00",
+   "fetched_at": "2026-11-18T04:04:04+08:00",
    "stale": false
   },
   {
@@ -33069,7 +33142,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-17T19:52:52+08:00",
+   "fetched_at": "2026-11-18T04:04:06+08:00",
    "stale": false
   }
  ]
