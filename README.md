@@ -5,7 +5,7 @@
 
 **網站：<https://hikari-tsai.github.io/ktv-charts/>**
 
-彙整台灣與日本四家 KTV 的點歌排行榜，加上 KKBOX 風雲榜的串流排行，每天由 GitHub Actions 自動抓取並發布成靜態網頁。
+彙整台灣與日本四家 KTV 的點歌排行榜，加上 KKBOX 風雲榜的串流排行與 VTuber 翻唱排行，每天由 GitHub Actions 自動抓取並發布成靜態網頁。
 
 | 地區 | KTV | 收錄榜單 |
 |---|---|---|
@@ -14,10 +14,12 @@
 | 日本 | JOYSOUND | 綜合日／週／月榜，動畫、VOCALOID、演歌、西洋週榜 |
 | 日本 | DAM | 綜合日／週／月榜，急上昇、動畫、VOCALOID、VTuber、演歌、外國曲、對唱週榜 |
 | 台灣 | KKBOX（串流） | 華語、台語、西洋、日語、韓語、粵語單曲日榜與週榜，華語新歌週榜 |
+| 台港澳 | VTuber 翻唱（YouTube） | 依翻唱次數排名：累計（翻唱至少 3 次的歌）、近 90 天（全部列出） |
 
 ## 功能
 
-- **五個來源 46 張榜**：好樂迪與錢櫃每榜 30 名，JOYSOUND 與 DAM 每榜 100 名，KKBOX 每榜 50 名。
+- **六個來源 48 張榜**：好樂迪與錢櫃每榜 30 名，JOYSOUND 與 DAM 每榜 100 名，KKBOX 每榜 50 名，VTuber 翻唱累計榜列出翻唱至少 3 次的歌，近 90 天榜全部列出；網頁每次顯示 100 首，捲到底自動載入下一批。
+- **VTuber 翻唱排行**：統計社群整理的[台灣 Vtuber Cover 華語&港馬歌曲總整理](https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl)播放清單（約 3,000 部），依每首歌被翻唱的次數排名。歌手旁的「翻唱 N 次」連到最新的一部翻唱，下方列出翻唱者（上傳頻道的名稱，新的在前，點名字看那一部），見「VTuber 翻唱排行」。
 - **三種語言**：中文、English、日本語，純前端即時切換，預設中文。選擇會記在瀏覽器裡，也可以用 `?lang=en` 或 `?lang=ja` 直接指定。
 - **曲風標籤**：歌名後面以不同顏色標出曲風，例如華語流行、台語流行、J-Pop、演歌、動畫、搖滾。曲風取自 iTunes Search API 的 Apple Music 分類，同一曲風在三種語言下顏色一致。
 - **BPM**：歌手後面標出歌曲速度，用 [Beat This!](https://github.com/CPJKU/beat_this) 模型的 ONNX 版本 [aaatmy/beat-this-onnx](https://huggingface.co/aaatmy/beat-this-onnx) 分析 iTunes 的 30 秒試聽估算。
@@ -345,6 +347,31 @@ gh secret set SPOTIFY_CLIENT_SECRET --repo <你的帳號>/ktv-charts
 - **隨機性**：GAME 的 D3PM 取樣理論上有隨機成分。實測〈晴天〉、〈Lemon〉、〈アイドル〉各重跑 4 次，過濾後的音域完全相同，但其他歌仍可能差一個半音。
 - **舒適範圍因人而異**：上面的範圍是一般參考，不是每個人都適用。
 
+## VTuber 翻唱排行
+
+程式在 `scraper/sources/vtuber.py`（YouTube 與排名）和 `scraper/covers.py`（標題解析，只用標準函式庫）。
+
+### 流程
+
+1. **讀播放清單**：用 YouTube Data API v3 的 `playlistItems.list` 每頁 50 部讀完整份清單，一輪約 62 次請求、62 個配額單位。這麼長的清單，API 的分頁偶爾會重疊而漏掉影片（實測一輪漏了 2,929 部中的 32 部），所以會再讀一輪取聯集，直到某一輪沒有新影片為止，最多三輪，每天約 124 到 186 個配額單位，遠低於免費的 10,000。金鑰放在 GitHub secret `YOUTUBE_API_KEY`，用 `X-Goog-Api-Key` 標頭傳送，不會出現在網址或紀錄裡。
+2. **去重**：同一個影片 ID 只算一次（清單裡有重複收錄的影片）。已刪除與私人影片略過。
+3. **解析標題**：翻唱標題的寫法很多，例如 `numb numb - TAK｜白月心宿 × 埃穆亞 (cover)`、`【Cover】要不然我們就這樣一萬年／黃霄雲｜Cover by 阿絲塔Aasta`、`蕭敬騰 - 皮囊 ／ 昴 Pleiades【Cover】`。程式先拿掉【Cover】【歌ってみた】這類標記、`covered by ...` 之後的演唱者、hashtag、@帳號、表情符號，以及和上傳頻道同名的片段，再用 `/`、`｜`、` - `、裝飾符號切成幾段。歌名與原唱通常是前兩段，但順序不一定。
+4. **辨識歌曲**：用前兩段向 iTunes 搜尋（有假名先查日本商店，否則先查台灣），結果的歌名要等於其中一段、歌手要等於另一段或出現在標題裡，才算找到。這樣不必猜哪段是歌名。查詢結果依搜尋字串永久快取，只查新出現的標題；找不到的 30 天後重試。
+5. **分組與排名**（累計榜不列翻唱少於 3 次的歌，近 90 天榜全部列出）：找到的歌依 iTunes 歌名（去掉括號副標）加第一位歌手分組，所以單曲與專輯版本算同一首。找不到的影片，歌名和某首已辨識的歌相同時併入那首，否則以解析出的歌名自成一組。標題只寫歌名、沒寫原唱時，只接受歌名完全相同的結果，並選最早發行的版本，避免對到 iTunes 上別人的翻唱。依翻唱次數排名，同次數同名次，最新翻唱較近的排前面。
+6. **翻唱者**：每首歌列出上傳頻道的名稱，去掉「Ch.」「Channel」與【…所屬】，有中日文名時只留中日文名（例如「森森鈴蘭 / Lily Linglan【箱箱The Box所屬】」顯示成「森森鈴蘭」）。同一個頻道翻唱兩次只列一次，連到較新的那部。合唱影片只列上傳的頻道。
+
+YouTube Data API 沒有提供影片的音樂資訊：網頁上「這部影片中的音樂」來自 Content ID，只在網頁顯示，API 拿不到，翻唱影片也常沒被辨識，所以改用 iTunes 判斷是不是同一首歌。
+
+**分批**：iTunes 每分鐘約 20 次，第一次約有 2,000 個不同的搜尋字串，所以抓排行榜時最多花 10 分鐘查詢（約 190 個），翻唱次數多的先查。查完前，還沒辨識的影片依解析出的歌名分組，排名可能稍有出入，約兩週後補齊。
+
+**快取**：`data/vtuber-covers.json` 是最近一次讀到的播放清單（影片 ID、標題、頻道、發布日），`data/vtuber-songs.json` 是每個搜尋字串的 iTunes 結果。找到的歌同時寫進 `data/itunes.json`，曲風、Apple Music、BPM、音域等就和其他榜單共用。
+
+### 限制
+
+- 標題沒寫原唱、只寫中文或羅馬拼音譯名、或 iTunes 沒有上架的歌（同人曲、遊戲曲、VTuber 原創曲）比較容易辨識不到，會以標題解析出的歌名計算。
+- 清單由社群整理，收錄範圍與時間以清單為準；同一首歌的不同語言版本（例如中文填詞）可能被算成另一首。
+- 「近 90 天」以影片在 YouTube 的發布日計算，不是加入清單的日期。
+
 ## 分批查詢機制
 
 iTunes 每分鐘約只接受 20 次請求，第一次要查的歌有約 1,400 首，所以查詢分成多次 Action 執行完成。
@@ -375,7 +402,8 @@ gh workflow run update.yml
 
 ```
 scraper/               Python 抓取程式
-  sources/             每個來源一個模組：holiday、cashbox、joysound、dam、kkbox
+  sources/             每個來源一個模組：holiday、cashbox、joysound、dam、kkbox、vtuber
+  covers.py            VTuber 翻唱標題解析與 iTunes 比對規則（只用標準函式庫）
   history.py           歷史快照與升降計算
   match.py             歌名歌手正規化與相似度
   enrich.py            曲風、Apple Music 與 KKBOX 連結
@@ -404,6 +432,8 @@ data/musicbrainz.json  MusicBrainz 詞曲資料
 data/bpm.json          BPM 快取
 data/essentia.json     Essentia 模型分數快取
 data/vocal-range.json  音域快取
+data/vtuber-covers.json VTuber 翻唱播放清單快照
+data/vtuber-songs.json  翻唱標題的 iTunes 辨識快取
 requirements-bpm.txt   BPM、hashtag 與音域分析需要的套件
 tests/                 離線單元測試
 docs/                  API 手冊
@@ -420,11 +450,19 @@ docs/                  API 手冊
 python3 -m scraper
 ```
 
-只抓某幾家，可用的 id 有 `holiday`、`cashbox`、`joysound`、`dam`、`kkbox`：
+只抓某幾家，可用的 id 有 `holiday`、`cashbox`、`joysound`、`dam`、`kkbox`、`vtuber`：
 
 ```bash
 python3 -m scraper holiday dam
 ```
+
+VTuber 翻唱排行需要 YouTube Data API 金鑰，放在環境變數裡：
+
+```bash
+YOUTUBE_API_KEY=你的金鑰 python3 -m scraper vtuber
+```
+
+`VTUBER_LOOKUP_BUDGET`（秒，預設 600）與 `VTUBER_LOOKUP_MAX`（預設 200）控制每次最多花多少時間、查幾個新標題。
 
 執行測試：
 
@@ -481,6 +519,8 @@ python3 -m http.server 8000 -d site
 
 如果 Settings → Actions → General 的 Workflow permissions 被設成唯讀，請改成 Read and write，否則工作流程無法提交資料。
 
+VTuber 翻唱排行需要 YouTube Data API 金鑰：在 Google Cloud Console 啟用 YouTube Data API v3、建立 API 金鑰（建議限制只能呼叫這個 API），再加到 repository 的 secret `YOUTUBE_API_KEY`。沒有金鑰時只有這個分頁維持前一次的資料（第一次則是空的），其他排行榜照常更新。
+
 ## 新增一個來源
 
 1. 在 `scraper/sources/` 新增模組，定義 `SOURCE` 與 `JOBS`。格式見 `scraper/sources/__init__.py` 的說明。
@@ -490,7 +530,8 @@ python3 -m http.server 8000 -d site
 
 ## 免責聲明
 
-- 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）、KKBOX、Spotify 沒有任何關係。
+- 本專案與好樂迪、錢櫃、JOYSOUND（株式会社エクシング）、DAM（株式会社第一興商）、KKBOX、Spotify、YouTube 沒有任何關係，也和 VTuber 翻唱播放清單的整理者無關。
+- VTuber 翻唱排行依社群整理的公開播放清單計算，歌曲由標題自動辨識，可能算錯或漏算。
 - 排行榜資料取自各家官方網站的公開頁面與網站內部介面，著作權與相關權利屬原網站所有。這些介面沒有官方文件，網站改版時可能失效。
 - 曲風與 Apple Music 連結來自 Apple 的 iTunes Search API，曲風是 Apple 商店的分類，不是分析音訊得來的，也可能對到不同版本。
 - BPM、hashtag 與音域是模型分析 30 秒試聽的估計，可能出錯；男女生建議只是一般參考。

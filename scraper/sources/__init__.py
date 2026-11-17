@@ -5,6 +5,6 @@ A chart is {"id", "title", "period", "source_url", "prev_from": "site"|"history"
 A row is {"rank", "title", "artist", "song_no"?, "song_url"?, "last_rank"?, "is_new"?}.
 """
 
-from . import cashbox, dam, holiday, joysound, kkbox
+from . import cashbox, dam, holiday, joysound, kkbox, vtuber
 
-ALL = [holiday, cashbox, joysound, dam, kkbox]
+ALL = [holiday, cashbox, joysound, dam, kkbox, vtuber]

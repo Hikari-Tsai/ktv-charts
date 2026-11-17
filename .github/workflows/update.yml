@@ -43,7 +43,13 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests -t .
 
+      # The VTuber cover playlist is read with the YouTube Data API (about 62 quota units a
+      # day of the free 10,000). Without the secret only that tab keeps yesterday's data.
+      # New cover titles are identified with iTunes for up to 10 minutes of this step.
       - name: Fetch rankings
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          VTUBER_LOOKUP_BUDGET: "600"
         run: python -m scraper
 
       # iTunes allows about 20 requests a minute, so new songs are looked up in batches.

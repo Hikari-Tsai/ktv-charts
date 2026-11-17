@@ -55,6 +55,17 @@
    "region": "tw",
    "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
    "kind": "streaming"
+  },
+  {
+   "id": "vtuber",
+   "name": {
+    "zh": "VTuber 翻唱",
+    "en": "VTuber Covers",
+    "ja": "VTuber カバー"
+   },
+   "region": "tw",
+   "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
+   "kind": "cover"
   }
  ]
 }

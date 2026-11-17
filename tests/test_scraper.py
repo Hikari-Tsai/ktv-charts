@@ -9,9 +9,9 @@ from unittest import mock
 import datetime as dt
 
 import scraper.__main__ as main
-from scraper import bpm, credits, enrich, hashtags, info, match, singrange, spotify
+from scraper import bpm, covers, credits, enrich, hashtags, info, match, singrange, spotify
 from scraper.history import History, period_key, song_key
-from scraper.sources import dam, joysound, kkbox
+from scraper.sources import dam, joysound, kkbox, vtuber
 
 
 class PeriodKeyTest(unittest.TestCase):
@@ -568,6 +568,130 @@ class VocalRangeTest(unittest.TestCase):
         self.assertEqual(counts["range"], 1)
         enrich.annotate(sites, {}, {}, ranges={key: {"status": "none"}})
         self.assertNotIn("range", row)
+
+
+class CoverTitleTest(unittest.TestCase):
+    def test_segments(self):
+        cases = [
+            ("numb numb - TAK｜白月心宿 × 埃穆亞 (cover)", "白月心宿shuku【KOZMII / 比鄰星域所屬】", ["numb numb", "TAK"]),
+            ("Magnetic／ILLIT【Cover】緹露Tilu", "緹露 Tilu Ch.", ["Magnetic", "ILLIT"]),
+            ("【Cover】要不然我們就這樣一萬年／黃霄雲｜ Cover by 阿絲塔Aasta", "Aasta Ch. 阿絲塔", ["要不然我們就這樣一萬年", "黃霄雲"]),
+            ("蕭敬騰 - 皮囊 ／ 昴 Pleiades【Cover】", "昴 Pleiades", ["蕭敬騰", "皮囊"]),
+            ("【歌ってみた】唱(Show) - Ado | Covered by 可可伊丹CocoEden", "可可伊丹CocoEden Ch.", ["唱", "Ado", "Show"]),
+            ("୨〖ᴄᴏᴠᴇʀ〗❥ 可愛くてごめん⠸ by HoneyWorks〖南珂ℕ𝕒𝕟𝕜〗୧", "南珂Nank", ["可愛くてごめん", "HoneyWorks"]),
+            ("【第六感 | Reol】Cover ⚡ 百百波美 ⌇ BarkBarkPomi", "百百波美 BarkBarkPomi", ["第六感", "Reol"]),
+            ("【年輪-張碧晨】 Cover by 【奎爾·玫蘭莎】", "奎爾", ["年輪", "張碧晨"]),
+            ("𝑺𝒊𝒔 𝑷𝒖𝒆𝒍𝒍𝒂 𝑴𝒂𝒈𝒊𝒄𝒂! (魔法少女小圓) / cover ꕤ 茱莉葉塔", "茱莉葉塔 Giulietta", ["Sis Puella Magica", "魔法少女小圓"]),
+            ("【COVER】Awake Now－絲卡皊 Skylynn Shiotsuki", "絲卡皊 Skylynn Shiotsuki Ch.", ["Awake Now"]),
+            ("【CRYCHIC ver.】春日影 瓦西瓦瓦 / Vaswawa Cover 歌ってみた", "瓦西瓦瓦 Vaswawa", ["春日影"]),
+            ("#超絶かわいい // covered by 暁月夢・Akatsuki Yume「歌ってみた」", "暁月夢", ["超絶かわいい"]),
+            ("【歌ってみた】残響散歌  by凡笙弦語", "凡笙弦語", ["残響散歌"]),
+            ("【天ノ弱 Piano Ver. 】爪爪貓 cover.【歌ってみた】", "爪爪貓", ["天ノ弱"]),
+            ("【活動四周年紀念翻唱】生きる / Covered by 蕾雅  【歌ってみた】", "蕾雅", ["生きる"]),
+            ("『LEO』- Eve / cover ｜ 中文字幕", "x", ["Eve", "LEO"]),
+        ]
+        for title, channel, want in cases:
+            with self.subTest(title=title):
+                self.assertEqual(covers.segments(title, channel), want)
+
+    def test_performer_name(self):
+        self.assertEqual(covers.performer_name("森森鈴蘭 / Lily Linglan【箱箱The Box所屬】"), "森森鈴蘭")
+        self.assertEqual(covers.performer_name("浠Mizuki Channel"), "浠Mizuki")
+        self.assertEqual(covers.performer_name("Nemesis ch. 涅默"), "Nemesis 涅默")
+        self.assertEqual(covers.performer_name("暁月夢 - Akatsuki Yume -"), "暁月夢")
+
+    def test_pick_needs_title_and_artist(self):
+        results = [
+            {"kind": "song", "trackName": "Idol", "artistName": "Someone Else"},
+            {"kind": "song", "trackName": "アイドル", "artistName": "YOASOBI", "trackId": 1},
+            {"kind": "song", "trackName": "アイドル (Instrumental)", "artistName": "YOASOBI"},
+        ]
+        self.assertEqual(covers.pick(results, ["アイドル", "YOASOBI"])["trackId"], 1)
+        self.assertIsNone(covers.pick(results, ["アイドル", "米津玄師"]))
+        # Song and artist run together in one piece
+        hit = covers.pick([{"kind": "song", "trackName": "IRIS OUT", "artistName": "米津玄師"}], ["一生懸命 米津玄師 IRIS OUT"])
+        self.assertEqual(hit["trackName"], "IRIS OUT")
+
+
+class VtuberChartTest(unittest.TestCase):
+    def test_playlist_dedupes_and_skips_hidden(self):
+        def item(vid, title, ch="Ch", pub="2026-11-01T00:00:00Z"):
+            snip = {"title": title, "resourceId": {"videoId": vid}, "publishedAt": pub}
+            if ch:
+                snip["videoOwnerChannelTitle"] = ch
+            return {"snippet": snip, "contentDetails": {"videoPublishedAt": pub}}
+        pages = [
+            {"items": [item("a", "Song A / X"), item("b", "Song B / Y")], "nextPageToken": "p2"},
+            {"items": [item("a", "Song A / X"), item("c", "Deleted video", ch=None), item("d", "Private video")]},
+        ]
+        calls = []
+
+        def fake_get(url, headers):
+            calls.append((url, headers))
+            page = pages[(len(calls) - 1) % 2]
+            if len(calls) == 3:  # the second pass's first page holds a video the first pass skipped
+                page = {**page, "items": page["items"] + [item("e", "Song E / Z")]}
+            return json.dumps(page)
+        with mock.patch.object(vtuber, "get_text", side_effect=fake_get):
+            videos = vtuber.fetch_playlist("secret-key")
+        self.assertEqual(sorted(videos), ["a", "b", "e"])
+        self.assertEqual(len(calls), 6)  # pass 2 found "e", pass 3 found nothing new
+        self.assertEqual(videos["a"]["pub"], "2026-11-01")
+        self.assertTrue(all("secret-key" not in url for url, _ in calls))  # the key goes in a header
+        self.assertEqual(calls[0][1]["X-Goog-Api-Key"], "secret-key")
+        self.assertIn("pageToken=p2", calls[1][0])
+
+    def test_rank_by_cover_count(self):
+        videos = {
+            "v1": {"t": "アイドル / YOASOBI covered by A", "ch": "A ch.", "pub": "2026-11-01"},
+            "v2": {"t": "【Cover】アイドル／YOASOBI｜B", "ch": "B", "pub": "2026-10-01"},
+            "v3": {"t": "YOASOBI - アイドル【歌ってみた】C", "ch": "C", "pub": "2025-01-01"},
+            "v4": {"t": "アイドル (cover) D", "ch": "D", "pub": "2024-01-01"},   # no artist: joins by title
+            "v5": {"t": "晴天 / 周杰倫 cover by E", "ch": "E", "pub": "2026-11-10"},
+            "v6": {"t": "晴天 - 周杰倫 | F (Cover)", "ch": "F", "pub": "2026-11-12"},
+            "v7": {"t": "小幸運 / 田馥甄 cover by G", "ch": "G", "pub": "2026-11-15"},
+            "v8": {"t": "Lemon / 米津玄師 cover by H", "ch": "H", "pub": "2026-11-16"},
+        }
+        idol = {"status": "ok", "name": "アイドル", "artist": "YOASOBI", "id": 1}
+        songs = {
+            match.norm("アイドル YOASOBI"): idol, match.norm("YOASOBI アイドル"): idol,
+            match.norm("晴天 周杰倫"): {"status": "ok", "name": "晴天", "artist": "周杰倫", "id": 2},
+            match.norm("小幸運 田馥甄"): {"status": "ok", "name": "小幸運", "artist": "Hebe Tien", "id": 3},
+        }
+        # The all-time chart cuts songs with fewer than three covers; the 90-day chart lists them all
+        cut = vtuber.build_charts(videos, songs, dt.date(2026, 11, 18))
+        self.assertEqual([(r["title"], r["covers"]) for r in cut[0]["rows"]], [("アイドル", 4)])
+        self.assertEqual(len(cut[1]["rows"]), 4)
+        with mock.patch.object(vtuber, "MIN_COVERS", 1):
+            charts = vtuber.build_charts(videos, songs, dt.date(2026, 11, 18))
+        rows = charts[0]["rows"]
+        self.assertEqual([(r["rank"], r["title"], r["covers"]) for r in rows],
+                         [(1, "アイドル", 4), (2, "晴天", 2), (3, "Lemon", 1), (3, "小幸運", 1)])
+        self.assertEqual(rows[0]["cover_video"], "v1")  # the newest cover
+        self.assertEqual(rows[0]["performers"], [["A", "v1"], ["B", "v2"], ["C", "v3"], ["D", "v4"]])
+        self.assertEqual(rows[2]["artist"], "米津玄師")  # not identified: guessed from the title
+        recent = charts[1]["rows"]
+        self.assertEqual([(r["title"], r["covers"]) for r in recent][:3], [("晴天", 2), ("アイドル", 2), ("Lemon", 1)])
+
+    def test_identify_caches_and_shares_with_itunes(self):
+        videos = {"v1": {"t": "Lemon / 米津玄師 cover by H", "ch": "H"},
+                  "v2": {"t": "Lemon / 米津玄師【Cover】I", "ch": "I"},
+                  "v3": {"t": "知らない歌 / 誰か cover", "ch": "J"}}
+        hit = {"trackId": 9, "trackName": "Lemon", "artistName": "米津玄師", "primaryGenreName": "J-Pop"}
+
+        def fake_search(term, segs, country):
+            return hit if term.startswith("Lemon") else None
+        songs, itunes = {}, {}
+        with mock.patch.object(vtuber, "search", side_effect=fake_search) as search:
+            stats = vtuber.identify(videos, songs, itunes, dt.date(2026, 11, 18), budget=60, max_terms=10)
+        self.assertEqual(stats["todo"], 2)  # two videos share one search term
+        self.assertEqual(songs[match.norm("Lemon 米津玄師")]["id"], 9)
+        self.assertEqual(songs[match.norm("知らない歌 誰か")]["status"], "none")
+        self.assertEqual(itunes[match.song_key("Lemon", "米津玄師")]["genre"], "J-Pop")
+        self.assertEqual(search.call_count, 3)  # Lemon found in the first store; the other tried both
+        with mock.patch.object(vtuber, "search") as again:
+            vtuber.identify(videos, songs, itunes, dt.date(2026, 11, 19))
+        again.assert_not_called()
 
 
 if __name__ == "__main__":

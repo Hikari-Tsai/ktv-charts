@@ -11,7 +11,7 @@ const I18N = {
   zh: {
     title: "KTV 點歌排行榜",
     colon: "：",
-    subtitle: "好樂迪、錢櫃、JOYSOUND、DAM 與 KKBOX 每日自動更新",
+    subtitle: "好樂迪、錢櫃、JOYSOUND、DAM、KKBOX 與 VTuber 翻唱每日自動更新",
     colRank: "名次",
     colChange: "升降",
     colSong: "歌曲",
@@ -121,6 +121,12 @@ const I18N = {
     fetched: "抓取時間",
     official: "官方頁面",
     songNo: "曲號",
+    coversCount: "翻唱 {n} 次",
+    moreRows: "顯示更多（還有 {n} 首）",
+    coverArtists: "翻唱",
+    coverArtistHint: "看 {name} 的翻唱",
+    coverMoreAria: "顯示其他 {n} 位翻唱者",
+    coversHint: "播放清單裡有 {n} 部 VTuber 翻唱這首歌，點一下看最新的一部",
     newEntry: "新進",
     noPrev: "尚無上期資料",
     prevRank: "上期第 {n} 名",
@@ -129,7 +135,7 @@ const I18N = {
     loading: "載入中…",
     loadError: "資料載入失敗，請稍後再試。",
     empty: "這張榜沒有資料。",
-    disclaimer: "資料取自各 KTV 與 KKBOX 官方網站公開頁面，著作權屬原網站所有。本站與各業者無關。",
+    disclaimer: "資料取自各 KTV 與 KKBOX 官方網站公開頁面，著作權屬原網站所有；VTuber 翻唱排行依社群整理的 YouTube 公開播放清單，透過 YouTube Data API 計算。本站與各業者無關。",
     sources: "資料來源",
     starCta: "在 GitHub 給我星星",
     starAria: "到 GitHub 為這個專案按星星，目前 {n} 顆",
@@ -139,7 +145,7 @@ const I18N = {
   en: {
     title: "KTV Song Rankings",
     colon: ": ",
-    subtitle: "Holiday KTV, Cashbox, JOYSOUND, DAM and KKBOX, updated daily",
+    subtitle: "Holiday KTV, Cashbox, JOYSOUND, DAM, KKBOX and VTuber covers, updated daily",
     colRank: "Rank",
     colChange: "Move",
     colSong: "Song",
@@ -249,6 +255,12 @@ const I18N = {
     fetched: "Fetched",
     official: "Official page",
     songNo: "Song no.",
+    coversCount: "{n} covers",
+    moreRows: "Show more ({n} left)",
+    coverArtists: "Covered by",
+    coverArtistHint: "Watch the cover by {name}",
+    coverMoreAria: "Show {n} more singers",
+    coversHint: "{n} VTuber covers of this song in the playlist. Click to watch the newest one",
     newEntry: "NEW",
     noPrev: "No previous data yet",
     prevRank: "Last time: #{n}",
@@ -257,7 +269,7 @@ const I18N = {
     loading: "Loading…",
     loadError: "Could not load data. Please try again later.",
     empty: "No data for this chart.",
-    disclaimer: "Data comes from the public websites of each KTV operator and KKBOX; rights belong to the original sites. This site is not affiliated with any of them.",
+    disclaimer: "Data comes from the public websites of each KTV operator and KKBOX; rights belong to the original sites. The VTuber cover ranking counts a public, community-curated YouTube playlist through the YouTube Data API. This site is not affiliated with any of them.",
     sources: "Sources",
     starCta: "Star on GitHub",
     starAria: "Star this project on GitHub ({n} stars so far)",
@@ -267,7 +279,7 @@ const I18N = {
   ja: {
     title: "カラオケ人気ランキング",
     colon: "：",
-    subtitle: "好樂迪・錢櫃・JOYSOUND・DAM・KKBOX を毎日自動更新",
+    subtitle: "好樂迪・錢櫃・JOYSOUND・DAM・KKBOX・VTuber カバーを毎日自動更新",
     colRank: "順位",
     colChange: "変動",
     colSong: "曲",
@@ -377,6 +389,12 @@ const I18N = {
     fetched: "取得日時",
     official: "公式ページ",
     songNo: "曲番",
+    coversCount: "カバー {n} 件",
+    moreRows: "もっと見る（残り {n} 曲）",
+    coverArtists: "カバー",
+    coverArtistHint: "{name} のカバーを見る",
+    coverMoreAria: "ほかの {n} 人を表示",
+    coversHint: "再生リストにこの曲の VTuber カバーが {n} 本あります。クリックで最新のカバーを再生",
     newEntry: "NEW",
     noPrev: "前回データなし",
     prevRank: "前回 {n} 位",
@@ -385,7 +403,7 @@ const I18N = {
     loading: "読み込み中…",
     loadError: "データを読み込めませんでした。しばらくしてから再度お試しください。",
     empty: "このランキングにはデータがありません。",
-    disclaimer: "データは各カラオケ事業者と KKBOX の公式サイトの公開ページから取得しています。権利は各サイトに帰属します。本サイトは各事業者とは関係ありません。",
+    disclaimer: "データは各カラオケ事業者と KKBOX の公式サイトの公開ページから取得しています。権利は各サイトに帰属します。VTuber カバーのランキングは、コミュニティが整理した YouTube の公開再生リストを YouTube Data API で集計しています。本サイトは各事業者とは関係ありません。",
     sources: "データ提供元",
     starCta: "GitHub でスターをください",
     starAria: "GitHub でこのプロジェクトにスターを付ける（現在 {n}）",
@@ -716,7 +734,7 @@ function renderSourceTabs() {
         onclick: () => selectSource(s.id),
       },
       el("span", { text: pick(s.name).replace(/\s*\(.*\)$/, "") }),
-      el("span", { class: "region", text: t("region_" + s.region) + (s.kind === "streaming" ? " · " + t("streaming") : "") }))
+      el("span", { class: "region", text: t("region_" + s.region) + (s.kind === "streaming" ? " · " + t("streaming") : s.kind === "cover" ? " · YouTube" : "") }))
     )
   );
 }
@@ -1078,16 +1096,55 @@ function genreTag(row) {
   return tag;
 }
 
+// VTuber covers: who covered the song, newest first; each name opens that cover.
+const coverArtistsShown = () => (window.matchMedia("(max-width: 600px)").matches ? 4 : 6);
+function coverArtists(row) {
+  if (!row.performers?.length) return null;
+  const chip = ([name, video]) => el("a", {
+    class: "cover-artist",
+    href: `https://www.youtube.com/watch?v=${encodeURIComponent(video)}`,
+    target: "_blank",
+    rel: "noopener",
+    title: t("coverArtistHint", { name }),
+    text: name,
+  });
+  const shown = row.performers.slice(0, coverArtistsShown()).map(chip);
+  const rest = row.performers.slice(coverArtistsShown());
+  const line = el("div", { class: "cover-artists" }, el("span", { class: "cover-artists-label", text: t("coverArtists") }), ...shown);
+  if (rest.length) {
+    const more = el("button", {
+      type: "button",
+      class: "cover-artist cover-more",
+      "aria-label": t("coverMoreAria", { n: rest.length }),
+      text: `+${rest.length}`,
+      onclick: () => more.replaceWith(...rest.map(chip)),
+    });
+    line.append(more);
+  }
+  return line;
+}
+
 function songCell(row) {
   const titleNode = row.song_url
     ? el("a", { href: row.song_url, target: "_blank", rel: "noopener", text: row.title })
     : row.title;
   const sub = el("div", { class: "song-sub" }, row.artist || "");
   if (row.song_no) sub.append(el("span", { class: "song-no", title: t("songNo"), text: `#${row.song_no}` }));
+  if (row.covers) {
+    // VTuber covers: how many times the song was covered; opens the newest cover.
+    sub.append(el("a", {
+      class: "covers",
+      href: `https://www.youtube.com/watch?v=${encodeURIComponent(row.cover_video)}`,
+      target: "_blank",
+      rel: "noopener",
+      title: t("coversHint", { n: row.covers }),
+      text: t("coversCount", { n: row.covers }),
+    }));
+  }
   if (row.bpm) sub.append(el("span", { class: "bpm", title: t("bpmHint"), text: `${row.bpm} BPM` }));
   const head = el("div", { class: "song-title" }, titleNode);
   for (const tag of [genreTag(row), ...hashtagTags(row)]) if (tag) head.append(" ", tag);
-  return [head, sub, rangeBlock(row), infoBlock(row)];
+  return [head, sub, coverArtists(row), rangeBlock(row), infoBlock(row)];
 }
 
 function linkRow(row, songRow) {
@@ -1134,6 +1191,44 @@ function linkRow(row, songRow) {
   return el("div", { class: "song-links" }, ...links);
 }
 
+// Long charts (the VTuber covers list every song) render 100 rows at a time; the next
+// batch is added when its "show more" row scrolls near the screen, or when it is clicked.
+const ROWS_PER_BATCH = 100;
+let moreRowsObserver = null;
+
+function renderRows(chart, tbody, start) {
+  if (start === 0) moreRowsObserver?.disconnect();
+  const frag = document.createDocumentFragment();
+  const end = Math.min(start + ROWS_PER_BATCH, chart.rows.length);
+  for (const row of chart.rows.slice(start, end)) {
+    const songCellNode = el("td", { class: "col-song" }, ...songCell(row));
+    const tr = el("tr", { class: row.rank <= 3 ? "podium" : null },
+      el("td", { class: "col-rank", text: String(row.rank) }),
+      el("td", { class: "col-change" }, changeCell(row, chart)),
+      songCellNode);
+    songCellNode.append(linkRow(row, tr));
+    frag.append(tr);
+  }
+  if (end < chart.rows.length) {
+    const button = el("button", { type: "button", class: "more-rows", text: t("moreRows", { n: chart.rows.length - end }) });
+    const tr = el("tr", { class: "more-row" }, el("td", { colspan: "3" }, button));
+    const next = () => {
+      moreRowsObserver?.disconnect();
+      tr.remove();
+      renderRows(chart, tbody, end);
+    };
+    button.addEventListener("click", next);
+    if ("IntersectionObserver" in window) {
+      moreRowsObserver = new IntersectionObserver((entries) => {
+        if (entries.some((e) => e.isIntersecting)) next();
+      }, { rootMargin: "800px 0px" });
+      moreRowsObserver.observe(tr);
+    }
+    frag.append(tr);
+  }
+  tbody.append(frag);
+}
+
 function renderChart(data) {
   const chart = data.charts.find((c) => c.id === state.chart);
   const meta = $("#meta");
@@ -1167,17 +1262,8 @@ function renderChart(data) {
   notice.hidden = notes.length === 0;
 
   openPlayer = null; // the old player row goes away with the old rows
-  const frag = document.createDocumentFragment();
-  for (const row of chart.rows) {
-    const songCellNode = el("td", { class: "col-song" }, ...songCell(row));
-    const tr = el("tr", { class: row.rank <= 3 ? "podium" : null },
-      el("td", { class: "col-rank", text: String(row.rank) }),
-      el("td", { class: "col-change" }, changeCell(row, chart)),
-      songCellNode);
-    songCellNode.append(linkRow(row, tr));
-    frag.append(tr);
-  }
-  tbody.replaceChildren(frag);
+  tbody.replaceChildren();
+  renderRows(chart, tbody, 0);
   empty.hidden = chart.rows.length > 0;
   if (!chart.rows.length) empty.textContent = t("empty");
 }

@@ -38,8 +38,8 @@ APPLE_ALBUM_CACHE = ROOT / "data" / "apple-albums.json"  # written by scraper.cr
 NCL_CACHE = ROOT / "data" / "ncl-isrc.json"  # written by scraper.credits
 MB_CACHE = ROOT / "data" / "musicbrainz.json"  # written by scraper.credits
 
-SOURCES = ["holiday", "cashbox", "joysound", "dam", "kkbox"]
-REGION = {"holiday": "tw", "cashbox": "tw", "kkbox": "tw", "joysound": "jp", "dam": "jp"}
+SOURCES = ["holiday", "cashbox", "joysound", "dam", "kkbox", "vtuber"]
+REGION = {"holiday": "tw", "cashbox": "tw", "kkbox": "tw", "joysound": "jp", "dam": "jp", "vtuber": "tw"}
 OTHER = {"tw": "jp", "jp": "tw"}
 ITUNES = "https://itunes.apple.com/search?"
 ITUNES_DELAY = 3.2  # seconds between requests: Apple allows roughly 20 per minute
