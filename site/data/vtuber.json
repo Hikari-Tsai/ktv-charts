@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-18T09:58:41+08:00",
+ "checked_at": "2026-11-18T15:04:44+08:00",
  "errors": [],
  "charts": [
   {
@@ -20,7 +20,7 @@
    },
    "period": "2026/11/18",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 1010,
+   "videos": 1008,
    "rows": [
     {
      "rank": 1,
@@ -295,10 +295,10 @@
      }
     },
     {
-     "rank": 3,
+     "rank": 2,
      "title": "KING",
      "artist": "Kanaria",
-     "covers": 17,
+     "covers": 18,
      "cover_video": "PlrgjgOAMCs",
      "performers": [
       [
@@ -324,6 +324,10 @@
       [
        "貓神夜珞璃 Rakuri",
        "cAiDPZEdT0c"
+      ],
+      [
+       "艾琳妮雅 Arrynia Vaeri",
+       "8yDAiy4UxiA"
       ],
       [
        "月島ケン_Tsukishima Ken",
@@ -1825,6 +1829,105 @@
     },
     {
      "rank": 14,
+     "title": "酔いどれ知らず",
+     "artist": "Kanaria",
+     "covers": 10,
+     "cover_video": "RofxzTjmbGc",
+     "performers": [
+      [
+       "衛生紙桑",
+       "RofxzTjmbGc"
+      ],
+      [
+       "Aimu 深雪あいむ",
+       "wQEnDfoMqDg"
+      ],
+      [
+       "Libbi Rico 莉比莉可",
+       "C1j9i2znnbg"
+      ],
+      [
+       "艾琳妮雅 Arrynia Vaeri",
+       "KIYLfFkJecA"
+      ],
+      [
+       "酒樂霧子 Kiriko",
+       "me_twUmyufU"
+      ],
+      [
+       "RiRA 梨菈",
+       "NyYdIRIQuqQ"
+      ],
+      [
+       "月島ケン_Tsukishima Ken",
+       "cILyBUfC80k"
+      ],
+      [
+       "雷蒙&碧安卡",
+       "-xkF50mFuE0"
+      ],
+      [
+       "Lancelot 蘭斯洛特",
+       "OOJk4zBXn2Q"
+      ],
+      [
+       "Neru 闇音ネル",
+       "y4GHKPbP02U"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "jp/1622001134",
+     "spotify": "4oPCfEDVIKnPJ6UPkhJPCa",
+     "bpm": 115,
+     "range": {
+      "low": 52,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy"
+      ],
+      "instrument": [
+       "electricguitar",
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "Kanaria"
+      ],
+      "composer": [
+       "Kanaria"
+      ],
+      "year": "2022",
+      "released": "2022-05-06",
+      "label": "Kanaria",
+      "album": "酔いどれ知らず - Single",
+      "isrc": "TCJPR2280966",
+      "copyright": "℗ 2022 Kanaria",
+      "mb": "9dd78261-4d40-48a4-b218-f9bb4008dac3",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 14,
      "title": "少女レイ",
      "artist": "みきとP",
      "covers": 10,
@@ -2016,7 +2119,7 @@
      }
     },
     {
-     "rank": 19,
+     "rank": 20,
      "title": "Magnet",
      "artist": "琳賽.羅涵",
      "covers": 9,
@@ -2103,7 +2206,7 @@
      }
     },
     {
-     "rank": 19,
+     "rank": 20,
      "title": "深昏睡",
      "artist": "春野",
      "covers": 9,
@@ -2193,7 +2296,7 @@
      }
     },
     {
-     "rank": 19,
+     "rank": 20,
      "title": "プロポーズ",
      "artist": "内緒のピアス",
      "covers": 9,
@@ -2286,102 +2389,7 @@
      }
     },
     {
-     "rank": 19,
-     "title": "酔いどれ知らず",
-     "artist": "Kanaria",
-     "covers": 9,
-     "cover_video": "RofxzTjmbGc",
-     "performers": [
-      [
-       "衛生紙桑",
-       "RofxzTjmbGc"
-      ],
-      [
-       "Aimu 深雪あいむ",
-       "wQEnDfoMqDg"
-      ],
-      [
-       "Libbi Rico 莉比莉可",
-       "C1j9i2znnbg"
-      ],
-      [
-       "酒樂霧子 Kiriko",
-       "me_twUmyufU"
-      ],
-      [
-       "RiRA 梨菈",
-       "NyYdIRIQuqQ"
-      ],
-      [
-       "月島ケン_Tsukishima Ken",
-       "cILyBUfC80k"
-      ],
-      [
-       "雷蒙&碧安卡",
-       "-xkF50mFuE0"
-      ],
-      [
-       "Lancelot 蘭斯洛特",
-       "OOJk4zBXn2Q"
-      ],
-      [
-       "Neru 闇音ネル",
-       "y4GHKPbP02U"
-      ]
-     ],
-     "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "jp/1622001134",
-     "spotify": "4oPCfEDVIKnPJ6UPkhJPCa",
-     "bpm": 115,
-     "range": {
-      "low": 52,
-      "high": 69,
-      "m": {
-       "v": "high",
-       "key": -3,
-       "oct": 0
-      },
-      "f": {
-       "v": "low",
-       "key": 1,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "danceable",
-       "happy"
-      ],
-      "instrument": [
-       "electricguitar",
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "Kanaria"
-      ],
-      "composer": [
-       "Kanaria"
-      ],
-      "year": "2022",
-      "released": "2022-05-06",
-      "label": "Kanaria",
-      "album": "酔いどれ知らず - Single",
-      "isrc": "TCJPR2280966",
-      "copyright": "℗ 2022 Kanaria",
-      "mb": "9dd78261-4d40-48a4-b218-f9bb4008dac3",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 19,
+     "rank": 20,
      "title": "花に亡霊",
      "artist": "ヨルシカ",
      "covers": 9,
@@ -2430,6 +2438,19 @@
      "apple": "jp/1519740266",
      "spotify": "53maoOKr6j04iqk6qjdvQN",
      "bpm": 90,
+     "range": {
+      "low": 55,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2471,7 +2492,7 @@
      }
     },
     {
-     "rank": 19,
+     "rank": 20,
      "title": "怪物",
      "artist": "YOASOBI",
      "covers": 9,
@@ -2553,7 +2574,7 @@
      }
     },
     {
-     "rank": 19,
+     "rank": 20,
      "title": "悪魔の子",
      "artist": "ヒグチアイ",
      "covers": 9,
@@ -2602,6 +2623,19 @@
      "apple": "jp/1601391184",
      "spotify": "2TVFbLCdzrX0RdhWNWJmdp",
      "bpm": 90,
+     "range": {
+      "low": 54,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -2634,7 +2668,7 @@
      }
     },
     {
-     "rank": 19,
+     "rank": 20,
      "title": "神っぽいな",
      "artist": "ピノキオピー",
      "covers": 9,
@@ -2876,6 +2910,21 @@
      "apple": "jp/1734564170",
      "spotify": "4nxpIjaUm37Ul9D4Zml3ma",
      "bpm": 136,
+     "range": {
+      "low": 61,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -2891,12 +2940,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "下地悠"
+      ],
+      "composer": [
+       "睦月周平"
+      ],
+      "arranger": [
+       "睦月周平"
+      ],
       "year": "2021",
       "released": "2021-03-10",
       "label": "Lantis",
       "album": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Sol-",
+      "isrc": "JPI102100309",
       "copyright": "℗ 2021 Lantis",
+      "mb": "28f8446f-5c5c-4359-9c8d-f5825c1e3813",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -2947,6 +3008,19 @@
      "apple": "jp/1585735600",
      "spotify": "0LWfcbyKEdi7BKofXlYtEN",
      "bpm": 143,
+     "range": {
+      "low": 46,
+      "high": 57,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -3022,6 +3096,19 @@
      "apple": "jp/1538259004",
      "spotify": "2HovXsvcdJur52BOcYGydz",
      "bpm": 97,
+     "range": {
+      "low": 56,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -3031,12 +3118,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "内澤崇仁"
+      ],
+      "composer": [
+       "内澤崇仁"
+      ],
+      "producer": [
+       "玉井健二"
+      ],
+      "mix": [
+       "森真樹"
+      ],
+      "recording": [
+       "熊田好容"
+      ],
       "year": "2016",
       "released": "2016-09-21",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "daydream",
       "copyright": "℗ 2016 Sony Music Entertainment (Japan) Inc.",
+      "mb": "38697287-1b07-479b-a72c-36eaeb06ef7b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3184,6 +3288,21 @@
      "apple": "jp/1555448592",
      "spotify": "0m9QPTZzjtqCWY9Jg8poHc",
      "bpm": 146,
+     "range": {
+      "low": 61,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -3519,12 +3638,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "q*Left"
+      ],
+      "composer": [
+       "Giga",
+       "八王子P"
+      ],
+      "arranger": [
+       "Giga",
+       "八王子P"
+      ],
       "year": "2019",
       "released": "2019-08-28",
       "label": "TOY'S FACTORY",
       "album": "Graphix",
+      "isrc": "JPTF01910402",
       "copyright": "℗ 2019 TOY'S FACTORY",
+      "mb": "11d33836-92fd-4bf9-8e3d-6498e11d0bdf",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3586,12 +3719,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "梅とら"
+      ],
+      "composer": [
+       "梅とら"
+      ],
       "year": "2012",
       "released": "2012-12-29",
       "label": "梅とら",
       "album": "威風堂々 (feat. 巡音ルカ & 初音ミク & GUMI & IA & 鏡音リン) - Single",
       "copyright": "℗ 2014 梅とら",
+      "mb": "fbcd3d8b-cdf5-4f3a-b892-d72cc3213e91",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4136,12 +4277,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "案山子"
+      ],
+      "composer": [
+       "案山子"
+      ],
+      "arranger": [
+       "案山子"
+      ],
       "year": "2019",
-      "released": "2019-12-01",
+      "released": "2019-09-08",
       "label": "shapeshifter",
       "album": "rouge",
       "copyright": "℗ 2019 shapeshifter",
+      "mb": "5a255ae4-6f77-4ea3-b4db-9868d757922f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4345,12 +4497,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ano",
+       "真部脩一"
+      ],
+      "composer": [
+       "真部脩一"
+      ],
       "year": "2023",
-      "released": "2023-08-01",
+      "released": "2023-08-30",
       "label": "forte music.INC",
       "album": "ちゅ、多様性。(オルゴール) - Single",
       "copyright": "℗ 2023 forte music.INC",
+      "mb": "20a597bc-3936-414e-a1d8-cb410b5e38b5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4503,12 +4664,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "KOKIA"
+      ],
+      "composer": [
+       "KOKIA"
+      ],
       "year": "2017",
-      "released": "2017-09-16",
+      "released": "2017-10-08",
       "label": "anco&co",
       "album": "The Animal Kingdom vol.1",
+      "isrc": "TCJPZ2456727",
       "copyright": "℗ 2017 anco&co.",
+      "mb": "4fda009b-2308-482a-9fbf-4f31bac46f44",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4563,12 +4733,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "milet"
+      ],
+      "composer": [
+       "milet",
+       "中村泰輔",
+       "野村陽一郎"
+      ],
       "year": "2023",
-      "released": "2023-09-29",
+      "released": "2023-10-27",
       "label": "Sony Music Labels Inc",
       "album": "Anytime Anywhere - Single",
+      "isrc": "JPU982306169",
       "copyright": "℗ 2023 Sony Music Labels Inc.",
+      "mb": "14487f38-aa55-48cc-82ab-698eb870db57",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4626,12 +4807,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+      ],
+      "composer": [
+       "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+      ],
+      "mix": [
+       "さぶろう"
+      ],
       "year": "2024",
       "released": "2024-12-10",
       "label": "nunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununu",
       "album": "み む かゥ わ ナ イ ス ト ラ イ (feat. 初音ミク) - Single",
+      "isrc": "QT66M2677271",
       "copyright": "℗ 2024 nunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununu",
+      "mb": "1226469a-c5d1-4c0e-9c98-615597e58463",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4680,12 +4873,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "原田夏樹",
+       "鈴木まりこ"
+      ],
+      "composer": [
+       "原田夏樹"
+      ],
       "year": "2017",
       "released": "2017-08-07",
       "label": "Cinnamons & Evening Cinema",
       "album": "Summertime - Single",
+      "isrc": "TCJPF1793843",
       "copyright": "℗ 2017 Cinnamons & Evening Cinema",
+      "mb": "66b665e6-d352-4617-9205-2b5f0db7ca8a",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -4908,6 +5111,19 @@
      "apple": "tw/1821087731",
      "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
+     "range": {
+      "low": 53,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 4,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Drum n Bass"
@@ -5135,12 +5351,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Lydia Asrat",
+       "Doja Cat",
+       "Łukasz Gottwald",
+       "Yeti Beats"
+      ],
+      "composer": [
+       "Lydia Asrat",
+       "Doja Cat",
+       "Łukasz Gottwald",
+       "Yeti Beats"
+      ],
       "year": "2019",
       "released": "2019-11-07",
       "label": "Kemosabe Records/RCA Records",
       "album": "Hot Pink",
       "copyright": "℗ 2019 Kemosabe Records/RCA Records",
+      "mb": "a150cb0e-e8bf-4239-a193-9fbdec3c3bbd",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5192,12 +5422,33 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2017",
-      "released": "2017-10-11",
+      "released": "2017-11-01",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "BOOTLEG",
+      "isrc": "JPU901702924",
       "copyright": "℗ 2017 Sony Music Entertainment (Japan) Inc.",
+      "mb": "6f58d52c-dd4d-456e-bd88-b1a5d4a1d51c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5388,12 +5639,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "三浦徳子"
+      ],
+      "composer": [
+       "林哲司"
+      ],
+      "arranger": [
+       "林哲司"
+      ],
       "year": "1979",
       "released": "1979-11-05",
       "label": "PONY CANYON INC",
       "album": "松原みき ベスト・コレクション",
+      "isrc": "JPPC07950030",
       "copyright": "℗ 2008 PONY CANYON INC.",
+      "mb": "0ee3fcdd-44a1-451a-a50d-50242e48419c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5440,12 +5703,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kanaria"
+      ],
+      "composer": [
+       "Kanaria"
+      ],
       "year": "2023",
       "released": "2023-04-15",
       "label": "Kanaria",
       "album": "レクイエム (feat. 星街すいせい) - Single",
       "copyright": "℗ 2023 Kanaria",
+      "mb": "681cc716-d73e-485f-be88-26eccb3b156e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5496,12 +5767,21 @@
       ]
      },
      "info": {
-      "year": "2026",
-      "released": "2026-01-23",
+      "lyricist": [
+       "ryo"
+      ],
+      "composer": [
+       "ryo"
+      ],
+      "year": "2011",
+      "released": "2011-11-30",
       "label": "Cosmic Princess Kaguya!",
       "album": "CPK! Remix - EP",
+      "isrc": "JPE561301069",
       "copyright": "℗ 2026 Cosmic Princess Kaguya!",
+      "mb": "a4d26d6d-aecc-4b54-800a-ee1fb59f3e53",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5572,12 +5852,22 @@
      "spotify": "37G9I3G39oRcF5H6Yd2UnN",
      "bpm": 83,
      "info": {
+      "lyricist": [
+       "ゴム",
+       "shito"
+      ],
+      "composer": [
+       "shito"
+      ],
       "year": "2021",
-      "released": "2021-03-27",
+      "released": "2021-03-26",
       "label": "Egg Records",
       "album": "告白実行委員会 -FLYING SONGS- 愛してる",
+      "isrc": "TCJPO2126893",
       "copyright": "℗ 2021 Egg Records",
+      "mb": "5cea93e7-7df9-4320-8313-29b0be4abed5",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5630,12 +5920,21 @@
       ]
      },
      "info": {
-      "year": "2023",
-      "released": "2023-04-19",
+      "lyricist": [
+       "ポリスピカデリー"
+      ],
+      "composer": [
+       "ポリスピカデリー"
+      ],
+      "year": "2022",
+      "released": "2022-02-15",
       "label": "SINSEKAI RECORD",
       "album": "ASU",
+      "isrc": "JPY392200327",
       "copyright": "℗ 2023 SINSEKAI RECORD",
+      "mb": "31300340-b14d-4856-9af2-7034a42230f1",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5750,12 +6049,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "金子麻友美"
+      ],
+      "composer": [
+       "金子麻友美",
+       "久下真音"
+      ],
+      "arranger": [
+       "久下真音"
+      ],
       "year": "2024",
       "released": "2024-04-16",
       "label": "ポニーキャニオン",
       "album": "旦那様とのラブラブ・ラブソング - Single",
+      "isrc": "JPPC02410894",
       "copyright": "℗ 2024 ポニーキャニオン",
+      "mb": "3fd8535a-959f-4da2-aabd-29770cfac6b2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5812,8 +6124,11 @@
       "released": "2021-03-05",
       "label": "上海宽娱数码科技有限公司",
       "album": "大喜 - Single",
+      "isrc": "FRX282232049",
       "copyright": "℗ 2021 上海宽娱数码科技有限公司",
+      "mb": "3a8e8644-12b0-49aa-962f-82ad0bd6ae58",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5866,12 +6181,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Ayase"
+      ],
+      "composer": [
+       "Ayase"
+      ],
+      "arranger": [
+       "Ayase"
+      ],
       "year": "2022",
       "released": "2022-09-30",
       "label": "Ayase",
       "album": "飽和 / シネマ - Single",
+      "isrc": "JPP302200620",
       "copyright": "℗ 2022 Ayase",
+      "mb": "6d4fb434-76bc-4232-ab93-63b2165b1e5f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -5923,12 +6250,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Aimer"
+      ],
+      "composer": [
+       "飛内将大"
+      ],
       "year": "2011",
       "released": "2011-09-07",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "六等星の夜 / 悲しみはオーロラに / TWINKLE TWINKLE LITTLE STAR - Single",
       "copyright": "℗ 2011 Sony Music Entertainment (Japan) Inc.",
+      "mb": "1b0116d0-4dca-4f0b-ad49-23d0efb163c7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6055,12 +6390,21 @@
       ]
      },
      "info": {
-      "year": "2022",
-      "released": "2022-12-16",
+      "lyricist": [
+       "ゆうゆ"
+      ],
+      "composer": [
+       "ゆうゆ"
+      ],
+      "year": "2017",
+      "released": "2017-03-15",
       "label": "Yuuyu",
       "album": "深海少女 -deep sea girl- (feat. 初音ミク) - Single",
+      "isrc": "JPC231200092",
       "copyright": "℗ 2022 Yuuyu",
+      "mb": "8b845593-a84f-4e48-a863-e39d62d7ef36",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6114,12 +6458,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "papiyon"
+      ],
+      "composer": [
+       "papiyon"
+      ],
       "year": "2014",
       "released": "2014-03-05",
       "label": "PONY CANYON",
       "album": "SPACE DIVE!! (feat. GUMI)",
       "copyright": "℗ 2020 PONY CANYON",
+      "mb": "dd9c9e04-af19-40ad-bfa0-c07e0fcf4950",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6169,12 +6521,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "梶浦由記"
+      ],
+      "composer": [
+       "梶浦由記"
+      ],
       "year": "2019",
       "released": "2019-08-14",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "Torches - EP",
       "copyright": "℗ 2019 Sony Music Entertainment (Japan) Inc.",
+      "mb": "901b0efd-dff5-4156-8c6b-fdb35a0791dc",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6394,7 +6754,9 @@
       "label": "SME Korea Inc",
       "album": "The Beginning: Cupid - Single",
       "copyright": "℗ 2023 SME Korea Inc.",
+      "mb": "b0965a3b-2e53-49b0-8c55-cb79793a353f",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6444,7 +6806,9 @@
       "label": "Columbia Records",
       "album": "blackSUMMERS'night (2016)",
       "copyright": "℗ 2016 Columbia Records, a division of Sony Music Entertainment",
+      "mb": "ef77a3dd-6594-49d0-8a9c-8f7fc8b02aba",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6671,12 +7035,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "なきそ"
+      ],
+      "composer": [
+       "なきそ"
+      ],
       "year": "2022",
       "released": "2022-03-05",
       "label": "NAKISO",
       "album": "ド屑 - Single",
+      "isrc": "TCJPR2222807",
       "copyright": "℗ 2022 NAKISO",
+      "mb": "74191675-610b-4eb5-8e82-d11c829f4537",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -6722,12 +7095,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Ayase"
+      ],
+      "composer": [
+       "Ayase"
+      ],
+      "arranger": [
+       "Ayase"
+      ],
+      "producer": [
+       "Ayase"
+      ],
       "year": "2020",
       "released": "2020-11-16",
       "label": "THE FIRST TAKE MUSIC",
       "album": "再会 (produced by Ayase) - Single",
+      "isrc": "JPU902002777",
       "copyright": "℗ 2020 THE FIRST TAKE MUSIC",
+      "mb": "fc6a6c6f-e221-45df-839c-a3dcd019ae21",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7419,6 +7807,19 @@
      "apple": "tw/1788479625",
      "spotify": "2JTjl3D0dDyvOgJVbWm5qK",
      "bpm": 74,
+     "range": {
+      "low": 56,
+      "high": 77,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "vhigh"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -7437,7 +7838,9 @@
       "label": "猛犸文化",
       "album": "赤伶 - Single",
       "copyright": "℗ 2018 猛犸文化",
+      "mb": "3c528330-8973-4a44-b46c-3a801e003a7c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7640,12 +8043,25 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "DECO*27"
+      ],
+      "composer": [
+       "DECO*27"
+      ],
+      "arranger": [
+       "DECO*27",
+       "Hayato Yamamoto"
+      ],
       "year": "2025",
       "released": "2025-07-26",
       "label": "OTOIRO",
       "album": "チェリーポップ - Single",
+      "isrc": "JP92Q2502426",
       "copyright": "℗ 2025 OTOIRO",
+      "mb": "e8d1377a-db7e-41e4-ae20-9f3aed2d3305",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7696,8 +8112,11 @@
       "released": "2016-06-22",
       "label": "WARNER MUSIC JAPAN INC",
       "album": "冥土ノ土産",
+      "isrc": "JPWP01670846",
       "copyright": "℗ 2016 WARNER MUSIC JAPAN INC.",
+      "mb": "d14e5d7f-ef0b-40e1-a097-67ed11af1a25",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7742,12 +8161,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "なとり"
+      ],
+      "composer": [
+       "なとり"
+      ],
       "year": "2025",
       "released": "2025-06-06",
       "label": "Sony Music Labels Inc",
       "album": "プロポーズ - Single",
+      "isrc": "JPU902501948",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "mb": "e86f726d-a18d-4ee5-aead-51cc3f7d4477",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7791,12 +8219,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Aimer"
+      ],
+      "composer": [
+       "飛内将大"
+      ],
       "year": "2019",
       "released": "2019-04-10",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "Penny Rain",
       "copyright": "℗ 2019 Sony Music Entertainment (Japan) Inc.",
+      "mb": "42f5dd52-e46d-459f-ae06-844356e58a49",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7846,12 +8282,21 @@
       ]
      },
      "info": {
-      "year": "2015",
-      "released": "2015-12-02",
+      "lyricist": [
+       "DECO*27"
+      ],
+      "composer": [
+       "DECO*27"
+      ],
+      "year": "2011",
+      "released": "2011-11-30",
       "label": "EXIT TUNES",
       "album": "EXIT TUNES PRESENTS ACTORS4【通常版】",
+      "isrc": "JPE561301089",
       "copyright": "℗ EXIT TUNES",
+      "mb": "8a45d975-820b-4405-bf7c-2cdff632ec03",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7894,12 +8339,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "DECO*27"
+      ],
+      "composer": [
+       "DECO*27"
+      ],
+      "arranger": [
+       "tepe"
+      ],
       "year": "2023",
       "released": "2023-05-20",
       "label": "OTOIRO",
       "album": "ラビットホール - Single",
+      "isrc": "JP92Q2301331",
       "copyright": "℗ 2023 OTOIRO",
+      "mb": "301a394c-9f7f-4577-88e8-737072e156c2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7945,30 +8402,23 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Aimer"
+      ],
+      "composer": [
+       "飛内将大"
+      ],
       "year": "2015",
       "released": "2015-07-29",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "DAWN",
       "copyright": "℗ 2015 Sony Music Entertainment (Japan) Inc.",
+      "mb": "8eaa4db1-8f1e-4698-b7b9-0294dc011f50",
       "src": [
+       "mb",
        "apple"
       ]
      }
-    },
-    {
-     "rank": 88,
-     "title": "艾琳妮雅·裴利",
-     "artist": "",
-     "covers": 4,
-     "cover_video": "YQXOIu3YjyU",
-     "performers": [
-      [
-       "艾琳妮雅 Arrynia Vaeri",
-       "YQXOIu3YjyU"
-      ]
-     ],
-     "last_rank": null,
-     "is_new": null
     },
     {
      "rank": 88,
@@ -8014,12 +8464,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "キタニタツヤ"
+      ],
+      "composer": [
+       "キタニタツヤ"
+      ],
+      "arranger": [
+       "キタニタツヤ"
+      ],
+      "mix": [
+       "髙山徹"
+      ],
       "year": "2024",
       "released": "2024-05-14",
       "label": "Sony Music Labels Inc",
       "album": "ずうっといっしょ! - Single",
+      "isrc": "JPU902401547",
       "copyright": "℗ 2024 Sony Music Labels Inc.",
+      "mb": "cd0bd2bd-7987-4919-8b2d-e9c0da994b65",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8068,12 +8533,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Diggy‐MO’"
+      ],
+      "composer": [
+       "Diggy‐MO’",
+       "長谷川大介"
+      ],
       "year": "2025",
-      "released": "2025-01-08",
+      "released": "2025-04-23",
       "label": "BUSHIROAD MUSIC INC",
       "album": "KiLLKiSS - Single",
       "copyright": "℗ 2025 BUSHIROAD MUSIC INC.",
+      "mb": "0345e49a-857c-4bd4-be45-525e0e455d1b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8123,12 +8597,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "q*Left"
+      ],
+      "composer": [
+       "Giga"
+      ],
       "year": "2020",
-      "released": "2020-10-07",
+      "released": "2020-09-30",
       "label": "Giga",
       "album": "Ready Steady (feat. 初音ミク, 鏡音リン, 鏡音レン) - Single",
       "copyright": "℗ 2020 Giga",
+      "mb": "543f503d-69a3-42b1-9483-4b15da20d0ad",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8236,12 +8718,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Eve"
+      ],
+      "composer": [
+       "Eve"
+      ],
+      "arranger": [
+       "Numa"
+      ],
+      "producer": [
+       "Eve"
+      ],
+      "mix": [
+       "快晴P",
+       "浦本雅史"
+      ],
+      "recording": [
+       "浦本雅史"
+      ],
       "year": "2021",
       "released": "2021-02-05",
       "label": "TOY'S FACTORY",
       "album": "平行線 - Single",
+      "isrc": "JPTF02100501",
       "copyright": "℗ 2021 TOY'S FACTORY",
+      "mb": "c01ee1fd-5229-47d8-b40b-0328505a2dff",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8501,12 +9005,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ヒグチアイ"
+      ],
+      "composer": [
+       "内藤英雅"
+      ],
       "year": "2022",
       "released": "2022-12-25",
       "label": "Aniplex Inc",
       "album": "星座になれたら - Single",
       "copyright": "℗ 2022 Aniplex Inc.",
+      "mb": "607fc3cf-facb-4b2c-ac51-b35d36aa5f29",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8697,12 +9209,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "畑亜貴"
+      ],
+      "composer": [
+       "山田高弘"
+      ],
+      "arranger": [
+       "伊藤真澄"
+      ],
       "year": "2010",
       "released": "2010-12-22",
       "label": "Lantis",
       "album": "Snow halation - EP",
+      "isrc": "JPI101401641",
       "copyright": "℗ 2010 Lantis",
+      "mb": "881ea86f-46ce-4f4b-a535-822b1f5710c2",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8755,7 +9279,9 @@
       "label": "Mosawo",
       "album": "ぎゅっと。 - Single",
       "copyright": "℗ 2020 Mosawo",
+      "mb": "626bfd77-7df9-41a1-ad7c-4fbef51927f9",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8855,12 +9381,20 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kanaria"
+      ],
+      "composer": [
+       "Kanaria"
+      ],
       "year": "2023",
-      "released": "2023-07-08",
+      "released": "2023-07-07",
       "label": "Kanaria",
       "album": "デーモンロード - Single",
       "copyright": "℗ 2023 Kanaria",
+      "mb": "52d3aaa1-e3dc-48fa-ba82-b6965001928e",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -8935,7 +9469,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ただ声一つ",
      "artist": "ロクデナシ",
      "covers": 3,
@@ -9011,7 +9545,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "星の消えた夜に",
      "artist": "Aimer",
      "covers": 3,
@@ -9081,7 +9615,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "The Story of Us",
      "artist": "milet",
      "covers": 3,
@@ -9153,7 +9687,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "少女A",
      "artist": "椎名もた",
      "covers": 3,
@@ -9222,7 +9756,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "跳樓機",
      "artist": "LBI利比",
      "covers": 3,
@@ -9283,7 +9817,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "小夜子",
      "artist": "みきとP",
      "covers": 3,
@@ -9359,7 +9893,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ブレーメン",
      "artist": "ヨルシカ",
      "covers": 3,
@@ -9422,7 +9956,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "クリームソーダとシャンデリア",
      "artist": "Mei & Henrii",
      "covers": 3,
@@ -9490,7 +10024,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "怪獣",
      "artist": "サカナクション",
      "covers": 3,
@@ -9560,7 +10094,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "夢と葉桜",
      "artist": "",
      "covers": 3,
@@ -9583,7 +10117,7 @@
      "is_new": null
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "星降る海",
      "artist": "Aqu3ra, 超かぐや姫! & 月見ヤチヨ(cv.早見沙織)",
      "covers": 3,
@@ -9659,7 +10193,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "夏霞",
      "artist": "あたらよ",
      "covers": 3,
@@ -9735,7 +10269,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "あの夏が飽和する",
      "artist": "カンザキイオリ",
      "covers": 3,
@@ -9794,7 +10328,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Soranji",
      "artist": "Mrs. GREEN APPLE",
      "covers": 3,
@@ -9863,7 +10397,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "星になる",
      "artist": "Islet",
      "covers": 3,
@@ -9895,18 +10429,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "樂",
+       "Tazuneru"
+      ],
+      "composer": [
+       "Tazuneru"
+      ],
+      "producer": [
+       "tayori"
+      ],
+      "mix": [
+       "樂"
+      ],
       "year": "2022",
       "released": "2022-12-10",
       "label": "Islet",
       "album": "星になる (feat. 倚水) - Single",
+      "isrc": "TCJPY2479952",
       "copyright": "℗ 2022 Islet",
+      "mb": "3bc688da-0332-434a-ba77-8ad69a0c2473",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "不可幸力",
      "artist": "Vaundy",
      "covers": 3,
@@ -9941,18 +10491,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Vaundy"
+      ],
+      "composer": [
+       "Vaundy"
+      ],
       "year": "2019",
       "released": "2019-11-09",
       "label": "Vaundy_ART Work Studio",
       "album": "不可幸力 - Single",
+      "isrc": "JPR651900353",
       "copyright": "℗ 2020 Vaundy_ART Work Studio",
+      "mb": "c82bb5a2-377b-4f77-8b17-5f9c29be1db6",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "畫地為牢",
      "artist": "張赫煊",
      "covers": 3,
@@ -9986,18 +10545,28 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "劉鳳瑤"
+      ],
+      "composer": [
+       "劉鳳瑤"
+      ],
       "year": "2018",
-      "released": "2018-06-19",
-      "label": "Beijing Huyuchuanqi",
-      "album": "畫地為牢(《如果,愛》電視劇愛情宣言曲) - Single",
+      "released": "2018-08-03",
+      "label": "滾石移動",
+      "album": "畫地為牢 (電視劇《如果, 愛》愛情宣言曲)",
+      "isrc": "TWU711801969",
+      "maker": "完美青春(成都)文化傳播有限公司",
       "copyright": "℗ 2025 Beijing Huyuchuanqi",
+      "ncl": 227989,
       "src": [
+       "ncl",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "偽顔",
      "artist": "yama",
      "covers": 3,
@@ -10040,18 +10609,36 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "玉味拓也",
+       "yama",
+       "ずま"
+      ],
+      "composer": [
+       "Matt Cab",
+       "MATZ",
+       "yama",
+       "ずま"
+      ],
+      "arranger": [
+       "Matt Cab",
+       "MATZ"
+      ],
       "year": "2024",
       "released": "2024-01-17",
       "label": "(1,9),2023(3,5,8,11,13,14),2024(2,4,6,7,10,12) Sony Music Labels Inc",
       "album": "awake&build",
+      "isrc": "JPU902305273",
       "copyright": "℗ 2022(1,9),2023(3,5,8,11,13,14),2024(2,4,6,7,10,12) Sony Music Labels Inc.",
+      "mb": "3e6928d9-23cb-4e5e-b7e3-755ddd9bf8e1",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "AIZO",
      "artist": "King Gnu",
      "covers": 3,
@@ -10113,7 +10700,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Teeth",
      "artist": "5 Seconds of Summer",
      "covers": 3,
@@ -10183,7 +10770,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "大正浪漫",
      "artist": "YOASOBI",
      "covers": 3,
@@ -10222,18 +10809,36 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Ayase"
+      ],
+      "composer": [
+       "Ayase"
+      ],
+      "arranger": [
+       "Ayase"
+      ],
+      "mix": [
+       "福井昌彦"
+      ],
+      "recording": [
+       "斎藤孝之"
+      ],
       "year": "2021",
       "released": "2021-09-15",
       "label": "YOASOBI",
       "album": "大正浪漫 - Single",
+      "isrc": "JPP302100985",
       "copyright": "℗ 2021 YOASOBI",
+      "mb": "ecc28712-5699-45d3-9fe2-b2bb907ed787",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "アヤノの幸福理論",
      "artist": "じん",
      "covers": 3,
@@ -10268,18 +10873,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "じん"
+      ],
+      "composer": [
+       "じん"
+      ],
       "year": "2013",
       "released": "2013-05-29",
       "label": "ultraCeep Inc",
       "album": "メカクシティレコーズ",
+      "isrc": "JPP301300632",
       "copyright": "℗ 2013 ultraCeep Inc.",
+      "mb": "23207adc-7c08-4640-9ed6-807483158f22",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Your Idol",
      "artist": "Saja boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee & KPop Demon Hunters Cast",
      "covers": 3,
@@ -10317,18 +10931,51 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "24",
+       "EJAE",
+       "IDO",
+       "KUSH",
+       "Mark Sonnenblick",
+       "Vince"
+      ],
+      "composer": [
+       "24",
+       "EJAE",
+       "IDO",
+       "KUSH",
+       "Mark Sonnenblick",
+       "Vince"
+      ],
+      "producer": [
+       "24",
+       "Ian Eisendrath",
+       "IDO"
+      ],
+      "mix": [
+       "Curtis Douglas"
+      ],
+      "recording": [
+       "Andy Dudman",
+       "Noah Hubbell",
+       "Derik Lee",
+       "Kyunghoon Shin"
+      ],
       "year": "2025",
       "released": "2025-06-19",
       "label": "Visva Records / Republic Records",
       "album": "KPop Demon Hunters (Soundtrack from the Netflix Film / Deluxe Version)",
+      "isrc": "QZ8BZ2513512",
       "copyright": "This Compilation ℗ 2025 Visva Records / Republic Records, a division of UMG Recordings, Inc.",
+      "mb": "69800340-d7f7-48d3-ad81-2b5a46c428de",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "お呪い",
      "artist": "なきそ",
      "covers": 3,
@@ -10367,18 +11014,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "なきそ"
+      ],
+      "composer": [
+       "なきそ"
+      ],
       "year": "2023",
       "released": "2023-02-06",
       "label": "NAKISO",
       "album": "お呪い - Single",
+      "isrc": "TCJPU2362640",
       "copyright": "℗ 2023 NAKISO",
+      "mb": "bea9ac41-d697-4089-b2e5-731c0a416932",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ハッピーシンセサイザ",
      "artist": "EasyPop",
      "covers": 3,
@@ -10418,18 +11074,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "BETTI"
+      ],
+      "composer": [
+       "BETTI"
+      ],
       "year": "2010",
       "released": "2010-11-22",
       "label": "EasyPop",
       "album": "ベリーイージー",
+      "isrc": "JPC231900273",
       "copyright": "℗ 2015 EasyPop",
+      "mb": "02adb798-6dd3-4b8e-b4e2-2fd57811f0b5",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "THERE IS A REASON",
      "artist": "鈴木このみ",
      "covers": 3,
@@ -10467,18 +11132,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "岩里祐穂"
+      ],
+      "composer": [
+       "ヒゲドライバー"
+      ],
+      "arranger": [
+       "宮崎誠"
+      ],
       "year": "2017",
       "released": "2017-07-12",
       "label": "KADOKAWA CORPORATION",
       "album": "「ひげこれ!」HIGE DRIVER BEST in KADOKAWA ANISON",
+      "isrc": "JPD731700248",
       "copyright": "℗ 2020 KADOKAWA CORPORATION",
+      "mb": "8554dc0a-902f-4346-8185-8a25d4ee8690",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ローリンガール",
      "artist": "wowaka",
      "covers": 3,
@@ -10514,18 +11191,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "wowaka"
+      ],
+      "composer": [
+       "wowaka"
+      ],
       "year": "2011",
       "released": "2011-05-18",
       "label": "Dwango Music entertainment,Inc",
       "album": "アンハッピーリフレイン",
+      "isrc": "JPC231200189",
       "copyright": "℗ Dwango Music entertainment,Inc.",
+      "mb": "ba8fe96b-ed02-44fd-81c5-12faa9981dc5",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Bad Apple!!",
      "artist": "Alstroemeria Records",
      "covers": 3,
@@ -10564,18 +11250,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Haruka"
+      ],
+      "arranger": [
+       "void",
+       "Masayoshi Minoshima"
+      ],
       "year": "2008",
       "released": "2008-05-25",
       "label": "Alstroemeria Records",
       "album": "EXSERENS (A Selection of Alstroemeria Records)",
       "copyright": "℗ 2008 Alstroemeria Records",
+      "mb": "9f5194c9-6c6f-45e2-b61b-ced294f9e346",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "化け猫",
      "artist": "キタニタツヤ",
      "covers": 3,
@@ -10617,18 +11312,33 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "キタニタツヤ"
+      ],
+      "composer": [
+       "キタニタツヤ"
+      ],
+      "arranger": [
+       "キタニタツヤ"
+      ],
+      "mix": [
+       "土岐彩香"
+      ],
       "year": "2022",
       "released": "2022-12-09",
       "label": "Sony Music Labels Inc",
       "album": "化け猫 - Single",
+      "isrc": "JPU902204648",
       "copyright": "℗ 2022 Sony Music Labels Inc.",
+      "mb": "f94e8eb8-889c-4b85-a881-4fc58fdd76cf",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "貴方の恋人になりたい",
      "artist": "チョーキューメイ",
      "covers": 3,
@@ -10672,18 +11382,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "麗"
+      ],
+      "composer": [
+       "麗"
+      ],
       "year": "2022",
       "released": "2022-06-01",
       "label": "ChoQMay",
       "album": "するどいささくれ",
+      "isrc": "USA2P2224322",
       "copyright": "℗ 2022 ChoQMay",
+      "mb": "4f9c2010-f0fd-4d96-95d7-ee9edecaa2c1",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "惑星ループ",
      "artist": "ナユタン星人×Sou",
      "covers": 3,
@@ -10722,18 +11441,27 @@
       ]
      },
      "info": {
-      "year": "2017",
-      "released": "2017-09-27",
+      "lyricist": [
+       "ナユタン星人"
+      ],
+      "composer": [
+       "ナユタン星人"
+      ],
+      "year": "2016",
+      "released": "2016-12-31",
       "label": "Nayutalien & Sou",
       "album": "ナユタン星への快爽列車",
+      "isrc": "TCJPF1707193",
       "copyright": "℗ 2017 Nayutalien & Sou",
+      "mb": "c2bb0a05-662b-41a0-a3e5-06142b648ecc",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Soda Pop",
      "artist": "Saja boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee & KPop Demon Hunters Cast",
      "covers": 3,
@@ -10772,18 +11500,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "24",
+       "Danny Chung",
+       "Dominsuk",
+       "KUSH",
+       "Vince"
+      ],
+      "composer": [
+       "24",
+       "Danny Chung",
+       "Dominsuk",
+       "KUSH",
+       "Vince"
+      ],
       "year": "2025",
       "released": "2025-06-19",
       "label": "Visva Records / Republic Records",
       "album": "Soda Pop - EP",
       "copyright": "This Compilation ℗ 2025 Visva Records / Republic Records, a division of UMG Recordings, Inc.",
+      "mb": "91e75124-84d1-44b8-bc00-d287655d6913",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "蜜月アン・ドゥ・トロワ",
      "artist": "りょーくん",
      "covers": 3,
@@ -10825,13 +11569,15 @@
       "label": "EXIT TUNES",
       "album": "Re:alize",
       "copyright": "℗ 2014 EXIT TUNES",
+      "mb": "996aa3f0-e2d1-4f9f-81f8-8866b4f531e4",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Eye",
      "artist": "Kanaria",
      "covers": 3,
@@ -10870,18 +11616,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Kanaria"
+      ],
+      "composer": [
+       "Kanaria"
+      ],
       "year": "2021",
       "released": "2021-07-26",
       "label": "Kanaria",
       "album": "Eye - Single",
+      "isrc": "TCJPP2128443",
       "copyright": "℗ 2021 Kanaria",
+      "mb": "ccb096f2-3554-47fc-8edc-3d81ad5f71f9",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "フクロウ~フクロウが知らせる客が来たと",
      "artist": "芥川組",
      "covers": 3,
@@ -10904,7 +11659,7 @@
      "is_new": null
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Free",
      "artist": "Rumi, JINU, EJAE, Andrew Choi & KPop Demon Hunters Cast",
      "covers": 3,
@@ -10945,18 +11700,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Jenna Andrews",
+       "Stephen Kirk",
+       "Mark Sonnenblick"
+      ],
+      "composer": [
+       "Jenna Andrews",
+       "Stephen Kirk",
+       "Mark Sonnenblick"
+      ],
       "year": "2025",
       "released": "2025-06-20",
       "label": "Visva Records / Republic Records",
       "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
       "copyright": "This Compilation ℗ 2025 Visva Records / Republic Records, a division of UMG Recordings, Inc.",
+      "mb": "5b2b3cbf-3924-4494-8131-d40ce990e5b6",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Shiotsuki",
      "artist": "絲竹演繹",
      "covers": 3,
@@ -10971,7 +11738,7 @@
      "is_new": null
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "母系社會",
      "artist": "a-mei",
      "covers": 3,
@@ -10997,18 +11764,33 @@
      "spotify": "6cCEtOKmkT9Gwn6k7xwDeO",
      "bpm": 65,
      "info": {
+      "lyricist": [
+       "陳仨"
+      ],
+      "composer": [
+       "愛力獅"
+      ],
+      "arranger": [
+       "陳君豪",
+       "梁思樺"
+      ],
       "year": "2015",
       "released": "2015-04-04",
-      "label": "Mei Entertainment Ltd",
+      "label": "環球國際",
       "album": "AMIT2",
+      "isrc": "TWU971502003",
+      "maker": "聲動娛樂",
+      "type": "國語流行專輯",
       "copyright": "℗ 2015 Mei Entertainment Ltd",
+      "ncl": 132643,
       "src": [
+       "ncl",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "暮色迴響",
      "artist": "吉星出租",
      "covers": 3,
@@ -11056,7 +11838,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "How It’s Done",
      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
      "covers": 3,
@@ -11095,18 +11877,50 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "24",
+       "Danny Chung",
+       "EJAE",
+       "IDO",
+       "Mark Sonnenblick",
+       "TEDDY"
+      ],
+      "composer": [
+       "24",
+       "Danny Chung",
+       "EJAE",
+       "IDO",
+       "Mark Sonnenblick",
+       "TEDDY"
+      ],
+      "producer": [
+       "24",
+       "Ian Eisendrath",
+       "IDO",
+       "TEDDY"
+      ],
+      "mix": [
+       "Curtis Douglas"
+      ],
+      "recording": [
+       "Noah Hubbell",
+       "Derik Lee"
+      ],
       "year": "2025",
       "released": "2025-06-19",
       "label": "Visva Records / Republic Records",
       "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+      "isrc": "QZ8BZ2513508",
       "copyright": "This Compilation ℗ 2025 Visva Records / Republic Records, a division of UMG Recordings, Inc.",
+      "mb": "e202e217-2db2-478d-95b8-5f64e553ea81",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "メリーゴーランド",
      "artist": "優里",
      "covers": 3,
@@ -11145,18 +11959,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "優里"
+      ],
+      "composer": [
+       "優里"
+      ],
       "year": "2022",
       "released": "2022-12-22",
       "label": "Sony Music Labels Inc",
       "album": "メリーゴーランド - Single",
+      "isrc": "JPU902204824",
       "copyright": "℗ 2022 Sony Music Labels Inc.",
+      "mb": "48bfa2c9-ec66-449f-84f1-328c65b0ac23",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "サマータイムレコード",
      "artist": "じん",
      "covers": 3,
@@ -11198,18 +12021,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "じん"
+      ],
+      "composer": [
+       "じん"
+      ],
       "year": "2015",
-      "released": "2015-06-03",
+      "released": "2015-04-01",
       "label": "1stPLACE",
       "album": "MEKAKUCITY M’s 2 ~メカクシティアクターズ・ヴォーカル&サウンド コレクション~",
+      "isrc": "JPQ941500021",
       "copyright": "℗ 2015 1stPLACE",
+      "mb": "7ade4bc1-61a2-43ec-8964-95a88ad676c9",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ほろよい",
      "artist": "Sanghee",
      "covers": 3,
@@ -11257,7 +12089,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "好想愛這個世界啊",
      "artist": "華晨宇",
      "covers": 3,
@@ -11292,17 +12124,20 @@
      },
      "info": {
       "year": "2019",
-      "released": "2019-12-05",
-      "label": "天娱传媒",
-      "album": "新世界",
+      "released": "2019-12-04",
+      "label": "科科農場",
+      "album": "好想愛這個世界啊",
+      "isrc": "TWCC31907480",
       "copyright": "℗ 2020 天娱传媒",
+      "ncl": 281054,
       "src": [
+       "ncl",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "新時代",
      "artist": "Ado",
      "covers": 3,
@@ -11361,7 +12196,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "春日影",
      "artist": "MyGO!!!!!",
      "covers": 3,
@@ -11396,18 +12231,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "織田あすか"
+      ],
+      "composer": [
+       "藤田淳平"
+      ],
+      "arranger": [
+       "藤田淳平"
+      ],
       "year": "2023",
       "released": "2023-11-01",
       "label": "BUSHIROAD MUSIC INC",
       "album": "迷跡波",
+      "isrc": "JPR562300280",
       "copyright": "℗ 2023 BUSHIROAD MUSIC INC.",
+      "mb": "7f88ba35-2f7a-4ace-870f-2cfe20d2d900",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "テトリス",
      "artist": "Plastic Tree",
      "covers": 3,
@@ -11448,17 +12295,19 @@
      },
      "info": {
       "year": "2008",
-      "released": "2008-10-29",
+      "released": "2008-09-24",
       "label": "UNIVERSAL J",
       "album": "ウツセミ",
       "copyright": "℗ 2008 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "mb": "18839abe-4645-4ff3-9435-c310188d9615",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "行星",
      "artist": "理想混蛋",
      "covers": 3,
@@ -11491,18 +12340,34 @@
       ]
      },
      "info": {
-      "year": "2020",
-      "released": "2020-05-20",
-      "label": "好混蛋有限公司",
-      "album": "愚者",
+      "lyricist": [
+       "邱建豪"
+      ],
+      "composer": [
+       "邱建豪",
+       "郭哲成"
+      ],
+      "arranger": [
+       "姚書寰"
+      ],
+      "producer": [
+       "李宗軒"
+      ],
+      "year": "2018",
+      "released": "2018-07-31",
+      "label": "科科農場",
+      "album": "行星",
+      "isrc": "TWCC31801095",
       "copyright": "℗ 2020 好混蛋有限公司",
+      "ncl": 220853,
       "src": [
+       "ncl",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Pretender",
      "artist": "Official鬍子男dism",
      "covers": 3,
@@ -11558,7 +12423,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "GETCHA!",
      "artist": "Giga & KIRA",
      "covers": 3,
@@ -11599,18 +12464,28 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "木のひこ",
+       "KIRA"
+      ],
+      "composer": [
+       "Giga",
+       "KIRA"
+      ],
       "year": "2020",
       "released": "2020-09-18",
       "label": "Giga & Kira",
       "album": "GETCHA! (feat. 初音ミク & GUMI) - Single",
       "copyright": "℗ 2020 Giga & Kira",
+      "mb": "82c80b91-9969-4731-8643-ad69627d24db",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "愛して愛して愛して",
      "artist": "きくお",
      "covers": 3,
@@ -11667,7 +12542,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "祝福",
      "artist": "YOASOBI",
      "covers": 3,
@@ -11739,7 +12614,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "在加納共和國離婚",
      "artist": "菲道爾 & DIOR 大穎",
      "covers": 3,
@@ -11783,7 +12658,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Bling-Bang-Bang-Born",
      "artist": "Creepy Nuts",
      "covers": 3,
@@ -11856,7 +12731,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "踊",
      "artist": "Ado",
      "covers": 3,
@@ -11894,18 +12769,27 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "DECO*27"
+      ],
+      "composer": [
+       "Giga",
+       "TeddyLoid"
+      ],
       "year": "2021",
       "released": "2021-04-27",
       "label": "A Virgin Music release; ℗ 2021 UNIVERSAL MUSIC LLC",
       "album": "踊 - Single",
       "copyright": "A Virgin Music release; ℗ 2021 UNIVERSAL MUSIC LLC",
+      "mb": "ea155ea1-97e6-47c5-9b6a-fd782756b46d",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "紅蓮華",
      "artist": "LiSA",
      "covers": 3,
@@ -11989,7 +12873,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "unravel",
      "artist": "TK from 凛として時雨",
      "covers": 3,
@@ -12050,7 +12934,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "「僕は...」",
      "artist": "あたらよ",
      "covers": 3,
@@ -12088,18 +12972,37 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ひとみ"
+      ],
+      "composer": [
+       "ひとみ"
+      ],
+      "arranger": [
+       "源田爽馬",
+       "まーしー"
+      ],
+      "mix": [
+       "村上宣之"
+      ],
+      "recording": [
+       "村上宣之"
+      ],
       "year": "2024",
       "released": "2024-01-08",
       "label": "A.S.A.B / Atarayo Records",
       "album": "「僕は...」 - Single",
+      "isrc": "JPB602400040",
       "copyright": "℗ 2024 A.S.A.B / Atarayo Records",
+      "mb": "513e3848-9d1f-4615-8c09-8f209b145bed",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ロウワー",
      "artist": "ぬゆり",
      "covers": 3,
@@ -12174,7 +13077,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Vtuber",
      "artist": "ILLIT",
      "covers": 3,
@@ -12189,7 +13092,7 @@
      "is_new": null
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ギターと孤独と蒼い惑星",
      "artist": "結束バンド",
      "covers": 3,
@@ -12231,18 +13134,26 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ZAQ"
+      ],
+      "composer": [
+       "音羽-otoha-"
+      ],
       "year": "2022",
       "released": "2022-11-06",
       "label": "Aniplex Inc",
       "album": "結束バンド",
       "copyright": "℗ 2022 Aniplex Inc.",
+      "mb": "c51549e1-62ac-4156-b7a4-01aad8d17fb2",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "Mela!",
      "artist": "緑黃色社會",
      "covers": 3,
@@ -12282,18 +13193,40 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "小林壱誓",
+       "長屋晴子"
+      ],
+      "composer": [
+       "穴見真吾",
+       "peppe"
+      ],
+      "arranger": [
+       "緑黄色社会",
+       "横山裕章"
+      ],
+      "mix": [
+       "村上宣之"
+      ],
+      "recording": [
+       "原田しずお",
+       "村上宣之"
+      ],
       "year": "2020",
       "released": "2020-04-22",
       "label": "Sony Music Labels Inc",
       "album": "SINGALONG",
+      "isrc": "JPU902000634",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "a0c924db-e99a-4da1-bbdb-cd4f8b0f5482",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ボルテッカー",
      "artist": "DECO*27 & 初音ミク",
      "covers": 3,
@@ -12332,18 +13265,32 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "DECO*27",
+       "Project VOLTAGE"
+      ],
+      "composer": [
+       "DECO*27"
+      ],
+      "arranger": [
+       "DECO*27",
+       "tepe"
+      ],
       "year": "2023",
       "released": "2023-09-30",
       "label": "Pokemon/Nintendo/Creatures/GAME FREAK./Crypton Future Media, INC./DECO*27/OTOIRO",
       "album": "ボルテッカー - Single",
+      "isrc": "JP92Q2301880",
       "copyright": "℗ 2023 Pokemon/Nintendo/Creatures/GAME FREAK./Crypton Future Media, INC./DECO*27/OTOIRO",
+      "mb": "756ca6c1-d063-4ec1-a73b-5665cde224ea",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "彼女は旅に出る",
      "artist": "Sana",
      "covers": 3,
@@ -12392,7 +13339,7 @@
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "幽霊東京",
      "artist": "Ayase",
      "covers": 3,
@@ -12436,18 +13383,36 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "Ayase"
+      ],
+      "composer": [
+       "Ayase"
+      ],
+      "arranger": [
+       "Ayase"
+      ],
+      "mix": [
+       "福井昌彦"
+      ],
+      "recording": [
+       "齊藤隆之"
+      ],
       "year": "2019",
-      "released": "2019-11-23",
+      "released": "2019-11-17",
       "label": "Ayase",
       "album": "幽霊東京 - EP",
+      "isrc": "TCJPJ1993930",
       "copyright": "℗ 2019 Ayase",
+      "mb": "71130454-d2b7-49a0-88a6-34197669eaa6",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "バレンタイン・キッス",
      "artist": "渡り廊下走り隊7",
      "covers": 3,
@@ -12480,18 +13445,30 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "秋元康"
+      ],
+      "composer": [
+       "瀬井広明"
+      ],
+      "arranger": [
+       "大内正徳"
+      ],
       "year": "2011",
       "released": "2011-02-02",
       "label": "Pony Canyon Inc",
       "album": "バレンタイン・キッス - EP (初回盤A)",
+      "isrc": "JPPC01002929",
       "copyright": "℗ 2011 Pony Canyon Inc.",
+      "mb": "113bc4ba-f698-48c0-a8c4-6c5a8c5a53ac",
       "src": [
+       "mb",
        "apple"
       ]
      }
     },
     {
-     "rank": 126,
+     "rank": 125,
      "title": "ラブカ?",
      "artist": "柊キライ",
      "covers": 3,
@@ -12524,12 +13501,21 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "柊キライ"
+      ],
+      "composer": [
+       "柊キライ"
+      ],
       "year": "2020",
-      "released": "2020-12-11",
+      "released": "2020-12-12",
       "label": "HiiragiKirai",
       "album": "ラブカ? - Single",
+      "isrc": "JPA652005202",
       "copyright": "℗ 2020 HiiragiKirai",
+      "mb": "284f1428-6493-43e0-9633-fc618137c08b",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -12537,7 +13523,7 @@
    ],
    "period_key": "2026-11-18",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T09:58:41+08:00",
+   "fetched_at": "2026-11-18T15:04:44+08:00",
    "stale": false
   },
   {
@@ -14352,6 +15338,19 @@
      "apple": "tw/1821087731",
      "spotify": "1oFqKeepmT5S8BCGqJl7Ar",
      "bpm": 99,
+     "range": {
+      "low": 53,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 4,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Drum n Bass"
@@ -14624,6 +15623,19 @@
      "apple": "tw/1681260838",
      "spotify": "4QouBebU7c4MJCHYJw7WL0",
      "bpm": 70,
+     "range": {
+      "low": 54,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -15981,6 +16993,21 @@
      "apple": "jp/1652633647",
      "spotify": "2xfvg55ad5exNMXx4THSXk",
      "bpm": 174,
+     "range": {
+      "low": 59,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "party",
@@ -15991,12 +17018,22 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "指原莉乃"
+      ],
+      "composer": [
+       "めんま",
+       "鈴木エレカ"
+      ],
       "year": "2022",
       "released": "2022-09-28",
       "label": "Sony Music Labels Inc",
       "album": "Be Selfish(Special Edition)",
+      "isrc": "JPU902203165",
       "copyright": "℗ 2022 Sony Music Labels Inc.",
+      "mb": "682d8b14-92c4-4417-811b-2e23037011a0",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -16329,7 +17366,7 @@
     {
      "rank": 12,
      "title": "Pentas",
-     "artist": "浠Mizuki・澪Rei・煌Kirali・橙Yuzumi・玥Itsuki",
+     "artist": "Satoko Fujii & Natsuki Tamura",
      "covers": 1,
      "cover_video": "SzNh2mUooQ0",
      "performers": [
@@ -16339,7 +17376,36 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "genre": "Jazz",
+     "apple": "tw/1521553843",
+     "spotify": "7oW0jNW9wYfqBf3A41bNaI",
+     "bpm": 58,
+     "tags": {
+      "genre": [
+       "Post-Modern",
+       "Contemporary"
+      ],
+      "mood": [
+       "relaxed"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "instrumental"
+      ]
+     },
+     "info": {
+      "year": "2020",
+      "released": "2020-07-04",
+      "label": "Not Two Records",
+      "album": "Pentas",
+      "copyright": "℗ 2020 Not Two Records",
+      "src": [
+       "apple"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -17013,6 +18079,21 @@
      "apple": "tw/1538259003",
      "spotify": "3HxJaKzob7tdcr4qmqfR1d",
      "bpm": 138,
+     "range": {
+      "low": 57,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -17029,12 +18110,29 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "野田洋次郎"
+      ],
+      "composer": [
+       "野田洋次郎"
+      ],
+      "producer": [
+       "玉井健二"
+      ],
+      "mix": [
+       "森真樹"
+      ],
+      "recording": [
+       "熊田好容"
+      ],
       "year": "2016",
       "released": "2016-08-17",
       "label": "Sony Music Entertainment (Japan) Inc",
       "album": "daydream",
       "copyright": "℗ 2016 Sony Music Entertainment (Japan) Inc.",
+      "mb": "e658f69b-77f3-4523-be56-edede16555e7",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17324,6 +18422,19 @@
      "apple": "tw/1863202344",
      "spotify": "5blmHyl3XdWXQvCm3KLtPJ",
      "bpm": 146,
+     "range": {
+      "low": 46,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -5,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Ballad",
@@ -17486,6 +18597,17 @@
      "apple": "jp/1828134663",
      "spotify": "6ATiUNyUXvHbKZ4NOsZUxm",
      "bpm": 117,
+     "range": {
+      "low": 57,
+      "high": 83,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "vhigh"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -17496,12 +18618,24 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "ヒゲドライバー"
+      ],
+      "composer": [
+       "ヒゲドライバー"
+      ],
+      "arranger": [
+       "ヒゲドライバー"
+      ],
       "year": "2025",
       "released": "2025-08-13",
       "label": "BANDAI NAMCO Entertainment Inc",
       "album": "自己肯定感爆上げ↑↑しゅきしゅきソング - Single",
+      "isrc": "JPX832500504",
       "copyright": "℗ BANDAI NAMCO Entertainment Inc.",
+      "mb": "5cfd39fd-a595-4f68-bf37-8f5a2e7edb6d",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -17856,6 +18990,19 @@
      "apple": "jp/1719724057",
      "spotify": "2Wahb8YS7s2zPFRVK3l5gT",
      "bpm": 86,
+     "range": {
+      "low": 45,
+      "high": 62,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -2,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -17870,8 +19017,11 @@
       "released": "2023-12-13",
       "label": "A UNIVERSAL SIGMA release; ℗ 2023 UNIVERSAL MUSIC LLC",
       "album": "雪の音 - Single",
+      "isrc": "JPPO02304209",
       "copyright": "A UNIVERSAL SIGMA release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "mb": "6dca1b79-83ed-4197-bd10-556ea488ccac",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20000,6 +21150,19 @@
      "apple": "tw/1788479625",
      "spotify": "2JTjl3D0dDyvOgJVbWm5qK",
      "bpm": 74,
+     "range": {
+      "low": 56,
+      "high": 77,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "vhigh"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -20018,7 +21181,9 @@
       "label": "猛犸文化",
       "album": "赤伶 - Single",
       "copyright": "℗ 2018 猛犸文化",
+      "mb": "3c528330-8973-4a44-b46c-3a801e003a7c",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -20041,6 +21206,19 @@
      "apple": "tw/1791051522",
      "spotify": "5BtE7mi9hB70kFLzp5niS8",
      "bpm": 122,
+     "range": {
+      "low": 48,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -4,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -21754,7 +22932,7 @@
    ],
    "period_key": "2026-08-21_2026-11-18",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T09:58:41+08:00",
+   "fetched_at": "2026-11-18T15:04:44+08:00",
    "stale": false
   }
  ]

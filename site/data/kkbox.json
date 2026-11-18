@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "streaming",
  "site_url": "https://kma.kkbox.com/charts/?terr=tw&lang=tc",
- "checked_at": "2026-11-18T09:54:38+08:00",
+ "checked_at": "2026-11-18T15:02:09+08:00",
  "errors": [],
  "charts": [
   {
@@ -1475,6 +1475,19 @@
      "genre": "Mandopop",
      "apple": "tw/1667021066",
      "bpm": 114,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -2519,7 +2532,7 @@
    ],
    "period_key": "2026-11-17",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:14+08:00",
+   "fetched_at": "2026-11-18T15:01:45+08:00",
    "stale": false
   },
   {
@@ -4111,6 +4124,19 @@
      "genre": "Mandopop",
      "apple": "tw/1667021066",
      "bpm": 114,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -5060,7 +5086,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:16+08:00",
+   "fetched_at": "2026-11-18T15:01:47+08:00",
    "stale": false
   },
   {
@@ -6473,6 +6499,21 @@
      "apple": "tw/1494258598",
      "spotify": "6hGah1oR5TEu7NzZoBWmjB",
      "bpm": 87,
+     "range": {
+      "low": 43,
+      "high": 62,
+      "m": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": -2,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Folk"
@@ -6705,6 +6746,21 @@
      "apple": "tw/1837261626",
      "spotify": "6hvmTHcCOokLzbrTnu6K4A",
      "bpm": 119,
+     "range": {
+      "low": 43,
+      "high": 60,
+      "m": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -6882,6 +6938,19 @@
      "apple": "tw/1689528098",
      "spotify": "49escgLQOKMPWjjLWAFhxr",
      "bpm": 94,
+     "range": {
+      "low": 55,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -7853,7 +7922,7 @@
    ],
    "period_key": "2026-11-17",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:18+08:00",
+   "fetched_at": "2026-11-18T15:01:49+08:00",
    "stale": false
   },
   {
@@ -9524,6 +9593,21 @@
      "apple": "tw/1837261626",
      "spotify": "6hvmTHcCOokLzbrTnu6K4A",
      "bpm": 119,
+     "range": {
+      "low": 43,
+      "high": 60,
+      "m": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -9580,6 +9664,21 @@
      "apple": "tw/1494258598",
      "spotify": "6hGah1oR5TEu7NzZoBWmjB",
      "bpm": 87,
+     "range": {
+      "low": 43,
+      "high": 62,
+      "m": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": -2,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Folk"
@@ -10080,6 +10179,19 @@
      "apple": "tw/1689528098",
      "spotify": "49escgLQOKMPWjjLWAFhxr",
      "bpm": 94,
+     "range": {
+      "low": 55,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -10654,7 +10766,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:20+08:00",
+   "fetched_at": "2026-11-18T15:01:51+08:00",
    "stale": false
   },
   {
@@ -12148,6 +12260,21 @@
      "apple": "tw/1627575769",
      "spotify": "1mWdTewIgB3gtBM3TOSFhB",
      "bpm": 110,
+     "range": {
+      "low": 56,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop"
@@ -12185,6 +12312,17 @@
      "apple": "tw/1739659142",
      "spotify": "6dOtVTDdiauQNBQEDOtlAB",
      "bpm": 105,
+     "range": {
+      "low": 59,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "genre": [
        "Synth-pop",
@@ -12237,6 +12375,19 @@
      "apple": "tw/1885720624",
      "spotify": "4B4Q7zfd0aHcuhQBfCRnH5",
      "bpm": 75,
+     "range": {
+      "low": 59,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -12978,6 +13129,21 @@
      "apple": "tw/1762656732",
      "spotify": "2plbrEY59IikOBgBGLjaoe",
      "bpm": 158,
+     "range": {
+      "low": 56,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -13155,8 +13321,11 @@
       "released": "2026-11-06",
       "label": "Netflix Music, LLC",
       "album": "Someone to Hold (from the Netflix Film \"Steps\") - Single",
+      "isrc": "QZ8BZ2619377",
       "copyright": "℗ 2026 Netflix Music, LLC",
+      "mb": "8f9c9183-26ba-468f-8223-50190b1b8775",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -13309,7 +13478,7 @@
    ],
    "period_key": "2026-11-17",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:22+08:00",
+   "fetched_at": "2026-11-18T15:01:52+08:00",
    "stale": false
   },
   {
@@ -14897,6 +15066,21 @@
      "apple": "tw/1762656732",
      "spotify": "2plbrEY59IikOBgBGLjaoe",
      "bpm": 158,
+     "range": {
+      "low": 56,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -15990,7 +16174,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:24+08:00",
+   "fetched_at": "2026-11-18T15:01:55+08:00",
    "stale": false
   },
   {
@@ -17210,6 +17394,19 @@
      "apple": "tw/1653922188",
      "spotify": "3khEEPRyBeOUabbmOPJzAG",
      "bpm": 163,
+     "range": {
+      "low": 54,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Big Beat"
@@ -17772,6 +17969,19 @@
      "apple": "tw/1838917139",
      "spotify": "6kjnGjYMk9YAtH1BMD311b",
      "bpm": 87,
+     "range": {
+      "low": 56,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -18158,12 +18368,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "坂東祐大",
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
       "year": "2023",
       "released": "2023-07-17",
       "label": "Sony Music Labels Inc",
       "album": "地球儀 - Spinning Globe - Single",
+      "isrc": "JPU902302340",
       "copyright": "℗ 2023 Sony Music Labels Inc.",
+      "mb": "7245d98f-f622-4240-9cd3-999689f8e321",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18397,12 +18629,34 @@
       ]
      },
      "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁",
+       "涌井良昌"
+      ],
       "year": "2020",
-      "released": "2020-07-06",
+      "released": "2020-08-05",
       "label": "Sony Music Labels Inc",
       "album": "STRAY SHEEP",
+      "isrc": "JPU902001053",
       "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "mb": "fdfc897d-4529-4a90-849c-ddf2daa60097",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -18556,7 +18810,7 @@
    ],
    "period_key": "2026-11-17",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:26+08:00",
+   "fetched_at": "2026-11-18T15:01:57+08:00",
    "stale": false
   },
   {
@@ -20036,6 +20290,19 @@
      "apple": "tw/1838917139",
      "spotify": "6kjnGjYMk9YAtH1BMD311b",
      "bpm": 87,
+     "range": {
+      "low": 56,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -21143,6 +21410,19 @@
      "apple": "tw/1653922188",
      "spotify": "3khEEPRyBeOUabbmOPJzAG",
      "bpm": 163,
+     "range": {
+      "low": 54,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Big Beat"
@@ -21179,7 +21459,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:28+08:00",
+   "fetched_at": "2026-11-18T15:01:59+08:00",
    "stale": false
   },
   {
@@ -22564,6 +22844,21 @@
      "apple": "tw/6819932404",
      "spotify": "2DpMn9r9LPpa5PaR4XGFBP",
      "bpm": 81,
+     "range": {
+      "low": 52,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": -5,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -22654,6 +22949,21 @@
      "apple": "tw/1596532400",
      "spotify": "5QDLhrAOJJdNAmCTJ8xMyW",
      "bpm": 114,
+     "range": {
+      "low": 59,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Tropical House",
@@ -22690,6 +23000,19 @@
      "apple": "tw/1772644601",
      "spotify": "6uPnrBgweGOcwjFL4ItAvV",
      "bpm": 126,
+     "range": {
+      "low": 52,
+      "high": 59,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Bassline",
@@ -23118,6 +23441,19 @@
      "apple": "tw/6814696407",
      "spotify": "7DSRgwsNdSEVIwAND74XH4",
      "bpm": 82,
+     "range": {
+      "low": 46,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -23524,7 +23860,7 @@
    ],
    "period_key": "2026-11-17",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:30+08:00",
+   "fetched_at": "2026-11-18T15:02:01+08:00",
    "stale": false
   },
   {
@@ -25057,6 +25393,19 @@
      "apple": "tw/1772644601",
      "spotify": "6uPnrBgweGOcwjFL4ItAvV",
      "bpm": 126,
+     "range": {
+      "low": 52,
+      "high": 59,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Bassline",
@@ -25102,6 +25451,19 @@
      "apple": "tw/6814696407",
      "spotify": "7DSRgwsNdSEVIwAND74XH4",
      "bpm": 82,
+     "range": {
+      "low": 46,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -3,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -25676,6 +26038,21 @@
      "apple": "tw/1596532400",
      "spotify": "5QDLhrAOJJdNAmCTJ8xMyW",
      "bpm": 114,
+     "range": {
+      "low": 59,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Tropical House",
@@ -25888,7 +26265,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:32+08:00",
+   "fetched_at": "2026-11-18T15:02:03+08:00",
    "stale": false
   },
   {
@@ -28364,7 +28741,7 @@
    ],
    "period_key": "2026-11-17",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:34+08:00",
+   "fetched_at": "2026-11-18T15:02:05+08:00",
    "stale": false
   },
   {
@@ -30832,7 +31209,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:36+08:00",
+   "fetched_at": "2026-11-18T15:02:07+08:00",
    "stale": false
   },
   {
@@ -32146,6 +32523,17 @@
      "apple": "tw/6830091584",
      "spotify": "59KwZ7Y4CzZ2HuAaYVoaxv",
      "bpm": 66,
+     "range": {
+      "low": 53,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -32181,6 +32569,21 @@
      "genre": "Soundtrack",
      "apple": "tw/6825917671",
      "bpm": 123,
+     "range": {
+      "low": 55,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -32987,7 +33390,7 @@
    ],
    "period_key": "2026-11-06_2026-11-12",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:54:38+08:00",
+   "fetched_at": "2026-11-18T15:02:09+08:00",
    "stale": false
   }
  ]

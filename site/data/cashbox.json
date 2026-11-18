@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-18T09:53:45+08:00",
+ "checked_at": "2026-11-18T15:01:15+08:00",
  "errors": [],
  "charts": [
   {
@@ -1627,6 +1627,19 @@
      "genre": "Mandopop",
      "apple": "tw/1667021066",
      "bpm": 114,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -1778,7 +1791,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:53:40+08:00",
+   "fetched_at": "2026-11-18T15:01:10+08:00",
    "stale": false
   },
   {
@@ -3386,6 +3399,19 @@
      "apple": "tw/1689528098",
      "spotify": "49escgLQOKMPWjjLWAFhxr",
      "bpm": 94,
+     "range": {
+      "low": 55,
+      "high": 67,
+      "m": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -3425,7 +3451,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:53:40+08:00",
+   "fetched_at": "2026-11-18T15:01:10+08:00",
    "stale": false
   },
   {
@@ -4814,6 +4840,19 @@
      "apple": "tw/446760995",
      "spotify": "1eId3TVzGrwv73YAWAVQMX",
      "bpm": 76,
+     "range": {
+      "low": 54,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -4917,6 +4956,19 @@
      "apple": "tw/723212928",
      "spotify": "6JWDzJTavXp4tNTNQk2VHs",
      "bpm": 117,
+     "range": {
+      "low": 44,
+      "high": 65,
+      "m": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "danceable"
@@ -4938,7 +4990,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:53:43+08:00",
+   "fetched_at": "2026-11-18T15:01:12+08:00",
    "stale": false
   },
   {
@@ -6264,7 +6316,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:53:43+08:00",
+   "fetched_at": "2026-11-18T15:01:12+08:00",
    "stale": false
   },
   {
@@ -7898,6 +7950,21 @@
      "apple": "tw/1440768563",
      "spotify": "5ZrDlcxIDZyjOzHdYW1ydr",
      "bpm": 130,
+     "range": {
+      "low": 59,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Euro House",
@@ -7940,7 +8007,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:53:43+08:00",
+   "fetched_at": "2026-11-18T15:01:12+08:00",
    "stale": false
   },
   {
@@ -9344,6 +9411,19 @@
      "genre": "Mandopop",
      "apple": "tw/6777275431",
      "bpm": 80,
+     "range": {
+      "low": 50,
+      "high": 60,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -9400,7 +9480,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:53:45+08:00",
+   "fetched_at": "2026-11-18T15:01:15+08:00",
    "stale": false
   },
   {
@@ -10852,6 +10932,19 @@
      "apple": "tw/6773627379",
      "spotify": "3lgbkAoxf5OWqTijRqSgEw",
      "bpm": 81,
+     "range": {
+      "low": 57,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -10892,7 +10985,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T09:53:45+08:00",
+   "fetched_at": "2026-11-18T15:01:15+08:00",
    "stale": false
   }
  ]
