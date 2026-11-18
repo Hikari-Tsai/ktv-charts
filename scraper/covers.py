@@ -241,6 +241,11 @@ def pick(results: list[dict], segs: list[str]) -> dict | None:
     return best
 
 
+def display_title(name: str) -> str:
+    """Song title as the chart shows it: 「可愛くてごめん (feat. ちゅーたん(CV:早見沙織))」 -> 可愛くてごめん."""
+    return _unbalanced(match.clean_title(name))
+
+
 def song_group(name: str, artist: str) -> str:
     """Grouping key for an identified song: clean title plus first artist, so single and album
     releases of the same song fall together."""

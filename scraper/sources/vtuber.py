@@ -176,35 +176,54 @@ def identify(videos: dict[str, dict], songs: dict, itunes: dict, today: dt.date,
 # ---------- rank ----------
 
 def group_covers(videos: dict[str, dict], songs: dict) -> dict[str, dict]:
-    """Song -> its title, artist and the cover videos. Unidentified covers join an identified
-    song with the same title when there is exactly one; otherwise they group by guessed title."""
+    """Song -> its title, artist and the cover videos.
+
+    A match counts as confirmed when the matched artist is written in the cover title. A cover
+    named by its title alone may have been matched to an older song of the same name (Mr. Big's
+    "Jane Doe" for 米津玄師's), so unconfirmed and unidentified covers join the confirmed song with
+    that title (the most covered one if there are several). With none, unconfirmed matches of one
+    title fall together under the most common one, and unidentified covers join it or group by
+    their guessed title."""
     known_artists: set[str] = set()
-    by_title: dict[str, set[str]] = defaultdict(set)
     for entry in songs.values():
         if entry.get("status") == "ok":
             known_artists.add(match.norm(match.first_artist(entry["artist"])))
     groups: dict[str, dict] = {}
+    weak: dict[str, dict[str, list]] = defaultdict(dict)   # title -> song key -> [group, videos]
     pending = []
     for vid, video in videos.items():
         segs, term = term_of(video)
         if not segs:
             continue
         entry = songs.get(match.norm(term)) or {}
-        if entry.get("status") == "ok":
-            key = covers.song_group(entry["name"], entry["artist"])
-            # "有一種悲傷 (電影《…》主題曲)" shows as 有一種悲傷, as KTV charts list it
-            g = groups.setdefault(key, {"title": match.clean_title(entry["name"]), "artist": entry["artist"],
-                                        "videos": []})
-            g["videos"].append(vid)
-            by_title[match.norm(match.clean_title(entry["name"]))].add(key)
-        else:
+        if entry.get("status") != "ok":
             pending.append((vid, covers.guess(segs, known_artists)))
+            continue
+        key = covers.song_group(entry["name"], entry["artist"])
+        # "有一種悲傷 (電影《…》主題曲)" shows as 有一種悲傷, as KTV charts list it
+        group = {"title": covers.display_title(entry["name"]), "artist": entry["artist"], "videos": []}
+        title = match.norm(group["title"])
+        artist = match.norm(match.first_artist(entry["artist"]))
+        if len(artist) >= 2 and artist in match.norm(" ".join(segs)).replace(title, "", 1):
+            groups.setdefault(key, group)["videos"].append(vid)
+        else:
+            weak[title].setdefault(key, [group, []])[1].append(vid)
+    confirmed: dict[str, list[str]] = defaultdict(list)
+    for key, g in groups.items():
+        confirmed[match.norm(g["title"])].append(key)
+    by_title: dict[str, str] = {}
+    for title, keys in confirmed.items():
+        by_title[title] = max(keys, key=lambda k: len(groups[k]["videos"]))
+    for title, cands in weak.items():
+        if title not in by_title:
+            by_title[title] = max(cands, key=lambda k: len(cands[k][1]))
+            groups[by_title[title]] = cands[by_title[title]][0]
+        groups[by_title[title]]["videos"].extend(v for _, vids in cands.values() for v in vids)
     for vid, (title, artist) in pending:
         t = match.norm(match.clean_title(title))
         if not t:
             continue
-        same = by_title.get(t, set())
-        key = next(iter(same)) if len(same) == 1 else "?" + t
+        key = by_title.get(t, "?" + t)
         g = groups.setdefault(key, {"title": match.clean_title(title), "artist": artist, "videos": []})
         g["videos"].append(vid)
     return groups

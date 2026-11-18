@@ -673,6 +673,24 @@ class VtuberChartTest(unittest.TestCase):
         recent = charts[1]["rows"]
         self.assertEqual([(r["title"], r["covers"]) for r in recent][:3], [("晴天", 2), ("アイドル", 2), ("Lemon", 1)])
 
+    def test_title_only_match_joins_confirmed_song(self):
+        videos = {
+            "v1": {"t": "JANE DOE / 米津玄師, 宇多田ヒカル covered by A", "ch": "A", "pub": "2026-11-01"},
+            "v2": {"t": "JANE DOE【歌ってみた】", "ch": "B", "pub": "2026-11-02"},   # matched to Mr. Big
+            "v3": {"t": "Magnet (cover)", "ch": "C", "pub": "2026-11-03"},
+            "v4": {"t": "Magnet / cover by D", "ch": "D", "pub": "2026-11-04"},
+        }
+        segs = lambda v: vtuber.term_of(videos[v])[1]
+        songs = {
+            match.norm(segs("v1")): {"status": "ok", "name": "JANE DOE", "artist": "米津玄師 & Hikaru Utada", "id": 1},
+            match.norm(segs("v2")): {"status": "ok", "name": "Jane Doe", "artist": "Mr. Big", "id": 2},
+            match.norm(segs("v3")): {"status": "ok", "name": "Magnet (feat. X(CV:Y))", "artist": "Someone", "id": 3},
+        }
+        groups = vtuber.group_covers(videos, songs)
+        self.assertEqual(sorted((g["title"], g["artist"], sorted(g["videos"])) for g in groups.values()),
+                         [("JANE DOE", "米津玄師 & Hikaru Utada", ["v1", "v2"]),
+                          ("Magnet", "Someone", ["v3", "v4"])])
+
     def test_identify_caches_and_shares_with_itunes(self):
         videos = {"v1": {"t": "Lemon / 米津玄師 cover by H", "ch": "H"},
                   "v2": {"t": "Lemon / 米津玄師【Cover】I", "ch": "I"},
