@@ -2144,6 +2144,17 @@
   "status": "ok",
   "track": "jp/1880591395"
  },
+ "gods|leagueoflegendsmusicnewjeans": {
+  "avg_bpm": 73.018,
+  "beats": 36,
+  "bpm": 72.986,
+  "checked": "2026-11-18",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1833057828"
+ },
  "gods|maxwell": {
   "avg_bpm": 108.458,
   "beats": 54,

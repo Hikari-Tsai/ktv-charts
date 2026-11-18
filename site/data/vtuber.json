@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-18T15:04:44+08:00",
+ "checked_at": "2026-11-18T15:55:21+08:00",
  "errors": [],
  "charts": [
   {
@@ -20,7 +20,7 @@
    },
    "period": "2026/11/18",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 1008,
+   "videos": 1007,
    "rows": [
     {
      "rank": 1,
@@ -431,7 +431,7 @@
     {
      "rank": 4,
      "title": "I Really Want to Stay at Your House",
-     "artist": "JustCosplaySings",
+     "artist": "",
      "covers": 15,
      "cover_video": "vRMRhQpKR4w",
      "performers": [
@@ -497,50 +497,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "tw/1650440586",
-     "bpm": 120,
-     "range": {
-      "low": 59,
-      "high": 73,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -1,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2022",
-      "released": "2022-10-18",
-      "label": "JustCosplaySings",
-      "album": "I Really Want to Stay at Your House (From \"Cyberpunk 2077\") [Emotional Japanese Version] - Single",
-      "copyright": "℗ 2022 JustCosplaySings",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 4,
@@ -2120,8 +2077,8 @@
     },
     {
      "rank": 20,
-     "title": "Magnet",
-     "artist": "琳賽.羅涵",
+     "title": "magnet",
+     "artist": "minato feat. 初音ミク、巡音ルカ",
      "covers": 9,
      "cover_video": "AmU3rwKKkSg",
      "performers": [
@@ -2164,43 +2121,34 @@
      ],
      "last_rank": null,
      "is_new": null,
-     "genre": "Pop",
-     "apple": "tw/1443201572",
-     "bpm": 117,
-     "range": {
-      "low": 54,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 3,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
+     "genre": "J-Pop",
+     "apple": "jp/944116610",
+     "spotify": "4Cd17oqIAhGf8p6x7Sl7L0",
+     "bpm": 108,
      "tags": {
       "genre": [
-       "Dance-pop"
-      ],
-      "mood": [
-       "party",
-       "danceable",
-       "energetic"
+       "Europop"
       ],
       "instrument": [
-       "electricguitar",
-       "synthesizer"
+       "synthesizer",
+       "electricguitar"
       ]
      },
      "info": {
-      "year": "2004",
-      "released": "2004-01-01",
-      "label": "Republic Records",
-      "album": "Speak",
-      "copyright": "℗ 2004 Republic Records, a division of UMG Recordings, Inc.",
+      "lyricist": [
+       "minato"
+      ],
+      "composer": [
+       "minato"
+      ],
+      "year": "2009",
+      "released": "2009-05-17",
+      "label": "WARNER MUSIC JAPAN INC",
+      "album": "Download (feat.初音ミク)",
+      "copyright": "℗ 2014 WARNER MUSIC JAPAN INC.",
+      "mb": "86eb5130-99b5-4841-ace1-7adae8fa06d6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -3547,6 +3495,19 @@
      "apple": "jp/1718499388",
      "spotify": "2Dzzhb1oV5ckgOjWZLraIB",
      "bpm": 118,
+     "range": {
+      "low": 47,
+      "high": 64,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -4,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -3622,6 +3583,21 @@
      "apple": "tw/1475739739",
      "spotify": "5XJh3VbvvnGYrkubcQwzys",
      "bpm": 105,
+     "range": {
+      "low": 56,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Chillwave"
@@ -3704,6 +3680,21 @@
      "apple": "jp/1009273525",
      "spotify": "3q0bs9iI20Ra6zJ2MNfQWc",
      "bpm": 130,
+     "range": {
+      "low": 60,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "House",
@@ -4301,7 +4292,7 @@
     {
      "rank": 39,
      "title": "恋愛サーキュレーション",
-     "artist": "物語シリーズ",
+     "artist": "",
      "covers": 6,
      "cover_video": "i1ap28vbAUk",
      "performers": [
@@ -4331,35 +4322,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "jp/1535798828",
-     "spotify": "5P8lyudWE7HQxb4ludLbEm",
-     "bpm": 120,
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Bubblegum"
-      ],
-      "mood": [
-       "danceable",
-       "happy"
-      ],
-      "instrument": [
-       "electricguitar",
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2010",
-      "released": "2010-01-27",
-      "label": "Aniplex Inc",
-      "album": "化物語 劇伴音楽集",
-      "copyright": "℗ 2018 Aniplex Inc.",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 39,
@@ -4447,7 +4410,7 @@
     {
      "rank": 39,
      "title": "ちゅ、多様性。",
-     "artist": "オルゴールサウンド J-POP",
+     "artist": "",
      "covers": 6,
      "cover_video": "TAZ_JyKtkDE",
      "performers": [
@@ -4477,44 +4440,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Easy Listening",
-     "apple": "jp/1699125937",
-     "spotify": "0VXh0rtuC7ywqkaDkwF7m8",
-     "bpm": 97,
-     "tags": {
-      "genre": [
-       "Ambient"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "instrumental"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "ano",
-       "真部脩一"
-      ],
-      "composer": [
-       "真部脩一"
-      ],
-      "year": "2023",
-      "released": "2023-08-30",
-      "label": "forte music.INC",
-      "album": "ちゅ、多様性。(オルゴール) - Single",
-      "copyright": "℗ 2023 forte music.INC",
-      "mb": "20a597bc-3936-414e-a1d8-cb410b5e38b5",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 39,
@@ -4757,7 +4683,7 @@
     {
      "rank": 39,
      "title": "み む かゥ わ ナ イ ス ト ラ イ",
-     "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+     "artist": "",
      "covers": 6,
      "cover_video": "qBwsF9FlB90",
      "performers": [
@@ -4787,47 +4713,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "jp/1894442108",
-     "spotify": "0RuartDxNrC8lgxrtd3VGN",
-     "bpm": 126,
-     "tags": {
-      "genre": [
-       "House",
-       "Electro"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "synthesizer",
-       "bass"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
-      ],
-      "composer": [
-       "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
-      ],
-      "mix": [
-       "さぶろう"
-      ],
-      "year": "2024",
-      "released": "2024-12-10",
-      "label": "nunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununu",
-      "album": "み む かゥ わ ナ イ ス ト ラ イ (feat. 初音ミク) - Single",
-      "isrc": "QT66M2677271",
-      "copyright": "℗ 2024 nunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununu",
-      "mb": "1226469a-c5d1-4c0e-9c98-615597e58463",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 39,
@@ -4973,7 +4859,7 @@
     {
      "rank": 53,
      "title": "七彩的微風",
-     "artist": "真珠美人魚",
+     "artist": "",
      "covers": 5,
      "cover_video": "xTGNYZ9icJQ",
      "performers": [
@@ -5583,7 +5469,7 @@
     {
      "rank": 53,
      "title": "raxio",
-     "artist": "Stellar Stellar",
+     "artist": "",
      "covers": 5,
      "cover_video": "x9sPCfTys5U",
      "performers": [
@@ -5724,7 +5610,7 @@
     {
      "rank": 53,
      "title": "ワールドイズマイン",
-     "artist": "ryo (supercell) & 初音ミク",
+     "artist": "ryo (supercell), かぐや(cv.夏吉ゆうこ), 超かぐや姫! & 月見ヤチヨ(cv.早見沙織)",
      "covers": 5,
      "cover_video": "oUrU70lBD2w",
      "performers": [
@@ -5752,11 +5638,11 @@
      "last_rank": null,
      "is_new": null,
      "genre": "Anime",
-     "apple": "jp/1869852468",
+     "apple": "jp/1869843676",
      "bpm": 118,
      "tags": {
       "genre": [
-       "House"
+       "Dance-pop"
       ],
       "mood": [
        "danceable",
@@ -5776,7 +5662,7 @@
       "year": "2011",
       "released": "2011-11-30",
       "label": "Cosmic Princess Kaguya!",
-      "album": "CPK! Remix - EP",
+      "album": "超かぐや姫!",
       "isrc": "JPE561301069",
       "copyright": "℗ 2026 Cosmic Princess Kaguya!",
       "mb": "a4d26d6d-aecc-4b54-800a-ee1fb59f3e53",
@@ -5973,6 +5859,21 @@
      "apple": "jp/1594814706",
      "spotify": "7v8wKvNQQIxkugCFFjrkaO",
      "bpm": 171,
+     "range": {
+      "low": 59,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Symphonic Rock"
@@ -6763,8 +6664,8 @@
     },
     {
      "rank": 53,
-     "title": "Gods",
-     "artist": "Maxwell",
+     "title": "GODS",
+     "artist": "League of Legends Music & NewJeans",
      "covers": 5,
      "cover_video": "tvYXvaSDTMs",
      "performers": [
@@ -6791,24 +6692,32 @@
      ],
      "last_rank": null,
      "is_new": null,
-     "genre": "R&B/Soul",
-     "apple": "tw/1480775545",
-     "spotify": "0ybOhD30mCmnAB7ey3YUm4",
-     "bpm": 108,
+     "genre": "Pop",
+     "apple": "tw/1833057828",
+     "spotify": "62J3LcwTASdo624WsF3L6k",
+     "bpm": 73,
      "tags": {
+      "genre": [
+       "Contemporary R&B"
+      ],
       "mood": [
-       "relaxed"
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
       ]
      },
      "info": {
-      "year": "2016",
-      "released": "2016-07-01",
-      "label": "Columbia Records",
-      "album": "blackSUMMERS'night (2016)",
-      "copyright": "℗ 2016 Columbia Records, a division of Sony Music Entertainment",
-      "mb": "ef77a3dd-6594-49d0-8a9c-8f7fc8b02aba",
+      "year": "2023",
+      "released": "2023-10-04",
+      "label": "Riot Games, Inc",
+      "album": "GODS - Single",
+      "copyright": "℗ 2023 Riot Games, Inc.",
       "src": [
-       "mb",
        "apple"
       ]
      }
@@ -6877,64 +6786,6 @@
     },
     {
      "rank": 53,
-     "title": "恋愛裁判",
-     "artist": "40m-P",
-     "covers": 5,
-     "cover_video": "WIRmAqr0CVc",
-     "performers": [
-      [
-       "Cecily 西西莉",
-       "WIRmAqr0CVc"
-      ],
-      [
-       "藻原水雲",
-       "j5hQhg33hlI"
-      ],
-      [
-       "伏尼狐狸 VoyniFox",
-       "YUGJRG0p09g"
-      ],
-      [
-       "時時艾利諾 Ellino",
-       "yCAHY0oBhWs"
-      ],
-      [
-       "娜堤 梅菲斯特 Naty",
-       "LiwCNDEb_zI"
-      ]
-     ],
-     "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "tw/1119977582",
-     "spotify": "6FAu0o2lio1akrQbnf877P",
-     "bpm": 134,
-     "tags": {
-      "mood": [
-       "danceable",
-       "happy",
-       "energetic"
-      ],
-      "instrument": [
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2014",
-      "released": "2014-06-10",
-      "label": "40mp",
-      "album": "41m",
-      "copyright": "℗ 2014 40mp",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 53,
      "title": "魔法少女とチョコレゐト",
      "artist": "ピノキオピー",
      "covers": 5,
@@ -6985,8 +6836,11 @@
       "released": "2022-02-26",
       "label": "mui",
       "album": "魔法少女とチョコレゐト - Single",
+      "isrc": "TCJPR2211011",
       "copyright": "℗ 2022 mui",
+      "mb": "1422f0f8-b595-4aa5-a987-2e82f6c730c0",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -7121,9 +6975,9 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "リードコントロール",
-     "artist": "なるみや",
+     "artist": "",
      "covers": 4,
      "cover_video": "IfxJ-VsHdYo",
      "performers": [
@@ -7145,60 +6999,10 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1765448512",
-     "spotify": "0NTakZBW93SedJ2Mu9ZKDT",
-     "bpm": 130,
-     "range": {
-      "low": 60,
-      "high": 73,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -1,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "happy"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "なるみや"
-      ],
-      "composer": [
-       "なるみや"
-      ],
-      "year": "2024",
-      "released": "2024-09-19",
-      "label": "OnenneHonpo",
-      "album": "リードコントロール - Single",
-      "isrc": "JPPO02404102",
-      "copyright": "℗ 2024 OnenneHonpo",
-      "mb": "4566d13b-b59d-4a64-a9a1-46371b299996",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "想和你看五月的晚霞",
      "artist": "陳華",
      "covers": 4,
@@ -7281,7 +7085,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "おもかげ",
      "artist": "milet, Aimer & 幾田りら",
      "covers": 4,
@@ -7361,7 +7165,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "心予報",
      "artist": "Eve",
      "covers": 4,
@@ -7447,7 +7251,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "キャットラビング",
      "artist": "香椎モイミ",
      "covers": 4,
@@ -7519,9 +7323,9 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "モエチャッカファイア",
-     "artist": "弌誠",
+     "artist": "",
      "covers": 4,
      "cover_video": "EP9IJxkFlY0",
      "performers": [
@@ -7543,60 +7347,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Rock",
-     "apple": "jp/1755481328",
-     "spotify": "43CMcyGeImlZjy1oN0NVNG",
-     "bpm": 163,
-     "range": {
-      "low": 42,
-      "high": 59,
-      "m": {
-       "v": "low",
-       "key": 3,
-       "oct": 0
-      },
-      "f": {
-       "v": "low",
-       "key": 0,
-       "oct": 12
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "mood": [
-       "party",
-       "danceable"
-      ],
-      "instrument": [
-       "synthesizer",
-       "guitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "弌誠"
-      ],
-      "composer": [
-       "弌誠"
-      ],
-      "year": "2024",
-      "released": "2024-07-19",
-      "label": "issey",
-      "album": "モエチャッカファイア - Single",
-      "isrc": "JPVP02409701",
-      "copyright": "℗ 2024 issey",
-      "mb": "98891be1-4d96-43ab-90f7-a76e4e258c47",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "Departures",
-     "artist": "あなたにおくるアイの歌〜",
+     "artist": "",
      "covers": 4,
      "cover_video": "rtwZSaqLMgs",
      "performers": [
@@ -7621,7 +7377,7 @@
      "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "点描の唄",
      "artist": "Mrs. GREEN APPLE",
      "covers": 4,
@@ -7699,7 +7455,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "ただ君に晴れ",
      "artist": "ヨルシカ",
      "covers": 4,
@@ -7778,7 +7534,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "赤伶",
      "artist": "HITA",
      "covers": 4,
@@ -7846,7 +7602,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "ダーリン",
      "artist": "須田景凪",
      "covers": 4,
@@ -7927,7 +7683,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "晴る",
      "artist": "ヨルシカ",
      "covers": 4,
@@ -8006,7 +7762,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "チェリーポップ",
      "artist": "DECO*27",
      "covers": 4,
@@ -8067,9 +7823,9 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "月陽-ツキアカリ-",
-     "artist": "島爺",
+     "artist": "",
      "covers": 4,
      "cover_video": "Z9or9dmkGwk",
      "performers": [
@@ -8091,38 +7847,10 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1120291086",
-     "spotify": "0GKWksUYqQhO0SovPKDrJ9",
-     "bpm": 200,
-     "tags": {
-      "mood": [
-       "aggressive",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "synthesizer",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2016",
-      "released": "2016-06-22",
-      "label": "WARNER MUSIC JAPAN INC",
-      "album": "冥土ノ土産",
-      "isrc": "JPWP01670846",
-      "copyright": "℗ 2016 WARNER MUSIC JAPAN INC.",
-      "mb": "d14e5d7f-ef0b-40e1-a097-67ed11af1a25",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "プロポーズ",
      "artist": "なとり",
      "covers": 4,
@@ -8181,7 +7909,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "Ref:rain",
      "artist": "Aimer",
      "covers": 4,
@@ -8238,7 +7966,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "愛言葉",
      "artist": "Deco*27",
      "covers": 4,
@@ -8302,7 +8030,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "ラビットホール",
      "artist": "DECO*27",
      "covers": 4,
@@ -8362,7 +8090,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "LAST STARDUST",
      "artist": "Aimer",
      "covers": 4,
@@ -8421,7 +8149,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "ずうっといっしょ!",
      "artist": "キタニタツヤ",
      "covers": 4,
@@ -8490,7 +8218,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "KiLLKiSS",
      "artist": "Ave Mujica",
      "covers": 4,
@@ -8553,7 +8281,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "Ready Steady",
      "artist": "Giga",
      "covers": 4,
@@ -8616,7 +8344,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "アイデンティティ",
      "artist": "Kanaria",
      "covers": 4,
@@ -8677,7 +8405,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "平行線",
      "artist": "Eve × suis from ヨルシカ",
      "covers": 4,
@@ -8751,7 +8479,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "花になって",
      "artist": "緑黄色社会",
      "covers": 4,
@@ -8837,9 +8565,9 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "Rewrite the Stars",
-     "artist": "柴克艾弗 & Zendaya",
+     "artist": "",
      "covers": 4,
      "cover_video": "S1Fit9IOI4M",
      "performers": [
@@ -8861,32 +8589,10 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Soundtrack",
-     "apple": "tw/1299856917",
-     "bpm": 125,
-     "tags": {
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2017",
-      "released": "2017-11-17",
-      "label": "This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2017 Twentieth Century Fox Film Corporation",
-      "album": "The Greatest Showman (Original Motion Picture Soundtrack)",
-      "copyright": "℗ 2017 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2017 Twentieth Century Fox Film Corporation.",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "ベテルギウス",
      "artist": "優里",
      "covers": 4,
@@ -8962,7 +8668,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "星座になれたら",
      "artist": "結束バンド",
      "covers": 4,
@@ -9024,9 +8730,9 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "黑暗的巴洛克",
-     "artist": "闇のBAROQUE",
+     "artist": "",
      "covers": 4,
      "cover_video": "2IR1swVKwIg",
      "performers": [
@@ -9051,9 +8757,9 @@
      "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "小さな恋のうた",
-     "artist": "MONGOL800",
+     "artist": "",
      "covers": 4,
      "cover_video": "2P9YYPYIKeU",
      "performers": [
@@ -9075,63 +8781,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Alternative",
-     "apple": "jp/273169347",
-     "spotify": "23atyJacJVHvB9RHBNhr35",
-     "bpm": 225,
-     "range": {
-      "low": 45,
-      "high": 68,
-      "m": {
-       "v": "high"
-      },
-      "f": {
-       "v": "low"
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "genre": [
-       "Punk"
-      ],
-      "mood": [
-       "aggressive",
-       "danceable"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar",
-       "bass"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "上江洌清作"
-      ],
-      "composer": [
-       "MONGOL800"
-      ],
-      "year": "2001",
-      "released": "2001-09-16",
-      "label": "HIGH WAVE CO.,LTD",
-      "album": "MESSAGE",
-      "isrc": "JPB590501014",
-      "copyright": "℗ 2001 HIGH WAVE CO.,LTD.",
-      "mb": "9d49e3fb-7d90-40c4-a092-d7577c0d7b2a",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "光るなら",
-     "artist": "オルゴール ミドリ",
+     "artist": "",
      "covers": 4,
      "cover_video": "ig-FcAHA2ms",
      "performers": [
@@ -9153,32 +8808,10 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Instrumental",
-     "apple": "jp/948540205",
-     "spotify": "2y2BVPPbCnWBZdJKVztd5b",
-     "bpm": 126,
-     "tags": {
-      "genre": [
-       "Nursery Rhymes"
-      ],
-      "mood": [
-       "relaxed"
-      ]
-     },
-     "info": {
-      "year": "2014",
-      "released": "2014-11-25",
-      "label": "EFEMERA",
-      "album": "オルゴール アニメソングス!Vol.34 「PSYCHO-PASS サイコパス2」 「Fate/stay night」 「四月は君の嘘」 他、特集!",
-      "copyright": "℗ 2014 EFEMERA",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "Snow halation",
      "artist": "μ's",
      "covers": 4,
@@ -9232,7 +8865,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "ぎゅっと。",
      "artist": "もさを。",
      "covers": 4,
@@ -9287,9 +8920,63 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
+     "title": "恋愛裁判",
+     "artist": "40m-P",
+     "covers": 4,
+     "cover_video": "j5hQhg33hlI",
+     "performers": [
+      [
+       "藻原水雲",
+       "j5hQhg33hlI"
+      ],
+      [
+       "伏尼狐狸 VoyniFox",
+       "YUGJRG0p09g"
+      ],
+      [
+       "時時艾利諾 Ellino",
+       "yCAHY0oBhWs"
+      ],
+      [
+       "娜堤 梅菲斯特 Naty",
+       "LiwCNDEb_zI"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": null,
+     "genre": "Anime",
+     "apple": "tw/1119977582",
+     "spotify": "6FAu0o2lio1akrQbnf877P",
+     "bpm": 134,
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2014",
+      "released": "2014-06-10",
+      "label": "40mp",
+      "album": "41m",
+      "copyright": "℗ 2014 40mp",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 87,
      "title": "老公天下第一",
-     "artist": "李哈哈",
+     "artist": "",
      "covers": 4,
      "cover_video": "f67mq_6ExRw",
      "performers": [
@@ -9314,9 +9001,9 @@
      "is_new": null
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "fiction模樣",
-     "artist": "",
+     "artist": "計畫通行",
      "covers": 4,
      "cover_video": "r8hLq6GkdQ8",
      "performers": [
@@ -9338,10 +9025,11 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null
+     "is_new": null,
+     "spotify": "414ppeE0FCSLhRLofqsO3d"
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "デーモンロード",
      "artist": "Kanaria",
      "covers": 4,
@@ -9400,7 +9088,7 @@
      }
     },
     {
-     "rank": 88,
+     "rank": 87,
      "title": "ロキ",
      "artist": "みきとP",
      "covers": 4,
@@ -9958,7 +9646,7 @@
     {
      "rank": 125,
      "title": "クリームソーダとシャンデリア",
-     "artist": "Mei & Henrii",
+     "artist": "",
      "covers": 3,
      "cover_video": "j4f8dV29qJg",
      "performers": [
@@ -9976,52 +9664,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1514316679",
-     "spotify": "1PVUvNXbXqbNTF0u52ou2o",
-     "bpm": 125,
-     "range": {
-      "low": 47,
-      "high": 71,
-      "m": {
-       "v": "vhigh"
-      },
-      "f": {
-       "v": "low"
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "genre": [
-       "Dance-pop",
-       "Synth-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "紺野メイ"
-      ],
-      "composer": [
-       "Henrii"
-      ],
-      "year": "2020",
-      "released": "2020-06-01",
-      "label": "Mei & Henrii",
-      "album": "バニラコテージ",
-      "isrc": "TCJPL2053881",
-      "copyright": "℗ 2020 Mei & Henrii",
-      "mb": "de682634-a8d4-484d-9822-f091f3192406",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 125,
@@ -10513,7 +10156,7 @@
     {
      "rank": 125,
      "title": "畫地為牢",
-     "artist": "張赫煊",
+     "artist": "",
      "covers": 3,
      "cover_video": "CxZeU8xMfyU",
      "performers": [
@@ -10531,39 +10174,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Mandopop",
-     "apple": "tw/1820200194",
-     "bpm": 97,
-     "tags": {
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "劉鳳瑤"
-      ],
-      "composer": [
-       "劉鳳瑤"
-      ],
-      "year": "2018",
-      "released": "2018-08-03",
-      "label": "滾石移動",
-      "album": "畫地為牢 (電視劇《如果, 愛》愛情宣言曲)",
-      "isrc": "TWU711801969",
-      "maker": "完美青春(成都)文化傳播有限公司",
-      "copyright": "℗ 2025 Beijing Huyuchuanqi",
-      "ncl": 227989,
-      "src": [
-       "ncl",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 125,
@@ -11213,7 +10824,7 @@
     {
      "rank": 125,
      "title": "Bad Apple!!",
-     "artist": "Alstroemeria Records",
+     "artist": "",
      "covers": 3,
      "cover_video": "WVILmsUnwOg",
      "performers": [
@@ -11231,43 +10842,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Dance",
-     "apple": "tw/1582145897",
-     "spotify": "364IvX1rVGGHQI5NIC8dkx",
-     "bpm": 138,
-     "tags": {
-      "genre": [
-       "Techno"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "Haruka"
-      ],
-      "arranger": [
-       "void",
-       "Masayoshi Minoshima"
-      ],
-      "year": "2008",
-      "released": "2008-05-25",
-      "label": "Alstroemeria Records",
-      "album": "EXSERENS (A Selection of Alstroemeria Records)",
-      "copyright": "℗ 2008 Alstroemeria Records",
-      "mb": "9f5194c9-6c6f-45e2-b61b-ced294f9e346",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 125,
@@ -11529,7 +11104,7 @@
     {
      "rank": 125,
      "title": "蜜月アン・ドゥ・トロワ",
-     "artist": "りょーくん",
+     "artist": "",
      "covers": 3,
      "cover_video": "qYB9LsQ2XIU",
      "performers": [
@@ -11547,34 +11122,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "jp/980929965",
-     "spotify": "5NqbWhWvnOVbWgkBS3gyhM",
-     "bpm": 184,
-     "tags": {
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2014",
-      "released": "2014-01-01",
-      "label": "EXIT TUNES",
-      "album": "Re:alize",
-      "copyright": "℗ 2014 EXIT TUNES",
-      "mb": "996aa3f0-e2d1-4f9f-81f8-8866b4f531e4",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 125,
@@ -11638,7 +11186,7 @@
     {
      "rank": 125,
      "title": "フクロウ~フクロウが知らせる客が来たと",
-     "artist": "芥川組",
+     "artist": "",
      "covers": 3,
      "cover_video": "lKUckSPKmG4",
      "performers": [
@@ -11725,7 +11273,7 @@
     {
      "rank": 125,
      "title": "Shiotsuki",
-     "artist": "絲竹演繹",
+     "artist": "",
      "covers": 3,
      "cover_video": "nyka6_BKImo",
      "performers": [
@@ -11792,7 +11340,7 @@
     {
      "rank": 125,
      "title": "暮色迴響",
-     "artist": "吉星出租",
+     "artist": "",
      "covers": 3,
      "cover_video": "J_fFH5Pz6gw",
      "performers": [
@@ -11810,32 +11358,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Pop",
-     "apple": "tw/1834782584",
-     "bpm": 132,
-     "tags": {
-      "genre": [
-       "Contemporary"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "year": "2024",
-      "released": "2024-05-17",
-      "label": "重低音（广州）文化传播有限公司",
-      "album": "暮色迴響 - Single",
-      "copyright": "℗ 2024 重低音（广州）文化传播有限公司",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 125,
@@ -12256,7 +11779,7 @@
     {
      "rank": 125,
      "title": "テトリス",
-     "artist": "Plastic Tree",
+     "artist": "",
      "covers": 3,
      "cover_video": "EMzUqC-E1is",
      "performers": [
@@ -12274,37 +11797,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Rock",
-     "apple": "jp/1443295857",
-     "spotify": "5e3xVvYoBi6VlY6zF8wKhB",
-     "bpm": 85,
-     "tags": {
-      "genre": [
-       "Alternative Rock"
-      ],
-      "mood": [
-       "aggressive",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2008",
-      "released": "2008-09-24",
-      "label": "UNIVERSAL J",
-      "album": "ウツセミ",
-      "copyright": "℗ 2008 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
-      "mb": "18839abe-4645-4ff3-9435-c310188d9615",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 125,
@@ -13523,7 +13016,7 @@
    ],
    "period_key": "2026-11-18",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:04:44+08:00",
+   "fetched_at": "2026-11-18T15:55:21+08:00",
    "stale": false
   },
   {
@@ -13540,7 +13033,7 @@
     {
      "rank": 1,
      "title": "I Really Want to Stay at Your House",
-     "artist": "JustCosplaySings",
+     "artist": "",
      "covers": 4,
      "cover_video": "vRMRhQpKR4w",
      "performers": [
@@ -13562,50 +13055,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "tw/1650440586",
-     "bpm": 120,
-     "range": {
-      "low": 59,
-      "high": 73,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -1,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2022",
-      "released": "2022-10-18",
-      "label": "JustCosplaySings",
-      "album": "I Really Want to Stay at Your House (From \"Cyberpunk 2077\") [Emotional Japanese Version] - Single",
-      "copyright": "℗ 2022 JustCosplaySings",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 2,
@@ -14023,7 +13473,7 @@
     {
      "rank": 2,
      "title": "月が綺麗ねと言われたい!",
-     "artist": "柿崎ユウタ",
+     "artist": "",
      "covers": 2,
      "cover_video": "TR3ftBbv0tA",
      "performers": [
@@ -14037,63 +13487,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1868879494",
-     "spotify": "3cliLu2E7uSa8L4mZLPBvQ",
-     "bpm": 160,
-     "range": {
-      "low": 49,
-      "high": 63,
-      "m": {
-       "v": "ok"
-      },
-      "f": {
-       "v": "low",
-       "key": -3,
-       "oct": 12
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "genre": [
-       "Electro"
-      ],
-      "mood": [
-       "danceable",
-       "happy",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "柿崎ユウタ"
-      ],
-      "composer": [
-       "柿崎ユウタ"
-      ],
-      "arranger": [
-       "柿崎ユウタ"
-      ],
-      "mix": [
-       "柿崎ユウタ"
-      ],
-      "year": "2026",
-      "released": "2026-01-29",
-      "label": "kakizaki yuta",
-      "album": "月が綺麗ねと言われたい! - Single",
-      "isrc": "QT66J2643936",
-      "copyright": "℗ 2026 kakizaki yuta",
-      "mb": "0c56636e-4932-4bab-9efc-b8e8614160cb",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 2,
@@ -14248,7 +13642,7 @@
     {
      "rank": 2,
      "title": "刺到整身軀",
-     "artist": "春風 x 潤少 x 970 x DJ CK搖擺叔叔",
+     "artist": "",
      "covers": 2,
      "cover_video": "lHpzGmElCdI",
      "performers": [
@@ -14262,37 +13656,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "info": {
-      "lyricist": [
-       "蔡秉潤",
-       "洪瑜鴻",
-       "王偉駿",
-       "何兆民"
-      ],
-      "composer": [
-       "蔡秉潤",
-       "洪瑜鴻",
-       "王偉駿",
-       "何兆民"
-      ],
-      "arranger": [
-       "DJ CK 搖擺叔叔"
-      ],
-      "producer": [
-       "DJ CK 搖擺叔叔"
-      ],
-      "year": "2024",
-      "released": "2024-08-22",
-      "label": "混血兒娛樂股份有限公司",
-      "album": "刺到整身軀",
-      "isrc": "TWDJ52400007",
-      "type": "台語流行專輯",
-      "ncl": 547567,
-      "src": [
-       "ncl"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -14353,7 +13717,7 @@
     {
      "rank": 12,
      "title": "Sis puella magica!",
-     "artist": "梶浦由記",
+     "artist": "",
      "covers": 1,
      "cover_video": "8Iu4eTcAP8k",
      "performers": [
@@ -14363,69 +13727,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "tw/1563448726",
-     "spotify": "0HDh5QaLfCwi2xyvkei917",
-     "bpm": 148,
-     "range": {
-      "low": 62,
-      "high": 74,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -2,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Neofolk",
-       "Neofolk"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "梶浦由記"
-      ],
-      "composer": [
-       "梶浦由記"
-      ],
-      "producer": [
-       "森康哲"
-      ],
-      "mix": [
-       "小岩孝志"
-      ],
-      "recording": [
-       "相澤光紀",
-       "加納洋一郎",
-       "小岩孝志"
-      ],
-      "year": "2011",
-      "released": "2011-05-25",
-      "label": "(2-17),2013(1,20) Aniplex Inc. / 2011(18,19) Sony Music Entertainment (Japan) Inc./(P) 2011(2-25),2013(1) Aniplex Inc",
-      "album": "「魔法少女まどか☆マギカ」 Music Collection",
-      "isrc": "JPE301100654",
-      "copyright": "℗ 2011(2-17),2013(1,20) Aniplex Inc. / 2011(18,19) Sony Music Entertainment (Japan) Inc./(P) 2011(2-25),2013(1) Aniplex Inc.",
-      "mb": "ddfc18f4-c6b9-42c3-a575-0cf0ebc84c07",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -14444,8 +13746,8 @@
     },
     {
      "rank": 12,
-     "title": "Magnet",
-     "artist": "琳賽.羅涵",
+     "title": "magnet",
+     "artist": "minato feat. 初音ミク、巡音ルカ",
      "covers": 1,
      "cover_video": "AmU3rwKKkSg",
      "performers": [
@@ -14456,43 +13758,34 @@
      ],
      "last_rank": null,
      "is_new": null,
-     "genre": "Pop",
-     "apple": "tw/1443201572",
-     "bpm": 117,
-     "range": {
-      "low": 54,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 3,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
+     "genre": "J-Pop",
+     "apple": "jp/944116610",
+     "spotify": "4Cd17oqIAhGf8p6x7Sl7L0",
+     "bpm": 108,
      "tags": {
       "genre": [
-       "Dance-pop"
-      ],
-      "mood": [
-       "party",
-       "danceable",
-       "energetic"
+       "Europop"
       ],
       "instrument": [
-       "electricguitar",
-       "synthesizer"
+       "synthesizer",
+       "electricguitar"
       ]
      },
      "info": {
-      "year": "2004",
-      "released": "2004-01-01",
-      "label": "Republic Records",
-      "album": "Speak",
-      "copyright": "℗ 2004 Republic Records, a division of UMG Recordings, Inc.",
+      "lyricist": [
+       "minato"
+      ],
+      "composer": [
+       "minato"
+      ],
+      "year": "2009",
+      "released": "2009-05-17",
+      "label": "WARNER MUSIC JAPAN INC",
+      "album": "Download (feat.初音ミク)",
+      "copyright": "℗ 2014 WARNER MUSIC JAPAN INC.",
+      "mb": "86eb5130-99b5-4841-ace1-7adae8fa06d6",
       "src": [
+       "mb",
        "apple"
       ]
      }
@@ -14561,7 +13854,7 @@
     {
      "rank": 12,
      "title": "リードコントロール",
-     "artist": "なるみや",
+     "artist": "",
      "covers": 1,
      "cover_video": "IfxJ-VsHdYo",
      "performers": [
@@ -14571,62 +13864,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1765448512",
-     "spotify": "0NTakZBW93SedJ2Mu9ZKDT",
-     "bpm": 130,
-     "range": {
-      "low": 60,
-      "high": 73,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -1,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "happy"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "なるみや"
-      ],
-      "composer": [
-       "なるみや"
-      ],
-      "year": "2024",
-      "released": "2024-09-19",
-      "label": "OnenneHonpo",
-      "album": "リードコントロール - Single",
-      "isrc": "JPPO02404102",
-      "copyright": "℗ 2024 OnenneHonpo",
-      "mb": "4566d13b-b59d-4a64-a9a1-46371b299996",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "他守恆",
-     "artist": "三無",
+     "artist": "",
      "covers": 1,
      "cover_video": "TZKx9gfMDus",
      "performers": [
@@ -14712,7 +13955,7 @@
     {
      "rank": 12,
      "title": "男生都會騙人?Bois Lie",
-     "artist": "艾薇兒 Avril Lavigne",
+     "artist": "",
      "covers": 1,
      "cover_video": "qXTdiR63vts",
      "performers": [
@@ -14722,13 +13965,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "spotify": "2lHktSigIAZqf7BkA7NRS7"
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "直到我遇見了你",
-     "artist": "李友廷",
+     "artist": "",
      "covers": 1,
      "cover_video": "2WIYMGnMplU",
      "performers": [
@@ -14738,50 +13980,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Mandopop",
-     "apple": "tw/1454484572",
-     "spotify": "2AQZxyF66Fh62Plk5dt2au",
-     "bpm": 80,
-     "range": {
-      "low": 48,
-      "high": 71,
-      "m": {
-       "v": "vhigh"
-      },
-      "f": {
-       "v": "low"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Contemporary R&B",
-       "Neo Soul"
-      ],
-      "mood": [
-       "relaxed"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "李友廷&鵝毛筆"
-      ],
-      "composer": [
-       "李友廷"
-      ],
-      "year": "2019",
-      "released": "2019-03-04",
-      "label": "華茂文創",
-      "album": "直到我遇見了你",
-      "isrc": "TWEL51919001",
-      "copyright": "℗ 2019 HIM International Music Inc.",
-      "ncl": 265297,
-      "src": [
-       "ncl",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -14843,7 +14042,7 @@
     {
      "rank": 12,
      "title": "七彩的微風",
-     "artist": "真珠美人魚",
+     "artist": "",
      "covers": 1,
      "cover_video": "xTGNYZ9icJQ",
      "performers": [
@@ -14858,7 +14057,7 @@
     {
      "rank": 12,
      "title": "Boku wa",
-     "artist": "僕は",
+     "artist": "",
      "covers": 1,
      "cover_video": "Y4ELQY0-36A",
      "performers": [
@@ -15539,7 +14738,7 @@
     {
      "rank": 12,
      "title": "比翼の羽根",
-     "artist": "eufonius",
+     "artist": "",
      "covers": 1,
      "cover_video": "tux7nfIHOnM",
      "performers": [
@@ -15549,61 +14748,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "jp/398118228",
-     "spotify": "6FFshKmfm9h5MBpnsRO73c",
-     "bpm": 148,
-     "range": {
-      "low": 64,
-      "high": 78,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "vhigh",
-       "key": 1,
-       "oct": -12
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "happy",
-       "danceable",
-       "energetic"
-      ],
-      "instrument": [
-       "electricguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "riya"
-      ],
-      "composer": [
-       "菊地創"
-      ],
-      "arranger": [
-       "菊地創"
-      ],
-      "year": "2010",
-      "released": "2010-10-27",
-      "label": "Kingrecord.Co.,Ltd",
-      "album": "比翼の羽根 - EP",
-      "isrc": "JPKI01617227",
-      "copyright": "℗ 2010Kingrecord.Co.,Ltd.",
-      "mb": "ab56269d-c225-49b8-bfea-60b416ca82c5",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -15740,7 +14885,7 @@
     {
      "rank": 12,
      "title": "睽違三年再次歌唱,真的...可以聽吧",
-     "artist": "僕は... Teaser",
+     "artist": "",
      "covers": 1,
      "cover_video": "Lrm9IarybdA",
      "performers": [
@@ -15755,7 +14900,7 @@
     {
      "rank": 12,
      "title": "FIRESTARTER",
-     "artist": "K/DA, League of Legends Music, i-dle & Mimi Webb",
+     "artist": "",
      "covers": 1,
      "cover_video": "0p70ELKq2Cc",
      "performers": [
@@ -15765,50 +14910,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "K-Pop",
-     "apple": "tw/6813197034",
-     "spotify": "6UeSC8jEhf9XmUL8EX2rni",
-     "bpm": 68,
-     "range": {
-      "low": 58,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Dance-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2026",
-      "released": "2026-10-18",
-      "label": "Riot Games, Inc",
-      "album": "FIRESTARTER (feat. Sophie Powers, MIYEON & SOYEON) - Single",
-      "isrc": "QZH6S1901232",
-      "copyright": "℗ 2026 Riot Games, Inc.",
-      "mb": "16bda263-969e-4a80-a648-f56ea9c34657",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -15999,7 +15101,7 @@
     {
      "rank": 12,
      "title": "Magical Lights",
-     "artist": "娜娜莉EP ELLY.K",
+     "artist": "",
      "covers": 1,
      "cover_video": "fDPD8V_AHUg",
      "performers": [
@@ -16131,7 +15233,7 @@
     {
      "rank": 12,
      "title": "Kyouran Hey Kids!!",
-     "artist": "THE ORAL CIGARETTES",
+     "artist": "",
      "covers": 1,
      "cover_video": "6JtWRTuyMPo",
      "performers": [
@@ -16141,63 +15243,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Rock",
-     "apple": "tw/1838917398",
-     "spotify": "5NfPjjpfNsodIepI8NpKKR",
-     "bpm": 153,
-     "range": {
-      "low": 53,
-      "high": 72,
-      "m": {
-       "v": "vhigh",
-       "key": 4,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Punk"
-      ],
-      "mood": [
-       "aggressive",
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "山中拓也"
-      ],
-      "composer": [
-       "山中拓也"
-      ],
-      "year": "2015",
-      "released": "2015-10-02",
-      "label": "A-Sketch Inc",
-      "album": "Kyouran Hey Kids!! - EP",
-      "copyright": "℗ 2015 A-Sketch Inc.",
-      "mb": "3b84caa4-fbd0-4b33-9db8-52e6974135ed",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "ケイドロ",
-     "artist": "あらなるめい",
+     "artist": "",
      "covers": 1,
      "cover_video": "vVAozXH5RVg",
      "performers": [
@@ -16273,7 +15324,7 @@
     {
      "rank": 12,
      "title": "INMU KING 中文版",
-     "artist": "淫夢王",
+     "artist": "",
      "covers": 1,
      "cover_video": "j-4ummev2EQ",
      "performers": [
@@ -16288,7 +15339,7 @@
     {
      "rank": 12,
      "title": "This Is Halloween",
-     "artist": "春魚萬聖節合唱",
+     "artist": "",
      "covers": 1,
      "cover_video": "zmgE7eXb1Lk",
      "performers": [
@@ -16422,7 +15473,7 @@
     {
      "rank": 12,
      "title": "*. デビットビット",
-     "artist": "HaBE.゚ˊ",
+     "artist": "",
      "covers": 1,
      "cover_video": "crGFaCXbKgg",
      "performers": [
@@ -16754,7 +15805,7 @@
     {
      "rank": 12,
      "title": "日本人妻唱",
-     "artist": "ミッドナイト魯肉飯",
+     "artist": "",
      "covers": 1,
      "cover_video": "oukmQXuYmEk",
      "performers": [
@@ -16900,7 +15951,7 @@
     {
      "rank": 12,
      "title": "激昂サバイブ Complete Edition",
-     "artist": "フランシュシュ",
+     "artist": "",
      "covers": 1,
      "cover_video": "XEVg2y6Kygg",
      "performers": [
@@ -16910,70 +15961,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "jp/1644821936",
-     "spotify": "1BguvgbrLjgtRbA18XjswN",
-     "bpm": 212,
-     "range": {
-      "low": 63,
-      "high": 75,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": 2,
-       "oct": -12
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Heavy Metal",
-       "Alternative Rock"
-      ],
-      "mood": [
-       "aggressive"
-      ],
-      "instrument": [
-       "drums",
-       "synthesizer",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "KOMU",
-       "ma-saya"
-      ],
-      "composer": [
-       "加藤裕介",
-       "KOMU"
-      ],
-      "arranger": [
-       "加藤裕介"
-      ],
-      "mix": [
-       "田中雄司"
-      ],
-      "recording": [
-       "田中雄司"
-      ],
-      "year": "2021",
-      "released": "2021-08-27",
-      "label": "AVEX PICTURES INC",
-      "album": "ゾンビランドサガ リベンジ フランシュシュ The Best Revenge",
-      "isrc": "JPT552100740",
-      "copyright": "℗ 2022 AVEX PICTURES INC.",
-      "mb": "b3958cc1-295c-4132-a5e5-b27275474b65",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -17041,7 +16029,7 @@
     {
      "rank": 12,
      "title": "風月吻眉梢",
-     "artist": "今夜的風悄悄月悄悄 吻你的眉梢",
+     "artist": "",
      "covers": 1,
      "cover_video": "0X7NlC6TOQQ",
      "performers": [
@@ -17056,7 +16044,7 @@
     {
      "rank": 12,
      "title": "MirroR",
-     "artist": "ALIEN STAGE",
+     "artist": "",
      "covers": 1,
      "cover_video": "bojMmYIXzVE",
      "performers": [
@@ -17366,7 +16354,7 @@
     {
      "rank": 12,
      "title": "Pentas",
-     "artist": "Satoko Fujii & Natsuki Tamura",
+     "artist": "",
      "covers": 1,
      "cover_video": "SzNh2mUooQ0",
      "performers": [
@@ -17376,36 +16364,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Jazz",
-     "apple": "tw/1521553843",
-     "spotify": "7oW0jNW9wYfqBf3A41bNaI",
-     "bpm": 58,
-     "tags": {
-      "genre": [
-       "Post-Modern",
-       "Contemporary"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "instrumental"
-      ]
-     },
-     "info": {
-      "year": "2020",
-      "released": "2020-07-04",
-      "label": "Not Two Records",
-      "album": "Pentas",
-      "copyright": "℗ 2020 Not Two Records",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -17614,7 +16573,7 @@
     {
      "rank": 12,
      "title": "モエチャッカファイア",
-     "artist": "弌誠",
+     "artist": "",
      "covers": 1,
      "cover_video": "EP9IJxkFlY0",
      "performers": [
@@ -17624,60 +16583,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Rock",
-     "apple": "jp/1755481328",
-     "spotify": "43CMcyGeImlZjy1oN0NVNG",
-     "bpm": 163,
-     "range": {
-      "low": 42,
-      "high": 59,
-      "m": {
-       "v": "low",
-       "key": 3,
-       "oct": 0
-      },
-      "f": {
-       "v": "low",
-       "key": 0,
-       "oct": 12
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "mood": [
-       "party",
-       "danceable"
-      ],
-      "instrument": [
-       "synthesizer",
-       "guitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "弌誠"
-      ],
-      "composer": [
-       "弌誠"
-      ],
-      "year": "2024",
-      "released": "2024-07-19",
-      "label": "issey",
-      "album": "モエチャッカファイア - Single",
-      "isrc": "JPVP02409701",
-      "copyright": "℗ 2024 issey",
-      "mb": "98891be1-4d96-43ab-90f7-a76e4e258c47",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "中華料理屋の酢豚が食べたい",
-     "artist": "琳子",
+     "artist": "",
      "covers": 1,
      "cover_video": "1dqhBKeKr70",
      "performers": [
@@ -17687,50 +16598,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1778931921",
-     "spotify": "4V6SOpJTzJALfNivDuouLJ",
-     "bpm": 130,
-     "range": {
-      "low": 58,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Pop Rock",
-       "Synth-pop"
-      ],
-      "mood": [
-       "danceable",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2024",
-      "released": "2024-11-23",
-      "label": "rinko",
-      "album": "中華料理屋の酢豚が食べたい - Single",
-      "copyright": "℗ 2024 rinko",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -17988,7 +16856,7 @@
     {
      "rank": 12,
      "title": "嘆雲兮",
-     "artist": "希望未來還能一直陪在你身邊",
+     "artist": "",
      "covers": 1,
      "cover_video": "MEAFZZxHSgs",
      "performers": [
@@ -18140,7 +17008,7 @@
     {
      "rank": 12,
      "title": "鷲峰良",
-     "artist": "遏手把",
+     "artist": "",
      "covers": 1,
      "cover_video": "Rk4jfTDpMgk",
      "performers": [
@@ -18155,7 +17023,7 @@
     {
      "rank": 12,
      "title": "Departures",
-     "artist": "あなたにおくるアイの歌〜",
+     "artist": "",
      "covers": 1,
      "cover_video": "rtwZSaqLMgs",
      "performers": [
@@ -18238,7 +17106,7 @@
     {
      "rank": 12,
      "title": "STAGE OF SEKAI",
-     "artist": "HarryP feat. 初音ミク",
+     "artist": "",
      "covers": 1,
      "cover_video": "n4e0Ze-tT7M",
      "performers": [
@@ -18248,13 +17116,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "spotify": "0QHQJ7CXzo2Cb2vKQgcr5F"
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "Windy Summer",
-     "artist": "Jim Chappell",
+     "artist": "",
      "covers": 1,
      "cover_video": "GOpQdGefnic",
      "performers": [
@@ -18264,40 +17131,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "New Age",
-     "apple": "tw/1642831539",
-     "spotify": "3DIRwLca9lIdgTTldqEU0x",
-     "bpm": 140,
-     "tags": {
-      "genre": [
-       "Folk"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "year": "1994",
-      "released": "1994-06-02",
-      "label": "Real Music",
-      "album": "The EarthSea Series, Vol. 1",
-      "copyright": "℗ 1994 Real Music",
-      "mb": "0c096da2-b154-48c4-b9f2-7f5d90f78bd8",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "一個人想著一個人",
-     "artist": "曾沛慈",
+     "artist": "",
      "covers": 1,
      "cover_video": "8r0dEohNDYQ",
      "performers": [
@@ -18307,51 +17146,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "kkbox": "8sXF4g7NV0ZqkyYDDr",
-     "genre": "Mandopop",
-     "apple": "tw/597217626",
-     "spotify": "3n3zzFH7zzO0gJNaw4RKSm",
-     "bpm": 68,
-     "range": {
-      "low": 53,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": -4,
-       "oct": 0
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2013",
-      "released": "2013-01-18",
-      "label": "Comic International Productions Co., Ltd",
-      "album": "終極一班2 (電視原聲帶)",
-      "copyright": "℗ 2013 Comic International Productions Co., Ltd.",
-      "mb": "7969dd96-1029-445d-a28a-b85f529b385a",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -18520,7 +17315,7 @@
     {
      "rank": 12,
      "title": "Test Me",
-     "artist": "The xx",
+     "artist": "",
      "covers": 1,
      "cover_video": "Y_XuvCuYIWQ",
      "performers": [
@@ -18530,54 +17325,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Alternative",
-     "apple": "tw/1247685005",
-     "spotify": "3Ho6BPy19x7QcFYW9e877B",
-     "bpm": 54,
-     "range": {
-      "low": 51,
-      "high": 61,
-      "m": {
-       "v": "ok"
-      },
-      "f": {
-       "v": "low",
-       "key": -1,
-       "oct": 12
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "Romy"
-      ],
-      "composer": [
-       "Romy",
-       "Oliver Sim",
-       "Jamie xx"
-      ],
-      "year": "2017",
-      "released": "2017-06-14",
-      "label": "Young",
-      "album": "I See You (Deluxe)",
-      "isrc": "US23A1504308",
-      "copyright": "℗ 2017 Young",
-      "mb": "5c0981f4-ab47-45c1-b049-8bfe5c4a85d4",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -18643,7 +17391,7 @@
     {
      "rank": 12,
      "title": "Alice in N.Y.",
-     "artist": "HitoshizukuYama△",
+     "artist": "",
      "covers": 1,
      "cover_video": "b9AEhGlkslg",
      "performers": [
@@ -18653,46 +17401,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Pop",
-     "apple": "tw/1547923874",
-     "bpm": 138,
-     "range": {
-      "low": 53,
-      "high": 72,
-      "m": {
-       "v": "vhigh",
-       "key": 4,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Euro House"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2021",
-      "released": "2021-01-20",
-      "label": "ひとしずく×やま△ / CFM inc",
-      "album": "If the world3",
-      "copyright": "℗ 2019 ひとしずく×やま△ / CFM inc.",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -18960,7 +17669,7 @@
     {
      "rank": 12,
      "title": "旋轉木馬-米爺 x 黃淑蔓 Feanna Wong 旋轉木馬",
-     "artist": "金魚ひり",
+     "artist": "",
      "covers": 1,
      "cover_video": "_oZU-NXYuRc",
      "performers": [
@@ -19238,7 +17947,7 @@
     {
      "rank": 12,
      "title": "不小心愛上你",
-     "artist": "何杰",
+     "artist": "",
      "covers": 1,
      "cover_video": "Do_WaG1ymdY",
      "performers": [
@@ -19248,44 +17957,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Mandopop",
-     "apple": "tw/1668533653",
-     "bpm": 120,
-     "range": {
-      "low": 52,
-      "high": 65,
-      "m": {
-       "v": "ok"
-      },
-      "f": {
-       "v": "low",
-       "key": 1,
-       "oct": 0
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "year": "2016",
-      "released": "2016-01-01",
-      "label": "酝星文化",
-      "album": "何杰歌曲集錦",
-      "copyright": "℗ 2020 酝星文化",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -19357,7 +18029,7 @@
     {
      "rank": 12,
      "title": "夏季紀念Cover 夏祭り",
-     "artist": "Whiteberry",
+     "artist": "",
      "covers": 1,
      "cover_video": "Dw4eix1mdmU",
      "performers": [
@@ -19367,8 +18039,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "spotify": "6rDJe5gVgAunlkaSY1vnAF"
+     "is_new": null
     },
     {
      "rank": 12,
@@ -19447,7 +18118,7 @@
     {
      "rank": 12,
      "title": "夜盤陷阱",
-     "artist": "紅紅的買 綠綠的賣",
+     "artist": "",
      "covers": 1,
      "cover_video": "Bka2Vp6N4lY",
      "performers": [
@@ -19595,7 +18266,7 @@
     {
      "rank": 12,
      "title": "On the Rocks",
-     "artist": "Pretty Ricky",
+     "artist": "",
      "covers": 1,
      "cover_video": "jHEhKrx6wjU",
      "performers": [
@@ -19605,50 +18276,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Hip-Hop/Rap",
-     "apple": "tw/212227828",
-     "bpm": 99,
-     "range": {
-      "low": 49,
-      "high": 69,
-      "m": {
-       "v": "high",
-       "key": -3,
-       "oct": 0
-      },
-      "f": {
-       "v": "low"
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "genre": [
-       "Gangsta"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "synthesizer"
-      ],
-      "vocal": [
-       "male"
-      ]
-     },
-     "info": {
-      "year": "2007",
-      "released": "2007-02-07",
-      "label": "Atlantic Recording  Corporation for the United States and WEA International Inc. for the world outside of the United States",
-      "album": "Late Night Special (Deluxe Version)",
-      "copyright": "℗ 2006 Atlantic Recording  Corporation for the United States and WEA International Inc. for the world outside of the United States",
-      "mb": "b7a57b54-c85f-4367-8c95-4eb850903025",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -19790,7 +18418,7 @@
     {
      "rank": 12,
      "title": "想成為守護你的那個人",
-     "artist": "Promise",
+     "artist": "",
      "covers": 1,
      "cover_video": "cGMdg_TwQ3A",
      "performers": [
@@ -19805,7 +18433,7 @@
     {
      "rank": 12,
      "title": "愛貓",
-     "artist": "Butterfly Zheng",
+     "artist": "",
      "covers": 1,
      "cover_video": "skvmbrFvyNo",
      "performers": [
@@ -19815,32 +18443,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "New Age",
-     "apple": "tw/1572243640",
-     "bpm": 102,
-     "tags": {
-      "genre": [
-       "Ambient",
-       "New Age"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "year": "2021",
-      "released": "2021-06-11",
-      "label": "Chilling Music International",
-      "album": "貓的睡眠音樂 - 貓睡覺和放鬆音樂, 冷靜和放鬆, 貓減壓減焦慮",
-      "copyright": "℗ 2021 Chilling Music International",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -20062,7 +18665,7 @@
     {
      "rank": 12,
      "title": "最上級にかわいいの!",
-     "artist": "超ときめき♡宣伝部",
+     "artist": "",
      "covers": 1,
      "cover_video": "BGKFnpkrylY",
      "performers": [
@@ -20072,48 +18675,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1722220691",
-     "spotify": "3Ac9x7tA96I5xUmZTDuqMX",
-     "bpm": 168,
-     "range": {
-      "low": 55,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 2,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "danceable",
-       "happy"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "コレサワ"
-      ],
-      "composer": [
-       "コレサワ"
-      ],
-      "year": "2024",
-      "released": "2024-05-29",
-      "label": "AVEX MUSIC CREATIVE INC",
-      "album": "ときめく恋と青春",
-      "copyright": "℗ 2024 AVEX MUSIC CREATIVE INC.",
-      "mb": "ff35a522-5d63-48c6-8ce5-67039ca8249a",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -20133,7 +18695,7 @@
     {
      "rank": 12,
      "title": "ギビュリタ",
-     "artist": "Vell",
+     "artist": "",
      "covers": 1,
      "cover_video": "xpqjqww0_R8",
      "performers": [
@@ -20143,62 +18705,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1709071059",
-     "spotify": "1Bj13mppGGEf8p3psium6K",
-     "bpm": 131,
-     "range": {
-      "low": 60,
-      "high": 76,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -4,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Dance-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "Vell"
-      ],
-      "composer": [
-       "Vell"
-      ],
-      "year": "2023",
-      "released": "2023-08-04",
-      "label": "Vell",
-      "album": "ギビュリタ - Single",
-      "copyright": "℗ 2023 Vell",
-      "mb": "1faaad8e-7498-4202-b6fe-e6ba01640a77",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "一二三",
-     "artist": "HotCha",
+     "artist": "",
      "covers": 1,
      "cover_video": "pdozRR54zTM",
      "performers": [
@@ -20208,54 +18720,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Cantopop",
-     "apple": "tw/1501322317",
-     "spotify": "3BKOXjOuqAj8VFttLdXXER",
-     "bpm": 108,
-     "range": {
-      "low": 57,
-      "high": 72,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Bubblegum"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "happy"
-      ],
-      "instrument": [
-       "synthesizer",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2009",
-      "released": "2009-01-01",
-      "label": "新時代星工廠有限公司 (Neway Star Limited)",
-      "album": "Sexxy Funny Cool (2.0讚賀版)",
-      "copyright": "℗ 新時代星工廠有限公司 (Neway Star Limited)",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "星の唄",
-     "artist": "雪松琥珀Kohaku",
+     "artist": "",
      "covers": 1,
      "cover_video": "2OPDLsaYWKc",
      "performers": [
@@ -20348,7 +18818,7 @@
     {
      "rank": 12,
      "title": "心拍数#0822",
-     "artist": "Chouchou-P",
+     "artist": "",
      "covers": 1,
      "cover_video": "uvIGQAM1XFU",
      "performers": [
@@ -20358,38 +18828,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "tw/1081693379",
-     "bpm": 118,
-     "range": {
-      "low": 52,
-      "high": 64,
-      "m": {
-       "v": "ok"
-      },
-      "f": {
-       "v": "low",
-       "key": 1,
-       "oct": 0
-      },
-      "fit": "m"
-     },
-     "info": {
-      "year": "2011",
-      "released": "2011-03-16",
-      "label": "EXIT TUNES",
-      "album": "EXIT TUNES PRESENTS 神曲を歌ってみた4",
-      "copyright": "℗ 2011 EXIT TUNES",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "クリームソーダとシャンデリア",
-     "artist": "Mei & Henrii",
+     "artist": "",
      "covers": 1,
      "cover_video": "j4f8dV29qJg",
      "performers": [
@@ -20399,52 +18843,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1514316679",
-     "spotify": "1PVUvNXbXqbNTF0u52ou2o",
-     "bpm": 125,
-     "range": {
-      "low": 47,
-      "high": 71,
-      "m": {
-       "v": "vhigh"
-      },
-      "f": {
-       "v": "low"
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "genre": [
-       "Dance-pop",
-       "Synth-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "紺野メイ"
-      ],
-      "composer": [
-       "Henrii"
-      ],
-      "year": "2020",
-      "released": "2020-06-01",
-      "label": "Mei & Henrii",
-      "album": "バニラコテージ",
-      "isrc": "TCJPL2053881",
-      "copyright": "℗ 2020 Mei & Henrii",
-      "mb": "de682634-a8d4-484d-9822-f091f3192406",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -20787,7 +19186,7 @@
     {
      "rank": 12,
      "title": "zZz",
-     "artist": "DROELOE",
+     "artist": "",
      "covers": 1,
      "cover_video": "R04p3BrOPbs",
      "performers": [
@@ -20797,50 +19196,12 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Electronic",
-     "apple": "tw/1212825795",
-     "spotify": "6nhFpk4DFNCF7kFsU95e9J",
-     "bpm": 150,
-     "range": {
-      "low": 56,
-      "high": 73,
-      "m": {
-       "v": "vhigh",
-       "key": 1,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -1,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "relaxed",
-       "happy"
-      ]
-     },
-     "info": {
-      "year": "2016",
-      "released": "2016-03-19",
-      "label": "DROELOE",
-      "album": "zZz - Single",
-      "isrc": "GBSMU2629337",
-      "copyright": "℗ 2016 DROELOE",
-      "mb": "c386cc94-97e2-4f93-8d76-b76de306f22a",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
      "title": "愛言葉V",
-     "artist": "五年分的感謝",
+     "artist": "",
      "covers": 1,
      "cover_video": "BcoEfjflVSs",
      "performers": [
@@ -20855,7 +19216,7 @@
     {
      "rank": 12,
      "title": "もうそう",
-     "artist": "︎えくすぷれす",
+     "artist": "",
      "covers": 1,
      "cover_video": "FWF9Z--m9rU",
      "performers": [
@@ -20870,7 +19231,7 @@
     {
      "rank": 12,
      "title": "ANO",
-     "artist": "NORISTRY",
+     "artist": "",
      "covers": 1,
      "cover_video": "_OOR68eHQ_0",
      "performers": [
@@ -20880,43 +19241,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1562283870",
-     "spotify": "5sGwblQ7r9oG57DNOnNJ5a",
-     "bpm": 144,
-     "range": {
-      "low": 57,
-      "high": 71,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "energetic"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2019",
-      "released": "2019-11-27",
-      "label": "NORISTRY",
-      "album": "ANO - Single",
-      "copyright": "℗ 2019 NORISTRY",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -21120,7 +19445,7 @@
     {
      "rank": 12,
      "title": "森森鈴蘭-捕夢謊",
-     "artist": "cover冬鈴DongLing",
+     "artist": "",
      "covers": 1,
      "cover_video": "OQs1N1FzUbc",
      "performers": [
@@ -21191,7 +19516,7 @@
     {
      "rank": 12,
      "title": "養我",
-     "artist": "余育憲哥",
+     "artist": "",
      "covers": 1,
      "cover_video": "8O-lhmQUDYY",
      "performers": [
@@ -21201,43 +19526,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Folk",
-     "apple": "tw/1791051522",
-     "spotify": "5BtE7mi9hB70kFLzp5niS8",
-     "bpm": 122,
-     "range": {
-      "low": 48,
-      "high": 64,
-      "m": {
-       "v": "ok"
-      },
-      "f": {
-       "v": "low",
-       "key": -4,
-       "oct": 12
-      },
-      "fit": "m"
-     },
-     "tags": {
-      "mood": [
-       "relaxed",
-       "love"
-      ],
-      "instrument": [
-       "guitar"
-      ]
-     },
-     "info": {
-      "year": "2025",
-      "released": "2025-01-29",
-      "label": "紅龍製樂有限公司",
-      "album": "養我 - Single",
-      "copyright": "℗ 2025 紅龍製樂有限公司",
-      "src": [
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -21335,7 +19624,7 @@
     {
      "rank": 12,
      "title": "深紅の運命",
-     "artist": "東方vocal",
+     "artist": "",
      "covers": 1,
      "cover_video": "sTYzhApzNJc",
      "performers": [
@@ -21478,7 +19767,7 @@
     {
      "rank": 12,
      "title": "今天我生日,ギターと孤独と蒼い惑星",
-     "artist": "ぼっち・ざ・ろっく",
+     "artist": "",
      "covers": 1,
      "cover_video": "_kCqoIa-FcM",
      "performers": [
@@ -21543,7 +19832,7 @@
     {
      "rank": 12,
      "title": "最低な人",
-     "artist": "希爾薇亞SYRU",
+     "artist": "",
      "covers": 1,
      "cover_video": "dHszfQ6Sp4w",
      "performers": [
@@ -21632,7 +19921,7 @@
     {
      "rank": 12,
      "title": "如果時光機存在,我想回到那時候",
-     "artist": "Time machine",
+     "artist": "",
      "covers": 1,
      "cover_video": "DqAoyt-90XA",
      "performers": [
@@ -21730,7 +20019,7 @@
     {
      "rank": 12,
      "title": "おこちゃま戦争",
-     "artist": "kradness×れをる",
+     "artist": "",
      "covers": 1,
      "cover_video": "HhiG_3cjn-4",
      "performers": [
@@ -21740,57 +20029,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Anime",
-     "apple": "jp/748107638",
-     "spotify": "6R7HUBIfbKC8MhkayzLRE5",
-     "bpm": 136,
-     "range": {
-      "low": 55,
-      "high": 76,
-      "m": {
-       "v": "vhigh",
-       "key": 2,
-       "oct": -12
-      },
-      "f": {
-       "v": "high"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Hardcore",
-       "Happy Hardcore"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "Reol"
-      ],
-      "composer": [
-       "Giga"
-      ],
-      "year": "2013",
-      "released": "2013-12-04",
-      "label": "Victor Entertainment, Inc",
-      "album": "KRAD VORTEX",
-      "isrc": "JPVI01326730",
-      "copyright": "℗ Victor Entertainment, Inc.",
-      "mb": "58a7bf76-3136-4dbb-9c89-6f979a81222e",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -21986,7 +20225,7 @@
     {
      "rank": 12,
      "title": "Lullaby",
-     "artist": "The Chicks",
+     "artist": "",
      "covers": 1,
      "cover_video": "MmddveKkQpo",
      "performers": [
@@ -21996,50 +20235,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Country",
-     "apple": "tw/283636339",
-     "spotify": "5GWyNA4n9hx5rhkK0KvQ83",
-     "bpm": 108,
-     "range": {
-      "low": 54,
-      "high": 67,
-      "m": {
-       "v": "high",
-       "key": -1,
-       "oct": 0
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Folk"
-      ],
-      "mood": [
-       "relaxed",
-       "sad",
-       "love"
-      ],
-      "instrument": [
-       "acousticguitar"
-      ]
-     },
-     "info": {
-      "year": "2006",
-      "released": "2006-05-23",
-      "label": "Columbia Records",
-      "album": "Taking the Long Way",
-      "isrc": "USSM10601036",
-      "copyright": "℗ 2006 Columbia Records, a division of Sony Music Entertainment",
-      "mb": "fc84588d-570d-4051-b0e9-30d346f86788",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -22100,7 +20296,7 @@
     {
      "rank": 12,
      "title": "Walking",
-     "artist": "Novelbright 5 Anniversary",
+     "artist": "",
      "covers": 1,
      "cover_video": "YpKCgPOwuPk",
      "performers": [
@@ -22110,8 +20306,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "spotify": "7tGDXCPLpAScEwmqab9YZd"
+     "is_new": null
     },
     {
      "rank": 12,
@@ -22310,7 +20505,7 @@
     {
      "rank": 12,
      "title": "カレンダーガール",
-     "artist": "中村あゆみ",
+     "artist": "",
      "covers": 1,
      "cover_video": "tT6b2z4SGxU",
      "performers": [
@@ -22320,47 +20515,7 @@
       ]
      ],
      "last_rank": null,
-     "is_new": null,
-     "genre": "Rock",
-     "apple": "jp/1473581691",
-     "spotify": "2tAXQnetEj93o4mMSJJRpj",
-     "bpm": 108,
-     "tags": {
-      "genre": [
-       "Post-Modern"
-      ],
-      "mood": [
-       "relaxed"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "instrumental"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "中村あゆみ"
-      ],
-      "composer": [
-       "中村あゆみ"
-      ],
-      "arranger": [
-       "和田春彦"
-      ],
-      "year": "1991",
-      "released": "1991-08-21",
-      "label": "WARNER MUSIC JAPAN INC.(This compilation)",
-      "album": "Ayumi of AYUMI〜35th Anniversary BEST 完全版 Special Edition",
-      "isrc": "JPWP09407880",
-      "copyright": "℗ 2019 WARNER MUSIC JAPAN INC.(This compilation)",
-      "mb": "7fa1b558-bc1f-4ce5-babd-3185a05c6a58",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
+     "is_new": null
     },
     {
      "rank": 12,
@@ -22682,7 +20837,7 @@
     {
      "rank": 12,
      "title": "Mirairo Rider",
-     "artist": "明日方舟:終末地",
+     "artist": "",
      "covers": 1,
      "cover_video": "VJJjJCDyVbE",
      "performers": [
@@ -22932,7 +21087,7 @@
    ],
    "period_key": "2026-08-21_2026-11-18",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:04:44+08:00",
+   "fetched_at": "2026-11-18T15:55:21+08:00",
    "stale": false
   }
  ]

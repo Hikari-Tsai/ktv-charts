@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "ktv",
  "site_url": "https://www.cashboxparty.com/",
- "checked_at": "2026-11-18T15:01:15+08:00",
+ "checked_at": "2026-11-18T15:51:52+08:00",
  "errors": [],
  "charts": [
   {
@@ -1791,7 +1791,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T15:01:10+08:00",
+   "fetched_at": "2026-11-18T15:51:47+08:00",
    "stale": false
   },
   {
@@ -3451,7 +3451,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T15:01:10+08:00",
+   "fetched_at": "2026-11-18T15:51:47+08:00",
    "stale": false
   },
   {
@@ -4990,7 +4990,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T15:01:12+08:00",
+   "fetched_at": "2026-11-18T15:51:50+08:00",
    "stale": false
   },
   {
@@ -6282,6 +6282,21 @@
      "apple": "tw/1535537758",
      "spotify": "3DqCoE225ySWVHwgzf0kbq",
      "bpm": 84,
+     "range": {
+      "low": 58,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -6316,7 +6331,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T15:01:12+08:00",
+   "fetched_at": "2026-11-18T15:51:50+08:00",
    "stale": false
   },
   {
@@ -8007,7 +8022,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T15:01:12+08:00",
+   "fetched_at": "2026-11-18T15:51:50+08:00",
    "stale": false
   },
   {
@@ -9461,6 +9476,19 @@
      "apple": "tw/1770262996",
      "spotify": "01l2CTJSGrtiOBWXqY3NXl",
      "bpm": 99,
+     "range": {
+      "low": 51,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "danceable"
@@ -9480,7 +9508,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T15:01:15+08:00",
+   "fetched_at": "2026-11-18T15:51:52+08:00",
    "stale": false
   },
   {
@@ -10985,7 +11013,7 @@
    ],
    "period_key": "2026-11-10_2026-11-16",
    "rank_change": "site",
-   "fetched_at": "2026-11-18T15:01:15+08:00",
+   "fetched_at": "2026-11-18T15:51:52+08:00",
    "stale": false
   }
  ]
