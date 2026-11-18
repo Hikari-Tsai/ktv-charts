@@ -678,7 +678,8 @@ class VtuberChartTest(unittest.TestCase):
                          [(1, "アイドル", 4), (2, "晴天", 2), (3, "Lemon", 1), (3, "小幸運", 1)])
         self.assertEqual(rows[0]["cover_video"], "v1")  # the newest cover
         self.assertEqual(rows[0]["performers"], [["A", "v1"], ["B", "v2"], ["C", "v3"], ["D", "v4"]])
-        self.assertEqual(rows[2]["artist"], "米津玄師")  # not identified: guessed from the title
+        self.assertEqual(rows[2]["artist"], "")  # not identified, and no song confirms 米津玄師: shown as --
+        self.assertEqual(rows[3]["artist"], "")  # Hebe Tien is not what the title says (田馥甄)
         recent = charts[1]["rows"]
         self.assertEqual([(r["title"], r["covers"]) for r in recent][:3], [("晴天", 2), ("アイドル", 2), ("Lemon", 1)])
 
@@ -698,7 +699,25 @@ class VtuberChartTest(unittest.TestCase):
         groups = vtuber.group_covers(videos, songs)
         self.assertEqual(sorted((g["title"], g["artist"], sorted(g["videos"])) for g in groups.values()),
                          [("JANE DOE", "米津玄師 & Hikaru Utada", ["v1", "v2"]),
-                          ("Magnet", "Someone", ["v3", "v4"])])
+                          ("Magnet", "", ["v3", "v4"])])  # nothing confirms Someone: shown as --
+
+    def test_artist_confirmed_by_spelling_or_other_song(self):
+        videos = {
+            "v1": {"t": "Mela!｜緑黄色社会｜Covered by A", "ch": "A", "pub": "2026-11-01"},
+            "v2": {"t": "Lemon / 米津玄師 cover by B", "ch": "B", "pub": "2026-11-02"},
+            "v3": {"t": "海の幽霊【歌ってみた】", "ch": "C", "pub": "2026-11-03"},   # artist not in the title
+            "v4": {"t": "知らない歌 / 米津玄師 (cover)", "ch": "D", "pub": "2026-11-04"},   # not on iTunes
+        }
+        term = lambda v: match.norm(vtuber.term_of(videos[v])[1])
+        songs = {
+            term("v1"): {"status": "ok", "name": "Mela!", "artist": "緑黃色社會", "id": 1},
+            term("v2"): {"status": "ok", "name": "Lemon", "artist": "米津玄師", "id": 2},
+            term("v3"): {"status": "ok", "name": "海の幽霊", "artist": "米津玄師", "id": 3},
+            term("v4"): {"status": "none"},
+        }
+        artists = {g["title"]: g["artist"] for g in vtuber.group_covers(videos, songs).values()}
+        self.assertEqual(artists, {"Mela!": "緑黃色社會", "Lemon": "米津玄師", "海の幽霊": "米津玄師",
+                                   "知らない歌": "米津玄師"})
 
     def test_identify_caches_and_shares_with_itunes(self):
         videos = {"v1": {"t": "Lemon / 米津玄師 cover by H", "ch": "H"},

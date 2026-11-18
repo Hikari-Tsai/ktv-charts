@@ -89,7 +89,7 @@ def songs(sites: dict, region: str | None = None) -> list[dict]:
     for src, _, row in enrich.iter_rows(sites):
         key = match.song_key(row.get("title"), row.get("artist"))
         reg = enrich.REGION.get(src, "tw")
-        if key.startswith("|") or (region and reg != region):
+        if key.startswith("|") or key.endswith("|") or (region and reg != region):
             continue
         if key not in best or row["rank"] < best[key]["rank"]:
             best[key] = {"key": key, "title": row.get("title"), "artist": row.get("artist"),

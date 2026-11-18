@@ -138,7 +138,7 @@ def candidates(sites: dict, cache: dict, today: dt.date) -> list[dict]:
     best: dict[str, dict] = {}
     for src, _, row in enrich.iter_rows(sites):
         key = match.song_key(row.get("title"), row.get("artist"))
-        if key.startswith("|"):
+        if key.startswith("|") or key.endswith("|"):  # no title or no artist
             continue
         entry = cache.get(key)
         if entry and (entry.get("status") == "ok" or (

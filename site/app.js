@@ -135,6 +135,14 @@ const I18N = {
     loading: "載入中…",
     loadError: "資料載入失敗，請稍後再試。",
     empty: "這張榜沒有資料。",
+    intro_holiday: "好樂迪官網公開的點播排行，分國、台、粵、英、日、韓、越語，另有國台語新歌榜。每天自動更新。",
+    intro_cashbox: "錢櫃官網公開的點播排行，分國、台、粵、日、英語，另有國台語新歌榜。每天自動更新。",
+    intro_joysound: "日本 JOYSOUND 官網的卡拉 OK 點歌排行：綜合日榜、週榜、月榜，以及動畫、VOCALOID、演歌、西洋週榜。每天自動更新。",
+    intro_dam: "日本 DAM（第一興商）官網的卡拉 OK 點歌排行：綜合日榜、週榜、月榜，以及急上昇、動畫、VOCALOID、VTuber、演歌、外國曲等週榜。每天自動更新。",
+    intro_kkbox: "KKBOX 風雲榜的串流播放排行（不是 KTV 點歌）：華語、台語、西洋、日語、韓語、粵語單曲日榜與週榜，以及華語新歌週榜。每天自動更新。",
+    intro_vtuber: "依 YouTube 播放清單「台灣 Vtuber Cover 華語&港馬歌曲總整理」，用 YouTube Data API 計算每首歌被翻唱的次數。歌曲由影片標題自動辨識，原唱無法確認時顯示「--」。每天自動更新。",
+    introThanks_vtuber: "特別感謝{curator}長期整理這份播放清單。",
+    introLink_vtuber: "前往播放清單 ↗",
     disclaimer: "資料取自各 KTV 與 KKBOX 官方網站公開頁面，著作權屬原網站所有；VTuber 翻唱排行依社群整理的 YouTube 公開播放清單，透過 YouTube Data API 計算。本站與各業者無關。",
     sources: "資料來源",
     starCta: "在 GitHub 給我星星",
@@ -269,6 +277,14 @@ const I18N = {
     loading: "Loading…",
     loadError: "Could not load data. Please try again later.",
     empty: "No data for this chart.",
+    intro_holiday: "Request rankings published on Holiday's website, by language (Mandarin, Taiwanese, Cantonese, English, Japanese, Korean, Vietnamese), plus new Mandarin and Taiwanese songs. Updated daily.",
+    intro_cashbox: "Request rankings published on Cashbox's website, by language (Mandarin, Taiwanese, Cantonese, Japanese, English), plus new Mandarin and Taiwanese songs. Updated daily.",
+    intro_joysound: "Karaoke request rankings from JOYSOUND's website in Japan: overall daily, weekly and monthly, plus weekly anime, VOCALOID, enka and Western charts. Updated daily.",
+    intro_dam: "Karaoke request rankings from DAM's (Daiichikosho) website in Japan: overall daily, weekly and monthly, plus weekly rising, anime, VOCALOID, VTuber, enka and foreign-song charts. Updated daily.",
+    intro_kkbox: "KKBOX streaming charts (not karaoke requests): daily and weekly singles in Mandarin, Taiwanese, Western, Japanese, Korean and Cantonese, plus weekly new Mandarin releases. Updated daily.",
+    intro_vtuber: "How many times each song has been covered in the YouTube playlist \"台灣 Vtuber Cover 華語&港馬歌曲總整理\", counted with the YouTube Data API. Songs are identified from video titles automatically; \"--\" means the original artist could not be confirmed. Updated daily.",
+    introThanks_vtuber: "Special thanks to {curator} for curating this playlist.",
+    introLink_vtuber: "Open the playlist ↗",
     disclaimer: "Data comes from the public websites of each KTV operator and KKBOX; rights belong to the original sites. The VTuber cover ranking counts a public, community-curated YouTube playlist through the YouTube Data API. This site is not affiliated with any of them.",
     sources: "Sources",
     starCta: "Star on GitHub",
@@ -403,6 +419,14 @@ const I18N = {
     loading: "読み込み中…",
     loadError: "データを読み込めませんでした。しばらくしてから再度お試しください。",
     empty: "このランキングにはデータがありません。",
+    intro_holiday: "好樂迪 (Holiday) の公式サイトで公開されているリクエストランキング。北京語・台湾語・広東語・英語・日本語・韓国語・ベトナム語別と、北京語・台湾語の新曲ランキング。毎日自動更新。",
+    intro_cashbox: "錢櫃 (Cashbox) の公式サイトで公開されているリクエストランキング。北京語・台湾語・広東語・日本語・英語別と、北京語・台湾語の新曲ランキング。毎日自動更新。",
+    intro_joysound: "JOYSOUND 公式サイトのカラオケランキング。総合のデイリー・週間・月間と、アニメ・ボカロ・演歌・洋楽の週間ランキング。毎日自動更新。",
+    intro_dam: "DAM（第一興商）公式サイトのカラオケランキング。総合のデイリー・週間・月間と、急上昇・アニメ・ボーカロイド・VTuber・演歌・外国曲などの週間ランキング。毎日自動更新。",
+    intro_kkbox: "KKBOX 風雲榜のストリーミングランキング（カラオケのリクエストではありません）。華語・台湾語・洋楽・日本語・韓国語・広東語のデイリーと週間、華語新曲の週間ランキング。毎日自動更新。",
+    intro_vtuber: "YouTube の再生リスト「台灣 Vtuber Cover 華語&港馬歌曲總整理」で各曲が何回カバーされたかを YouTube Data API で集計しています。曲は動画タイトルから自動で判別し、原曲アーティストを確認できないものは「--」と表示します。毎日自動更新。",
+    introThanks_vtuber: "この再生リストを整理している{curator}さんに感謝します。",
+    introLink_vtuber: "再生リストを開く ↗",
     disclaimer: "データは各カラオケ事業者と KKBOX の公式サイトの公開ページから取得しています。権利は各サイトに帰属します。VTuber カバーのランキングは、コミュニティが整理した YouTube の公開再生リストを YouTube Data API で集計しています。本サイトは各事業者とは関係ありません。",
     sources: "データ提供元",
     starCta: "GitHub でスターをください",
@@ -737,6 +761,34 @@ function renderSourceTabs() {
       el("span", { class: "region", text: t("region_" + s.region) + (s.kind === "streaming" ? " · " + t("streaming") : s.kind === "cover" ? " · YouTube" : "") }))
     )
   );
+}
+
+// Plain-text note on where the open tab's data comes from; the VTuber tab also credits
+// the playlist's curator (linked to their channel) and links to the playlist.
+const CURATORS = {
+  vtuber: { name: "語風薯薯", url: "https://www.youtube.com/channel/UCLHSj-ZnzmpQlZuUcnXMoVg" },
+};
+
+function renderSourceIntro() {
+  const box = $("#source-intro");
+  const s = state.index.sources.find((x) => x.id === state.source);
+  box.hidden = !s || !I18N[DEFAULT_LANG]["intro_" + s.id];
+  if (box.hidden) return;
+  const parts = [el("span", { text: t("intro_" + s.id) })];
+  const thanks = el("span", { class: "intro-thanks" });
+  const curator = CURATORS[s.id];
+  if (I18N[state.lang]["introThanks_" + s.id] && curator) {
+    const [before, after] = t("introThanks_" + s.id).split("{curator}");
+    thanks.append(el("span", {}, before,
+      el("a", { class: "intro-curator", href: curator.url, target: "_blank", rel: "noopener", text: curator.name }),
+      after ?? ""));
+  }
+  if (I18N[state.lang]["introLink_" + s.id]) {
+    thanks.append(el("a", { class: "intro-link", href: s.site_url, target: "_blank", rel: "noopener",
+                            text: t("introLink_" + s.id) }));
+  }
+  if (thanks.childNodes.length) parts.push(thanks);
+  box.replaceChildren(...parts);
 }
 
 function renderChartPills(data) {
@@ -1128,7 +1180,8 @@ function songCell(row) {
   const titleNode = row.song_url
     ? el("a", { href: row.song_url, target: "_blank", rel: "noopener", text: row.title })
     : row.title;
-  const sub = el("div", { class: "song-sub" }, row.artist || "");
+  // "--": a VTuber cover whose original artist nothing confirms (see scraper/sources/vtuber.py)
+  const sub = el("div", { class: "song-sub" }, row.artist || "--");
   if (row.song_no) sub.append(el("span", { class: "song-no", title: t("songNo"), text: `#${row.song_no}` }));
   if (row.covers) {
     // VTuber covers: how many times the song was covered; opens the newest cover.
@@ -1285,6 +1338,7 @@ async function render() {
   applyStaticText();
   if (!state.index) return;
   renderSourceTabs();
+  renderSourceIntro();
   let data;
   try {
     if (!state.cache.has(state.source)) showMessage(t("loading"));

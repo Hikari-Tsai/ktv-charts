@@ -175,6 +175,22 @@ def identify(videos: dict[str, dict], songs: dict, itunes: dict, today: dt.date,
 
 # ---------- rank ----------
 
+UNSURE = ""  # artist of a song whose original artist nothing confirms; the page shows "--"
+
+
+def _confirms(artist: str, title: str, segs: list[str]) -> bool:
+    """The matched artist is written in the cover title, allowing other spellings of a word
+    (緑黄色社会 / 緑黃色社會, Official髭男dism / Official鬍子男dism)."""
+    a = match.norm(match.first_artist(artist))
+    if len(a) < 2:
+        return False
+    if a in match.norm(" ".join(segs)).replace(title, "", 1):
+        return True
+    return any(match.similarity(match.norm(seg), x) >= 0.6
+               for seg in segs if match.norm(seg) != title
+               for x in (a, match.norm(match.clean_artist(artist))))
+
+
 def group_covers(videos: dict[str, dict], songs: dict) -> dict[str, dict]:
     """Song -> its title, artist and the cover videos.
 
@@ -183,11 +199,8 @@ def group_covers(videos: dict[str, dict], songs: dict) -> dict[str, dict]:
     "Jane Doe" for 米津玄師's), so unconfirmed and unidentified covers join the confirmed song with
     that title (the most covered one if there are several). With none, unconfirmed matches of one
     title fall together under the most common one, and unidentified covers join it or group by
-    their guessed title."""
-    known_artists: set[str] = set()
-    for entry in songs.values():
-        if entry.get("status") == "ok":
-            known_artists.add(match.norm(match.first_artist(entry["artist"])))
+    their guessed title. Such songs keep their artist only when it is confirmed for another
+    song in the playlist; otherwise it is UNSURE."""
     groups: dict[str, dict] = {}
     weak: dict[str, dict[str, list]] = defaultdict(dict)   # title -> song key -> [group, videos]
     pending = []
@@ -197,17 +210,18 @@ def group_covers(videos: dict[str, dict], songs: dict) -> dict[str, dict]:
             continue
         entry = songs.get(match.norm(term)) or {}
         if entry.get("status") != "ok":
-            pending.append((vid, covers.guess(segs, known_artists)))
+            pending.append((vid, segs))
             continue
         key = covers.song_group(entry["name"], entry["artist"])
         # "有一種悲傷 (電影《…》主題曲)" shows as 有一種悲傷, as KTV charts list it
         group = {"title": covers.display_title(entry["name"]), "artist": entry["artist"], "videos": []}
         title = match.norm(group["title"])
-        artist = match.norm(match.first_artist(entry["artist"]))
-        if len(artist) >= 2 and artist in match.norm(" ".join(segs)).replace(title, "", 1):
+        if _confirms(entry["artist"], title, segs):
             groups.setdefault(key, group)["videos"].append(vid)
         else:
             weak[title].setdefault(key, [group, []])[1].append(vid)
+    trusted = {match.norm(match.first_artist(g["artist"])) for g in groups.values()}
+    trust = lambda artist: artist if match.norm(match.first_artist(artist)) in trusted else UNSURE
     confirmed: dict[str, list[str]] = defaultdict(list)
     for key, g in groups.items():
         confirmed[match.norm(g["title"])].append(key)
@@ -217,15 +231,19 @@ def group_covers(videos: dict[str, dict], songs: dict) -> dict[str, dict]:
     for title, cands in weak.items():
         if title not in by_title:
             by_title[title] = max(cands, key=lambda k: len(cands[k][1]))
-            groups[by_title[title]] = cands[by_title[title]][0]
+            group = cands[by_title[title]][0]
+            groups[by_title[title]] = {**group, "artist": trust(group["artist"])}
         groups[by_title[title]]["videos"].extend(v for _, vids in cands.values() for v in vids)
-    for vid, (title, artist) in pending:
+    for vid, segs in pending:
+        title, artist = covers.guess(segs, trusted)
         t = match.norm(match.clean_title(title))
         if not t:
             continue
         key = by_title.get(t, "?" + t)
-        g = groups.setdefault(key, {"title": match.clean_title(title), "artist": artist, "videos": []})
+        g = groups.setdefault(key, {"title": match.clean_title(title), "artist": UNSURE, "videos": []})
         g["videos"].append(vid)
+        if key.startswith("?") and g["artist"] == UNSURE:
+            g["artist"] = trust(artist)  # 晚餐歌 / tuki: a name the playlist confirms elsewhere
     return groups
 
 
