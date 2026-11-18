@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.clubdam.com/",
- "checked_at": "2026-11-18T15:52:19+08:00",
+ "checked_at": "2026-11-18T19:44:00+08:00",
  "errors": [],
  "charts": [
   {
@@ -5144,7 +5144,7 @@
    ],
    "period_key": "2026-11-17",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:08+08:00",
+   "fetched_at": "2026-11-18T19:43:50+08:00",
    "stale": false
   },
   {
@@ -10328,7 +10328,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:08+08:00",
+   "fetched_at": "2026-11-18T19:43:50+08:00",
    "stale": false
   },
   {
@@ -15506,7 +15506,7 @@
    ],
    "period_key": "2026-10-01_2026-10-31",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:08+08:00",
+   "fetched_at": "2026-11-18T19:43:50+08:00",
    "stale": false
   },
   {
@@ -17073,6 +17073,21 @@
      "apple": "jp/1647731244",
      "spotify": "4RUlsq0YUshkGpfOUrDdP5",
      "bpm": 64,
+     "range": {
+      "low": 59,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -17116,6 +17131,19 @@
      "apple": "jp/1713009101",
      "spotify": "74W4IhQygsFHXztF6380uq",
      "bpm": 190,
+     "range": {
+      "low": 56,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Vocal Pop"
@@ -17159,6 +17187,19 @@
      "apple": "jp/1542299446",
      "spotify": "3htztzbmBfX0KFfnZR9rpa",
      "bpm": 130,
+     "range": {
+      "low": 47,
+      "high": 60,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Marches"
@@ -17190,6 +17231,19 @@
      "apple": "jp/1289580890",
      "spotify": "2C3xhs42cbxmTuE1sc4OvC",
      "bpm": 91,
+     "range": {
+      "low": 55,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -19290,6 +19344,19 @@
      "apple": "jp/280918006",
      "spotify": "3UXQajw311DXxQiEAkuRf2",
      "bpm": 125,
+     "range": {
+      "low": 55,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Beat",
@@ -19763,7 +19830,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:10+08:00",
+   "fetched_at": "2026-11-18T19:43:51+08:00",
    "stale": false
   },
   {
@@ -21715,6 +21782,19 @@
      "apple": "jp/169256668",
      "spotify": "2tHQgtm46XngnOFgATFJWM",
      "bpm": 194,
+     "range": {
+      "low": 58,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Punk"
@@ -21935,6 +22015,17 @@
      "apple": "jp/1804230388",
      "spotify": "3huSUfmhUr4entz2S0G31O",
      "bpm": 138,
+     "range": {
+      "low": 52,
+      "high": 76,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "wide"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -24834,7 +24925,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:12+08:00",
+   "fetched_at": "2026-11-18T19:43:54+08:00",
    "stale": false
   },
   {
@@ -26600,6 +26691,21 @@
      "apple": "jp/1147145175",
      "spotify": "0IEl6PAxLIueFQp08vq07B",
      "bpm": 188,
+     "range": {
+      "low": 59,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "instrument": [
        "electricguitar"
@@ -26644,6 +26750,19 @@
      "apple": "jp/1020098193",
      "spotify": "2damFh3XZdKCS7STVInOPo",
      "bpm": 140,
+     "range": {
+      "low": 60,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -26684,6 +26803,21 @@
      "apple": "jp/980624406",
      "spotify": "6vLRX3CvnOx3t0wPprxSU6",
      "bpm": 110,
+     "range": {
+      "low": 62,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Punk"
@@ -29346,7 +29480,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:13+08:00",
+   "fetched_at": "2026-11-18T19:43:55+08:00",
    "stale": false
   },
   {
@@ -31273,6 +31407,21 @@
      "apple": "jp/1819436933",
      "spotify": "0pu51J3MYPM5H2YG7BgDFK",
      "bpm": 115,
+     "range": {
+      "low": 42,
+      "high": 59,
+      "m": {
+       "v": "low",
+       "key": 3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Reggaeton"
@@ -31311,6 +31460,19 @@
      "apple": "jp/6783328131",
      "spotify": "0rPhbVHPWDyRX6S7JiFJhe",
      "bpm": 154,
+     "range": {
+      "low": 51,
+      "high": 63,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -31348,6 +31510,19 @@
      "apple": "jp/1757631792",
      "spotify": "1khq2LJhql3cSMCp2KW6yG",
      "bpm": 149,
+     "range": {
+      "low": 56,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Heavy Metal"
@@ -31398,6 +31573,19 @@
      "apple": "jp/1601955449",
      "spotify": "0yr6hIJDc2k2KcOLM4VhBz",
      "bpm": 193,
+     "range": {
+      "low": 54,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -34117,7 +34305,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:15+08:00",
+   "fetched_at": "2026-11-18T19:43:56+08:00",
    "stale": false
   },
   {
@@ -36538,6 +36726,19 @@
      "apple": "jp/1713009101",
      "spotify": "74W4IhQygsFHXztF6380uq",
      "bpm": 190,
+     "range": {
+      "low": 56,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Vocal Pop"
@@ -36661,6 +36862,19 @@
      "apple": "jp/1542299446",
      "spotify": "3htztzbmBfX0KFfnZR9rpa",
      "bpm": 130,
+     "range": {
+      "low": 47,
+      "high": 60,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Marches"
@@ -37098,6 +37312,19 @@
      "apple": "jp/1444179714",
      "spotify": "3XZmisjPFwdcInk4MDIQ5H",
      "bpm": 113,
+     "range": {
+      "low": 51,
+      "high": 62,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "info": {
       "lyricist": [
        "山口洋子"
@@ -37160,6 +37387,19 @@
      "apple": "jp/1289580890",
      "spotify": "2C3xhs42cbxmTuE1sc4OvC",
      "bpm": 91,
+     "range": {
+      "low": 55,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -37482,6 +37722,19 @@
      "apple": "jp/312367999",
      "spotify": "04UJilGhFRLCqhjAGfHX9I",
      "bpm": 88,
+     "range": {
+      "low": 52,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "sad",
@@ -38281,6 +38534,17 @@
      "apple": "jp/1611497484",
      "spotify": "2pJV7mv90UsOAMnB1FZc4d",
      "bpm": 100,
+     "range": {
+      "low": 49,
+      "high": 72,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "f"
+     },
      "info": {
       "lyricist": [
        "佐々木勉"
@@ -38521,6 +38785,21 @@
      "apple": "jp/1647731244",
      "spotify": "4RUlsq0YUshkGpfOUrDdP5",
      "bpm": 64,
+     "range": {
+      "low": 59,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -38555,7 +38834,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:16+08:00",
+   "fetched_at": "2026-11-18T19:43:58+08:00",
    "stale": false
   },
   {
@@ -40486,6 +40765,19 @@
      "apple": "jp/41737859",
      "spotify": "3Z2tPWiNiIpg8UMMoowHIk",
      "bpm": 72,
+     "range": {
+      "low": 47,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": -1,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "mood": [
        "sad",
@@ -40525,6 +40817,19 @@
      "apple": "tw/511074294",
      "spotify": "1QbOvACeYanja5pbnJbAmk",
      "bpm": 165,
+     "range": {
+      "low": 52,
+      "high": 61,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Country",
@@ -40834,6 +41139,17 @@
      "apple": "tw/1441134371",
      "spotify": "1eT2CjXwFXNx6oY5ydvzKU",
      "bpm": 75,
+     "range": {
+      "low": 53,
+      "high": 65,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "genre": [
        "Psychedelic Rock",
@@ -40880,6 +41196,19 @@
      "apple": "tw/1440829613",
      "spotify": "50kpGaPAhYJ3sGmk6vplg0",
      "bpm": 100,
+     "range": {
+      "low": 52,
+      "high": 59,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Reggaeton",
@@ -41411,6 +41740,19 @@
      "apple": "tw/1679849823",
      "spotify": "70LcF31zb1H0PyJoS1Sx1r",
      "bpm": 83,
+     "range": {
+      "low": 51,
+      "high": 59,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -43476,7 +43818,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:18+08:00",
+   "fetched_at": "2026-11-18T19:43:59+08:00",
    "stale": false
   },
   {
@@ -45244,6 +45586,17 @@
      "apple": "jp/1558400919",
      "spotify": "006u4CXVO2cusq08RrMElQ",
      "bpm": 39,
+     "range": {
+      "low": 55,
+      "high": 62,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
      "tags": {
       "mood": [
        "relaxed",
@@ -45281,6 +45634,17 @@
      "apple": "jp/1611497484",
      "spotify": "2pJV7mv90UsOAMnB1FZc4d",
      "bpm": 100,
+     "range": {
+      "low": 49,
+      "high": 72,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "f"
+     },
      "info": {
       "lyricist": [
        "佐々木勉"
@@ -45353,6 +45717,19 @@
      "apple": "jp/1536366366",
      "spotify": "30WNOfFRiqgebO4eRkCii8",
      "bpm": 139,
+     "range": {
+      "low": 58,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock",
@@ -47849,7 +48226,7 @@
    ],
    "period_key": "2026-11-08_2026-11-14",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:52:19+08:00",
+   "fetched_at": "2026-11-18T19:44:00+08:00",
    "stale": false
   }
  ]

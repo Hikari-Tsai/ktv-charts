@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-18T15:55:21+08:00",
+ "checked_at": "2026-11-18T19:48:25+08:00",
  "errors": [],
  "charts": [
   {
@@ -20,7 +20,7 @@
    },
    "period": "2026/11/18",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 1007,
+   "videos": 1008,
    "rows": [
     {
      "rank": 1,
@@ -430,6 +430,128 @@
     },
     {
      "rank": 4,
+     "title": "食虫植物",
+     "artist": "理芽",
+     "covers": 15,
+     "cover_video": "8V0yhSf28qc",
+     "performers": [
+      [
+       "Neon 霓羊",
+       "8V0yhSf28qc"
+      ],
+      [
+       "Oumua 埃穆亞",
+       "IRi8ix8zafM"
+      ],
+      [
+       "Topa 多帕",
+       "trrLxXbRjeM"
+      ],
+      [
+       "貝芮納・尤格里斯",
+       "KASe_sb9bIk"
+      ],
+      [
+       "巫菈妮亞",
+       "4egdpsH16ME"
+      ],
+      [
+       "安潔妲莉幽爾",
+       "JZe6Otg6QTw"
+      ],
+      [
+       "舞鎌 冬 Maikama Tou",
+       "d8q-H4zpJSk"
+      ],
+      [
+       "柚餓幽窮ch. zike",
+       "iPH7FBp-huE"
+      ],
+      [
+       "FII",
+       "WHCCm31_kqo"
+      ],
+      [
+       "橙Yuzumi",
+       "j_xYhETXkXc"
+      ],
+      [
+       "原瀬空 Parase Sora",
+       "huJYF5H0R5s"
+      ],
+      [
+       "暖杏nuanxing",
+       "B6XeWNRaZa4"
+      ],
+      [
+       "白音アヤ Shirone Aya",
+       "lAxQ19mX4KU"
+      ],
+      [
+       "星見遙 Haruka",
+       "bBtPlrstNLs"
+      ],
+      [
+       "夏羽由里_ゆり Yuri",
+       "i-t6O7rF3Ug"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1688521740",
+     "spotify": "5EVgCwenpUcpX55BtYboRq",
+     "bpm": 123,
+     "range": {
+      "low": 61,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Indie Pop",
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "笹川真生"
+      ],
+      "composer": [
+       "笹川真生"
+      ],
+      "year": "2020",
+      "released": "2020-01-03",
+      "label": "KAMITSUBAKI RECORD",
+      "album": "NEW ROMANCER",
+      "copyright": "℗ KAMITSUBAKI RECORD",
+      "mb": "98c15189-fea6-4697-a579-be99b9e94588",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 4,
      "title": "I Really Want to Stay at Your House",
      "artist": "",
      "covers": 15,
@@ -687,125 +809,7 @@
      "is_new": null
     },
     {
-     "rank": 7,
-     "title": "食虫植物",
-     "artist": "理芽",
-     "covers": 14,
-     "cover_video": "IRi8ix8zafM",
-     "performers": [
-      [
-       "Oumua 埃穆亞",
-       "IRi8ix8zafM"
-      ],
-      [
-       "Topa 多帕",
-       "trrLxXbRjeM"
-      ],
-      [
-       "貝芮納・尤格里斯",
-       "KASe_sb9bIk"
-      ],
-      [
-       "巫菈妮亞",
-       "4egdpsH16ME"
-      ],
-      [
-       "安潔妲莉幽爾",
-       "JZe6Otg6QTw"
-      ],
-      [
-       "舞鎌 冬 Maikama Tou",
-       "d8q-H4zpJSk"
-      ],
-      [
-       "柚餓幽窮ch. zike",
-       "iPH7FBp-huE"
-      ],
-      [
-       "FII",
-       "WHCCm31_kqo"
-      ],
-      [
-       "橙Yuzumi",
-       "j_xYhETXkXc"
-      ],
-      [
-       "原瀬空 Parase Sora",
-       "huJYF5H0R5s"
-      ],
-      [
-       "暖杏nuanxing",
-       "B6XeWNRaZa4"
-      ],
-      [
-       "白音アヤ Shirone Aya",
-       "lAxQ19mX4KU"
-      ],
-      [
-       "星見遙 Haruka",
-       "bBtPlrstNLs"
-      ],
-      [
-       "夏羽由里_ゆり Yuri",
-       "i-t6O7rF3Ug"
-      ]
-     ],
-     "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1688521740",
-     "spotify": "5EVgCwenpUcpX55BtYboRq",
-     "bpm": 123,
-     "range": {
-      "low": 61,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Indie Pop",
-       "Dance-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "synthesizer"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "笹川真生"
-      ],
-      "composer": [
-       "笹川真生"
-      ],
-      "year": "2020",
-      "released": "2020-01-03",
-      "label": "KAMITSUBAKI RECORD",
-      "album": "NEW ROMANCER",
-      "copyright": "℗ KAMITSUBAKI RECORD",
-      "mb": "98c15189-fea6-4697-a579-be99b9e94588",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 7,
+     "rank": 8,
      "title": "アイドル",
      "artist": "YOASOBI",
      "covers": 14,
@@ -13016,7 +13020,7 @@
    ],
    "period_key": "2026-11-18",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:55:21+08:00",
+   "fetched_at": "2026-11-18T19:48:25+08:00",
    "stale": false
   },
   {
@@ -13028,7 +13032,7 @@
    },
    "period": "2026/08/21 ~ 2026/11/18",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 196,
+   "videos": 197,
    "rows": [
     {
      "rank": 1,
@@ -13059,6 +13063,80 @@
     },
     {
      "rank": 2,
+     "title": "食虫植物",
+     "artist": "理芽",
+     "covers": 3,
+     "cover_video": "8V0yhSf28qc",
+     "performers": [
+      [
+       "Neon 霓羊",
+       "8V0yhSf28qc"
+      ],
+      [
+       "Oumua 埃穆亞",
+       "IRi8ix8zafM"
+      ],
+      [
+       "Topa 多帕",
+       "trrLxXbRjeM"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": null,
+     "genre": "J-Pop",
+     "apple": "jp/1688521740",
+     "spotify": "5EVgCwenpUcpX55BtYboRq",
+     "bpm": 123,
+     "range": {
+      "low": 61,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Indie Pop",
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "笹川真生"
+      ],
+      "composer": [
+       "笹川真生"
+      ],
+      "year": "2020",
+      "released": "2020-01-03",
+      "label": "KAMITSUBAKI RECORD",
+      "album": "NEW ROMANCER",
+      "copyright": "℗ KAMITSUBAKI RECORD",
+      "mb": "98c15189-fea6-4697-a579-be99b9e94588",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 3,
      "title": "ただ声一つ",
      "artist": "ロクデナシ",
      "covers": 2,
@@ -13130,7 +13208,7 @@
      }
     },
     {
-     "rank": 2,
+     "rank": 3,
      "title": "モニタリング",
      "artist": "DECO*27",
      "covers": 2,
@@ -13204,7 +13282,7 @@
      }
     },
     {
-     "rank": 2,
+     "rank": 3,
      "title": "Magnetic",
      "artist": "ILLIT",
      "covers": 2,
@@ -13270,77 +13348,7 @@
      }
     },
     {
-     "rank": 2,
-     "title": "食虫植物",
-     "artist": "理芽",
-     "covers": 2,
-     "cover_video": "IRi8ix8zafM",
-     "performers": [
-      [
-       "Oumua 埃穆亞",
-       "IRi8ix8zafM"
-      ],
-      [
-       "Topa 多帕",
-       "trrLxXbRjeM"
-      ]
-     ],
-     "last_rank": null,
-     "is_new": null,
-     "genre": "J-Pop",
-     "apple": "jp/1688521740",
-     "spotify": "5EVgCwenpUcpX55BtYboRq",
-     "bpm": 123,
-     "range": {
-      "low": 61,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Indie Pop",
-       "Dance-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "synthesizer"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "笹川真生"
-      ],
-      "composer": [
-       "笹川真生"
-      ],
-      "year": "2020",
-      "released": "2020-01-03",
-      "label": "KAMITSUBAKI RECORD",
-      "album": "NEW ROMANCER",
-      "copyright": "℗ KAMITSUBAKI RECORD",
-      "mb": "98c15189-fea6-4697-a579-be99b9e94588",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 2,
+     "rank": 3,
      "title": "唱",
      "artist": "Ado",
      "covers": 2,
@@ -13407,7 +13415,7 @@
      }
     },
     {
-     "rank": 2,
+     "rank": 3,
      "title": "キャットラビング",
      "artist": "香椎モイミ",
      "covers": 2,
@@ -13471,7 +13479,7 @@
      }
     },
     {
-     "rank": 2,
+     "rank": 3,
      "title": "月が綺麗ねと言われたい!",
      "artist": "",
      "covers": 2,
@@ -13490,7 +13498,7 @@
      "is_new": null
     },
     {
-     "rank": 2,
+     "rank": 3,
      "title": "螺旋",
      "artist": "9Lana",
      "covers": 2,
@@ -13570,7 +13578,7 @@
      }
     },
     {
-     "rank": 2,
+     "rank": 3,
      "title": "点描の唄",
      "artist": "Mrs. GREEN APPLE",
      "covers": 2,
@@ -13640,7 +13648,7 @@
      }
     },
     {
-     "rank": 2,
+     "rank": 3,
      "title": "刺到整身軀",
      "artist": "",
      "covers": 2,
@@ -21087,7 +21095,7 @@
    ],
    "period_key": "2026-08-21_2026-11-18",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T15:55:21+08:00",
+   "fetched_at": "2026-11-18T19:48:25+08:00",
    "stale": false
   }
  ]
