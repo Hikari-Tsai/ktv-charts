@@ -8,7 +8,7 @@
  "region": "jp",
  "kind": "ktv",
  "site_url": "https://www.joysound.com/",
- "checked_at": "2026-11-18T04:04:06+08:00",
+ "checked_at": "2026-11-18T09:53:59+08:00",
  "errors": [],
  "charts": [
   {
@@ -5086,7 +5086,7 @@
    ],
    "period_key": "2026-11-16",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T04:03:55+08:00",
+   "fetched_at": "2026-11-18T09:53:48+08:00",
    "stale": false
   },
   {
@@ -10153,7 +10153,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T04:03:57+08:00",
+   "fetched_at": "2026-11-18T09:53:50+08:00",
    "stale": false
   },
   {
@@ -15182,7 +15182,7 @@
    ],
    "period_key": "2026-10",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T04:03:59+08:00",
+   "fetched_at": "2026-11-18T09:53:51+08:00",
    "stale": false
   },
   {
@@ -16678,6 +16678,7 @@
      "song_url": "https://www.joysound.com/web/search/song/615369",
      "last_rank": 27,
      "is_new": false,
+     "kkbox": "GrY0SOfik9ZkxqA_Tm",
      "genre": "J-Pop",
      "apple": "jp/1537458310",
      "spotify": "364JzOajs76bJymjHm3sVY",
@@ -17157,6 +17158,19 @@
      "apple": "jp/1721450223",
      "spotify": "5eY7692tmgHB9dbmq6wa2M",
      "bpm": 204,
+     "range": {
+      "low": 59,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -19982,7 +19996,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T04:04:01+08:00",
+   "fetched_at": "2026-11-18T09:53:53+08:00",
    "stale": false
   },
   {
@@ -23466,6 +23480,21 @@
      "apple": "jp/1589119763",
      "spotify": "2Vqbs0uzYFRVcgsbFzlJ7T",
      "bpm": 260,
+     "range": {
+      "low": 64,
+      "high": 76,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -24236,7 +24265,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T04:04:02+08:00",
+   "fetched_at": "2026-11-18T09:53:55+08:00",
    "stale": false
   },
   {
@@ -28396,7 +28425,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T04:04:04+08:00",
+   "fetched_at": "2026-11-18T09:53:57+08:00",
    "stale": false
   },
   {
@@ -33142,7 +33171,7 @@
    ],
    "period_key": "2026-11-09_2026-11-15",
    "rank_change": "history",
-   "fetched_at": "2026-11-18T04:04:06+08:00",
+   "fetched_at": "2026-11-18T09:53:59+08:00",
    "stale": false
   }
  ]

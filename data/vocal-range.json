@@ -1127,6 +1127,20 @@
   "v": 1,
   "voiced": 27.2
  },
+ "error|niki": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 69,
+  "high_name": "A4",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 47,
+  "status": "ok",
+  "track": "tw/976473632",
+  "v": 1,
+  "voiced": 17.5
+ },
  "everyheart|寶兒": {
   "checked": "2026-11-16",
   "dropped": 2,
@@ -1778,6 +1792,20 @@
   "track": "jp/1768962316",
   "v": 1,
   "voiced": 21.1
+ },
+ "janedoe|米津玄師hikaruutada": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 74,
+  "high_name": "D5",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 67,
+  "status": "ok",
+  "track": "tw/1840081736",
+  "v": 1,
+  "voiced": 23.5
  },
  "janedoe|米津玄師宇多田ヒカル": {
   "checked": "2026-11-08",
@@ -2940,6 +2968,20 @@
   "track": "tw/6804002999",
   "v": 1,
   "voiced": 26.9
+ },
+ "tbh|qwer": {
+  "checked": "2026-11-18",
+  "dropped": 4,
+  "high": 76,
+  "high_name": "E5",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 72,
+  "status": "ok",
+  "track": "tw/1737366585",
+  "v": 1,
+  "voiced": 21.0
  },
  "testme|thexx": {
   "checked": "2026-11-18",
@@ -4353,6 +4395,20 @@
   "v": 1,
   "voiced": 25.5
  },
+ "ダーリン|須田景凪": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 63,
+  "high_name": "D#4",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 45,
+  "status": "ok",
+  "track": "jp/1663457138",
+  "v": 1,
+  "voiced": 11.4
+ },
  "チェリー|スピッツ": {
   "checked": "2026-11-09",
   "dropped": 3,
@@ -5613,6 +5669,20 @@
   "v": 1,
   "voiced": 26.3
  },
+ "你是不是有點動心|吳卓源": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 67,
+  "high_name": "G4",
+  "low": 58,
+  "low_name": "A#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 18,
+  "status": "ok",
+  "track": "tw/1800791057",
+  "v": 1,
+  "voiced": 5.5
+ },
  "你的香水味|周星杰": {
   "checked": "2026-11-08",
   "dropped": 1,
@@ -5697,6 +5767,20 @@
   "v": 1,
   "voiced": 24.7
  },
+ "偏食|香椎モイミ": {
+  "checked": "2026-11-18",
+  "dropped": 3,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 58,
+  "low_name": "A#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 52,
+  "status": "ok",
+  "track": "jp/1525996943",
+  "v": 1,
+  "voiced": 23.1
+ },
  "做你的格|玖壹壹": {
   "checked": "2026-11-11",
   "dropped": 1,
@@ -5752,6 +5836,20 @@
   "track": "tw/1842315470",
   "v": 1,
   "voiced": 27.2
+ },
+ "僕が死のうと思ったのは|中島美嘉": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 65,
+  "high_name": "F4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 72,
+  "status": "ok",
+  "track": "jp/1535552050",
+  "v": 1,
+  "voiced": 21.3
  },
  "優しい彗星|yoasobi": {
   "checked": "2026-11-17",
@@ -6027,6 +6125,20 @@
   "v": 1,
   "voiced": 22.8
  },
+ "句號|鄧紫棋": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 84,
+  "status": "ok",
+  "track": "tw/1487768988",
+  "v": 1,
+  "voiced": 23.1
+ },
  "只剩後悔在等待|trash": {
   "checked": "2026-11-09",
   "dropped": 3,
@@ -6096,6 +6208,20 @@
   "track": "tw/1842555935",
   "v": 1,
   "voiced": 20.3
+ },
+ "向日葵|ado": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 73,
+  "high_name": "C#5",
+  "low": 64,
+  "low_name": "E4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 75,
+  "status": "ok",
+  "track": "jp/1694654875",
+  "v": 1,
+  "voiced": 24.5
  },
  "君の知らない物語|supercell": {
   "checked": "2026-11-17",
@@ -6180,6 +6306,20 @@
   "track": "tw/6800675789",
   "v": 1,
   "voiced": 25.9
+ },
+ "唯一|告五人": {
+  "checked": "2026-11-18",
+  "dropped": 3,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 58,
+  "low_name": "A#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 37,
+  "status": "ok",
+  "track": "tw/1544722556",
+  "v": 1,
+  "voiced": 18.9
  },
  "唱|ado": {
   "checked": "2026-11-18",
@@ -6293,6 +6433,20 @@
   "v": 1,
   "voiced": 24.7
  },
+ "夏霞|あたらよ": {
+  "checked": "2026-11-18",
+  "dropped": 6,
+  "high": 71,
+  "high_name": "B4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 79,
+  "status": "ok",
+  "track": "jp/1578238903",
+  "v": 1,
+  "voiced": 26.2
+ },
  "夜に駆ける|yoasobi": {
   "checked": "2026-11-08",
   "dropped": 1,
@@ -6306,6 +6460,20 @@
   "track": "tw/1490256995",
   "v": 1,
   "voiced": 10.5
+ },
+ "夜の女王の狼たち|未来古代楽団": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 74,
+  "high_name": "D5",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 88,
+  "status": "ok",
+  "track": "jp/6810389192",
+  "v": 1,
+  "voiced": 25.5
  },
  "夜明けと蛍|nbunafeat初音ミク": {
   "checked": "2026-11-15",
@@ -6391,6 +6559,20 @@
   "v": 1,
   "voiced": 26.4
  },
+ "夢醒時分|陳淑樺": {
+  "checked": "2026-11-18",
+  "dropped": 0,
+  "high": 72,
+  "high_name": "C5",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 86,
+  "status": "ok",
+  "track": "tw/1046470325",
+  "v": 1,
+  "voiced": 27.4
+ },
  "大梦归|周深": {
   "checked": "2026-11-08",
   "dropped": 3,
@@ -6468,6 +6650,20 @@
   "track": "jp/1862900054",
   "v": 1,
   "voiced": 22.9
+ },
+ "天行九歌|霍尊": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 65,
+  "high_name": "F4",
+  "low": 47,
+  "low_name": "B2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 60,
+  "status": "ok",
+  "track": "tw/6763186864",
+  "v": 1,
+  "voiced": 25.1
  },
  "太陽與地球|盧廣仲": {
   "checked": "2026-11-08",
@@ -6552,6 +6748,20 @@
   "track": "jp/1846753946",
   "v": 1,
   "voiced": 27.1
+ },
+ "好きだから|ユイカ": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 72,
+  "high_name": "C5",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 92,
+  "status": "ok",
+  "track": "jp/1572149732",
+  "v": 1,
+  "voiced": 26.5
  },
  "好きになった人|都はるみ": {
   "checked": "2026-11-15",
@@ -6679,6 +6889,20 @@
   "v": 1,
   "voiced": 21.6
  },
+ "安靜|周杰倫": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 65,
+  "high_name": "F4",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 61,
+  "status": "ok",
+  "track": "tw/535739359",
+  "v": 1,
+  "voiced": 25.8
+ },
  "宗右衛門町ブルース|平和勝次とダークホース": {
   "checked": "2026-11-16",
   "dropped": 4,
@@ -6720,6 +6944,20 @@
   "track": "tw/6821889857",
   "v": 1,
   "voiced": 26.0
+ },
+ "寄り酔い|和ぬか": {
+  "checked": "2026-11-18",
+  "dropped": 7,
+  "high": 66,
+  "high_name": "F#4",
+  "low": 54,
+  "low_name": "F#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 71,
+  "status": "ok",
+  "track": "jp/1625053470",
+  "v": 1,
+  "voiced": 15.1
  },
  "富士山下|陳奕迅": {
   "checked": "2026-11-08",
@@ -6819,6 +7057,34 @@
   "v": 1,
   "voiced": 25.7
  },
+ "小喋日和|fantasticyouth": {
+  "checked": "2026-11-18",
+  "dropped": 6,
+  "high": 77,
+  "high_name": "F5",
+  "low": 61,
+  "low_name": "C#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 120,
+  "status": "ok",
+  "track": "jp/1618155350",
+  "v": 1,
+  "voiced": 25.2
+ },
+ "小夜子|みきとp": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 67,
+  "status": "ok",
+  "track": "tw/980989352",
+  "v": 1,
+  "voiced": 22.0
+ },
  "小樽のひとよ|鶴岡雅義と東京ロマンチカ": {
   "checked": "2026-11-15",
   "dropped": 3,
@@ -6832,6 +7098,20 @@
   "track": "jp/1449233628",
   "v": 1,
   "voiced": 19.9
+ },
+ "少女a|椎名もた": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 76,
+  "high_name": "E5",
+  "low": 64,
+  "low_name": "E4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 71,
+  "status": "ok",
+  "track": "jp/1589119763",
+  "v": 1,
+  "voiced": 24.6
  },
  "少女レイ|みきとp": {
   "checked": "2026-11-08",
@@ -6972,6 +7252,48 @@
   "track": "tw/1798441739",
   "v": 1,
   "voiced": 26.1
+ },
+ "心予報|eve": {
+  "checked": "2026-11-18",
+  "dropped": 13,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 62,
+  "status": "ok",
+  "track": "jp/1495748563",
+  "v": 1,
+  "voiced": 16.9
+ },
+ "心拍数0822|chouchoup": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 64,
+  "high_name": "E4",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 57,
+  "status": "ok",
+  "track": "tw/1081693379",
+  "v": 1,
+  "voiced": 17.2
+ },
+ "心月辭何所往|鳴潮先約電台蘇詩丁": {
+  "checked": "2026-11-18",
+  "dropped": 0,
+  "high": 73,
+  "high_name": "C#5",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 63,
+  "status": "ok",
+  "track": "tw/6812959105",
+  "v": 1,
+  "voiced": 23.5
  },
  "心狠手辣|江蕙": {
   "checked": "2026-11-16",
@@ -7275,6 +7597,20 @@
   "v": 1,
   "voiced": 25.0
  },
+ "愛你|王心凌": {
+  "checked": "2026-11-18",
+  "dropped": 3,
+  "high": 72,
+  "high_name": "C5",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 57,
+  "status": "ok",
+  "track": "tw/1708557590",
+  "v": 1,
+  "voiced": 23.3
+ },
  "愛到才知痛|黃乙玲": {
   "checked": "2026-11-14",
   "dropped": 3,
@@ -7485,6 +7821,14 @@
   "v": 1,
   "voiced": 26.3
  },
+ "愛貓|butterflyzheng": {
+  "checked": "2026-11-18",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "reason": "few_notes",
+  "status": "none",
+  "track": "tw/1572243640",
+  "v": 1
+ },
  "愛錯|王力宏": {
   "checked": "2026-11-12",
   "dropped": 2,
@@ -7583,6 +7927,14 @@
   "v": 1,
   "voiced": 21.2
  },
+ "我們一樣可惜|好樂團瑪啡因": {
+  "checked": "2026-11-18",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "reason": "few_notes",
+  "status": "none",
+  "track": "tw/1824114252",
+  "v": 1
+ },
  "我們終究成了陌生人|陳曼曼": {
   "checked": "2026-11-13",
   "dropped": 0,
@@ -7610,6 +7962,20 @@
   "track": "tw/6820033864",
   "v": 1,
   "voiced": 25.7
+ },
+ "我又不是女超人|孫盛希": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 69,
+  "high_name": "A4",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 68,
+  "status": "ok",
+  "track": "tw/1440113121",
+  "v": 1,
+  "voiced": 22.2
  },
  "我喜歡你|芒果醬mangojump": {
   "checked": "2026-11-08",
@@ -7863,6 +8229,20 @@
   "v": 1,
   "voiced": 21.4
  },
+ "掰掰|持修": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 67,
+  "status": "ok",
+  "track": "tw/1784887066",
+  "v": 1,
+  "voiced": 21.1
+ },
  "摯友|alin": {
   "checked": "2026-11-11",
   "dropped": 1,
@@ -7919,6 +8299,20 @@
   "v": 1,
   "voiced": 27.0
  },
+ "旅人へ|まつり": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 72,
+  "high_name": "C5",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 77,
+  "status": "ok",
+  "track": "jp/1723506574",
+  "v": 1,
+  "voiced": 25.4
+ },
  "明日があるさ|坂本九": {
   "checked": "2026-11-16",
   "dropped": 1,
@@ -7961,6 +8355,20 @@
   "v": 1,
   "voiced": 22.2
  },
+ "星の消えた夜に|aimer": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 72,
+  "high_name": "C5",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 59,
+  "status": "ok",
+  "track": "jp/1536126606",
+  "v": 1,
+  "voiced": 24.6
+ },
  "星影のワルツ|千昌夫": {
   "checked": "2026-11-14",
   "dropped": 2,
@@ -7988,6 +8396,20 @@
   "track": "tw/1837489583",
   "v": 1,
   "voiced": 15.6
+ },
+ "星降る海|aqu3ra超かぐや姫月見ヤチヨ": {
+  "checked": "2026-11-18",
+  "dropped": 0,
+  "high": 77,
+  "high_name": "F5",
+  "low": 64,
+  "low_name": "E4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 71,
+  "status": "ok",
+  "track": "jp/1869843665",
+  "v": 1,
+  "voiced": 24.0
  },
  "昴|谷村新司": {
   "checked": "2026-11-17",
@@ -8031,6 +8453,20 @@
   "v": 1,
   "voiced": 22.0
  },
+ "晴る|ヨルシカ": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 71,
+  "high_name": "B4",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 62,
+  "status": "ok",
+  "track": "jp/1721450223",
+  "v": 1,
+  "voiced": 19.5
+ },
  "晴天|周杰倫": {
   "checked": "2026-11-14",
   "dropped": 3,
@@ -8072,6 +8508,20 @@
   "track": "tw/1443352514",
   "v": 1,
   "voiced": 9.8
+ },
+ "最上級にかわいいの|超ときめき宣伝部": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 53,
+  "status": "ok",
+  "track": "jp/1722220691",
+  "v": 1,
+  "voiced": 16.8
  },
  "最後の雨|中西保志": {
   "checked": "2026-11-14",
@@ -8249,6 +8699,20 @@
   "v": 1,
   "voiced": 22.5
  },
+ "来世で会おう|さユり": {
+  "checked": "2026-11-18",
+  "dropped": 5,
+  "high": 75,
+  "high_name": "D#5",
+  "low": 62,
+  "low_name": "D4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 87,
+  "status": "ok",
+  "track": "jp/1536017194",
+  "v": 1,
+  "voiced": 27.5
+ },
  "東京だョおっ母さん|島倉千代子": {
   "checked": "2026-11-15",
   "dropped": 0,
@@ -8361,6 +8825,20 @@
   "v": 1,
   "voiced": 25.9
  },
+ "残酷な夜に輝け|lisa": {
+  "checked": "2026-11-18",
+  "dropped": 0,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 69,
+  "status": "ok",
+  "track": "jp/1827140040",
+  "v": 1,
+  "voiced": 26.4
+ },
  "残酷な天使のテーゼ|高橋洋子": {
   "checked": "2026-11-08",
   "dropped": 2,
@@ -8388,6 +8866,20 @@
   "track": "tw/1444116580",
   "v": 1,
   "voiced": 27.3
+ },
+ "比翼の羽根|eufonius": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 78,
+  "high_name": "F#5",
+  "low": 64,
+  "low_name": "E4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 66,
+  "status": "ok",
+  "track": "jp/398118228",
+  "v": 1,
+  "voiced": 25.8
  },
  "毫無代價唱我自己的歌|韋禮安": {
   "checked": "2026-11-11",
@@ -8551,6 +9043,20 @@
   "v": 1,
   "voiced": 26.9
  },
+ "海鳴り|katawara": {
+  "checked": "2026-11-18",
+  "dropped": 3,
+  "high": 54,
+  "high_name": "F#3",
+  "low": 49,
+  "low_name": "C#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 35,
+  "status": "ok",
+  "track": "tw/6803469575",
+  "v": 1,
+  "voiced": 8.7
+ },
  "淚橋|伍佰": {
   "checked": "2026-11-08",
   "dropped": 2,
@@ -8593,6 +9099,20 @@
   "v": 1,
   "voiced": 22.9
  },
+ "深昏睡|春野": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 56,
+  "status": "ok",
+  "track": "tw/1335309746",
+  "v": 1,
+  "voiced": 20.4
+ },
  "満ちてゆく|藤井風": {
   "checked": "2026-11-08",
   "dropped": 2,
@@ -8606,6 +9126,34 @@
   "track": "jp/1733130377",
   "v": 1,
   "voiced": 27.9
+ },
+ "漫夜|澪rei": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 75,
+  "high_name": "D#5",
+  "low": 58,
+  "low_name": "A#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 83,
+  "status": "ok",
+  "track": "tw/1719594575",
+  "v": 1,
+  "voiced": 25.0
+ },
+ "激昂サバイブcompleteedition|フランシュシュ": {
+  "checked": "2026-11-18",
+  "dropped": 2,
+  "high": 75,
+  "high_name": "D#5",
+  "low": 63,
+  "low_name": "D#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 80,
+  "status": "ok",
+  "track": "jp/1644821936",
+  "v": 1,
+  "voiced": 29.3
  },
  "火花|lawa": {
   "checked": "2026-11-16",
@@ -8831,6 +9379,20 @@
   "v": 1,
   "voiced": 18.4
  },
+ "猫日|suisfromヨルシカ": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 74,
+  "high_name": "D5",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 69,
+  "status": "ok",
+  "track": "jp/6784576679",
+  "v": 1,
+  "voiced": 26.7
+ },
  "玉蝴蝶|謝霆鋒": {
   "checked": "2026-11-13",
   "dropped": 2,
@@ -8998,6 +9560,20 @@
   "track": "tw/1466039271",
   "v": 1,
   "voiced": 22.6
+ },
+ "直到我遇見了你|李友廷": {
+  "checked": "2026-11-18",
+  "dropped": 1,
+  "high": 71,
+  "high_name": "B4",
+  "low": 48,
+  "low_name": "C3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 76,
+  "status": "ok",
+  "track": "tw/1454484572",
+  "v": 1,
+  "voiced": 24.9
  },
  "相依為命|陳小春": {
   "checked": "2026-11-08",
@@ -9582,18 +10158,18 @@
   "voiced": 22.4
  },
  "螺旋|9lana": {
-  "checked": "2026-11-14",
-  "dropped": 4,
+  "checked": "2026-11-18",
+  "dropped": 5,
   "high": 76,
   "high_name": "E5",
-  "low": 64,
-  "low_name": "E4",
+  "low": 57,
+  "low_name": "A3",
   "model": "game-small-1.0.3+kim-vocal-2",
-  "notes": 88,
+  "notes": 99,
   "status": "ok",
-  "track": "tw/6796579286",
+  "track": "tw/6789014110",
   "v": 1,
-  "voiced": 26.1
+  "voiced": 26.9
  },
  "街のサンドイッチマン|鶴田浩二": {
   "checked": "2026-11-15",

@@ -2403,6 +2403,10 @@
   "name": "FG ROADSTER",
   "status": "ok"
  },
+ "fiction模樣|": {
+  "checked": "2026-11-18",
+  "status": "none"
+ },
  "fightingmyway|ryanfonda": {
   "artist": "Ryan Fonda",
   "cc": "tw",
@@ -2410,6 +2414,15 @@
   "genre": "Singer/Songwriter",
   "id": 1562587725,
   "name": "Fighting My Way",
+  "status": "ok"
+ },
+ "filament|圭賢": {
+  "artist": "圭賢",
+  "cc": "tw",
+  "checked": "2026-11-18",
+  "genre": "K-Pop",
+  "id": 6831071729,
+  "name": "FILAMENT",
   "status": "ok"
  },
  "firestarter|kdaleagueoflegendsidlemimiwebb": {
@@ -4087,6 +4100,15 @@
   "genre": "Pop",
   "id": 6793277028,
   "name": "Less than a Lover",
+  "status": "ok"
+ },
+ "letgo|bts防彈少年團": {
+  "artist": "防彈少年團",
+  "cc": "tw",
+  "checked": "2026-11-18",
+  "genre": "Hip-Hop/Rap",
+  "id": 1361624322,
+  "name": "Let Go",
   "status": "ok"
  },
  "letitbe|thebeatles": {
@@ -6132,6 +6154,15 @@
   "genre": "K-Pop",
   "id": 1847636416,
   "name": "Soda Pop",
+  "status": "ok"
+ },
+ "someonetohold|jennie": {
+  "artist": "JENNIE",
+  "cc": "tw",
+  "checked": "2026-11-18",
+  "genre": "K-Pop",
+  "id": 6831709124,
+  "name": "Someone to Hold (from the Netflix Film \"Steps\")",
   "status": "ok"
  },
  "someoneyouloved|lewiscapaldi": {
@@ -8593,6 +8624,15 @@
   "genre": "J-Pop",
   "id": 1538151144,
   "name": "さよならエレジー",
+  "status": "ok"
+ },
+ "さよーならまたいつかsayonara|米津玄師": {
+  "artist": "米津玄師",
+  "cc": "tw",
+  "checked": "2026-11-18",
+  "genre": "J-Pop",
+  "id": 1737134872,
+  "name": "さよーならまたいつか!- Sayonara",
   "status": "ok"
  },
  "しわあわせ|vaundy": {
@@ -12755,6 +12795,7 @@
   "genre": "Anime",
   "id": 1869852468,
   "name": "ワールドイズマイン (CPK! Remix)",
+  "rechecked": "2026-11-18",
   "status": "ok"
  },
  "ワールドイズマイン|supercell": {
@@ -18354,6 +18395,15 @@
   "name": "愛錯",
   "status": "ok"
  },
+ "感電|米津玄師": {
+  "artist": "米津玄師",
+  "cc": "tw",
+  "checked": "2026-11-18",
+  "genre": "J-Pop",
+  "id": 1538265736,
+  "name": "感電",
+  "status": "ok"
+ },
  "慢一點也沒關係|蔡恩雨priscillaabby": {
   "artist": "蔡恩雨 Priscilla Abby",
   "cc": "tw",
@@ -19608,6 +19658,15 @@
   "name": "時空超えてユニバース",
   "status": "ok"
  },
+ "晚安台灣|滅火器": {
+  "artist": "滅火器",
+  "cc": "tw",
+  "checked": "2026-11-18",
+  "genre": "Alternative",
+  "id": 375431240,
+  "name": "晚安台灣",
+  "status": "ok"
+ },
  "晚餐歌|tuki": {
   "checked": "2026-11-18",
   "status": "none"
@@ -19761,6 +19820,15 @@
   "genre": "Mandopop",
   "id": 6829710657,
   "name": "最好的朋友",
+  "status": "ok"
+ },
+ "最後の優しさ|jayed": {
+  "artist": "JAY'ED",
+  "cc": "jp",
+  "checked": "2026-11-18",
+  "genre": "R&B/Soul",
+  "id": 303414186,
+  "name": "最後の優しさ",
   "status": "ok"
  },
  "最後の雨|中西保志": {
@@ -23117,10 +23185,10 @@
  "螺旋|9lana": {
   "artist": "9Lana",
   "cc": "tw",
-  "checked": "2026-11-04",
+  "checked": "2026-11-18",
   "genre": "J-Pop",
-  "id": 6796579286,
-  "name": "螺旋 - RASEN - Acoustic Ver. -",
+  "id": 6789014110,
+  "name": "螺旋 - RASEN",
   "status": "ok"
  },
  "螺旋|acousticver": {
