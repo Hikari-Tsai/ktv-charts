@@ -90,6 +90,9 @@ def _is_performer(seg: str, names: list[str]) -> bool:
     n = match.norm(seg)
     if not n:
         return True
+    # "艾琳妮雅·裴利" by 艾琳妮雅 Ch.: a full name whose given name is the channel's
+    if len(re.split(r"[·・･]", seg)) > 1 and any(match.norm(p) in names for p in re.split(r"[·・･]", seg)):
+        return True
     for name in names:
         if n == name or (len(n) >= 2 and n in name) or (len(name) >= 3 and name in n and len(name) * 10 >= len(n) * 7):
             return True
@@ -118,7 +121,8 @@ def segments(title: str, channel: str | None = None, keep_tags: bool = False) ->
             return " / "
         if inner:  # 【天ノ弱 Piano Ver.】: what is left after the noise words, as a last resort
             rest = _NOISE.sub(" ", _COVERED_BY.sub("", inner))
-            rest = re.sub(r"\b(?:piano|guitar|acoustic|electro|swing|with|and)\b", " ", rest, flags=re.I)
+            rest = re.sub(r"\b(?:piano|guitar|acoustic|electro|swing|with|and|japanese|english|chinese|(?:19|20)\d\d)\b",
+                          " ", rest, flags=re.I)
             if len(match.norm(rest)) >= 2:
                 weak.append(rest)
         return " / "

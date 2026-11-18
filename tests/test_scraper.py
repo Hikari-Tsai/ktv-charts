@@ -589,6 +589,15 @@ class CoverTitleTest(unittest.TestCase):
             ("【天ノ弱 Piano Ver. 】爪爪貓 cover.【歌ってみた】", "爪爪貓", ["天ノ弱"]),
             ("【活動四周年紀念翻唱】生きる / Covered by 蕾雅  【歌ってみた】", "蕾雅", ["生きる"]),
             ("『LEO』- Eve / cover ｜ 中文字幕", "x", ["Eve", "LEO"]),
+            # The full name "艾琳妮雅·裴利" is the uploader 艾琳妮雅, so the noisy bracket is the song
+            ("【KING Electro Swing Remix Cover with @SHIUCODA 】🦇🌕艾琳妮雅·裴利 Arrynia Vaeri",
+             "艾琳妮雅 Arrynia Vaeri Ch.", ["KING"]),
+            ("【Charlie Puth - Light Switch Japanese Cover】🦇🌕艾琳妮雅·裴利 Arrynia Vaeri",
+             "艾琳妮雅 Arrynia Vaeri Ch.", ["Charlie Puth", "Light Switch"]),
+            ("【失礼しますが、RIP♡ COVER REMIX 2026】🦇🌕艾琳妮雅·裴利 Arrynia Vaeri",
+             "艾琳妮雅 Arrynia Vaeri Ch.", ["失礼しますが、RIP"]),
+            ("トンデモワンダーズ / 浠Mizuki・響Hibiki・橙Yuzumi・祈Iruni・朧Oboro【歌ってみたCover】",
+             "浠Mizuki Channel", ["トンデモワンダーズ"]),
         ]
         for title, channel, want in cases:
             with self.subTest(title=title):
