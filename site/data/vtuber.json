@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-19T19:44:11+08:00",
+ "checked_at": "2026-11-20T19:44:12+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,7 +18,7 @@
     "en": "Most Covered · All Time",
     "ja": "累計カバー数"
    },
-   "period": "2026/11/19",
+   "period": "2026/11/20",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
    "videos": 1008,
    "rows": [
@@ -4187,6 +4187,21 @@
      "apple": "jp/1723002649",
      "spotify": "096KHkONhQm4MQNH35mU22",
      "bpm": 130,
+     "range": {
+      "low": 44,
+      "high": 56,
+      "m": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 0,
+       "oct": 12
+      },
+      "fit": "m"
+     },
      "tags": {
       "genre": [
        "Electro",
@@ -10337,6 +10352,21 @@
      "apple": "tw/1860538548",
      "spotify": "65X2koe1LhDgQmRkNdJFv9",
      "bpm": 182,
+     "range": {
+      "low": 52,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock"
@@ -13076,9 +13106,9 @@
      }
     }
    ],
-   "period_key": "2026-11-19",
+   "period_key": "2026-11-20",
    "rank_change": "history",
-   "fetched_at": "2026-11-19T19:44:11+08:00",
+   "fetched_at": "2026-11-20T19:44:12+08:00",
    "stale": false
   },
   {
@@ -13088,9 +13118,9 @@
     "en": "Most Covered · Last 90 Days",
     "ja": "直近 90 日のカバー数"
    },
-   "period": "2026/08/22 ~ 2026/11/19",
+   "period": "2026/08/23 ~ 2026/11/20",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 196,
+   "videos": 194,
    "rows": [
     {
      "rank": 1,
@@ -20967,133 +20997,11 @@
        "apple"
       ]
      }
-    },
-    {
-     "rank": 12,
-     "title": "Suiheisen",
-     "artist": "back number",
-     "covers": 1,
-     "cover_video": "K6SUI_K6iMk",
-     "performers": [
-      [
-       "絆 Kizuna",
-       "K6SUI_K6iMk"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "tw/1579439168",
-     "bpm": 73,
-     "range": {
-      "low": 58,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Alternative Rock",
-       "Brit Pop"
-      ],
-      "mood": [
-       "love"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2021",
-      "released": "2021-08-13",
-      "label": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
-      "album": "Suiheisen - Single",
-      "copyright": "A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 12,
-     "title": "猫日",
-     "artist": "suis from ヨルシカ",
-     "covers": 1,
-     "cover_video": "n-gCQzxZJe8",
-     "performers": [
-      [
-       "雨恩-あめ",
-       "n-gCQzxZJe8"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/6784576679",
-     "spotify": "0xqOOO6CG11e3Wu20cElk7",
-     "bpm": 101,
-     "range": {
-      "low": 57,
-      "high": 74,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -2,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "acousticguitar"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "suis"
-      ],
-      "composer": [
-       "キタニタツヤ"
-      ],
-      "arranger": [
-       "キタニタツヤ"
-      ],
-      "year": "2026",
-      "released": "2026-07-17",
-      "label": "A Polydor Records release; ℗ 2026 UNIVERSAL MUSIC LLC",
-      "album": "猫日 - Single",
-      "isrc": "JPPO02602724",
-      "copyright": "A Polydor Records release; ℗ 2026 UNIVERSAL MUSIC LLC",
-      "mb": "1f72793d-e2f7-4d07-bfdb-895321f123d2",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
     }
    ],
-   "period_key": "2026-08-22_2026-11-19",
+   "period_key": "2026-08-23_2026-11-20",
    "rank_change": "history",
-   "fetched_at": "2026-11-19T19:44:11+08:00",
+   "fetched_at": "2026-11-20T19:44:12+08:00",
    "stale": false
   }
  ]
