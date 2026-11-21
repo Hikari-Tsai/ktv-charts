@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-20T19:44:12+08:00",
+ "checked_at": "2026-11-21T19:05:54+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,9 +18,9 @@
     "en": "Most Covered · All Time",
     "ja": "累計カバー数"
    },
-   "period": "2026/11/20",
+   "period": "2026/11/21",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 1008,
+   "videos": 1009,
    "rows": [
     {
      "rank": 1,
@@ -430,6 +430,126 @@
     },
     {
      "rank": 4,
+     "title": "可愛くてごめん",
+     "artist": "HoneyWorks",
+     "covers": 16,
+     "cover_video": "l6hnMhl7h-8",
+     "performers": [
+      [
+       "Topa 多帕",
+       "l6hnMhl7h-8"
+      ],
+      [
+       "Nemesis 涅默",
+       "luwUW2kFIfU"
+      ],
+      [
+       "米菈",
+       "l6IE0UpHGVE"
+      ],
+      [
+       "南珂Nank",
+       "bTS519xStSU"
+      ],
+      [
+       "Airi 熊実愛莉",
+       "lOH3L4irPIA"
+      ],
+      [
+       "莓果花夕 berihanayu",
+       "GAt9iP0kQqQ"
+      ],
+      [
+       "花川夢姬 Hanakawa Yumehime",
+       "oyKQ0zdR-ng"
+      ],
+      [
+       "木野子楓太",
+       "lm08fq7Hyks"
+      ],
+      [
+       "米亞 Mya",
+       "gd7bnmNMFBI"
+      ],
+      [
+       "暖杏nuanxing",
+       "8uiiCYWeUSE"
+      ],
+      [
+       "夏羽由里_ゆり Yuri",
+       "LsB79ui8zGg"
+      ],
+      [
+       "Mika 鬼塚魅華",
+       "hpmMyD3j5MQ"
+      ],
+      [
+       "水縹そまる",
+       "7dDJBZbOHvs"
+      ],
+      [
+       "Akumu 阿庫姆",
+       "0MIzf1hTmIc"
+      ],
+      [
+       "霓奈KIKIRARA",
+       "e03ppaW_nrs"
+      ],
+      [
+       "花咲くれは",
+       "xRZot0cKo_g"
+      ]
+     ],
+     "last_rank": 4,
+     "is_new": false,
+     "genre": "Anime",
+     "apple": "jp/1638049033",
+     "spotify": "2xBibqkmXJ4NQCe8lJeZco",
+     "bpm": 160,
+     "range": {
+      "low": 61,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "shito"
+      ],
+      "composer": [
+       "shito"
+      ],
+      "year": "2022",
+      "released": "2022-08-13",
+      "label": "HoneyWorks",
+      "album": "告白実行委員会 -FLYING SONGS- 恋してる",
+      "isrc": "TCJPS2265902",
+      "copyright": "℗ 2022 HoneyWorks",
+      "mb": "f9c38b96-6e2a-4834-a575-b7d19d94610b",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 5,
      "title": "食虫植物",
      "artist": "理芽",
      "covers": 15,
@@ -551,7 +671,7 @@
      }
     },
     {
-     "rank": 4,
+     "rank": 5,
      "title": "I Really Want to Stay at Your House",
      "artist": "",
      "covers": 15,
@@ -622,123 +742,7 @@
      "is_new": false
     },
     {
-     "rank": 4,
-     "title": "可愛くてごめん",
-     "artist": "HoneyWorks",
-     "covers": 15,
-     "cover_video": "luwUW2kFIfU",
-     "performers": [
-      [
-       "Nemesis 涅默",
-       "luwUW2kFIfU"
-      ],
-      [
-       "米菈",
-       "l6IE0UpHGVE"
-      ],
-      [
-       "南珂Nank",
-       "bTS519xStSU"
-      ],
-      [
-       "Airi 熊実愛莉",
-       "lOH3L4irPIA"
-      ],
-      [
-       "莓果花夕 berihanayu",
-       "GAt9iP0kQqQ"
-      ],
-      [
-       "花川夢姬 Hanakawa Yumehime",
-       "oyKQ0zdR-ng"
-      ],
-      [
-       "木野子楓太",
-       "lm08fq7Hyks"
-      ],
-      [
-       "米亞 Mya",
-       "gd7bnmNMFBI"
-      ],
-      [
-       "暖杏nuanxing",
-       "8uiiCYWeUSE"
-      ],
-      [
-       "夏羽由里_ゆり Yuri",
-       "LsB79ui8zGg"
-      ],
-      [
-       "Mika 鬼塚魅華",
-       "hpmMyD3j5MQ"
-      ],
-      [
-       "水縹そまる",
-       "7dDJBZbOHvs"
-      ],
-      [
-       "Akumu 阿庫姆",
-       "0MIzf1hTmIc"
-      ],
-      [
-       "霓奈KIKIRARA",
-       "e03ppaW_nrs"
-      ],
-      [
-       "花咲くれは",
-       "xRZot0cKo_g"
-      ]
-     ],
-     "last_rank": 4,
-     "is_new": false,
-     "genre": "Anime",
-     "apple": "jp/1638049033",
-     "spotify": "2xBibqkmXJ4NQCe8lJeZco",
-     "bpm": 160,
-     "range": {
-      "low": 61,
-      "high": 74,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -2,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "danceable",
-       "happy",
-       "energetic"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "shito"
-      ],
-      "composer": [
-       "shito"
-      ],
-      "year": "2022",
-      "released": "2022-08-13",
-      "label": "HoneyWorks",
-      "album": "告白実行委員会 -FLYING SONGS- 恋してる",
-      "isrc": "TCJPS2265902",
-      "copyright": "℗ 2022 HoneyWorks",
-      "mb": "f9c38b96-6e2a-4834-a575-b7d19d94610b",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 4,
+     "rank": 5,
      "title": "晚餐歌",
      "artist": "tuki",
      "covers": 15,
@@ -13106,9 +13110,9 @@
      }
     }
    ],
-   "period_key": "2026-11-20",
+   "period_key": "2026-11-21",
    "rank_change": "history",
-   "fetched_at": "2026-11-20T19:44:12+08:00",
+   "fetched_at": "2026-11-21T19:05:54+08:00",
    "stale": false
   },
   {
@@ -13118,9 +13122,9 @@
     "en": "Most Covered · Last 90 Days",
     "ja": "直近 90 日のカバー数"
    },
-   "period": "2026/08/23 ~ 2026/11/20",
+   "period": "2026/08/24 ~ 2026/11/21",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 194,
+   "videos": 193,
    "rows": [
     {
      "rank": 1,
@@ -13753,6 +13757,66 @@
      ],
      "last_rank": 3,
      "is_new": false
+    },
+    {
+     "rank": 12,
+     "title": "可愛くてごめん",
+     "artist": "HoneyWorks",
+     "covers": 1,
+     "cover_video": "l6hnMhl7h-8",
+     "performers": [
+      [
+       "Topa 多帕",
+       "l6hnMhl7h-8"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "genre": "Anime",
+     "apple": "jp/1638049033",
+     "spotify": "2xBibqkmXJ4NQCe8lJeZco",
+     "bpm": 160,
+     "range": {
+      "low": 61,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "danceable",
+       "happy",
+       "energetic"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "shito"
+      ],
+      "composer": [
+       "shito"
+      ],
+      "year": "2022",
+      "released": "2022-08-13",
+      "label": "HoneyWorks",
+      "album": "告白実行委員会 -FLYING SONGS- 恋してる",
+      "isrc": "TCJPS2265902",
+      "copyright": "℗ 2022 HoneyWorks",
+      "mb": "f9c38b96-6e2a-4834-a575-b7d19d94610b",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
     },
     {
      "rank": 12,
@@ -20929,79 +20993,11 @@
        "apple"
       ]
      }
-    },
-    {
-     "rank": 12,
-     "title": "Mirairo Rider",
-     "artist": "",
-     "covers": 1,
-     "cover_video": "VJJjJCDyVbE",
-     "performers": [
-      [
-       "Nemesis 涅默",
-       "VJJjJCDyVbE"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false
-    },
-    {
-     "rank": 12,
-     "title": "アスノヨゾラ哨戒班",
-     "artist": "Orangestar feat. IA",
-     "covers": 1,
-     "cover_video": "52aHuuHZ_iA",
-     "performers": [
-      [
-       "宓Iseri",
-       "52aHuuHZ_iA"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "Anime",
-     "apple": "jp/985156221",
-     "spotify": "75tQZI2X1VwNOPtOrOrdpl",
-     "bpm": 125,
-     "range": {
-      "low": 57,
-      "high": 78,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "vhigh"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Synth-pop",
-       "Electro"
-      ],
-      "mood": [
-       "danceable",
-       "happy",
-       "energetic"
-      ]
-     },
-     "info": {
-      "year": "2015",
-      "released": "2015-03-04",
-      "label": "EXIT TUNES",
-      "album": "EXIT TUNES PRESENTS Vocalofantasy feat.初音ミク",
-      "copyright": "℗ 2015 EXIT TUNES",
-      "src": [
-       "apple"
-      ]
-     }
     }
    ],
-   "period_key": "2026-08-23_2026-11-20",
+   "period_key": "2026-08-24_2026-11-21",
    "rank_change": "history",
-   "fetched_at": "2026-11-20T19:44:12+08:00",
+   "fetched_at": "2026-11-21T19:05:54+08:00",
    "stale": false
   }
  ]
