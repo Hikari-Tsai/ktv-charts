@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-21T19:05:54+08:00",
+ "checked_at": "2026-11-22T19:29:32+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,7 +18,7 @@
     "en": "Most Covered · All Time",
     "ja": "累計カバー数"
    },
-   "period": "2026/11/21",
+   "period": "2026/11/22",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
    "videos": 1009,
    "rows": [
@@ -616,7 +616,7 @@
        "i-t6O7rF3Ug"
       ]
      ],
-     "last_rank": 4,
+     "last_rank": 5,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1688521740",
@@ -738,7 +738,7 @@
        "X9RkCsl2O7w"
       ]
      ],
-     "last_rank": 4,
+     "last_rank": 5,
      "is_new": false
     },
     {
@@ -809,7 +809,7 @@
        "HugYUxPaTIM"
       ]
      ],
-     "last_rank": 4,
+     "last_rank": 5,
      "is_new": false
     },
     {
@@ -13110,9 +13110,9 @@
      }
     }
    ],
-   "period_key": "2026-11-21",
+   "period_key": "2026-11-22",
    "rank_change": "history",
-   "fetched_at": "2026-11-21T19:05:54+08:00",
+   "fetched_at": "2026-11-22T19:29:32+08:00",
    "stale": false
   },
   {
@@ -13122,9 +13122,9 @@
     "en": "Most Covered · Last 90 Days",
     "ja": "直近 90 日のカバー数"
    },
-   "period": "2026/08/24 ~ 2026/11/21",
+   "period": "2026/08/25 ~ 2026/11/22",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 193,
+   "videos": 194,
    "rows": [
     {
      "rank": 1,
@@ -13760,6 +13760,85 @@
     },
     {
      "rank": 12,
+     "title": "ミッドナイト魯肉飯",
+     "artist": "veno",
+     "covers": 1,
+     "cover_video": "ffr4Y8NobRw",
+     "performers": [
+      [
+       "量產型猫飼步歌貳貳機 Fuka22",
+       "ffr4Y8NobRw"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "genre": "J-Pop",
+     "apple": "jp/1716831159",
+     "spotify": "75YJ3yYPyjZpNBVAUVzUea",
+     "bpm": 113,
+     "range": {
+      "low": 56,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "happy"
+      ],
+      "instrument": [
+       "percussion",
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "veno"
+      ],
+      "composer": [
+       "veno"
+      ],
+      "producer": [
+       "S0."
+      ],
+      "mix": [
+       "Daiki Saitoh"
+      ],
+      "recording": [
+       "Tatsuya Hirano"
+      ],
+      "year": "2023",
+      "released": "2023-04-12",
+      "label": "veno",
+      "album": "ミッドナイト魯肉飯 - Single",
+      "isrc": "TCJPV2327680",
+      "copyright": "℗ 2023 veno",
+      "mb": "203a28b8-ace1-4e5b-82be-934a62ef9228",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 12,
      "title": "可愛くてごめん",
      "artist": "HoneyWorks",
      "covers": 1,
@@ -13770,8 +13849,8 @@
        "l6hnMhl7h-8"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 12,
+     "is_new": false,
      "genre": "Anime",
      "apple": "jp/1638049033",
      "spotify": "2xBibqkmXJ4NQCe8lJeZco",
@@ -20995,9 +21074,9 @@
      }
     }
    ],
-   "period_key": "2026-08-24_2026-11-21",
+   "period_key": "2026-08-25_2026-11-22",
    "rank_change": "history",
-   "fetched_at": "2026-11-21T19:05:54+08:00",
+   "fetched_at": "2026-11-22T19:29:32+08:00",
    "stale": false
   }
  ]
