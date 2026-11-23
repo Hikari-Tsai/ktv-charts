@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-22T19:29:32+08:00",
+ "checked_at": "2026-11-23T20:46:17+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,7 +18,7 @@
     "en": "Most Covered · All Time",
     "ja": "累計カバー数"
    },
-   "period": "2026/11/22",
+   "period": "2026/11/23",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
    "videos": 1009,
    "rows": [
@@ -5307,6 +5307,21 @@
      "apple": "tw/1486465101",
      "spotify": "3Dv1eDb0MEgF93GpLXlucZ",
      "bpm": 111,
+     "range": {
+      "low": 54,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop",
@@ -6149,6 +6164,21 @@
      "apple": "jp/1645535967",
      "spotify": "4ZYDE0fzgdQizFmpi8JmYs",
      "bpm": 124,
+     "range": {
+      "low": 57,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop"
@@ -6492,6 +6522,21 @@
      "apple": "tw/1538261368",
      "spotify": "5kKSQULHCPFE7CKMPrkAtP",
      "bpm": 128,
+     "range": {
+      "low": 64,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": 1,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Gothic Metal",
@@ -6718,6 +6763,21 @@
      "apple": "tw/1762365716",
      "spotify": "3VqSRkq3jRpsSEBngUcY6a",
      "bpm": 120,
+     "range": {
+      "low": 55,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -6777,6 +6837,21 @@
      "apple": "tw/1833057828",
      "spotify": "62J3LcwTASdo624WsF3L6k",
      "bpm": 73,
+     "range": {
+      "low": 63,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": 2,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Contemporary R&B"
@@ -6838,6 +6913,19 @@
      "apple": "tw/1647112151",
      "spotify": "1huqzMaPdQkXuOJaLxrC2s",
      "bpm": 148,
+     "range": {
+      "low": 57,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -10432,6 +10520,19 @@
      "apple": "tw/1474712488",
      "spotify": "3NxWJWftvkstyxvb1pZlFo",
      "bpm": 139,
+     "range": {
+      "low": 61,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -13110,9 +13211,9 @@
      }
     }
    ],
-   "period_key": "2026-11-22",
+   "period_key": "2026-11-23",
    "rank_change": "history",
-   "fetched_at": "2026-11-22T19:29:32+08:00",
+   "fetched_at": "2026-11-23T20:46:17+08:00",
    "stale": false
   },
   {
@@ -13122,9 +13223,9 @@
     "en": "Most Covered · Last 90 Days",
     "ja": "直近 90 日のカバー数"
    },
-   "period": "2026/08/25 ~ 2026/11/22",
+   "period": "2026/08/26 ~ 2026/11/23",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 194,
+   "videos": 195,
    "rows": [
     {
      "rank": 1,
@@ -13760,6 +13861,60 @@
     },
     {
      "rank": 12,
+     "title": "ルーマー",
+     "artist": "ポリスピカデリー",
+     "covers": 1,
+     "cover_video": "eMsAE2HQZjY",
+     "performers": [
+      [
+       "LeiT 蕾忒",
+       "eMsAE2HQZjY"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "genre": "Anime",
+     "apple": "jp/1492852448",
+     "spotify": "5AC2afAhJqwogRmwj9SUYh",
+     "bpm": 91,
+     "range": {
+      "low": 62,
+      "high": 66,
+      "m": {
+       "v": "ok"
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "both"
+     },
+     "tags": {
+      "mood": [
+       "danceable"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "ポリスピカデリー"
+      ],
+      "composer": [
+       "ポリスピカデリー"
+      ],
+      "year": "2020",
+      "released": "2020-01-20",
+      "label": "PONY CANYON INC",
+      "album": "EXIT TUNES PRESENTS Entrance Dream Music'Turbo",
+      "isrc": "JPC232300021",
+      "copyright": "℗ 2020 PONY CANYON INC.",
+      "mb": "d53eb70b-47bc-448d-bb5c-3080a1ea4eba",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 12,
      "title": "ミッドナイト魯肉飯",
      "artist": "veno",
      "covers": 1,
@@ -13770,8 +13925,8 @@
        "ffr4Y8NobRw"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 12,
+     "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1716831159",
      "spotify": "75YJ3yYPyjZpNBVAUVzUea",
@@ -21074,9 +21229,9 @@
      }
     }
    ],
-   "period_key": "2026-08-25_2026-11-22",
+   "period_key": "2026-08-26_2026-11-23",
    "rank_change": "history",
-   "fetched_at": "2026-11-22T19:29:32+08:00",
+   "fetched_at": "2026-11-23T20:46:17+08:00",
    "stale": false
   }
  ]
