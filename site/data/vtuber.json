@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-23T20:46:17+08:00",
+ "checked_at": "2026-11-24T21:47:28+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,147 +18,21 @@
     "en": "Most Covered · All Time",
     "ja": "累計カバー数"
    },
-   "period": "2026/11/23",
+   "period": "2026/11/24",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 1009,
+   "videos": 1011,
    "rows": [
     {
      "rank": 1,
-     "title": "CH4NGE",
-     "artist": "Giga",
-     "covers": 19,
-     "cover_video": "QRcTX1JJaVo",
-     "performers": [
-      [
-       "可可伊丹CocoEden",
-       "QRcTX1JJaVo"
-      ],
-      [
-       "諾恪里 Nokori",
-       "U8SxZ16wzgw"
-      ],
-      [
-       "絲卡皊 Skylynn Shiotsuki",
-       "v-k0bxc7xEY"
-      ],
-      [
-       "涅波絲姬 Neboskey",
-       "TH8cVHPZ9EM"
-      ],
-      [
-       "Belmoru 莫爾",
-       "yVKhWmgZMig"
-      ],
-      [
-       "音宿明",
-       "d2z00EOssMc"
-      ],
-      [
-       "塩月墨瀧 Sutaki",
-       "XaZsJ316xWo"
-      ],
-      [
-       "雨ノAMeNo",
-       "l49fuFadUx4"
-      ],
-      [
-       "安戈洛 Englar",
-       "AJfNr9uJ-64"
-      ],
-      [
-       "天櫻咲樂さくら",
-       "N8dVWLTctzQ"
-      ],
-      [
-       "胡梨 Hulii",
-       "DteR0rq6goo"
-      ],
-      [
-       "梨亞卓恩",
-       "ZiR32oCKQGU"
-      ],
-      [
-       "月島ケン_Tsukishima Ken",
-       "hFzm3rDEJeY"
-      ],
-      [
-       "Chulina Felu 菲露",
-       "KmLswfJB4wM"
-      ],
-      [
-       "FuscA 法斯卡",
-       "qK2kDUoq3JA"
-      ],
-      [
-       "Blueberry Cheese 藍莓起司",
-       "ewAKkelE1Cw"
-      ],
-      [
-       "汐Seki",
-       "QPEDztVZNQ8"
-      ],
-      [
-       "洛可洛斯特Loco Lost",
-       "nIkanQCMhWk"
-      ],
-      [
-       "荒幽ばつ | Rakurai Batsu",
-       "OpF0c-_sskI"
-      ]
-     ],
-     "last_rank": 1,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "tw/1625063291",
-     "spotify": "1LMtX8T1WnVsKwoKrP4oZi",
-     "bpm": 121,
-     "range": {
-      "low": 56,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 1,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Dance-pop",
-       "Synth-pop"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "synthesizer"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "year": "2022",
-      "released": "2022-06-01",
-      "label": "Giga",
-      "album": "CH4NGE - Single",
-      "copyright": "℗ 2021 Giga",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 2,
      "title": "JANE DOE",
      "artist": "米津玄師 & Hikaru Utada",
-     "covers": 18,
-     "cover_video": "uTVshFu5KUs",
+     "covers": 19,
+     "cover_video": "ZhiToVG35eU",
      "performers": [
+      [
+       "羅妲 Rhoda",
+       "ZhiToVG35eU"
+      ],
       [
        "SuNo 踏雪",
        "uTVshFu5KUs"
@@ -295,7 +169,137 @@
      }
     },
     {
-     "rank": 2,
+     "rank": 1,
+     "title": "CH4NGE",
+     "artist": "Giga",
+     "covers": 19,
+     "cover_video": "QRcTX1JJaVo",
+     "performers": [
+      [
+       "可可伊丹CocoEden",
+       "QRcTX1JJaVo"
+      ],
+      [
+       "諾恪里 Nokori",
+       "U8SxZ16wzgw"
+      ],
+      [
+       "絲卡皊 Skylynn Shiotsuki",
+       "v-k0bxc7xEY"
+      ],
+      [
+       "涅波絲姬 Neboskey",
+       "TH8cVHPZ9EM"
+      ],
+      [
+       "Belmoru 莫爾",
+       "yVKhWmgZMig"
+      ],
+      [
+       "音宿明",
+       "d2z00EOssMc"
+      ],
+      [
+       "塩月墨瀧 Sutaki",
+       "XaZsJ316xWo"
+      ],
+      [
+       "雨ノAMeNo",
+       "l49fuFadUx4"
+      ],
+      [
+       "安戈洛 Englar",
+       "AJfNr9uJ-64"
+      ],
+      [
+       "天櫻咲樂さくら",
+       "N8dVWLTctzQ"
+      ],
+      [
+       "胡梨 Hulii",
+       "DteR0rq6goo"
+      ],
+      [
+       "梨亞卓恩",
+       "ZiR32oCKQGU"
+      ],
+      [
+       "月島ケン_Tsukishima Ken",
+       "hFzm3rDEJeY"
+      ],
+      [
+       "Chulina Felu 菲露",
+       "KmLswfJB4wM"
+      ],
+      [
+       "FuscA 法斯卡",
+       "qK2kDUoq3JA"
+      ],
+      [
+       "Blueberry Cheese 藍莓起司",
+       "ewAKkelE1Cw"
+      ],
+      [
+       "汐Seki",
+       "QPEDztVZNQ8"
+      ],
+      [
+       "洛可洛斯特Loco Lost",
+       "nIkanQCMhWk"
+      ],
+      [
+       "荒幽ばつ | Rakurai Batsu",
+       "OpF0c-_sskI"
+      ]
+     ],
+     "last_rank": 1,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/1625063291",
+     "spotify": "1LMtX8T1WnVsKwoKrP4oZi",
+     "bpm": 121,
+     "range": {
+      "low": 56,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "Synth-pop"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "year": "2022",
+      "released": "2022-06-01",
+      "label": "Giga",
+      "album": "CH4NGE - Single",
+      "copyright": "℗ 2021 Giga",
+      "src": [
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 3,
      "title": "KING",
      "artist": "Kanaria",
      "covers": 18,
@@ -2727,6 +2731,100 @@
     },
     {
      "rank": 27,
+     "title": "NIGHT DANCER",
+     "artist": "imase",
+     "covers": 8,
+     "cover_video": "4EpGLNNyWZA",
+     "performers": [
+      [
+       "奉池Fonchi",
+       "4EpGLNNyWZA"
+      ],
+      [
+       "塩月墨瀧 Sutaki",
+       "-nnVWRP7rzk"
+      ],
+      [
+       "滔滔ラ",
+       "akf5ZjjGzTE"
+      ],
+      [
+       "Hinokai 火野貝",
+       "I3pNcbcbYig"
+      ],
+      [
+       "冬雲凜Samui",
+       "4_Dpo2QomcQ"
+      ],
+      [
+       "清音零零7100",
+       "vFrJJeHR-tw"
+      ],
+      [
+       "日喰 飴",
+       "9Xy6MTJHd6c"
+      ],
+      [
+       "詩雨蔻達 Shiu Coda",
+       "myLecThcnu0"
+      ]
+     ],
+     "last_rank": 33,
+     "is_new": false,
+     "kkbox": "4o56KQl6tWt5k55ttq",
+     "genre": "J-Pop",
+     "apple": "tw/1692762654",
+     "spotify": "348NF6vX0Yh22xvH0EZEro",
+     "bpm": 117,
+     "range": {
+      "low": 55,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "House",
+       "Nu-Disco"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "bass",
+       "percussion",
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "imase"
+      ],
+      "composer": [
+       "imase"
+      ],
+      "year": "2022",
+      "released": "2022-08-30",
+      "label": "A Virgin Music release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "album": "NIGHT DANCER - EP",
+      "copyright": "A Virgin Music release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "mb": "e284980d-b556-4132-8abe-7526d10ccd12",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 27,
      "title": "僕が死のうと思ったのは",
      "artist": "中島 美嘉",
      "covers": 8,
@@ -3294,7 +3392,7 @@
      }
     },
     {
-     "rank": 33,
+     "rank": 34,
      "title": "寄り酔い",
      "artist": "和ぬか",
      "covers": 7,
@@ -3374,7 +3472,7 @@
      }
     },
     {
-     "rank": 33,
+     "rank": 34,
      "title": "好きだから。",
      "artist": "『ユイカ』",
      "covers": 7,
@@ -3462,7 +3560,7 @@
      }
     },
     {
-     "rank": 33,
+     "rank": 34,
      "title": "Overdose",
      "artist": "なとり",
      "covers": 7,
@@ -3550,7 +3648,7 @@
      }
     },
     {
-     "rank": 33,
+     "rank": 34,
      "title": "Gimme×Gimme",
      "artist": "八王子P × Giga",
      "covers": 7,
@@ -3647,7 +3745,7 @@
      }
     },
     {
-     "rank": 33,
+     "rank": 34,
      "title": "威風堂々",
      "artist": "梅とら",
      "covers": 7,
@@ -3730,96 +3828,6 @@
       "album": "威風堂々 (feat. 巡音ルカ & 初音ミク & GUMI & IA & 鏡音リン) - Single",
       "copyright": "℗ 2014 梅とら",
       "mb": "fbcd3d8b-cdf5-4f3a-b892-d72cc3213e91",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 33,
-     "title": "NIGHT DANCER",
-     "artist": "imase",
-     "covers": 7,
-     "cover_video": "-nnVWRP7rzk",
-     "performers": [
-      [
-       "塩月墨瀧 Sutaki",
-       "-nnVWRP7rzk"
-      ],
-      [
-       "滔滔ラ",
-       "akf5ZjjGzTE"
-      ],
-      [
-       "Hinokai 火野貝",
-       "I3pNcbcbYig"
-      ],
-      [
-       "冬雲凜Samui",
-       "4_Dpo2QomcQ"
-      ],
-      [
-       "清音零零7100",
-       "vFrJJeHR-tw"
-      ],
-      [
-       "日喰 飴",
-       "9Xy6MTJHd6c"
-      ],
-      [
-       "詩雨蔻達 Shiu Coda",
-       "myLecThcnu0"
-      ]
-     ],
-     "last_rank": 33,
-     "is_new": false,
-     "kkbox": "4o56KQl6tWt5k55ttq",
-     "genre": "J-Pop",
-     "apple": "tw/1692762654",
-     "spotify": "348NF6vX0Yh22xvH0EZEro",
-     "bpm": 117,
-     "range": {
-      "low": 55,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": 2,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "House",
-       "Nu-Disco"
-      ],
-      "mood": [
-       "danceable",
-       "party"
-      ],
-      "instrument": [
-       "bass",
-       "percussion",
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "imase"
-      ],
-      "composer": [
-       "imase"
-      ],
-      "year": "2022",
-      "released": "2022-08-30",
-      "label": "A Virgin Music release; ℗ 2023 UNIVERSAL MUSIC LLC",
-      "album": "NIGHT DANCER - EP",
-      "copyright": "A Virgin Music release; ℗ 2023 UNIVERSAL MUSIC LLC",
-      "mb": "e284980d-b556-4132-8abe-7526d10ccd12",
       "src": [
        "mb",
        "apple"
@@ -5391,6 +5399,21 @@
      "apple": "jp/1538275671",
      "spotify": "3KnURrjsXA0TDce8N7iOwz",
      "bpm": 81,
+     "range": {
+      "low": 52,
+      "high": 68,
+      "m": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Pop Rock"
@@ -5469,6 +5492,19 @@
      "apple": "tw/1392968843",
      "spotify": "5LyH3P8WFC6mBIJGX4s0Er",
      "bpm": 68,
+     "range": {
+      "low": 57,
+      "high": 77,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "vhigh"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "relaxed"
@@ -5611,6 +5647,19 @@
      "apple": "jp/1858846444",
      "spotify": "5cSX07KNlqf8EHQ6VXWgsM",
      "bpm": 108,
+     "range": {
+      "low": 60,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "City Pop",
@@ -5677,6 +5726,21 @@
      "apple": "jp/1682387288",
      "spotify": "0MEFe9pCWd4BP8tw5sfh3K",
      "bpm": 155,
+     "range": {
+      "low": 61,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -5736,6 +5800,19 @@
      "genre": "Anime",
      "apple": "jp/1869843676",
      "bpm": 118,
+     "range": {
+      "low": 57,
+      "high": 71,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop"
@@ -5833,6 +5910,21 @@
      "apple": "jp/1560330276",
      "spotify": "37G9I3G39oRcF5H6Yd2UnN",
      "bpm": 83,
+     "range": {
+      "low": 51,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": -4,
+       "oct": 0
+      },
+      "f": {
+       "v": "low",
+       "key": 2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "info": {
       "lyricist": [
        "ゴム",
@@ -6038,6 +6130,17 @@
      "apple": "jp/1737383515",
      "spotify": "2IwsVdAImV88Yu6S899WCb",
      "bpm": 165,
+     "range": {
+      "low": 59,
+      "high": 82,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "vhigh"
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "party",
@@ -6103,6 +6206,21 @@
      "apple": "tw/1854331156",
      "spotify": "5mibpCjaIIazq16uvnMUBM",
      "bpm": 125,
+     "range": {
+      "low": 60,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Dance-pop"
@@ -6249,6 +6367,21 @@
      "apple": "jp/1536116985",
      "spotify": "73tC9ZhU1iyphrL1ruQQWU",
      "bpm": 72,
+     "range": {
+      "low": 61,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Ballad"
@@ -6396,6 +6529,21 @@
      "apple": "jp/1659812867",
      "spotify": "5ymnEcBJonBJMSRRXIWM25",
      "bpm": 135,
+     "range": {
+      "low": 57,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "vocal": [
        "female"
@@ -6455,6 +6603,21 @@
      "apple": "jp/1521399728",
      "spotify": "49mDUAIBURIEQGXuPIE81h",
      "bpm": 84,
+     "range": {
+      "low": 69,
+      "high": 81,
+      "m": {
+       "v": "vhigh",
+       "key": -3,
+       "oct": -12
+      },
+      "f": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Alternative Rock"
@@ -6693,6 +6856,19 @@
      "apple": "jp/1783103469",
      "spotify": "2tm2VhQtGjsr5IPDfdm7Ja",
      "bpm": 81,
+     "range": {
+      "low": 60,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "RnB/Swing"
@@ -6987,6 +7163,21 @@
      "apple": "jp/1609745993",
      "spotify": "34Z7IwYcsG94pPkJimpAbe",
      "bpm": 150,
+     "range": {
+      "low": 61,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Synth-pop"
@@ -7048,6 +7239,21 @@
      "apple": "jp/1611875257",
      "spotify": "3DxfcE53Wf89XSftbAffFx",
      "bpm": 115,
+     "range": {
+      "low": 60,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -7111,6 +7317,21 @@
      "apple": "jp/1537406658",
      "spotify": "52IsIvHidofM9JMjw78Jyz",
      "bpm": 90,
+     "range": {
+      "low": 58,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "mood": [
        "danceable",
@@ -13211,9 +13432,9 @@
      }
     }
    ],
-   "period_key": "2026-11-23",
+   "period_key": "2026-11-24",
    "rank_change": "history",
-   "fetched_at": "2026-11-23T20:46:17+08:00",
+   "fetched_at": "2026-11-24T21:47:28+08:00",
    "stale": false
   },
   {
@@ -13223,9 +13444,9 @@
     "en": "Most Covered · Last 90 Days",
     "ja": "直近 90 日のカバー数"
    },
-   "period": "2026/08/26 ~ 2026/11/23",
+   "period": "2026/08/27 ~ 2026/11/24",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 195,
+   "videos": 200,
    "rows": [
     {
      "rank": 1,
@@ -13322,6 +13543,84 @@
       "album": "NEW ROMANCER",
       "copyright": "℗ KAMITSUBAKI RECORD",
       "mb": "98c15189-fea6-4697-a579-be99b9e94588",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "title": "JANE DOE",
+     "artist": "米津玄師 & Hikaru Utada",
+     "covers": 2,
+     "cover_video": "ZhiToVG35eU",
+     "performers": [
+      [
+       "羅妲 Rhoda",
+       "ZhiToVG35eU"
+      ],
+      [
+       "SuNo 踏雪",
+       "uTVshFu5KUs"
+      ]
+     ],
+     "last_rank": 12,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/1840081736",
+     "spotify": "4oE7MyJhqSD3BaHRpNs8Nl",
+     "bpm": 135,
+     "range": {
+      "low": 59,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "米津玄師"
+      ],
+      "composer": [
+       "米津玄師"
+      ],
+      "arranger": [
+       "小島裕規",
+       "米津玄師"
+      ],
+      "producer": [
+       "米津玄師"
+      ],
+      "mix": [
+       "小森雅仁"
+      ],
+      "recording": [
+       "小森雅仁"
+      ],
+      "year": "2025",
+      "released": "2025-09-22",
+      "label": "Sony Music Labels Inc",
+      "album": "JANE DOE - Single",
+      "isrc": "JPU902502822",
+      "copyright": "℗ 2025 Sony Music Labels Inc.",
+      "mb": "79943016-2bbb-4126-8f15-b546d5d1ec47",
       "src": [
        "mb",
        "apple"
@@ -13860,7 +14159,223 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
+     "title": "NIGHT DANCER",
+     "artist": "imase",
+     "covers": 1,
+     "cover_video": "4EpGLNNyWZA",
+     "performers": [
+      [
+       "奉池Fonchi",
+       "4EpGLNNyWZA"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "kkbox": "4o56KQl6tWt5k55ttq",
+     "genre": "J-Pop",
+     "apple": "tw/1692762654",
+     "spotify": "348NF6vX0Yh22xvH0EZEro",
+     "bpm": 117,
+     "range": {
+      "low": 55,
+      "high": 70,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "House",
+       "Nu-Disco"
+      ],
+      "mood": [
+       "danceable",
+       "party"
+      ],
+      "instrument": [
+       "bass",
+       "percussion",
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "imase"
+      ],
+      "composer": [
+       "imase"
+      ],
+      "year": "2022",
+      "released": "2022-08-30",
+      "label": "A Virgin Music release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "album": "NIGHT DANCER - EP",
+      "copyright": "A Virgin Music release; ℗ 2023 UNIVERSAL MUSIC LLC",
+      "mb": "e284980d-b556-4132-8abe-7526d10ccd12",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 13,
+     "title": "六等星",
+     "artist": "ざらめ",
+     "covers": 1,
+     "cover_video": "D7ZTP0Xr4Yk",
+     "performers": [
+      [
+       "奉池Fonchi",
+       "D7ZTP0Xr4Yk"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "genre": "Rock",
+     "apple": "jp/1754900277",
+     "spotify": "60d17t7XsJ2zPfwiPno21s",
+     "bpm": 97,
+     "range": {
+      "low": 58,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "drums",
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "CHIMERAZ",
+       "ざらめ"
+      ],
+      "composer": [
+       "CHIMERAZ",
+       "ざらめ"
+      ],
+      "year": "2024",
+      "released": "2024-07-19",
+      "label": "Sony Music Labels Inc",
+      "album": "六等星 - Single",
+      "isrc": "JPU902401993",
+      "copyright": "℗ 2024 Sony Music Labels Inc.",
+      "mb": "e350ba7a-d947-42e0-8467-e4cd9a1797ba",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 13,
+     "title": "恋",
+     "artist": "",
+     "covers": 1,
+     "cover_video": "ac6TBdAqm9c",
+     "performers": [
+      [
+       "玥Itsuki",
+       "ac6TBdAqm9c"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true
+    },
+    {
+     "rank": 13,
+     "title": "睡魔",
+     "artist": "缶缶 & Ayase",
+     "covers": 1,
+     "cover_video": "zsXm5W4BUZY",
+     "performers": [
+      [
+       "奉池Fonchi",
+       "zsXm5W4BUZY"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "genre": "J-Pop",
+     "apple": "jp/1566131357",
+     "spotify": "3qowLdpOFnatSAJz9zlYdK",
+     "bpm": 115,
+     "range": {
+      "low": 55,
+      "high": 72,
+      "m": {
+       "v": "vhigh",
+       "key": 2,
+       "oct": -12
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Dance-pop"
+      ],
+      "mood": [
+       "danceable"
+      ],
+      "instrument": [
+       "synthesizer"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "Ayase"
+      ],
+      "composer": [
+       "Ayase"
+      ],
+      "mix": [
+       "biz"
+      ],
+      "year": "2021",
+      "released": "2021-02-26",
+      "label": "Kankan & Ayase",
+      "album": "睡魔 - Single",
+      "isrc": "TCJPO2151700",
+      "copyright": "℗ 2021 Kankan & Ayase",
+      "mb": "7e7cefc3-c8a1-49cc-a3eb-685dda2599ee",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 13,
      "title": "ルーマー",
      "artist": "ポリスピカデリー",
      "covers": 1,
@@ -13871,8 +14386,8 @@
        "eMsAE2HQZjY"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 12,
+     "is_new": false,
      "genre": "Anime",
      "apple": "jp/1492852448",
      "spotify": "5AC2afAhJqwogRmwj9SUYh",
@@ -13914,7 +14429,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ミッドナイト魯肉飯",
      "artist": "veno",
      "covers": 1,
@@ -13993,7 +14508,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "可愛くてごめん",
      "artist": "HoneyWorks",
      "covers": 1,
@@ -14053,7 +14568,72 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
+     "title": "百花繚乱",
+     "artist": "幾田りら",
+     "covers": 1,
+     "cover_video": "0quJdFVc1Fc",
+     "performers": [
+      [
+       "珮蕾Pele",
+       "0quJdFVc1Fc"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "genre": "J-Pop",
+     "apple": "jp/1786972177",
+     "spotify": "79zgdvnTPyWSuTrd48Ik5O",
+     "bpm": 150,
+     "range": {
+      "low": 50,
+      "high": 72,
+      "m": {
+       "v": "vhigh"
+      },
+      "f": {
+       "v": "low"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "幾田りら"
+      ],
+      "composer": [
+       "幾田りら"
+      ],
+      "arranger": [
+       "KOHD"
+      ],
+      "producer": [
+       "山本秀哉"
+      ],
+      "year": "2025",
+      "released": "2025-01-10",
+      "label": "Lilas Ikuta",
+      "album": "百花繚乱 - Single",
+      "isrc": "JPP302400868",
+      "copyright": "℗ 2025 Lilas Ikuta",
+      "mb": "781724c1-a039-41e6-bd9b-770c3b9d5b8e",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 13,
      "title": "numb numb",
      "artist": "TAK",
      "covers": 1,
@@ -14109,7 +14689,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Sis puella magica!",
      "artist": "",
      "covers": 1,
@@ -14124,7 +14704,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "とっておきの一撃を",
      "artist": "",
      "covers": 1,
@@ -14139,7 +14719,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "magnet",
      "artist": "minato feat. 初音ミク、巡音ルカ",
      "covers": 1,
@@ -14185,7 +14765,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "エンヴィーベイビー",
      "artist": "Kanaria",
      "covers": 1,
@@ -14246,7 +14826,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "リードコントロール",
      "artist": "",
      "covers": 1,
@@ -14261,7 +14841,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "他守恆",
      "artist": "",
      "covers": 1,
@@ -14276,7 +14856,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "想和你看五月的晚霞",
      "artist": "陳華",
      "covers": 1,
@@ -14347,7 +14927,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "男生都會騙人?Bois Lie",
      "artist": "",
      "covers": 1,
@@ -14362,7 +14942,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "直到我遇見了你",
      "artist": "",
      "covers": 1,
@@ -14377,7 +14957,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ウワサのあの子",
      "artist": "紫 今",
      "covers": 1,
@@ -14434,7 +15014,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "七彩的微風",
      "artist": "",
      "covers": 1,
@@ -14449,7 +15029,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Boku wa",
      "artist": "",
      "covers": 1,
@@ -14464,7 +15044,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "-ERROR",
      "artist": "niki",
      "covers": 1,
@@ -14524,7 +15104,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "I Want It That Way",
      "artist": "Backstreet Boys",
      "covers": 1,
@@ -14589,7 +15169,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "おもかげ",
      "artist": "milet, Aimer & 幾田りら",
      "covers": 1,
@@ -14657,7 +15237,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "どうして",
      "artist": "高瀬統也",
      "covers": 1,
@@ -14707,7 +15287,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "你是不是有點動心",
      "artist": "吳卓源",
      "covers": 1,
@@ -14766,7 +15346,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "掰掰",
      "artist": "持修",
      "covers": 1,
@@ -14840,7 +15420,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "BANG!!!",
      "artist": "EGOIST",
      "covers": 1,
@@ -14914,7 +15494,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "革命道中",
      "artist": "Aina The End",
      "covers": 1,
@@ -14968,7 +15548,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Luna say maybe",
      "artist": "初星学園 & 月村手毬",
      "covers": 1,
@@ -15044,7 +15624,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "アンノウン・マザーグース",
      "artist": "wowaka",
      "covers": 1,
@@ -15075,7 +15655,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Legends Never Die",
      "artist": "League of Legends Music & Against The Current",
      "covers": 1,
@@ -15130,7 +15710,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "比翼の羽根",
      "artist": "",
      "covers": 1,
@@ -15145,7 +15725,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "要不然我們就這樣一萬年",
      "artist": "黃霄雲",
      "covers": 1,
@@ -15219,7 +15799,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "深昏睡",
      "artist": "春野",
      "covers": 1,
@@ -15277,7 +15857,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "睽違三年再次歌唱,真的...可以聽吧",
      "artist": "",
      "covers": 1,
@@ -15292,7 +15872,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "FIRESTARTER",
      "artist": "",
      "covers": 1,
@@ -15307,7 +15887,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "不埒な喝采",
      "artist": "ポリスピカデリー",
      "covers": 1,
@@ -15372,7 +15952,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Bunny Girl",
      "artist": "AKASAKI",
      "covers": 1,
@@ -15439,7 +16019,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "FOCUS",
      "artist": "KIRA",
      "covers": 1,
@@ -15493,7 +16073,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Magical Lights",
      "artist": "",
      "covers": 1,
@@ -15508,7 +16088,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Welcome To MY World",
      "artist": "aespa",
      "covers": 1,
@@ -15565,7 +16145,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Be My Guest",
      "artist": "Azari",
      "covers": 1,
@@ -15625,7 +16205,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Kyouran Hey Kids!!",
      "artist": "",
      "covers": 1,
@@ -15640,7 +16220,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ケイドロ",
      "artist": "",
      "covers": 1,
@@ -15655,7 +16235,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "旅人へ",
      "artist": "まつり",
      "covers": 1,
@@ -15716,7 +16296,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "INMU KING 中文版",
      "artist": "",
      "covers": 1,
@@ -15731,7 +16311,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "This Is Halloween",
      "artist": "",
      "covers": 1,
@@ -15746,7 +16326,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "キリヱ",
      "artist": "てにをは",
      "covers": 1,
@@ -15803,7 +16383,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ザムザ",
      "artist": "てにをは",
      "covers": 1,
@@ -15865,7 +16445,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "*. デビットビット",
      "artist": "",
      "covers": 1,
@@ -15880,7 +16460,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "心予報",
      "artist": "Eve",
      "covers": 1,
@@ -15954,7 +16534,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "VOIDS",
      "artist": "Pretty Patterns",
      "covers": 1,
@@ -16012,7 +16592,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "DUET",
      "artist": "ZICO & Lilas Ikuta",
      "covers": 1,
@@ -16071,7 +16651,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
      "artist": "宝鐘マリン",
      "covers": 1,
@@ -16131,7 +16711,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ジャックポットサッドガール",
      "artist": "syudou",
      "covers": 1,
@@ -16197,7 +16777,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "日本人妻唱",
      "artist": "",
      "covers": 1,
@@ -16212,7 +16792,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "星の消えた夜に",
      "artist": "Aimer",
      "covers": 1,
@@ -16274,7 +16854,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "さみしいひと",
      "artist": "理芽",
      "covers": 1,
@@ -16343,7 +16923,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "激昂サバイブ Complete Edition",
      "artist": "",
      "covers": 1,
@@ -16358,7 +16938,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "真夜中マーメイド",
      "artist": "=LOVE",
      "covers": 1,
@@ -16421,7 +17001,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "風月吻眉梢",
      "artist": "",
      "covers": 1,
@@ -16436,7 +17016,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "MirroR",
      "artist": "",
      "covers": 1,
@@ -16451,7 +17031,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "T.B.H",
      "artist": "QWER",
      "covers": 1,
@@ -16509,7 +17089,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "漫夜",
      "artist": "澪Rei",
      "covers": 1,
@@ -16577,7 +17157,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "The Story of Us",
      "artist": "milet",
      "covers": 1,
@@ -16641,7 +17221,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ACTOR",
      "artist": "友成空",
      "covers": 1,
@@ -16692,7 +17272,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "海鳴り",
      "artist": "katawara",
      "covers": 1,
@@ -16746,7 +17326,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Pentas",
      "artist": "",
      "covers": 1,
@@ -16761,7 +17341,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Song for...",
      "artist": "ROOKiEZ is PUNK'D",
      "covers": 1,
@@ -16826,7 +17406,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "三時のキス",
      "artist": "ロクデナシ",
      "covers": 1,
@@ -16900,7 +17480,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "セレナーデ",
      "artist": "なとり",
      "covers": 1,
@@ -16965,7 +17545,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "モエチャッカファイア",
      "artist": "",
      "covers": 1,
@@ -16980,7 +17560,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "中華料理屋の酢豚が食べたい",
      "artist": "",
      "covers": 1,
@@ -16995,7 +17575,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "少女A",
      "artist": "椎名もた",
      "covers": 1,
@@ -17056,7 +17636,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "夢醒時分",
      "artist": "陳淑樺",
      "covers": 1,
@@ -17122,7 +17702,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "打上花火",
      "artist": "米津玄師",
      "covers": 1,
@@ -17195,7 +17775,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "跳樓機",
      "artist": "LBI利比",
      "covers": 1,
@@ -17248,7 +17828,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "嘆雲兮",
      "artist": "",
      "covers": 1,
@@ -17263,7 +17843,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ファンサ",
      "artist": "HoneyWorks",
      "covers": 1,
@@ -17324,7 +17904,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "蝶々結び",
      "artist": "Aimer",
      "covers": 1,
@@ -17400,7 +17980,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "鷲峰良",
      "artist": "",
      "covers": 1,
@@ -17415,7 +17995,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Departures",
      "artist": "",
      "covers": 1,
@@ -17430,7 +18010,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "小夜子",
      "artist": "みきとP",
      "covers": 1,
@@ -17498,7 +18078,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "STAGE OF SEKAI",
      "artist": "",
      "covers": 1,
@@ -17513,7 +18093,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Windy Summer",
      "artist": "",
      "covers": 1,
@@ -17528,7 +18108,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "一個人想著一個人",
      "artist": "",
      "covers": 1,
@@ -17543,7 +18123,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "心月辭·何所往",
      "artist": "鳴潮先約電台 & 蘇詩丁",
      "covers": 1,
@@ -17594,7 +18174,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "褪黑素",
      "artist": "江皓南",
      "covers": 1,
@@ -17649,7 +18229,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "CH4NGE",
      "artist": "Giga",
      "covers": 1,
@@ -17707,7 +18287,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Test Me",
      "artist": "",
      "covers": 1,
@@ -17722,7 +18302,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "自己肯定感爆上げ↑↑しゅきしゅきソング",
      "artist": "初星学園 & 藤田ことね",
      "covers": 1,
@@ -17783,7 +18363,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Alice in N.Y.",
      "artist": "",
      "covers": 1,
@@ -17798,7 +18378,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "SAYONARA MAYBE",
      "artist": "NOMELON NOLEMON",
      "covers": 1,
@@ -17867,7 +18447,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "我又不是女超人",
      "artist": "孫盛希",
      "covers": 1,
@@ -17938,7 +18518,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ブレーメン",
      "artist": "ヨルシカ",
      "covers": 1,
@@ -17993,7 +18573,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "愛你",
      "artist": "王心凌",
      "covers": 1,
@@ -18061,7 +18641,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "旋轉木馬-米爺 x 黃淑蔓 Feanna Wong 旋轉木馬",
      "artist": "",
      "covers": 1,
@@ -18076,7 +18656,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "雪の音",
      "artist": "Novelbright",
      "covers": 1,
@@ -18130,7 +18710,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "VII. THE RUST A.A",
      "artist": "茅原実里",
      "covers": 1,
@@ -18145,7 +18725,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ロミオとシンデレラ",
      "artist": "doriko",
      "covers": 1,
@@ -18202,7 +18782,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "WDA",
      "artist": "aespa",
      "covers": 1,
@@ -18263,7 +18843,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ビビデバ",
      "artist": "星街すいせい",
      "covers": 1,
@@ -18339,7 +18919,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "不小心愛上你",
      "artist": "",
      "covers": 1,
@@ -18354,7 +18934,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "僕が死のうと思ったのは",
      "artist": "中島 美嘉",
      "covers": 1,
@@ -18421,7 +19001,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "夏季紀念Cover 夏祭り",
      "artist": "",
      "covers": 1,
@@ -18436,81 +19016,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
-     "title": "JANE DOE",
-     "artist": "米津玄師 & Hikaru Utada",
-     "covers": 1,
-     "cover_video": "uTVshFu5KUs",
-     "performers": [
-      [
-       "SuNo 踏雪",
-       "uTVshFu5KUs"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "tw/1840081736",
-     "spotify": "4oE7MyJhqSD3BaHRpNs8Nl",
-     "bpm": 135,
-     "range": {
-      "low": 59,
-      "high": 74,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -2,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "danceable"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "米津玄師"
-      ],
-      "composer": [
-       "米津玄師"
-      ],
-      "arranger": [
-       "小島裕規",
-       "米津玄師"
-      ],
-      "producer": [
-       "米津玄師"
-      ],
-      "mix": [
-       "小森雅仁"
-      ],
-      "recording": [
-       "小森雅仁"
-      ],
-      "year": "2025",
-      "released": "2025-09-22",
-      "label": "Sony Music Labels Inc",
-      "album": "JANE DOE - Single",
-      "isrc": "JPU902502822",
-      "copyright": "℗ 2025 Sony Music Labels Inc.",
-      "mb": "79943016-2bbb-4126-8f15-b546d5d1ec47",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 12,
+     "rank": 13,
      "title": "夜盤陷阱",
      "artist": "",
      "covers": 1,
@@ -18525,7 +19031,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "来世で会おう",
      "artist": "さユり",
      "covers": 1,
@@ -18592,7 +19098,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "小喋日和",
      "artist": "FantasticYouth",
      "covers": 1,
@@ -18658,7 +19164,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "On the Rocks",
      "artist": "",
      "covers": 1,
@@ -18673,7 +19179,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Virtual Insanity",
      "artist": "Jamiroquai",
      "covers": 1,
@@ -18735,7 +19241,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "唯一",
      "artist": "告五人",
      "covers": 1,
@@ -18810,7 +19316,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "想成為守護你的那個人",
      "artist": "",
      "covers": 1,
@@ -18825,7 +19331,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "愛貓",
      "artist": "",
      "covers": 1,
@@ -18840,7 +19346,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Lulala! Lululala!",
      "artist": "鳴潮先約電台 & Maggie 麥吉",
      "covers": 1,
@@ -18895,7 +19401,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "セプテンバーさん",
      "artist": "Aimer",
      "covers": 1,
@@ -18973,7 +19479,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "戀愛裁判",
      "artist": "40mP",
      "covers": 1,
@@ -18988,7 +19494,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "もえちゃっかふぁいあ",
      "artist": "",
      "covers": 1,
@@ -19003,7 +19509,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "天行九歌",
      "artist": "霍尊",
      "covers": 1,
@@ -19057,7 +19563,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "最上級にかわいいの!",
      "artist": "",
      "covers": 1,
@@ -19072,7 +19578,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "貓日",
      "artist": "suis from ヨルシカ",
      "covers": 1,
@@ -19087,7 +19593,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ギビュリタ",
      "artist": "",
      "covers": 1,
@@ -19102,7 +19608,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "一二三",
      "artist": "",
      "covers": 1,
@@ -19117,7 +19623,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "星の唄",
      "artist": "",
      "covers": 1,
@@ -19132,7 +19638,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "I still",
      "artist": "milet",
      "covers": 1,
@@ -19195,7 +19701,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "兩萬感謝~ 了Letter Song.ᐟ來看小小給你的信吧",
      "artist": "",
      "covers": 1,
@@ -19210,7 +19716,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "心拍数#0822",
      "artist": "",
      "covers": 1,
@@ -19225,7 +19731,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "クリームソーダとシャンデリア",
      "artist": "",
      "covers": 1,
@@ -19240,7 +19746,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "夜の女王の狼たち",
      "artist": "未来古代楽団",
      "covers": 1,
@@ -19298,7 +19804,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Vtuber雙人 Cover",
      "artist": "黃乙玲、郭桂彬",
      "covers": 1,
@@ -19313,7 +19819,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "寄り酔い",
      "artist": "和ぬか",
      "covers": 1,
@@ -19369,7 +19875,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "一半一半",
      "artist": "Top Barry & INDEcompany",
      "covers": 1,
@@ -19419,7 +19925,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "怪獣",
      "artist": "サカナクション",
      "covers": 1,
@@ -19481,7 +19987,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ただ君に晴れ",
      "artist": "ヨルシカ",
      "covers": 1,
@@ -19548,7 +20054,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "いかないでCover",
      "artist": "",
      "covers": 1,
@@ -19563,7 +20069,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "夢と葉桜",
      "artist": "",
      "covers": 1,
@@ -19578,7 +20084,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "zZz",
      "artist": "",
      "covers": 1,
@@ -19593,7 +20099,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "愛言葉V",
      "artist": "",
      "covers": 1,
@@ -19608,7 +20114,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "もうそう",
      "artist": "",
      "covers": 1,
@@ -19623,7 +20129,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ANO",
      "artist": "",
      "covers": 1,
@@ -19638,7 +20144,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "アイスドロップ",
      "artist": "Aqu3ra",
      "covers": 1,
@@ -19701,7 +20207,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "プロポーズ",
      "artist": "内緒のピアス",
      "covers": 1,
@@ -19762,7 +20268,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "向日葵",
      "artist": "Ado",
      "covers": 1,
@@ -19837,7 +20343,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "森森鈴蘭-捕夢謊",
      "artist": "",
      "covers": 1,
@@ -19852,7 +20358,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "赤伶",
      "artist": "HITA",
      "covers": 1,
@@ -19908,7 +20414,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "養我",
      "artist": "",
      "covers": 1,
@@ -19923,7 +20429,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Skyfall",
      "artist": "Adele",
      "covers": 1,
@@ -20001,7 +20507,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "好樂團 x 瑪啡因",
      "artist": "",
      "covers": 1,
@@ -20016,7 +20522,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "深紅の運命",
      "artist": "",
      "covers": 1,
@@ -20031,7 +20537,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Love wins all",
      "artist": "IU",
      "covers": 1,
@@ -20089,7 +20595,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "人間不值得",
      "artist": "黃詩扶",
      "covers": 1,
@@ -20159,7 +20665,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "今天我生日,ギターと孤独と蒼い惑星",
      "artist": "",
      "covers": 1,
@@ -20174,7 +20680,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "句號",
      "artist": "鄧紫棋",
      "covers": 1,
@@ -20224,7 +20730,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "最低な人",
      "artist": "",
      "covers": 1,
@@ -20239,7 +20745,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ラブレター",
      "artist": "YOASOBI",
      "covers": 1,
@@ -20313,7 +20819,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "如果時光機存在,我想回到那時候",
      "artist": "",
      "covers": 1,
@@ -20328,7 +20834,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "星降る海",
      "artist": "Aqu3ra, 超かぐや姫! & 月見ヤチヨ(cv.早見沙織)",
      "covers": 1,
@@ -20396,7 +20902,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "是不是每種感情都不容沉溺放肆",
      "artist": "",
      "covers": 1,
@@ -20411,7 +20917,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "おこちゃま戦争",
      "artist": "",
      "covers": 1,
@@ -20426,7 +20932,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ROSE",
      "artist": "HANA",
      "covers": 1,
@@ -20502,7 +21008,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "シュガーロス",
      "artist": "和ぬか",
      "covers": 1,
@@ -20554,7 +21060,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "酔いどれ知らず",
      "artist": "Kanaria",
      "covers": 1,
@@ -20617,7 +21123,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Lullaby",
      "artist": "",
      "covers": 1,
@@ -20632,7 +21138,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "偏食",
      "artist": "香椎モイミ",
      "covers": 1,
@@ -20688,7 +21194,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "Walking",
      "artist": "",
      "covers": 1,
@@ -20703,7 +21209,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "残酷な夜に輝け",
      "artist": "LiSA",
      "covers": 1,
@@ -20777,7 +21283,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "夏霞",
      "artist": "あたらよ",
      "covers": 1,
@@ -20845,7 +21351,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "我們一樣可惜",
      "artist": "好樂團 & 瑪啡因",
      "covers": 1,
@@ -20897,7 +21403,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "カレンダーガール",
      "artist": "",
      "covers": 1,
@@ -20912,7 +21418,7 @@
      "is_new": false
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ダーリン",
      "artist": "須田景凪",
      "covers": 1,
@@ -20981,7 +21487,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "ホシアイ",
      "artist": "レフティーモンスターP feat.GUMI",
      "covers": 1,
@@ -21032,7 +21538,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "好きだから。",
      "artist": "『ユイカ』",
      "covers": 1,
@@ -21096,7 +21602,7 @@
      }
     },
     {
-     "rank": 12,
+     "rank": 13,
      "title": "安靜",
      "artist": "周杰倫",
      "covers": 1,
@@ -21160,78 +21666,11 @@
        "apple"
       ]
      }
-    },
-    {
-     "rank": 12,
-     "title": "晴る",
-     "artist": "ヨルシカ",
-     "covers": 1,
-     "cover_video": "kTTMjMxBw6o",
-     "performers": [
-      [
-       "希比 Hebe",
-       "kTTMjMxBw6o"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "kkbox": "Sop05Y0c1DbhYNyOTK",
-     "genre": "Alternative",
-     "apple": "jp/1721450223",
-     "spotify": "5eY7692tmgHB9dbmq6wa2M",
-     "bpm": 204,
-     "range": {
-      "low": 59,
-      "high": 71,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "danceable",
-       "happy"
-      ],
-      "instrument": [
-       "drums"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "n-buna"
-      ],
-      "composer": [
-       "n-buna"
-      ],
-      "arranger": [
-       "n-buna"
-      ],
-      "producer": [
-       "n-buna"
-      ],
-      "year": "2024",
-      "released": "2024-01-05",
-      "label": "A Polydor Records release; ℗ 2024 UNIVERSAL MUSIC LLC",
-      "album": "晴る - Single",
-      "isrc": "JPPO02304150",
-      "copyright": "A Polydor Records release; ℗ 2024 UNIVERSAL MUSIC LLC",
-      "mb": "bd96e3b9-e014-417b-b9e9-d75143cce05c",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
     }
    ],
-   "period_key": "2026-08-26_2026-11-23",
+   "period_key": "2026-08-27_2026-11-24",
    "rank_change": "history",
-   "fetched_at": "2026-11-23T20:46:17+08:00",
+   "fetched_at": "2026-11-24T21:47:28+08:00",
    "stale": false
   }
  ]

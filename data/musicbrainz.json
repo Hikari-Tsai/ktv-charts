@@ -474,6 +474,11 @@
   "status": "none",
   "v": 2
  },
+ "answerlovemyself|bts防彈少年團": {
+  "checked": "2026-11-24",
+  "status": "none",
+  "v": 2
+ },
  "anytimeanywhere|milet": {
   "album": "Anytime Anywhere",
   "artist": "milet",
@@ -950,6 +955,11 @@
   "title": "BAD",
   "v": 2
  },
+ "bananas|lngshot": {
+  "checked": "2026-11-24",
+  "status": "none",
+  "v": 2
+ },
  "bangbangbang|bigbang": {
   "album": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
   "artist": "BIGBANG",
@@ -1394,6 +1404,11 @@
   "title": "BOW AND ARROW",
   "v": 2
  },
+ "boyinluv|bts防彈少年團": {
+  "checked": "2026-11-24",
+  "status": "none",
+  "v": 2
+ },
  "boy|bts防彈少年團": {
   "checked": "2026-11-20",
   "status": "none",
@@ -1509,6 +1524,11 @@
   "released": "2024-10-02",
   "status": "ok",
   "title": "Bunny Girl",
+  "v": 2
+ },
+ "burningup|bts防彈少年團": {
+  "checked": "2026-11-24",
+  "status": "none",
   "v": 2
  },
  "butterfly|和田光司": {
@@ -2729,6 +2749,16 @@
   "title": "Everything",
   "v": 2
  },
+ "evolution|黎明": {
+  "album": "The Red Shoes Evolution",
+  "artist": "黎明",
+  "checked": "2026-11-24",
+  "id": "528d21b4-04bf-403d-b604-03dd16f0164f",
+  "released": "2001-08-10",
+  "status": "ok",
+  "title": "進化 Evolution",
+  "v": 2
+ },
  "expectations|oliviarodrigochappellroan": {
   "album": "expectations",
   "artist": "Olivia Rodrigo",
@@ -3637,6 +3667,26 @@
   "title": "Happy Halloween",
   "v": 2
  },
+ "happyxmas|johnlennon": {
+  "album": "Top 100 Christmas Songs",
+  "artist": "John Lennon",
+  "checked": "2026-11-24",
+  "credits": {
+   "composer": [
+    "John Lennon",
+    "Yoko Ono"
+   ],
+   "lyricist": [
+    "John Lennon",
+    "Yoko Ono"
+   ]
+  },
+  "id": "6600abb4-0ac9-4c00-91fe-c18751886f6f",
+  "released": "2022-01-01",
+  "status": "ok",
+  "title": "Happy Xmas",
+  "v": 2
+ },
  "haruharu|bigbang": {
   "album": "The Ultimate - International Best",
   "artist": "BIGBANG",
@@ -4044,6 +4094,42 @@
   "released": "2021-04-14",
   "status": "ok",
   "title": "I beg you",
+  "v": 2
+ },
+ "iconic|cl": {
+  "album": "ICONIC",
+  "artist": "CL",
+  "checked": "2026-11-24",
+  "credits": {
+   "arranger": [
+    "24",
+    "IDO",
+    "TEDDY",
+    "Vince"
+   ],
+   "composer": [
+    "24",
+    "Jesse Bluu",
+    "IDO",
+    "KUSH",
+    "Leyla Blue",
+    "Malachiii",
+    "VVN"
+   ],
+   "lyricist": [
+    "Jesse Bluu",
+    "CL",
+    "Leyla Blue",
+    "Malachiii",
+    "TEDDY",
+    "Vince"
+   ]
+  },
+  "id": "b581dcde-3947-4411-a9f9-df94a2944114",
+  "isrc": "KRA382604397",
+  "released": "2026-11-20",
+  "status": "ok",
+  "title": "ICONIC",
   "v": 2
  },
  "idol|bts防彈少年團": {
@@ -4821,6 +4907,41 @@
   "released": "2026-11-11",
   "status": "ok",
   "title": "KILLA",
+  "v": 2
+ },
+ "killingthemood|hollyhumberstone": {
+  "album": "Cruel World…So It Ends",
+  "artist": "Holly Humberstone",
+  "checked": "2026-11-24",
+  "credits": {
+   "composer": [
+    "Holly Humberstone",
+    "Benjamin Francis Leftwich",
+    "Rob Milton",
+    "Jonah Summerfield"
+   ],
+   "lyricist": [
+    "Holly Humberstone",
+    "Benjamin Francis Leftwich",
+    "Rob Milton",
+    "Jonah Summerfield"
+   ],
+   "mix": [
+    "Mark “Spike” Stent"
+   ],
+   "producer": [
+    "Rob Milton",
+    "Jonah Summerfield"
+   ],
+   "recording": [
+    "Rob Milton"
+   ]
+  },
+  "id": "5939ee5a-4f0b-4aa5-b343-598eb9287753",
+  "isrc": "GBUM72600840",
+  "released": "2026-11-13",
+  "status": "ok",
+  "title": "Killing the Mood",
   "v": 2
  },
  "killkiss|avemujica": {
@@ -9569,6 +9690,23 @@
   "title": "winter fall",
   "v": 2
  },
+ "wishyouwerehere|avrillavigne": {
+  "album": "Hit Mania 2012",
+  "artist": "Avril Lavigne",
+  "checked": "2026-11-24",
+  "credits": {
+   "writer": [
+    "Avril Lavigne",
+    "Max Martin",
+    "Shellback"
+   ]
+  },
+  "id": "79bfc739-10a5-4676-91ab-b6f4b73c8478",
+  "released": "2011-11-29",
+  "status": "ok",
+  "title": "Wish You Were Here",
+  "v": 2
+ },
  "withoutyou|高爾宣osn": {
   "album": "#osnrap",
   "artist": "高爾宣 OSN",
@@ -12824,6 +12962,38 @@
   "title": "カブトムシ",
   "v": 2
  },
+ "カムパネルラ|米津玄師": {
+  "album": "STRAY SHEEP",
+  "artist": "米津玄師",
+  "checked": "2026-11-24",
+  "credits": {
+   "arranger": [
+    "坂東祐大",
+    "米津玄師"
+   ],
+   "composer": [
+    "米津玄師"
+   ],
+   "lyricist": [
+    "米津玄師"
+   ],
+   "mix": [
+    "小森雅仁"
+   ],
+   "producer": [
+    "米津玄師"
+   ],
+   "recording": [
+    "小森雅仁"
+   ]
+  },
+  "id": "58934a6e-de23-40f9-9fe0-92e445d6031c",
+  "isrc": "JPU902001654",
+  "released": "2020-08-05",
+  "status": "ok",
+  "title": "カムパネルラ",
+  "v": 2
+ },
  "カメレオン|kinggnu": {
   "album": "カメレオン",
   "artist": "King Gnu",
@@ -14801,6 +14971,39 @@
   "id": "8a5a34c9-4db7-43dc-8833-9382b3085eba",
   "isrc": "JPU901802326",
   "released": "2018-08-15",
+  "status": "ok",
+  "title": "パプリカ",
+  "v": 2
+ },
+ "パプリカ|米津玄師": {
+  "album": "STRAY SHEEP",
+  "artist": "米津玄師",
+  "checked": "2026-11-24",
+  "credits": {
+   "arranger": [
+    "坂東祐大",
+    "米津玄師"
+   ],
+   "composer": [
+    "米津玄師"
+   ],
+   "lyricist": [
+    "米津玄師"
+   ],
+   "mix": [
+    "小森雅仁"
+   ],
+   "producer": [
+    "米津玄師"
+   ],
+   "recording": [
+    "石井翔一朗",
+    "涌井良昌"
+   ]
+  },
+  "id": "8251f04a-66c4-4a45-bf81-df648e98b4d0",
+  "isrc": "JPU901902183",
+  "released": "2020-02-03",
   "status": "ok",
   "title": "パプリカ",
   "v": 2
@@ -17069,6 +17272,11 @@
   "title": "三時のキス",
   "v": 2
  },
+ "三生劫渡今生緣|楊不乖": {
+  "checked": "2026-11-24",
+  "status": "none",
+  "v": 2
+ },
  "三生有幸|陳隨意謝宜君": {
   "checked": "2026-11-07",
   "status": "none",
@@ -17941,6 +18149,27 @@
  "六兆年と一夜物語|kemufeatia": {
   "checked": "2026-11-08",
   "status": "none",
+  "v": 2
+ },
+ "六等星|ざらめ": {
+  "album": "六等星",
+  "artist": "ざらめ",
+  "checked": "2026-11-24",
+  "credits": {
+   "composer": [
+    "CHIMERAZ",
+    "ざらめ"
+   ],
+   "lyricist": [
+    "CHIMERAZ",
+    "ざらめ"
+   ]
+  },
+  "id": "e350ba7a-d947-42e0-8467-e4cd9a1797ba",
+  "isrc": "JPU902401993",
+  "released": "2024-07-19",
+  "status": "ok",
+  "title": "六等星",
   "v": 2
  },
  "六等星の夜|aimer": {
@@ -19504,6 +19733,40 @@
   "title": "夕陽の丘",
   "v": 2
  },
+ "夕陽之歌|梅艷芳": {
+  "album": "In Brasil",
+  "artist": "梅艷芳",
+  "checked": "2026-11-24",
+  "credits": {
+   "arranger": [
+    "趙增熹"
+   ],
+   "composer": [
+    "馬飼野康二"
+   ],
+   "lyricist": [
+    "大津あきら"
+   ],
+   "mix": [
+    "Tom Brown",
+    "黎小田"
+   ],
+   "producer": [
+    "黎小田"
+   ],
+   "recording": [
+    "Tom Brown",
+    "Raymond Wong",
+    "Martin Yu"
+   ]
+  },
+  "id": "c589dab3-202e-43b6-b8c7-f3fb62d63c79",
+  "isrc": "HKE050489507",
+  "released": "1989-09",
+  "status": "ok",
+  "title": "夕陽之歌",
+  "v": 2
+ },
  "夕陽無限好|陳奕迅": {
   "album": "U87 (5週年 24K Gold)",
   "artist": "陳奕迅",
@@ -20975,6 +21238,11 @@
   "title": "心裡有針",
   "v": 2
  },
+ "思念情歌|鄧詠家": {
+  "checked": "2026-11-24",
+  "status": "none",
+  "v": 2
+ },
  "怪我太貪心|楊不乖": {
   "checked": "2026-11-07",
   "status": "none",
@@ -22048,6 +22316,11 @@
  },
  "我不等|小宇cosmos": {
   "checked": "2026-11-17",
+  "status": "none",
+  "v": 2
+ },
+ "我以為我們會結婚|dior大穎": {
+  "checked": "2026-11-24",
   "status": "none",
   "v": 2
  },
@@ -24756,6 +25029,11 @@
   "title": "爆裂愛してる",
   "v": 2
  },
+ "牽咧|翁立友": {
+  "checked": "2026-11-24",
+  "status": "none",
+  "v": 2
+ },
  "狂乱heykids|theoralcigarettes": {
   "album": "FIXION",
   "artist": "THE ORAL CIGARETTES",
@@ -25095,6 +25373,59 @@
   "title": "白い雲のように",
   "v": 2
  },
+ "白日|kinggnu": {
+  "album": "CEREMONY",
+  "artist": "King Gnu",
+  "checked": "2026-11-24",
+  "credits": {
+   "arranger": [
+    "King Gnu"
+   ],
+   "composer": [
+    "常田大希"
+   ],
+   "lyricist": [
+    "常田大希"
+   ],
+   "mix": [
+    "Yuki Takahashi"
+   ],
+   "recording": [
+    "Yuki Takahashi"
+   ]
+  },
+  "id": "3a04253c-6471-4b04-b933-4e0c88f441b8",
+  "isrc": "JPU901900431",
+  "released": "2019-02-22",
+  "status": "ok",
+  "title": "白日",
+  "v": 2
+ },
+ "百花繚乱|幾田りら": {
+  "album": "Laugh",
+  "artist": "幾田りら",
+  "checked": "2026-11-24",
+  "credits": {
+   "arranger": [
+    "KOHD"
+   ],
+   "composer": [
+    "幾田りら"
+   ],
+   "lyricist": [
+    "幾田りら"
+   ],
+   "producer": [
+    "山本秀哉"
+   ]
+  },
+  "id": "781724c1-a039-41e6-bd9b-770c3b9d5b8e",
+  "isrc": "JPP302400868",
+  "released": "2025-01-10",
+  "status": "ok",
+  "title": "百花繚乱",
+  "v": 2
+ },
  "皇后大道東|variousartists": {
   "checked": "2026-11-12",
   "status": "none",
@@ -25318,6 +25649,28 @@
   "released": "2012-05-30",
   "status": "ok",
   "title": "眠り姫",
+  "v": 2
+ },
+ "睡魔|缶缶ayase": {
+  "album": "睡魔",
+  "artist": "缶缶 & Ayase",
+  "checked": "2026-11-24",
+  "credits": {
+   "composer": [
+    "Ayase"
+   ],
+   "lyricist": [
+    "Ayase"
+   ],
+   "mix": [
+    "biz"
+   ]
+  },
+  "id": "7e7cefc3-c8a1-49cc-a3eb-685dda2599ee",
+  "isrc": "TCJPO2151700",
+  "released": "2021-02-26",
+  "status": "ok",
+  "title": "睡魔",
   "v": 2
  },
  "睽違三年再次歌唱真的可以聽吧|僕はteaser": {
@@ -25702,6 +26055,11 @@
   "released": "2001-10-26",
   "status": "ok",
   "title": "約定",
+  "v": 2
+ },
+ "紅|羅言": {
+  "checked": "2026-11-24",
+  "status": "none",
   "v": 2
  },
  "紅日|李克勤": {
@@ -26643,6 +27001,11 @@
   "title": "見上げてごらん夜の星を",
   "v": 2
  },
+ "觀自在|marz23": {
+  "checked": "2026-11-24",
+  "status": "none",
+  "v": 2
+ },
  "誇り高きアイドル|honeyworks": {
   "album": "告白実行委員会 -FLYING SONGS- 愛してる",
   "artist": "HoneyWorks feat. Kotoha",
@@ -26705,6 +27068,28 @@
  "貓日|suisfromヨルシカ": {
   "checked": "2026-11-18",
   "status": "none",
+  "v": 2
+ },
+ "負けないで|zard": {
+  "album": "ZARD Forever Best ~25th Anniversary~",
+  "artist": "ZARD",
+  "checked": "2026-11-24",
+  "credits": {
+   "arranger": [
+    "葉山たけし"
+   ],
+   "composer": [
+    "織田哲郎"
+   ],
+   "lyricist": [
+    "坂井泉水"
+   ]
+  },
+  "id": "37635d48-9f7e-4f09-8af7-a9853fab73e7",
+  "isrc": "JPC400601115",
+  "released": "1993-01-27",
+  "status": "ok",
+  "title": "負けないで",
   "v": 2
  },
  "貴方の恋人になりたい|チョーキューメイ": {
@@ -26920,6 +27305,11 @@
   "released": "2020-07-29",
   "status": "ok",
   "title": "輝く未来 [塔の上のラプンツェル]〈日本語歌〉",
+  "v": 2
+ },
+ "轉念|翁立友": {
+  "checked": "2026-11-24",
+  "status": "none",
   "v": 2
  },
  "追|張國榮": {
@@ -27519,6 +27909,11 @@
  },
  "露水|李婭莎": {
   "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
+ "露水片尾曲|李婭莎": {
+  "checked": "2026-11-24",
   "status": "none",
   "v": 2
  },
