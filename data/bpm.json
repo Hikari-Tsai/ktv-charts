@@ -758,6 +758,17 @@
   "status": "ok",
   "track": "tw/1440619007"
  },
+ "beepbeep|lngshot": {
+  "avg_bpm": 80.917,
+  "beats": 41,
+  "bpm": 80.982,
+  "checked": "2026-11-25",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6821311340"
+ },
  "bemyguest|azari": {
   "avg_bpm": 129.993,
   "beats": 65,
@@ -3761,6 +3772,17 @@
   "status": "ok",
   "track": "tw/1537279545"
  },
+ "lostinit|gracieabrams": {
+  "avg_bpm": 120.968,
+  "beats": 61,
+  "bpm": 120.977,
+  "checked": "2026-11-25",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6827357439"
+ },
  "loveagain|globe": {
   "avg_bpm": 131.983,
   "beats": 64,
@@ -6049,6 +6071,17 @@
   "status": "ok",
   "track": "jp/1535535911"
  },
+ "upaway|lngshot": {
+  "avg_bpm": 74.948,
+  "beats": 37,
+  "bpm": 74.948,
+  "checked": "2026-11-25",
+  "mode": "average",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6821311339"
+ },
  "updown|exid": {
   "avg_bpm": 112.016,
   "beats": 56,
@@ -6191,6 +6224,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/370711731"
+ },
+ "wannago|lngshot": {
+  "avg_bpm": 82.702,
+  "beats": 41,
+  "bpm": 82.702,
+  "checked": "2026-11-25",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6821311338"
  },
  "wantedwanted|mrsgreenapple": {
   "avg_bpm": 159.919,

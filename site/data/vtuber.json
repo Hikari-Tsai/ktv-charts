@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-24T21:47:28+08:00",
+ "checked_at": "2026-11-25T21:00:06+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,7 +18,7 @@
     "en": "Most Covered · All Time",
     "ja": "累計カバー数"
    },
-   "period": "2026/11/24",
+   "period": "2026/11/25",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
    "videos": 1011,
    "rows": [
@@ -106,7 +106,7 @@
        "ppmXcSyBE80"
       ]
      ],
-     "last_rank": 2,
+     "last_rank": 1,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1840081736",
@@ -378,7 +378,7 @@
        "QxUK9UZvmBM"
       ]
      ],
-     "last_rank": 2,
+     "last_rank": 3,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1541979921",
@@ -2769,7 +2769,7 @@
        "myLecThcnu0"
       ]
      ],
-     "last_rank": 33,
+     "last_rank": 27,
      "is_new": false,
      "kkbox": "4o56KQl6tWt5k55ttq",
      "genre": "J-Pop",
@@ -3427,7 +3427,7 @@
        "qVM3JUGNt4U"
       ]
      ],
-     "last_rank": 33,
+     "last_rank": 34,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1625053470",
@@ -3507,7 +3507,7 @@
        "I3lb83ZJL40"
       ]
      ],
-     "last_rank": 33,
+     "last_rank": 34,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1572149732",
@@ -3595,7 +3595,7 @@
        "jQKxE43LDO4"
       ]
      ],
-     "last_rank": 33,
+     "last_rank": 34,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1718499388",
@@ -3683,7 +3683,7 @@
        "L1TPfQmqhKQ"
       ]
      ],
-     "last_rank": 33,
+     "last_rank": 34,
      "is_new": false,
      "genre": "Electronic",
      "apple": "tw/1475739739",
@@ -3780,7 +3780,7 @@
        "Y87FYT-4-F4"
       ]
      ],
-     "last_rank": 33,
+     "last_rank": 34,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1009273525",
@@ -13432,9 +13432,9 @@
      }
     }
    ],
-   "period_key": "2026-11-24",
+   "period_key": "2026-11-25",
    "rank_change": "history",
-   "fetched_at": "2026-11-24T21:47:28+08:00",
+   "fetched_at": "2026-11-25T21:00:06+08:00",
    "stale": false
   },
   {
@@ -13444,9 +13444,9 @@
     "en": "Most Covered · Last 90 Days",
     "ja": "直近 90 日のカバー数"
    },
-   "period": "2026/08/27 ~ 2026/11/24",
+   "period": "2026/08/28 ~ 2026/11/25",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 200,
+   "videos": 197,
    "rows": [
     {
      "rank": 1,
@@ -13551,6 +13551,86 @@
     },
     {
      "rank": 3,
+     "title": "ROSE",
+     "artist": "HANA",
+     "covers": 2,
+     "cover_video": "WmI4u0qJnbo",
+     "performers": [
+      [
+       "浠Mizuki",
+       "WmI4u0qJnbo"
+      ],
+      [
+       "諾恪里 Nokori",
+       "sLloyrUEZyM"
+      ]
+     ],
+     "last_rank": 13,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "tw/1803063210",
+     "spotify": "5JTNhYqB0eG0ivgZcBviJ0",
+     "bpm": 125,
+     "range": {
+      "low": 56,
+      "high": 76,
+      "m": {
+       "v": "vhigh",
+       "key": 1,
+       "oct": -12
+      },
+      "f": {
+       "v": "high"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Dance-pop",
+       "House"
+      ],
+      "mood": [
+       "danceable",
+       "party",
+       "happy"
+      ],
+      "instrument": [
+       "drums",
+       "bass",
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "ちゃんみな",
+       "Sofia Quinn"
+      ],
+      "composer": [
+       "ちゃんみな",
+       "Adam Kapit"
+      ],
+      "arranger": [
+       "Adam Kapit"
+      ],
+      "producer": [
+       "ちゃんみな",
+       "Adam Kapit"
+      ],
+      "year": "2025",
+      "released": "2025-04-02",
+      "label": "NO LABEL MUSIC / Sony Music Labels Inc",
+      "album": "ROSE - Single",
+      "isrc": "JPU902500941",
+      "copyright": "℗ 2025 NO LABEL MUSIC / Sony Music Labels Inc.",
+      "mb": "788151f8-e700-4135-b9a7-6254e99c2a5d",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 3,
      "title": "JANE DOE",
      "artist": "米津玄師 & Hikaru Utada",
      "covers": 2,
@@ -13565,7 +13645,7 @@
        "uTVshFu5KUs"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 3,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1840081736",
@@ -14159,7 +14239,72 @@
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
+     "title": "雨愛",
+     "artist": "楊丞琳",
+     "covers": 1,
+     "cover_video": "MYidnZe4SQU",
+     "performers": [
+      [
+       "結月莉莉奈 Ririna",
+       "MYidnZe4SQU"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true,
+     "kkbox": "8snyrQ7NV0ZqmaxIzZ",
+     "genre": "Mandopop",
+     "apple": "tw/352569303",
+     "spotify": "553GNiNqcudWfsF55RBDqz",
+     "bpm": 80,
+     "range": {
+      "low": 59,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "genre": [
+       "Ballad"
+      ],
+      "instrument": [
+       "electricguitar"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "Wonderful"
+      ],
+      "composer": [
+       "金大洲"
+      ],
+      "year": "2009",
+      "released": "2009-12-21",
+      "label": "新力博德曼",
+      "album": "雨愛(繽紛慶功版)",
+      "isrc": "TWA470915001",
+      "copyright": "℗ 2010 Sony Music Entertainment Taiwan Ltd.",
+      "ncl": 24385,
+      "src": [
+       "ncl",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 14,
      "title": "NIGHT DANCER",
      "artist": "imase",
      "covers": 1,
@@ -14170,8 +14315,8 @@
        "4EpGLNNyWZA"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 13,
+     "is_new": false,
      "kkbox": "4o56KQl6tWt5k55ttq",
      "genre": "J-Pop",
      "apple": "tw/1692762654",
@@ -14225,7 +14370,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "六等星",
      "artist": "ざらめ",
      "covers": 1,
@@ -14236,8 +14381,8 @@
        "D7ZTP0Xr4Yk"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 13,
+     "is_new": false,
      "genre": "Rock",
      "apple": "jp/1754900277",
      "spotify": "60d17t7XsJ2zPfwiPno21s",
@@ -14292,7 +14437,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "恋",
      "artist": "",
      "covers": 1,
@@ -14303,11 +14448,11 @@
        "ac6TBdAqm9c"
       ]
      ],
-     "last_rank": null,
-     "is_new": true
+     "last_rank": 13,
+     "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "睡魔",
      "artist": "缶缶 & Ayase",
      "covers": 1,
@@ -14318,8 +14463,8 @@
        "zsXm5W4BUZY"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 13,
+     "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1566131357",
      "spotify": "3qowLdpOFnatSAJz9zlYdK",
@@ -14375,7 +14520,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ルーマー",
      "artist": "ポリスピカデリー",
      "covers": 1,
@@ -14386,7 +14531,7 @@
        "eMsAE2HQZjY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1492852448",
@@ -14429,7 +14574,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ミッドナイト魯肉飯",
      "artist": "veno",
      "covers": 1,
@@ -14440,7 +14585,7 @@
        "ffr4Y8NobRw"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1716831159",
@@ -14508,7 +14653,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "可愛くてごめん",
      "artist": "HoneyWorks",
      "covers": 1,
@@ -14519,7 +14664,7 @@
        "l6hnMhl7h-8"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1638049033",
@@ -14568,7 +14713,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "百花繚乱",
      "artist": "幾田りら",
      "covers": 1,
@@ -14579,8 +14724,8 @@
        "0quJdFVc1Fc"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 13,
+     "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1786972177",
      "spotify": "79zgdvnTPyWSuTrd48Ik5O",
@@ -14633,7 +14778,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "numb numb",
      "artist": "TAK",
      "covers": 1,
@@ -14644,7 +14789,7 @@
        "P_8CoG2lJOc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6766820661",
@@ -14689,7 +14834,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Sis puella magica!",
      "artist": "",
      "covers": 1,
@@ -14700,11 +14845,11 @@
        "8Iu4eTcAP8k"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "とっておきの一撃を",
      "artist": "",
      "covers": 1,
@@ -14715,11 +14860,11 @@
        "66xHLM10mko"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "magnet",
      "artist": "minato feat. 初音ミク、巡音ルカ",
      "covers": 1,
@@ -14730,7 +14875,7 @@
        "AmU3rwKKkSg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/944116610",
@@ -14765,7 +14910,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "エンヴィーベイビー",
      "artist": "Kanaria",
      "covers": 1,
@@ -14776,7 +14921,7 @@
        "3AfTCyWjPNg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1554407037",
@@ -14826,7 +14971,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "リードコントロール",
      "artist": "",
      "covers": 1,
@@ -14837,11 +14982,11 @@
        "IfxJ-VsHdYo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "他守恆",
      "artist": "",
      "covers": 1,
@@ -14852,11 +14997,11 @@
        "TZKx9gfMDus"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "想和你看五月的晚霞",
      "artist": "陳華",
      "covers": 1,
@@ -14867,7 +15012,7 @@
        "nQCQMRmwNM4"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "kkbox": "4m43tA6nf387qp8Wsm",
      "genre": "Pop",
@@ -14927,7 +15072,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "男生都會騙人?Bois Lie",
      "artist": "",
      "covers": 1,
@@ -14938,11 +15083,11 @@
        "qXTdiR63vts"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "直到我遇見了你",
      "artist": "",
      "covers": 1,
@@ -14953,11 +15098,11 @@
        "2WIYMGnMplU"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ウワサのあの子",
      "artist": "紫 今",
      "covers": 1,
@@ -14968,7 +15113,7 @@
        "WevVWKtlfGY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1807477063",
@@ -15014,7 +15159,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "七彩的微風",
      "artist": "",
      "covers": 1,
@@ -15025,11 +15170,11 @@
        "xTGNYZ9icJQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Boku wa",
      "artist": "",
      "covers": 1,
@@ -15040,11 +15185,11 @@
        "Y4ELQY0-36A"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "-ERROR",
      "artist": "niki",
      "covers": 1,
@@ -15055,7 +15200,7 @@
        "d_pDfnmlOkc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/976473632",
@@ -15104,7 +15249,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "I Want It That Way",
      "artist": "Backstreet Boys",
      "covers": 1,
@@ -15115,7 +15260,7 @@
        "u7MS3ic_3os"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "kkbox": "OmB65Ue9TsIBfk3QDV",
      "genre": "Pop",
@@ -15169,7 +15314,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "おもかげ",
      "artist": "milet, Aimer & 幾田りら",
      "covers": 1,
@@ -15180,7 +15325,7 @@
        "q82N1LqRTPM"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1598330658",
@@ -15237,7 +15382,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "どうして",
      "artist": "高瀬統也",
      "covers": 1,
@@ -15248,7 +15393,7 @@
        "nZ2lYdON1kc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "kkbox": "Sofuf5q81DbhZVQduB",
      "genre": "Electronic",
@@ -15287,7 +15432,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "你是不是有點動心",
      "artist": "吳卓源",
      "covers": 1,
@@ -15298,7 +15443,7 @@
        "Fb6uLaCqbts"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "R&B/Soul",
      "apple": "tw/1800791057",
@@ -15346,7 +15491,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "掰掰",
      "artist": "持修",
      "covers": 1,
@@ -15357,7 +15502,7 @@
        "kCZXB_eJwIc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1784887066",
@@ -15420,7 +15565,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "BANG!!!",
      "artist": "EGOIST",
      "covers": 1,
@@ -15431,7 +15576,7 @@
        "gMhphMjRnps"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/1593580383",
@@ -15494,7 +15639,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "革命道中",
      "artist": "Aina The End",
      "covers": 1,
@@ -15505,7 +15650,7 @@
        "5XYkKjsobsE"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1821087731",
@@ -15548,7 +15693,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Luna say maybe",
      "artist": "初星学園 & 月村手毬",
      "covers": 1,
@@ -15559,7 +15704,7 @@
        "SNA9JICWZ4Q"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1744083898",
@@ -15624,7 +15769,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "アンノウン・マザーグース",
      "artist": "wowaka",
      "covers": 1,
@@ -15635,7 +15780,7 @@
        "0Kh-6vc_vcI"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "info": {
       "lyricist": [
@@ -15655,7 +15800,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Legends Never Die",
      "artist": "League of Legends Music & Against The Current",
      "covers": 1,
@@ -15666,7 +15811,7 @@
        "l0Lv8HmYRJk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Indie Rock",
      "apple": "tw/1833078315",
@@ -15710,7 +15855,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "比翼の羽根",
      "artist": "",
      "covers": 1,
@@ -15721,11 +15866,11 @@
        "tux7nfIHOnM"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "要不然我們就這樣一萬年",
      "artist": "黃霄雲",
      "covers": 1,
@@ -15736,7 +15881,7 @@
        "X5fbMuzE5AQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1681260838",
@@ -15799,7 +15944,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "深昏睡",
      "artist": "春野",
      "covers": 1,
@@ -15810,7 +15955,7 @@
        "yfNAW21lX80"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Electronic",
      "apple": "tw/1335309746",
@@ -15857,7 +16002,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "睽違三年再次歌唱,真的...可以聽吧",
      "artist": "",
      "covers": 1,
@@ -15868,11 +16013,11 @@
        "Lrm9IarybdA"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "FIRESTARTER",
      "artist": "",
      "covers": 1,
@@ -15883,11 +16028,11 @@
        "0p70ELKq2Cc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "不埒な喝采",
      "artist": "ポリスピカデリー",
      "covers": 1,
@@ -15898,7 +16043,7 @@
        "Yl0H9e1djOI"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1688512535",
@@ -15952,7 +16097,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Bunny Girl",
      "artist": "AKASAKI",
      "covers": 1,
@@ -15963,7 +16108,7 @@
        "qD3h1ObZBLs"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1769165500",
@@ -16019,7 +16164,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "FOCUS",
      "artist": "KIRA",
      "covers": 1,
@@ -16030,7 +16175,7 @@
        "B3gCLpr9CbQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1791495637",
@@ -16073,7 +16218,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Magical Lights",
      "artist": "",
      "covers": 1,
@@ -16084,11 +16229,11 @@
        "fDPD8V_AHUg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Welcome To MY World",
      "artist": "aespa",
      "covers": 1,
@@ -16099,7 +16244,7 @@
        "hQB9k6HHd-Y"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1890393510",
@@ -16145,7 +16290,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Be My Guest",
      "artist": "Azari",
      "covers": 1,
@@ -16156,7 +16301,7 @@
        "9s6tcQADAIQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1867377162",
@@ -16205,7 +16350,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Kyouran Hey Kids!!",
      "artist": "",
      "covers": 1,
@@ -16216,11 +16361,11 @@
        "6JtWRTuyMPo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ケイドロ",
      "artist": "",
      "covers": 1,
@@ -16231,11 +16376,11 @@
        "vVAozXH5RVg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "旅人へ",
      "artist": "まつり",
      "covers": 1,
@@ -16246,7 +16391,7 @@
        "GGThQ1gOOO8"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1723506574",
@@ -16296,7 +16441,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "INMU KING 中文版",
      "artist": "",
      "covers": 1,
@@ -16307,11 +16452,11 @@
        "j-4ummev2EQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "This Is Halloween",
      "artist": "",
      "covers": 1,
@@ -16322,11 +16467,11 @@
        "zmgE7eXb1Lk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "キリヱ",
      "artist": "てにをは",
      "covers": 1,
@@ -16337,7 +16482,7 @@
        "BdrVc3dwkOI"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1764262669",
@@ -16383,7 +16528,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ザムザ",
      "artist": "てにをは",
      "covers": 1,
@@ -16394,7 +16539,7 @@
        "HcIlVKxr1SE"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1681228886",
@@ -16445,7 +16590,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "*. デビットビット",
      "artist": "",
      "covers": 1,
@@ -16456,11 +16601,11 @@
        "crGFaCXbKgg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "心予報",
      "artist": "Eve",
      "covers": 1,
@@ -16471,7 +16616,7 @@
        "8DryJT7JLkI"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1495748563",
@@ -16534,7 +16679,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "VOIDS",
      "artist": "Pretty Patterns",
      "covers": 1,
@@ -16545,7 +16690,7 @@
        "AwEmelD0SHM"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Singer/Songwriter",
      "apple": "tw/1830306857",
@@ -16592,7 +16737,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "DUET",
      "artist": "ZICO & Lilas Ikuta",
      "covers": 1,
@@ -16603,7 +16748,7 @@
        "cz3piDQq3k4"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1859542280",
@@ -16651,7 +16796,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
      "artist": "宝鐘マリン",
      "covers": 1,
@@ -16662,7 +16807,7 @@
        "V9GzJAmrpdo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1635276994",
@@ -16711,7 +16856,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ジャックポットサッドガール",
      "artist": "syudou",
      "covers": 1,
@@ -16722,7 +16867,7 @@
        "GyjVhvJWkiQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1838981493",
@@ -16777,7 +16922,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "日本人妻唱",
      "artist": "",
      "covers": 1,
@@ -16788,11 +16933,11 @@
        "oukmQXuYmEk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "星の消えた夜に",
      "artist": "Aimer",
      "covers": 1,
@@ -16803,7 +16948,7 @@
        "Z6Uq5gokpvk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1536126606",
@@ -16854,7 +16999,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "さみしいひと",
      "artist": "理芽",
      "covers": 1,
@@ -16865,7 +17010,7 @@
        "DeKD2dek5_8"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1688521735",
@@ -16923,7 +17068,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "激昂サバイブ Complete Edition",
      "artist": "",
      "covers": 1,
@@ -16934,11 +17079,11 @@
        "XEVg2y6Kygg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "真夜中マーメイド",
      "artist": "=LOVE",
      "covers": 1,
@@ -16949,7 +17094,7 @@
        "56srsELixOg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1652633647",
@@ -17001,7 +17146,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "風月吻眉梢",
      "artist": "",
      "covers": 1,
@@ -17012,11 +17157,11 @@
        "0X7NlC6TOQQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "MirroR",
      "artist": "",
      "covers": 1,
@@ -17027,11 +17172,11 @@
        "bojMmYIXzVE"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "T.B.H",
      "artist": "QWER",
      "covers": 1,
@@ -17042,7 +17187,7 @@
        "v4Q5Csy_Kbs"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1737366585",
@@ -17089,7 +17234,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "漫夜",
      "artist": "澪Rei",
      "covers": 1,
@@ -17100,7 +17245,7 @@
        "5wsfKFYzGSk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1719594575",
@@ -17157,7 +17302,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "The Story of Us",
      "artist": "milet",
      "covers": 1,
@@ -17168,7 +17313,7 @@
        "lGOnsYJf4jg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1863631485",
@@ -17221,7 +17366,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ACTOR",
      "artist": "友成空",
      "covers": 1,
@@ -17232,7 +17377,7 @@
        "chR6tQZbqMA"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1779065010",
@@ -17272,7 +17417,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "海鳴り",
      "artist": "katawara",
      "covers": 1,
@@ -17283,7 +17428,7 @@
        "Xbc85GBo3CE"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6803469575",
@@ -17326,7 +17471,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Pentas",
      "artist": "",
      "covers": 1,
@@ -17337,11 +17482,11 @@
        "SzNh2mUooQ0"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Song for...",
      "artist": "ROOKiEZ is PUNK'D",
      "covers": 1,
@@ -17352,7 +17497,7 @@
        "dCLbUlJVZXA"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Rock",
      "apple": "tw/1539321793",
@@ -17406,7 +17551,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "三時のキス",
      "artist": "ロクデナシ",
      "covers": 1,
@@ -17417,7 +17562,7 @@
        "hJHlkIJBaIQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1572215361",
@@ -17480,7 +17625,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "セレナーデ",
      "artist": "なとり",
      "covers": 1,
@@ -17491,7 +17636,7 @@
        "EVs_ssYiN6o"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1858168846",
@@ -17545,7 +17690,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "モエチャッカファイア",
      "artist": "",
      "covers": 1,
@@ -17556,11 +17701,11 @@
        "EP9IJxkFlY0"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "中華料理屋の酢豚が食べたい",
      "artist": "",
      "covers": 1,
@@ -17571,11 +17716,11 @@
        "1dqhBKeKr70"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "少女A",
      "artist": "椎名もた",
      "covers": 1,
@@ -17586,7 +17731,7 @@
        "P0Y-xQJeHcc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1589119763",
@@ -17636,7 +17781,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "夢醒時分",
      "artist": "陳淑樺",
      "covers": 1,
@@ -17647,7 +17792,7 @@
        "GJaSPU1Fh4w"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1046470325",
@@ -17702,7 +17847,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "打上花火",
      "artist": "米津玄師",
      "covers": 1,
@@ -17713,7 +17858,7 @@
        "Xi1NXYbO1w4"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "kkbox": "Cs_XOi7d3ZiY3N-8lZ",
      "genre": "J-Pop",
@@ -17775,7 +17920,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "跳樓機",
      "artist": "LBI利比",
      "covers": 1,
@@ -17786,7 +17931,7 @@
        "Ye23L-kAGFk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "kkbox": "9YnRorQutUrZ3I2Jpm",
      "genre": "Mandopop",
@@ -17828,7 +17973,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "嘆雲兮",
      "artist": "",
      "covers": 1,
@@ -17839,11 +17984,11 @@
        "MEAFZZxHSgs"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ファンサ",
      "artist": "HoneyWorks",
      "covers": 1,
@@ -17854,7 +17999,7 @@
        "m-jLQc22whA"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1494664821",
@@ -17904,7 +18049,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "蝶々結び",
      "artist": "Aimer",
      "covers": 1,
@@ -17915,7 +18060,7 @@
        "rPMn5FtQOPY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1538259003",
@@ -17980,7 +18125,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "鷲峰良",
      "artist": "",
      "covers": 1,
@@ -17991,11 +18136,11 @@
        "Rk4jfTDpMgk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Departures",
      "artist": "",
      "covers": 1,
@@ -18006,11 +18151,11 @@
        "rtwZSaqLMgs"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "小夜子",
      "artist": "みきとP",
      "covers": 1,
@@ -18021,7 +18166,7 @@
        "47ZYKliUKOo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/980989352",
@@ -18078,7 +18223,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "STAGE OF SEKAI",
      "artist": "",
      "covers": 1,
@@ -18089,11 +18234,11 @@
        "n4e0Ze-tT7M"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Windy Summer",
      "artist": "",
      "covers": 1,
@@ -18104,11 +18249,11 @@
        "GOpQdGefnic"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "一個人想著一個人",
      "artist": "",
      "covers": 1,
@@ -18119,11 +18264,11 @@
        "8r0dEohNDYQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "心月辭·何所往",
      "artist": "鳴潮先約電台 & 蘇詩丁",
      "covers": 1,
@@ -18134,7 +18279,7 @@
        "cq0fJoHmQ4c"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Video Game",
      "apple": "tw/6812959105",
@@ -18174,7 +18319,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "褪黑素",
      "artist": "江皓南",
      "covers": 1,
@@ -18185,7 +18330,7 @@
        "vlPN7wlFGvA"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1863202344",
@@ -18229,7 +18374,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "CH4NGE",
      "artist": "Giga",
      "covers": 1,
@@ -18240,7 +18385,7 @@
        "QRcTX1JJaVo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1625063291",
@@ -18287,7 +18432,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Test Me",
      "artist": "",
      "covers": 1,
@@ -18298,11 +18443,11 @@
        "Y_XuvCuYIWQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "自己肯定感爆上げ↑↑しゅきしゅきソング",
      "artist": "初星学園 & 藤田ことね",
      "covers": 1,
@@ -18313,7 +18458,7 @@
        "Wkh6nRqDsTI"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1828134663",
@@ -18363,7 +18508,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Alice in N.Y.",
      "artist": "",
      "covers": 1,
@@ -18374,11 +18519,11 @@
        "b9AEhGlkslg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "SAYONARA MAYBE",
      "artist": "NOMELON NOLEMON",
      "covers": 1,
@@ -18389,7 +18534,7 @@
        "7F71LacvS2o"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1698047115",
@@ -18447,7 +18592,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "我又不是女超人",
      "artist": "孫盛希",
      "covers": 1,
@@ -18458,7 +18603,7 @@
        "TG8IVixGaFI"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1440113121",
@@ -18518,7 +18663,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ブレーメン",
      "artist": "ヨルシカ",
      "covers": 1,
@@ -18529,7 +18674,7 @@
        "hZk8w64tOqo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1674468254",
@@ -18573,7 +18718,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "愛你",
      "artist": "王心凌",
      "covers": 1,
@@ -18584,7 +18729,7 @@
        "YLp6iRqaFu8"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1708557590",
@@ -18641,7 +18786,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "旋轉木馬-米爺 x 黃淑蔓 Feanna Wong 旋轉木馬",
      "artist": "",
      "covers": 1,
@@ -18652,11 +18797,11 @@
        "_oZU-NXYuRc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "雪の音",
      "artist": "Novelbright",
      "covers": 1,
@@ -18667,7 +18812,7 @@
        "uit0Bf7y-WA"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1719724057",
@@ -18710,7 +18855,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "VII. THE RUST A.A",
      "artist": "茅原実里",
      "covers": 1,
@@ -18721,11 +18866,11 @@
        "sUgRCE4SU74"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ロミオとシンデレラ",
      "artist": "doriko",
      "covers": 1,
@@ -18736,7 +18881,7 @@
        "Fd0SIf37MW8"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1648263854",
@@ -18782,7 +18927,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "WDA",
      "artist": "aespa",
      "covers": 1,
@@ -18793,7 +18938,7 @@
        "r5XGBIbzAaU"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1894805932",
@@ -18843,7 +18988,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ビビデバ",
      "artist": "星街すいせい",
      "covers": 1,
@@ -18854,7 +18999,7 @@
        "CxWoaTbTvus"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1737099644",
@@ -18919,7 +19064,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "不小心愛上你",
      "artist": "",
      "covers": 1,
@@ -18930,11 +19075,11 @@
        "Do_WaG1ymdY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "僕が死のうと思ったのは",
      "artist": "中島 美嘉",
      "covers": 1,
@@ -18945,7 +19090,7 @@
        "BWqhsPfrjBg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1535552050",
@@ -19001,7 +19146,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "夏季紀念Cover 夏祭り",
      "artist": "",
      "covers": 1,
@@ -19012,11 +19157,11 @@
        "Dw4eix1mdmU"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "夜盤陷阱",
      "artist": "",
      "covers": 1,
@@ -19027,11 +19172,11 @@
        "Bka2Vp6N4lY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "来世で会おう",
      "artist": "さユり",
      "covers": 1,
@@ -19042,7 +19187,7 @@
        "s-4dGrTJbkE"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1536017194",
@@ -19098,7 +19243,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "小喋日和",
      "artist": "FantasticYouth",
      "covers": 1,
@@ -19109,7 +19254,7 @@
        "jMhFod7DpwQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1618155350",
@@ -19164,7 +19309,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "On the Rocks",
      "artist": "",
      "covers": 1,
@@ -19175,11 +19320,11 @@
        "jHEhKrx6wjU"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Virtual Insanity",
      "artist": "Jamiroquai",
      "covers": 1,
@@ -19190,7 +19335,7 @@
        "6XtiCn0xJlI"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1479062292",
@@ -19241,7 +19386,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "唯一",
      "artist": "告五人",
      "covers": 1,
@@ -19252,7 +19397,7 @@
        "BIuJIiq1cX8"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1544722556",
@@ -19316,7 +19461,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "想成為守護你的那個人",
      "artist": "",
      "covers": 1,
@@ -19327,11 +19472,11 @@
        "cGMdg_TwQ3A"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "愛貓",
      "artist": "",
      "covers": 1,
@@ -19342,11 +19487,11 @@
        "skvmbrFvyNo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Lulala! Lululala!",
      "artist": "鳴潮先約電台 & Maggie 麥吉",
      "covers": 1,
@@ -19357,7 +19502,7 @@
        "23-9K2f730c"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Video Game",
      "apple": "tw/1816428367",
@@ -19401,7 +19546,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "セプテンバーさん",
      "artist": "Aimer",
      "covers": 1,
@@ -19412,7 +19557,7 @@
        "P2_fgEyoUC0"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1538258771",
@@ -19479,7 +19624,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "戀愛裁判",
      "artist": "40mP",
      "covers": 1,
@@ -19490,11 +19635,11 @@
        "kq06Ay9yeXE"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "もえちゃっかふぁいあ",
      "artist": "",
      "covers": 1,
@@ -19505,11 +19650,11 @@
        "IRIO2bWta7E"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "天行九歌",
      "artist": "霍尊",
      "covers": 1,
@@ -19520,7 +19665,7 @@
        "HQHyTWE-oT4"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6763186864",
@@ -19563,7 +19708,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "最上級にかわいいの!",
      "artist": "",
      "covers": 1,
@@ -19574,11 +19719,11 @@
        "BGKFnpkrylY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "貓日",
      "artist": "suis from ヨルシカ",
      "covers": 1,
@@ -19589,11 +19734,11 @@
        "-oJs5icuSMg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ギビュリタ",
      "artist": "",
      "covers": 1,
@@ -19604,11 +19749,11 @@
        "xpqjqww0_R8"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "一二三",
      "artist": "",
      "covers": 1,
@@ -19619,11 +19764,11 @@
        "pdozRR54zTM"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "星の唄",
      "artist": "",
      "covers": 1,
@@ -19634,11 +19779,11 @@
        "2OPDLsaYWKc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "I still",
      "artist": "milet",
      "covers": 1,
@@ -19649,7 +19794,7 @@
        "yQ3_Tod8Jtc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1790641200",
@@ -19701,7 +19846,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "兩萬感謝~ 了Letter Song.ᐟ來看小小給你的信吧",
      "artist": "",
      "covers": 1,
@@ -19712,11 +19857,11 @@
        "hKKpM_9eX5s"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "心拍数#0822",
      "artist": "",
      "covers": 1,
@@ -19727,11 +19872,11 @@
        "uvIGQAM1XFU"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "クリームソーダとシャンデリア",
      "artist": "",
      "covers": 1,
@@ -19742,11 +19887,11 @@
        "j4f8dV29qJg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "夜の女王の狼たち",
      "artist": "未来古代楽団",
      "covers": 1,
@@ -19757,7 +19902,7 @@
        "6u7ZCse14iQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Worldwide",
      "apple": "jp/6810389192",
@@ -19804,7 +19949,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Vtuber雙人 Cover",
      "artist": "黃乙玲、郭桂彬",
      "covers": 1,
@@ -19815,11 +19960,11 @@
        "Hc6t0dxFZjQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "寄り酔い",
      "artist": "和ぬか",
      "covers": 1,
@@ -19830,7 +19975,7 @@
        "nJUj17dAa7A"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1625053470",
@@ -19875,7 +20020,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "一半一半",
      "artist": "Top Barry & INDEcompany",
      "covers": 1,
@@ -19886,7 +20031,7 @@
        "LVGBgsnDjx4"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1864847118",
@@ -19925,7 +20070,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "怪獣",
      "artist": "サカナクション",
      "covers": 1,
@@ -19936,7 +20081,7 @@
        "tIM9kff-tHc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1795905600",
@@ -19987,7 +20132,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ただ君に晴れ",
      "artist": "ヨルシカ",
      "covers": 1,
@@ -19998,7 +20143,7 @@
        "8V0hTGXXeG0"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1648876333",
@@ -20054,7 +20199,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "いかないでCover",
      "artist": "",
      "covers": 1,
@@ -20065,11 +20210,11 @@
        "70_h4MBuDPg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "夢と葉桜",
      "artist": "",
      "covers": 1,
@@ -20080,11 +20225,11 @@
        "r3gta-6Z2Oc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "zZz",
      "artist": "",
      "covers": 1,
@@ -20095,11 +20240,11 @@
        "R04p3BrOPbs"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "愛言葉V",
      "artist": "",
      "covers": 1,
@@ -20110,11 +20255,11 @@
        "BcoEfjflVSs"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "もうそう",
      "artist": "",
      "covers": 1,
@@ -20125,11 +20270,11 @@
        "FWF9Z--m9rU"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ANO",
      "artist": "",
      "covers": 1,
@@ -20140,11 +20285,11 @@
        "_OOR68eHQ_0"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "アイスドロップ",
      "artist": "Aqu3ra",
      "covers": 1,
@@ -20155,7 +20300,7 @@
        "yVpYm6IGG2E"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1614607928",
@@ -20207,7 +20352,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "プロポーズ",
      "artist": "内緒のピアス",
      "covers": 1,
@@ -20218,7 +20363,7 @@
        "n-OohV_lbXg"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1705536695",
@@ -20268,7 +20413,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "向日葵",
      "artist": "Ado",
      "covers": 1,
@@ -20279,7 +20424,7 @@
        "jzRnA5gsZ8c"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1694654875",
@@ -20343,7 +20488,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "森森鈴蘭-捕夢謊",
      "artist": "",
      "covers": 1,
@@ -20354,11 +20499,11 @@
        "OQs1N1FzUbc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "赤伶",
      "artist": "HITA",
      "covers": 1,
@@ -20369,7 +20514,7 @@
        "xKsgGpnVE60"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1788479625",
@@ -20414,7 +20559,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "養我",
      "artist": "",
      "covers": 1,
@@ -20425,11 +20570,11 @@
        "8O-lhmQUDYY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Skyfall",
      "artist": "Adele",
      "covers": 1,
@@ -20440,7 +20585,7 @@
        "8Ph3srL7NdQ"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/566322365",
@@ -20507,7 +20652,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "好樂團 x 瑪啡因",
      "artist": "",
      "covers": 1,
@@ -20518,11 +20663,11 @@
        "HtSFvz9XaeM"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "深紅の運命",
      "artist": "",
      "covers": 1,
@@ -20533,11 +20678,11 @@
        "sTYzhApzNJc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Love wins all",
      "artist": "IU",
      "covers": 1,
@@ -20548,7 +20693,7 @@
        "YwUBAsBXwoo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1731352617",
@@ -20595,7 +20740,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "人間不值得",
      "artist": "黃詩扶",
      "covers": 1,
@@ -20606,7 +20751,7 @@
        "UgJjdDl_pRY"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6774737403",
@@ -20665,7 +20810,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "今天我生日,ギターと孤独と蒼い惑星",
      "artist": "",
      "covers": 1,
@@ -20676,11 +20821,11 @@
        "_kCqoIa-FcM"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "句號",
      "artist": "鄧紫棋",
      "covers": 1,
@@ -20691,7 +20836,7 @@
        "_oAdSJzLrVk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1487768988",
@@ -20730,7 +20875,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "最低な人",
      "artist": "",
      "covers": 1,
@@ -20741,11 +20886,11 @@
        "dHszfQ6Sp4w"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "ラブレター",
      "artist": "YOASOBI",
      "covers": 1,
@@ -20756,7 +20901,7 @@
        "vRy65p-5U6k"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1579051058",
@@ -20819,7 +20964,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "如果時光機存在,我想回到那時候",
      "artist": "",
      "covers": 1,
@@ -20830,11 +20975,11 @@
        "DqAoyt-90XA"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "星降る海",
      "artist": "Aqu3ra, 超かぐや姫! & 月見ヤチヨ(cv.早見沙織)",
      "covers": 1,
@@ -20845,7 +20990,7 @@
        "4z6T-oGZ47s"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1869843665",
@@ -20902,7 +21047,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "是不是每種感情都不容沉溺放肆",
      "artist": "",
      "covers": 1,
@@ -20913,11 +21058,11 @@
        "gcb51mg3Oe4"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "おこちゃま戦争",
      "artist": "",
      "covers": 1,
@@ -20928,87 +21073,11 @@
        "HhiG_3cjn-4"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
-     "title": "ROSE",
-     "artist": "HANA",
-     "covers": 1,
-     "cover_video": "sLloyrUEZyM",
-     "performers": [
-      [
-       "諾恪里 Nokori",
-       "sLloyrUEZyM"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "tw/1803063210",
-     "spotify": "5JTNhYqB0eG0ivgZcBviJ0",
-     "bpm": 125,
-     "range": {
-      "low": 56,
-      "high": 76,
-      "m": {
-       "v": "vhigh",
-       "key": 1,
-       "oct": -12
-      },
-      "f": {
-       "v": "high"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Dance-pop",
-       "House"
-      ],
-      "mood": [
-       "danceable",
-       "party",
-       "happy"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "ちゃんみな",
-       "Sofia Quinn"
-      ],
-      "composer": [
-       "ちゃんみな",
-       "Adam Kapit"
-      ],
-      "arranger": [
-       "Adam Kapit"
-      ],
-      "producer": [
-       "ちゃんみな",
-       "Adam Kapit"
-      ],
-      "year": "2025",
-      "released": "2025-04-02",
-      "label": "NO LABEL MUSIC / Sony Music Labels Inc",
-      "album": "ROSE - Single",
-      "isrc": "JPU902500941",
-      "copyright": "℗ 2025 NO LABEL MUSIC / Sony Music Labels Inc.",
-      "mb": "788151f8-e700-4135-b9a7-6254e99c2a5d",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 13,
+     "rank": 14,
      "title": "シュガーロス",
      "artist": "和ぬか",
      "covers": 1,
@@ -21019,7 +21088,7 @@
        "dgcRmEJ91B0"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1600616108",
@@ -21060,7 +21129,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "酔いどれ知らず",
      "artist": "Kanaria",
      "covers": 1,
@@ -21071,7 +21140,7 @@
        "RofxzTjmbGc"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1622001134",
@@ -21123,7 +21192,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Lullaby",
      "artist": "",
      "covers": 1,
@@ -21134,11 +21203,11 @@
        "MmddveKkQpo"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "偏食",
      "artist": "香椎モイミ",
      "covers": 1,
@@ -21149,7 +21218,7 @@
        "MfxVfXZzFXE"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1525996943",
@@ -21194,7 +21263,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "Walking",
      "artist": "",
      "covers": 1,
@@ -21205,11 +21274,11 @@
        "YpKCgPOwuPk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "残酷な夜に輝け",
      "artist": "LiSA",
      "covers": 1,
@@ -21220,7 +21289,7 @@
        "7j6k7aOjK9Q"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1827140040",
@@ -21283,7 +21352,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "夏霞",
      "artist": "あたらよ",
      "covers": 1,
@@ -21294,7 +21363,7 @@
        "p_eY9rO1qbk"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1578238903",
@@ -21351,7 +21420,7 @@
      }
     },
     {
-     "rank": 13,
+     "rank": 14,
      "title": "我們一樣可惜",
      "artist": "好樂團 & 瑪啡因",
      "covers": 1,
@@ -21362,7 +21431,7 @@
        "fhw1i6hE-6w"
       ]
      ],
-     "last_rank": 12,
+     "last_rank": 13,
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1824114252",
@@ -21401,276 +21470,11 @@
        "apple"
       ]
      }
-    },
-    {
-     "rank": 13,
-     "title": "カレンダーガール",
-     "artist": "",
-     "covers": 1,
-     "cover_video": "tT6b2z4SGxU",
-     "performers": [
-      [
-       "洛可洛斯特Loco Lost",
-       "tT6b2z4SGxU"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false
-    },
-    {
-     "rank": 13,
-     "title": "ダーリン",
-     "artist": "須田景凪",
-     "covers": 1,
-     "cover_video": "EcmZ2jE4Vtc",
-     "performers": [
-      [
-       "SETSU 褻君せつ",
-       "EcmZ2jE4Vtc"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1663457138",
-     "spotify": "1dRZX4cj6zGKKylcAydIG1",
-     "bpm": 140,
-     "range": {
-      "low": 53,
-      "high": 63,
-      "m": {
-       "v": "ok"
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "both"
-     },
-     "tags": {
-      "genre": [
-       "House"
-      ],
-      "mood": [
-       "danceable"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "須田景凪"
-      ],
-      "composer": [
-       "須田景凪"
-      ],
-      "arranger": [
-       "須田景凪"
-      ],
-      "mix": [
-       "岡村弦"
-      ],
-      "recording": [
-       "岡村弦"
-      ],
-      "year": "2022",
-      "released": "2022-04-08",
-      "label": "WARNER MUSIC JAPAN INC",
-      "album": "ダーリン - Single",
-      "isrc": "JPWP02300009",
-      "copyright": "℗ 2023 WARNER MUSIC JAPAN INC.",
-      "mb": "8fe2018b-ec54-4f2b-83ec-89fcd7a0bda0",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 13,
-     "title": "ホシアイ",
-     "artist": "レフティーモンスターP feat.GUMI",
-     "covers": 1,
-     "cover_video": "_3UM0hYvATU",
-     "performers": [
-      [
-       "塞西埃伊 CirceAeaea",
-       "_3UM0hYvATU"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "Anime",
-     "apple": "jp/580485595",
-     "bpm": 165,
-     "range": {
-      "low": 53,
-      "high": 70,
-      "m": {
-       "v": "vhigh",
-       "key": -4,
-       "oct": 0
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Alternative Rock"
-      ],
-      "instrument": [
-       "drums",
-       "bass",
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "year": "2012",
-      "released": "2012-12-05",
-      "label": "ﾚﾌﾃｨｰﾓﾝｽﾀｰP､伊東歌詞太郎",
-      "album": "ホシアイ - Single (feat. GUMI) - Single",
-      "copyright": "℗ ﾚﾌﾃｨｰﾓﾝｽﾀｰP､伊東歌詞太郎",
-      "src": [
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 13,
-     "title": "好きだから。",
-     "artist": "『ユイカ』",
-     "covers": 1,
-     "cover_video": "7uZMrq78SGM",
-     "performers": [
-      [
-       "虎コ Torako × 愉快販",
-       "7uZMrq78SGM"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1572149732",
-     "spotify": "02xwA3Ej9NPetftp9V7VZ3",
-     "bpm": 83,
-     "range": {
-      "low": 55,
-      "high": 72,
-      "m": {
-       "v": "vhigh",
-       "key": 2,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Pop Rock"
-      ],
-      "instrument": [
-       "electricguitar",
-       "synthesizer"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "『ユイカ』"
-      ],
-      "composer": [
-       "『ユイカ』"
-      ],
-      "year": "2021",
-      "released": "2021-06-27",
-      "label": "Yuika",
-      "album": "好きだから。 - Single",
-      "isrc": "JPPO02101687",
-      "copyright": "℗ 2021 Yuika",
-      "mb": "61c91a12-1ab3-4db5-acbf-e6c438252773",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 13,
-     "title": "安靜",
-     "artist": "周杰倫",
-     "covers": 1,
-     "cover_video": "5FBTuwSKchQ",
-     "performers": [
-      [
-       "Entrovia 安特羅迦",
-       "5FBTuwSKchQ"
-      ]
-     ],
-     "last_rank": 12,
-     "is_new": false,
-     "kkbox": "Paz8PyxaWKr82o2PlV",
-     "genre": "Mandopop",
-     "apple": "tw/535739359",
-     "spotify": "4TJlU2Vg1e0FDOdQhqF246",
-     "bpm": 72,
-     "range": {
-      "low": 53,
-      "high": 65,
-      "m": {
-       "v": "ok"
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "both"
-     },
-     "tags": {
-      "genre": [
-       "Ballad"
-      ],
-      "mood": [
-       "relaxed",
-       "sad"
-      ],
-      "instrument": [
-       "piano"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "周杰倫"
-      ],
-      "composer": [
-       "周杰倫"
-      ],
-      "arranger": [
-       "鍾興民"
-      ],
-      "year": "2001",
-      "released": "2001-09-01",
-      "label": "新力博德曼",
-      "album": "Jay周杰倫范特西",
-      "isrc": "TWK970100210",
-      "maker": "黑白鍵(周杰倫)",
-      "copyright": "℗ 2001 JVR MUSIC INTERNATIONAL LTD.",
-      "ncl": 80813,
-      "src": [
-       "ncl",
-       "apple"
-      ]
-     }
     }
    ],
-   "period_key": "2026-08-27_2026-11-24",
+   "period_key": "2026-08-28_2026-11-25",
    "rank_change": "history",
-   "fetched_at": "2026-11-24T21:47:28+08:00",
+   "fetched_at": "2026-11-25T21:00:06+08:00",
    "stale": false
   }
  ]

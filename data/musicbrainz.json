@@ -1140,6 +1140,17 @@
   "title": "Beauty and the Beast",
   "v": 2
  },
+ "beepbeep|lngshot": {
+  "album": "S.W.I.S.H.",
+  "artist": "LNGSHOT",
+  "checked": "2026-11-25",
+  "id": "2203c931-f525-494c-9a27-95eb8421a55f",
+  "isrc": "KRMIM2656005",
+  "released": "2026-11-10",
+  "status": "ok",
+  "title": "Beep Beep",
+  "v": 2
+ },
  "bemyguest|azari": {
   "album": "Be My Guest",
   "artist": "Azari",
@@ -5482,6 +5493,35 @@
   "title": "LOSER",
   "v": 2
  },
+ "lostinit|gracieabrams": {
+  "album": "Daughter from Hell (deluxe)",
+  "artist": "Gracie Abrams",
+  "checked": "2026-11-25",
+  "credits": {
+   "composer": [
+    "Gracie Abrams",
+    "Amy Allen",
+    "Jim‐E Stack"
+   ],
+   "lyricist": [
+    "Gracie Abrams",
+    "Amy Allen",
+    "Jim‐E Stack"
+   ],
+   "mix": [
+    "Serban Ghenea"
+   ],
+   "producer": [
+    "Jim‐E Stack"
+   ]
+  },
+  "id": "ff13d01b-3b82-4f2b-a919-911cb0498abd",
+  "isrc": "USUG12610238",
+  "released": "2026-11-20",
+  "status": "ok",
+  "title": "Lost in It",
+  "v": 2
+ },
  "loveagain|globe": {
   "album": "avex 15th Anniversary Presents 15年150曲 〜J-Pop 50 Hit Tracks Vol.1〜",
   "artist": "globe",
@@ -9082,6 +9122,17 @@
   "title": "unravel",
   "v": 2
  },
+ "upaway|lngshot": {
+  "album": "S.W.I.S.H.",
+  "artist": "LNGSHOT",
+  "checked": "2026-11-25",
+  "id": "f722ff9c-449e-49ca-8740-e302bc1c7727",
+  "isrc": "KRMIM2656004",
+  "released": "2026-11-10",
+  "status": "ok",
+  "title": "Up & Away",
+  "v": 2
+ },
  "updown|exid": {
   "album": "Incarnation of Money OST Pt.2",
   "artist": "EXID",
@@ -9276,6 +9327,17 @@
  "walking|novelbright5anniversary": {
   "checked": "2026-11-18",
   "status": "none",
+  "v": 2
+ },
+ "wannago|lngshot": {
+  "album": "S.W.I.S.H.",
+  "artist": "LNGSHOT",
+  "checked": "2026-11-25",
+  "id": "ee9a12d7-40ff-458e-8685-dade0bb0b26f",
+  "isrc": "KRMIM2656003",
+  "released": "2026-11-10",
+  "status": "ok",
+  "title": "Wanna Go",
   "v": 2
  },
  "watchme|kdaleagueoflegends": {
@@ -9604,6 +9666,11 @@
   "released": "2001-12-19",
   "status": "ok",
   "title": "White Love",
+  "v": 2
+ },
+ "why|金旼鐘": {
+  "checked": "2026-11-25",
+  "status": "none",
   "v": 2
  },
  "windingroad|絢香コブクロ": {
@@ -26569,6 +26636,11 @@
   "title": "花に亡霊",
   "v": 2
  },
+ "花心大蘿蔔|chollydjsoda": {
+  "checked": "2026-11-25",
+  "status": "none",
+  "v": 2
+ },
  "花束|backnumber": {
   "album": "Encore",
   "artist": "back number",
@@ -27057,6 +27129,11 @@
  },
  "讓我成為你的翅膀|蕭煌奇": {
   "checked": "2026-11-08",
+  "status": "none",
+  "v": 2
+ },
+ "讓老年人去上班|宋鹽球": {
+  "checked": "2026-11-25",
   "status": "none",
   "v": 2
  },
