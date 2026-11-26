@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-25T21:00:06+08:00",
+ "checked_at": "2026-11-26T20:38:53+08:00",
  "errors": [],
  "charts": [
   {
@@ -18,7 +18,7 @@
     "en": "Most Covered · All Time",
     "ja": "累計カバー数"
    },
-   "period": "2026/11/25",
+   "period": "2026/11/26",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
    "videos": 1011,
    "rows": [
@@ -10386,6 +10386,21 @@
      "apple": "jp/1648865575",
      "spotify": "6O4twzzHHIM6mmTqPpJNYE",
      "bpm": 78,
+     "range": {
+      "low": 54,
+      "high": 73,
+      "m": {
+       "v": "vhigh",
+       "key": 3,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -1,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Indie Rock"
@@ -13432,9 +13447,9 @@
      }
     }
    ],
-   "period_key": "2026-11-25",
+   "period_key": "2026-11-26",
    "rank_change": "history",
-   "fetched_at": "2026-11-25T21:00:06+08:00",
+   "fetched_at": "2026-11-26T20:38:53+08:00",
    "stale": false
   },
   {
@@ -13444,9 +13459,9 @@
     "en": "Most Covered · Last 90 Days",
     "ja": "直近 90 日のカバー数"
    },
-   "period": "2026/08/28 ~ 2026/11/25",
+   "period": "2026/08/29 ~ 2026/11/26",
    "source_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
-   "videos": 197,
+   "videos": 196,
    "rows": [
     {
      "rank": 1,
@@ -13551,6 +13566,75 @@
     },
     {
      "rank": 3,
+     "title": "セレナーデ",
+     "artist": "なとり",
+     "covers": 2,
+     "cover_video": "raBfgvqafgw",
+     "performers": [
+      [
+       "Cetro 賽特珞",
+       "raBfgvqafgw"
+      ],
+      [
+       "諾恪里 Nokori",
+       "EVs_ssYiN6o"
+      ]
+     ],
+     "last_rank": 14,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1858168846",
+     "spotify": "5jvk045Ry7OX5BhPKfzHSJ",
+     "bpm": 137,
+     "range": {
+      "low": 54,
+      "high": 69,
+      "m": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "f": {
+       "v": "ok"
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "danceable",
+       "party",
+       "energetic"
+      ],
+      "instrument": [
+       "synthesizer"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "なとり"
+      ],
+      "composer": [
+       "なとり"
+      ],
+      "arranger": [
+       "なとり",
+       "ツミキ"
+      ],
+      "year": "2026",
+      "released": "2026-01-21",
+      "label": "(12-13,16),2025(4-5,8,10,14),2026(1-3,6-7,9,11,15,17-18) Sony Music Labels Inc",
+      "album": "深海",
+      "isrc": "JPU902504288",
+      "copyright": "℗ 2024(12-13,16),2025(4-5,8,10,14),2026(1-3,6-7,9,11,15,17-18) Sony Music Labels Inc.",
+      "mb": "8d1bac76-d4c0-4efd-b95f-02206bd7df85",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 3,
      "title": "ROSE",
      "artist": "HANA",
      "covers": 2,
@@ -13565,7 +13649,7 @@
        "sLloyrUEZyM"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 3,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1803063210",
@@ -13701,78 +13785,6 @@
       "isrc": "JPU902502822",
       "copyright": "℗ 2025 Sony Music Labels Inc.",
       "mb": "79943016-2bbb-4126-8f15-b546d5d1ec47",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 3,
-     "title": "ただ声一つ",
-     "artist": "ロクデナシ",
-     "covers": 2,
-     "cover_video": "Ln9zJ9sk28I",
-     "performers": [
-      [
-       "小靜しずか",
-       "Ln9zJ9sk28I"
-      ],
-      [
-       "夜露妮亞",
-       "kpJhTCwjVcg"
-      ]
-     ],
-     "last_rank": 3,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1599674592",
-     "spotify": "2e1gUS6Wv8GS8ZT6FMeE1J",
-     "bpm": 130,
-     "range": {
-      "low": 58,
-      "high": 75,
-      "m": {
-       "v": "vhigh",
-       "key": 0,
-       "oct": -12
-      },
-      "f": {
-       "v": "high",
-       "key": -3,
-       "oct": 0
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "relaxed",
-       "happy"
-      ],
-      "instrument": [
-       "piano"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "MIMI"
-      ],
-      "composer": [
-       "MIMI"
-      ],
-      "arranger": [
-       "MIMI"
-      ],
-      "year": "2021",
-      "released": "2021-12-22",
-      "label": "Rokudenashi",
-      "album": "ただ声一つ - Single",
-      "isrc": "JPPO02104849",
-      "copyright": "℗ 2021 Rokudenashi",
-      "mb": "25016e3b-3481-45b5-9b9d-fb43750858df",
       "src": [
        "mb",
        "apple"
@@ -14240,6 +14252,21 @@
     },
     {
      "rank": 14,
+     "title": "還債cover",
+     "artist": "",
+     "covers": 1,
+     "cover_video": "X3LUla9RIMg",
+     "performers": [
+      [
+       "珮蕾Pele",
+       "X3LUla9RIMg"
+      ]
+     ],
+     "last_rank": null,
+     "is_new": true
+    },
+    {
+     "rank": 14,
      "title": "雨愛",
      "artist": "楊丞琳",
      "covers": 1,
@@ -14250,8 +14277,8 @@
        "MYidnZe4SQU"
       ]
      ],
-     "last_rank": null,
-     "is_new": true,
+     "last_rank": 14,
+     "is_new": false,
      "kkbox": "8snyrQ7NV0ZqmaxIzZ",
      "genre": "Mandopop",
      "apple": "tw/352569303",
@@ -14315,7 +14342,7 @@
        "4EpGLNNyWZA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "kkbox": "4o56KQl6tWt5k55ttq",
      "genre": "J-Pop",
@@ -14381,7 +14408,7 @@
        "D7ZTP0Xr4Yk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1754900277",
@@ -14448,7 +14475,7 @@
        "ac6TBdAqm9c"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -14463,7 +14490,7 @@
        "zsXm5W4BUZY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1566131357",
@@ -14531,7 +14558,7 @@
        "eMsAE2HQZjY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1492852448",
@@ -14585,7 +14612,7 @@
        "ffr4Y8NobRw"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1716831159",
@@ -14664,7 +14691,7 @@
        "l6hnMhl7h-8"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1638049033",
@@ -14724,7 +14751,7 @@
        "0quJdFVc1Fc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1786972177",
@@ -14789,7 +14816,7 @@
        "P_8CoG2lJOc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6766820661",
@@ -14845,7 +14872,7 @@
        "8Iu4eTcAP8k"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -14860,7 +14887,7 @@
        "66xHLM10mko"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -14875,7 +14902,7 @@
        "AmU3rwKKkSg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/944116610",
@@ -14911,6 +14938,74 @@
     },
     {
      "rank": 14,
+     "title": "ただ声一つ",
+     "artist": "ロクデナシ",
+     "covers": 1,
+     "cover_video": "Ln9zJ9sk28I",
+     "performers": [
+      [
+       "小靜しずか",
+       "Ln9zJ9sk28I"
+      ]
+     ],
+     "last_rank": 3,
+     "is_new": false,
+     "genre": "J-Pop",
+     "apple": "jp/1599674592",
+     "spotify": "2e1gUS6Wv8GS8ZT6FMeE1J",
+     "bpm": 130,
+     "range": {
+      "low": 58,
+      "high": 75,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -3,
+       "oct": 0
+      },
+      "fit": "f"
+     },
+     "tags": {
+      "mood": [
+       "relaxed",
+       "happy"
+      ],
+      "instrument": [
+       "piano"
+      ],
+      "vocal": [
+       "female"
+      ]
+     },
+     "info": {
+      "lyricist": [
+       "MIMI"
+      ],
+      "composer": [
+       "MIMI"
+      ],
+      "arranger": [
+       "MIMI"
+      ],
+      "year": "2021",
+      "released": "2021-12-22",
+      "label": "Rokudenashi",
+      "album": "ただ声一つ - Single",
+      "isrc": "JPPO02104849",
+      "copyright": "℗ 2021 Rokudenashi",
+      "mb": "25016e3b-3481-45b5-9b9d-fb43750858df",
+      "src": [
+       "mb",
+       "apple"
+      ]
+     }
+    },
+    {
+     "rank": 14,
      "title": "エンヴィーベイビー",
      "artist": "Kanaria",
      "covers": 1,
@@ -14921,7 +15016,7 @@
        "3AfTCyWjPNg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1554407037",
@@ -14982,7 +15077,7 @@
        "IfxJ-VsHdYo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -14997,7 +15092,7 @@
        "TZKx9gfMDus"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -15012,7 +15107,7 @@
        "nQCQMRmwNM4"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "kkbox": "4m43tA6nf387qp8Wsm",
      "genre": "Pop",
@@ -15083,7 +15178,7 @@
        "qXTdiR63vts"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -15098,7 +15193,7 @@
        "2WIYMGnMplU"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -15113,7 +15208,7 @@
        "WevVWKtlfGY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1807477063",
@@ -15170,7 +15265,7 @@
        "xTGNYZ9icJQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -15185,7 +15280,7 @@
        "Y4ELQY0-36A"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -15200,7 +15295,7 @@
        "d_pDfnmlOkc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/976473632",
@@ -15260,7 +15355,7 @@
        "u7MS3ic_3os"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "kkbox": "OmB65Ue9TsIBfk3QDV",
      "genre": "Pop",
@@ -15325,7 +15420,7 @@
        "q82N1LqRTPM"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1598330658",
@@ -15393,7 +15488,7 @@
        "nZ2lYdON1kc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "kkbox": "Sofuf5q81DbhZVQduB",
      "genre": "Electronic",
@@ -15443,7 +15538,7 @@
        "Fb6uLaCqbts"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "R&B/Soul",
      "apple": "tw/1800791057",
@@ -15502,7 +15597,7 @@
        "kCZXB_eJwIc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1784887066",
@@ -15576,7 +15671,7 @@
        "gMhphMjRnps"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/1593580383",
@@ -15650,7 +15745,7 @@
        "5XYkKjsobsE"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1821087731",
@@ -15704,7 +15799,7 @@
        "SNA9JICWZ4Q"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1744083898",
@@ -15780,7 +15875,7 @@
        "0Kh-6vc_vcI"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "info": {
       "lyricist": [
@@ -15811,7 +15906,7 @@
        "l0Lv8HmYRJk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Indie Rock",
      "apple": "tw/1833078315",
@@ -15866,7 +15961,7 @@
        "tux7nfIHOnM"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -15881,7 +15976,7 @@
        "X5fbMuzE5AQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1681260838",
@@ -15955,7 +16050,7 @@
        "yfNAW21lX80"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Electronic",
      "apple": "tw/1335309746",
@@ -16013,7 +16108,7 @@
        "Lrm9IarybdA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16028,7 +16123,7 @@
        "0p70ELKq2Cc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16043,7 +16138,7 @@
        "Yl0H9e1djOI"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1688512535",
@@ -16108,7 +16203,7 @@
        "qD3h1ObZBLs"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1769165500",
@@ -16175,7 +16270,7 @@
        "B3gCLpr9CbQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1791495637",
@@ -16229,7 +16324,7 @@
        "fDPD8V_AHUg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16244,7 +16339,7 @@
        "hQB9k6HHd-Y"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1890393510",
@@ -16301,7 +16396,7 @@
        "9s6tcQADAIQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1867377162",
@@ -16361,7 +16456,7 @@
        "6JtWRTuyMPo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16376,7 +16471,7 @@
        "vVAozXH5RVg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16391,7 +16486,7 @@
        "GGThQ1gOOO8"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1723506574",
@@ -16452,7 +16547,7 @@
        "j-4ummev2EQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16467,7 +16562,7 @@
        "zmgE7eXb1Lk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16482,7 +16577,7 @@
        "BdrVc3dwkOI"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1764262669",
@@ -16539,7 +16634,7 @@
        "HcIlVKxr1SE"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1681228886",
@@ -16601,7 +16696,7 @@
        "crGFaCXbKgg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16616,7 +16711,7 @@
        "8DryJT7JLkI"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1495748563",
@@ -16690,7 +16785,7 @@
        "AwEmelD0SHM"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Singer/Songwriter",
      "apple": "tw/1830306857",
@@ -16748,7 +16843,7 @@
        "cz3piDQq3k4"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1859542280",
@@ -16807,7 +16902,7 @@
        "V9GzJAmrpdo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1635276994",
@@ -16867,7 +16962,7 @@
        "GyjVhvJWkiQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1838981493",
@@ -16933,7 +17028,7 @@
        "oukmQXuYmEk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -16948,7 +17043,7 @@
        "Z6Uq5gokpvk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1536126606",
@@ -17010,7 +17105,7 @@
        "DeKD2dek5_8"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1688521735",
@@ -17079,7 +17174,7 @@
        "XEVg2y6Kygg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -17094,7 +17189,7 @@
        "56srsELixOg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1652633647",
@@ -17157,7 +17252,7 @@
        "0X7NlC6TOQQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -17172,7 +17267,7 @@
        "bojMmYIXzVE"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -17187,7 +17282,7 @@
        "v4Q5Csy_Kbs"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1737366585",
@@ -17245,7 +17340,7 @@
        "5wsfKFYzGSk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1719594575",
@@ -17313,7 +17408,7 @@
        "lGOnsYJf4jg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1863631485",
@@ -17377,7 +17472,7 @@
        "chR6tQZbqMA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1779065010",
@@ -17428,7 +17523,7 @@
        "Xbc85GBo3CE"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/6803469575",
@@ -17482,7 +17577,7 @@
        "SzNh2mUooQ0"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -17497,7 +17592,7 @@
        "dCLbUlJVZXA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Rock",
      "apple": "tw/1539321793",
@@ -17562,7 +17657,7 @@
        "hJHlkIJBaIQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1572215361",
@@ -17626,71 +17721,6 @@
     },
     {
      "rank": 14,
-     "title": "セレナーデ",
-     "artist": "なとり",
-     "covers": 1,
-     "cover_video": "EVs_ssYiN6o",
-     "performers": [
-      [
-       "諾恪里 Nokori",
-       "EVs_ssYiN6o"
-      ]
-     ],
-     "last_rank": 13,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1858168846",
-     "spotify": "5jvk045Ry7OX5BhPKfzHSJ",
-     "bpm": 137,
-     "range": {
-      "low": 54,
-      "high": 69,
-      "m": {
-       "v": "high",
-       "key": -3,
-       "oct": 0
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "mood": [
-       "danceable",
-       "party",
-       "energetic"
-      ],
-      "instrument": [
-       "synthesizer"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "なとり"
-      ],
-      "composer": [
-       "なとり"
-      ],
-      "arranger": [
-       "なとり",
-       "ツミキ"
-      ],
-      "year": "2026",
-      "released": "2026-01-21",
-      "label": "(12-13,16),2025(4-5,8,10,14),2026(1-3,6-7,9,11,15,17-18) Sony Music Labels Inc",
-      "album": "深海",
-      "isrc": "JPU902504288",
-      "copyright": "℗ 2024(12-13,16),2025(4-5,8,10,14),2026(1-3,6-7,9,11,15,17-18) Sony Music Labels Inc.",
-      "mb": "8d1bac76-d4c0-4efd-b95f-02206bd7df85",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 14,
      "title": "モエチャッカファイア",
      "artist": "",
      "covers": 1,
@@ -17701,7 +17731,7 @@
        "EP9IJxkFlY0"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -17716,7 +17746,7 @@
        "1dqhBKeKr70"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -17731,7 +17761,7 @@
        "P0Y-xQJeHcc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1589119763",
@@ -17792,7 +17822,7 @@
        "GJaSPU1Fh4w"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1046470325",
@@ -17858,7 +17888,7 @@
        "Xi1NXYbO1w4"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "kkbox": "Cs_XOi7d3ZiY3N-8lZ",
      "genre": "J-Pop",
@@ -17931,7 +17961,7 @@
        "Ye23L-kAGFk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "kkbox": "9YnRorQutUrZ3I2Jpm",
      "genre": "Mandopop",
@@ -17984,7 +18014,7 @@
        "MEAFZZxHSgs"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -17999,7 +18029,7 @@
        "m-jLQc22whA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1494664821",
@@ -18060,7 +18090,7 @@
        "rPMn5FtQOPY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1538259003",
@@ -18136,7 +18166,7 @@
        "Rk4jfTDpMgk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18151,7 +18181,7 @@
        "rtwZSaqLMgs"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18166,7 +18196,7 @@
        "47ZYKliUKOo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "tw/980989352",
@@ -18234,7 +18264,7 @@
        "n4e0Ze-tT7M"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18249,7 +18279,7 @@
        "GOpQdGefnic"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18264,7 +18294,7 @@
        "8r0dEohNDYQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18279,7 +18309,7 @@
        "cq0fJoHmQ4c"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Video Game",
      "apple": "tw/6812959105",
@@ -18330,7 +18360,7 @@
        "vlPN7wlFGvA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1863202344",
@@ -18385,7 +18415,7 @@
        "QRcTX1JJaVo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1625063291",
@@ -18443,7 +18473,7 @@
        "Y_XuvCuYIWQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18458,7 +18488,7 @@
        "Wkh6nRqDsTI"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1828134663",
@@ -18519,7 +18549,7 @@
        "b9AEhGlkslg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18534,7 +18564,7 @@
        "7F71LacvS2o"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1698047115",
@@ -18603,7 +18633,7 @@
        "TG8IVixGaFI"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1440113121",
@@ -18674,7 +18704,7 @@
        "hZk8w64tOqo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1674468254",
@@ -18729,7 +18759,7 @@
        "YLp6iRqaFu8"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1708557590",
@@ -18797,7 +18827,7 @@
        "_oZU-NXYuRc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18812,7 +18842,7 @@
        "uit0Bf7y-WA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1719724057",
@@ -18866,7 +18896,7 @@
        "sUgRCE4SU74"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -18881,7 +18911,7 @@
        "Fd0SIf37MW8"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1648263854",
@@ -18938,7 +18968,7 @@
        "r5XGBIbzAaU"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1894805932",
@@ -18999,7 +19029,7 @@
        "CxWoaTbTvus"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1737099644",
@@ -19075,7 +19105,7 @@
        "Do_WaG1ymdY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19090,7 +19120,7 @@
        "BWqhsPfrjBg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1535552050",
@@ -19157,7 +19187,7 @@
        "Dw4eix1mdmU"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19172,7 +19202,7 @@
        "Bka2Vp6N4lY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19187,7 +19217,7 @@
        "s-4dGrTJbkE"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1536017194",
@@ -19254,7 +19284,7 @@
        "jMhFod7DpwQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1618155350",
@@ -19320,7 +19350,7 @@
        "jHEhKrx6wjU"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19335,7 +19365,7 @@
        "6XtiCn0xJlI"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/1479062292",
@@ -19397,7 +19427,7 @@
        "BIuJIiq1cX8"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1544722556",
@@ -19472,7 +19502,7 @@
        "cGMdg_TwQ3A"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19487,7 +19517,7 @@
        "skvmbrFvyNo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19502,7 +19532,7 @@
        "23-9K2f730c"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Video Game",
      "apple": "tw/1816428367",
@@ -19557,7 +19587,7 @@
        "P2_fgEyoUC0"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1538258771",
@@ -19635,7 +19665,7 @@
        "kq06Ay9yeXE"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19650,7 +19680,7 @@
        "IRIO2bWta7E"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19665,7 +19695,7 @@
        "HQHyTWE-oT4"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6763186864",
@@ -19719,7 +19749,7 @@
        "BGKFnpkrylY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19734,7 +19764,7 @@
        "-oJs5icuSMg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19749,7 +19779,7 @@
        "xpqjqww0_R8"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19764,7 +19794,7 @@
        "pdozRR54zTM"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19779,7 +19809,7 @@
        "2OPDLsaYWKc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19794,7 +19824,7 @@
        "yQ3_Tod8Jtc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "tw/1790641200",
@@ -19857,7 +19887,7 @@
        "hKKpM_9eX5s"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19872,7 +19902,7 @@
        "uvIGQAM1XFU"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19887,7 +19917,7 @@
        "j4f8dV29qJg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19902,7 +19932,7 @@
        "6u7ZCse14iQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Worldwide",
      "apple": "jp/6810389192",
@@ -19960,7 +19990,7 @@
        "Hc6t0dxFZjQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -19975,7 +20005,7 @@
        "nJUj17dAa7A"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1625053470",
@@ -20031,7 +20061,7 @@
        "LVGBgsnDjx4"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1864847118",
@@ -20081,7 +20111,7 @@
        "tIM9kff-tHc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1795905600",
@@ -20143,7 +20173,7 @@
        "8V0hTGXXeG0"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Rock",
      "apple": "jp/1648876333",
@@ -20210,7 +20240,7 @@
        "70_h4MBuDPg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20225,7 +20255,7 @@
        "r3gta-6Z2Oc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20240,7 +20270,7 @@
        "R04p3BrOPbs"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20255,7 +20285,7 @@
        "BcoEfjflVSs"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20270,7 +20300,7 @@
        "FWF9Z--m9rU"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20285,7 +20315,7 @@
        "_OOR68eHQ_0"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20300,7 +20330,7 @@
        "yVpYm6IGG2E"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1614607928",
@@ -20363,7 +20393,7 @@
        "n-OohV_lbXg"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1705536695",
@@ -20424,7 +20454,7 @@
        "jzRnA5gsZ8c"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1694654875",
@@ -20499,7 +20529,7 @@
        "OQs1N1FzUbc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20514,7 +20544,7 @@
        "xKsgGpnVE60"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1788479625",
@@ -20570,7 +20600,7 @@
        "8O-lhmQUDYY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20585,7 +20615,7 @@
        "8Ph3srL7NdQ"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Pop",
      "apple": "tw/566322365",
@@ -20663,7 +20693,7 @@
        "HtSFvz9XaeM"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20678,7 +20708,7 @@
        "sTYzhApzNJc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20693,7 +20723,7 @@
        "YwUBAsBXwoo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "K-Pop",
      "apple": "tw/1731352617",
@@ -20751,7 +20781,7 @@
        "UgJjdDl_pRY"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/6774737403",
@@ -20821,7 +20851,7 @@
        "_kCqoIa-FcM"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20836,7 +20866,7 @@
        "_oAdSJzLrVk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Mandopop",
      "apple": "tw/1487768988",
@@ -20886,7 +20916,7 @@
        "dHszfQ6Sp4w"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20901,7 +20931,7 @@
        "vRy65p-5U6k"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1579051058",
@@ -20975,7 +21005,7 @@
        "DqAoyt-90XA"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -20990,7 +21020,7 @@
        "4z6T-oGZ47s"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1869843665",
@@ -21058,7 +21088,7 @@
        "gcb51mg3Oe4"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -21073,7 +21103,7 @@
        "HhiG_3cjn-4"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -21088,7 +21118,7 @@
        "dgcRmEJ91B0"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "J-Pop",
      "apple": "jp/1600616108",
@@ -21140,7 +21170,7 @@
        "RofxzTjmbGc"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1622001134",
@@ -21203,7 +21233,7 @@
        "MmddveKkQpo"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -21218,7 +21248,7 @@
        "MfxVfXZzFXE"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1525996943",
@@ -21274,7 +21304,7 @@
        "YpKCgPOwuPk"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false
     },
     {
@@ -21289,7 +21319,7 @@
        "7j6k7aOjK9Q"
       ]
      ],
-     "last_rank": 13,
+     "last_rank": 14,
      "is_new": false,
      "genre": "Anime",
      "apple": "jp/1827140040",
@@ -21350,131 +21380,11 @@
        "apple"
       ]
      }
-    },
-    {
-     "rank": 14,
-     "title": "夏霞",
-     "artist": "あたらよ",
-     "covers": 1,
-     "cover_video": "p_eY9rO1qbk",
-     "performers": [
-      [
-       "Umii 猫羽うみ",
-       "p_eY9rO1qbk"
-      ]
-     ],
-     "last_rank": 13,
-     "is_new": false,
-     "genre": "J-Pop",
-     "apple": "jp/1578238903",
-     "spotify": "34jv2mOVzPjncrBncjYl6F",
-     "bpm": 101,
-     "range": {
-      "low": 55,
-      "high": 71,
-      "m": {
-       "v": "vhigh",
-       "key": 2,
-       "oct": -12
-      },
-      "f": {
-       "v": "ok"
-      },
-      "fit": "f"
-     },
-     "tags": {
-      "genre": [
-       "Ballad",
-       "Pop Rock"
-      ],
-      "mood": [
-       "happy"
-      ],
-      "instrument": [
-       "drums",
-       "electricguitar",
-       "synthesizer"
-      ],
-      "vocal": [
-       "female"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "ひとみ"
-      ],
-      "composer": [
-       "ひとみ"
-      ],
-      "year": "2021",
-      "released": "2021-08-11",
-      "label": "あたらよRecords",
-      "album": "夏霞 - Single",
-      "isrc": "JPB602102576",
-      "copyright": "℗ あたらよRecords",
-      "mb": "7db9b5ec-72a5-446b-8648-eb63eab66697",
-      "src": [
-       "mb",
-       "apple"
-      ]
-     }
-    },
-    {
-     "rank": 14,
-     "title": "我們一樣可惜",
-     "artist": "好樂團 & 瑪啡因",
-     "covers": 1,
-     "cover_video": "fhw1i6hE-6w",
-     "performers": [
-      [
-       "瑪格麗特 · 諾爾絲",
-       "fhw1i6hE-6w"
-      ]
-     ],
-     "last_rank": 13,
-     "is_new": false,
-     "genre": "Pop",
-     "apple": "tw/1824114252",
-     "spotify": "6KCu2vVDB4wFdX4SewXgw5",
-     "bpm": 97,
-     "tags": {
-      "genre": [
-       "Indie Rock"
-      ],
-      "mood": [
-       "sad"
-      ],
-      "instrument": [
-       "electricguitar"
-      ]
-     },
-     "info": {
-      "lyricist": [
-       "張子慶"
-      ],
-      "composer": [
-       "張子慶"
-      ],
-      "arranger": [
-       "張子慶"
-      ],
-      "year": "2018",
-      "released": "2018-04-02",
-      "label": "本國人個人申請",
-      "album": "把悲傷留在這裡",
-      "isrc": "TWP011843603",
-      "copyright": "℗ 2019 好樂團＋瑪啡因",
-      "ncl": 210137,
-      "src": [
-       "ncl",
-       "apple"
-      ]
-     }
     }
    ],
-   "period_key": "2026-08-28_2026-11-25",
+   "period_key": "2026-08-29_2026-11-26",
    "rank_change": "history",
-   "fetched_at": "2026-11-25T21:00:06+08:00",
+   "fetched_at": "2026-11-26T20:38:53+08:00",
    "stale": false
   }
  ]

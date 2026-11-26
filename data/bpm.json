@@ -10999,6 +10999,17 @@
   "status": "ok",
   "track": "tw/1864847118"
  },
+ "一場自我對話|鄭秀文": {
+  "avg_bpm": 87.045,
+  "beats": 44,
+  "bpm": 87.045,
+  "checked": "2026-11-26",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6832915699"
+ },
  "一夜情緣|吳勇濱蕭玉芬": {
   "avg_bpm": 82.93,
   "beats": 41,
@@ -14629,6 +14640,17 @@
   "status": "ok",
   "track": "jp/280271444"
  },
+ "巷仔口的風|朱强": {
+  "avg_bpm": 90.349,
+  "beats": 45,
+  "bpm": 90.353,
+  "checked": "2026-11-26",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "jp/6832499882"
+ },
  "帰ってこいよ|松村和子": {
   "avg_bpm": 102.249,
   "beats": 51,
@@ -15002,6 +15024,17 @@
   "signature": null,
   "status": "ok",
   "track": "tw/1632587457"
+ },
+ "必殺技|古巨基": {
+  "avg_bpm": 122.616,
+  "beats": 61,
+  "bpm": 122.616,
+  "checked": "2026-11-26",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1532423368"
  },
  "忘情水|玟靈玄佾": {
   "avg_bpm": 69.038,
