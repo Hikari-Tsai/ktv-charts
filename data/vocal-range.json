@@ -433,6 +433,20 @@
   "v": 1,
   "voiced": 25.3
  },
+ "apt|rosebrunomars": {
+  "checked": "2026-11-27",
+  "dropped": 10,
+  "high": 67,
+  "high_name": "G4",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 91,
+  "status": "ok",
+  "track": "tw/1771105935",
+  "v": 1,
+  "voiced": 24.4
+ },
  "apt|rosébrunomars": {
   "checked": "2026-11-08",
   "dropped": 10,
@@ -502,6 +516,20 @@
   "track": "jp/1444899623",
   "v": 1,
   "voiced": 24.5
+ },
+ "awake|星街すいせい": {
+  "checked": "2026-11-27",
+  "dropped": 8,
+  "high": 74,
+  "high_name": "D5",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 115,
+  "status": "ok",
+  "track": "jp/1779410832",
+  "v": 1,
+  "voiced": 27.5
  },
  "awholenewworld|bradkaneleasalonga": {
   "checked": "2026-11-08",
@@ -1160,6 +1188,14 @@
   "track": "tw/1543218193",
   "v": 1,
   "voiced": 23.8
+ },
+ "calc|ジミーサムpfeat初音ミク": {
+  "checked": "2026-11-27",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "reason": "few_notes",
+  "status": "none",
+  "track": "jp/944116809",
+  "v": 1
  },
  "callmemaybe|carlyraejepsen": {
   "checked": "2026-11-08",
@@ -2731,6 +2767,20 @@
   "v": 1,
   "voiced": 29.2
  },
+ "ijustcalledtosayiloveyou|steviewonder": {
+  "checked": "2026-11-27",
+  "dropped": 4,
+  "high": 65,
+  "high_name": "F4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 44,
+  "status": "ok",
+  "track": "tw/1446743353",
+  "v": 1,
+  "voiced": 24.2
+ },
  "illbeback|2pm": {
   "checked": "2026-11-13",
   "dropped": 2,
@@ -2996,6 +3046,20 @@
   "track": "tw/1795046351",
   "v": 1,
   "voiced": 28.0
+ },
+ "iwantyouback|thejackson5": {
+  "checked": "2026-11-27",
+  "dropped": 2,
+  "high": 75,
+  "high_name": "D#5",
+  "low": 63,
+  "low_name": "D#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 90,
+  "status": "ok",
+  "track": "tw/1440744314",
+  "v": 1,
+  "voiced": 25.6
  },
  "iwasborntoloveyou|queen": {
   "checked": "2026-11-25",
@@ -3500,6 +3564,20 @@
   "track": "tw/1469320480",
   "v": 1,
   "voiced": 27.4
+ },
+ "likeanexplosion|rhyzygy": {
+  "checked": "2026-11-27",
+  "dropped": 2,
+  "high": 71,
+  "high_name": "B4",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 90,
+  "status": "ok",
+  "track": "jp/6802888015",
+  "v": 1,
+  "voiced": 26.9
  },
  "likeanimals|bts防彈少年團": {
   "checked": "2026-11-17",
@@ -4077,6 +4155,20 @@
   "v": 1,
   "voiced": 17.2
  },
+ "napori|vaundy": {
+  "checked": "2026-11-27",
+  "dropped": 4,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 48,
+  "low_name": "C3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 75,
+  "status": "ok",
+  "track": "jp/1706832351",
+  "v": 1,
+  "voiced": 25.6
+ },
  "neon|a2oa2olite": {
   "checked": "2026-11-08",
   "dropped": 7,
@@ -4603,6 +4695,20 @@
   "v": 1,
   "voiced": 27.3
  },
+ "risingsun|exile": {
+  "checked": "2026-11-27",
+  "dropped": 3,
+  "high": 69,
+  "high_name": "A4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 63,
+  "status": "ok",
+  "track": "jp/488662437",
+  "v": 1,
+  "voiced": 25.8
+ },
  "rollinginthedeep|adele": {
   "checked": "2026-11-27",
   "dropped": 2,
@@ -4882,6 +4988,20 @@
   "track": "tw/1193701392",
   "v": 1,
   "voiced": 24.7
+ },
+ "shinysmilystory|hololiveidolproject": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 73,
+  "high_name": "C#5",
+  "low": 63,
+  "low_name": "D#4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 70,
+  "status": "ok",
+  "track": "jp/1523021641",
+  "v": 1,
+  "voiced": 24.1
  },
  "silent|sekainoowari": {
   "checked": "2026-11-08",
@@ -5773,6 +5893,20 @@
   "v": 1,
   "voiced": 25.7
  },
+ "v|himehina": {
+  "checked": "2026-11-27",
+  "dropped": 11,
+  "high": 74,
+  "high_name": "D5",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 129,
+  "status": "ok",
+  "track": "jp/1816640224",
+  "v": 1,
+  "voiced": 27.5
+ },
  "wannago|lngshot": {
   "checked": "2026-11-25",
   "dropped": 4,
@@ -5898,6 +6032,20 @@
   "track": "tw/6781080737",
   "v": 1,
   "voiced": 25.0
+ },
+ "wewillあの場所で|exile": {
+  "checked": "2026-11-27",
+  "dropped": 0,
+  "high": 69,
+  "high_name": "A4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 66,
+  "status": "ok",
+  "track": "jp/296503575",
+  "v": 1,
+  "voiced": 25.2
  },
  "whatmakesyoubeautiful|onedirection": {
   "checked": "2026-11-08",
@@ -6765,6 +6913,20 @@
   "v": 1,
   "voiced": 19.0
  },
+ "さくらんぼ|大塚愛": {
+  "checked": "2026-11-27",
+  "dropped": 6,
+  "high": 74,
+  "high_name": "D5",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 75,
+  "status": "ok",
+  "track": "jp/250610845",
+  "v": 1,
+  "voiced": 25.9
+ },
  "さざんかの宿|大川栄策": {
   "checked": "2026-11-08",
   "dropped": 4,
@@ -7129,6 +7291,20 @@
   "v": 1,
   "voiced": 17.7
  },
+ "どこまでも|屋比久知奈": {
+  "checked": "2026-11-27",
+  "dropped": 2,
+  "high": 73,
+  "high_name": "C#5",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 74,
+  "status": "ok",
+  "track": "jp/1436927040",
+  "v": 1,
+  "voiced": 26.2
+ },
  "なんもねえ|忘れらんねえよ": {
   "checked": "2026-11-14",
   "dropped": 1,
@@ -7170,6 +7346,20 @@
   "track": "jp/1771440545",
   "v": 1,
   "voiced": 22.6
+ },
+ "ひとりじゃない|deen": {
+  "checked": "2026-11-27",
+  "dropped": 3,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 76,
+  "status": "ok",
+  "track": "jp/1732388923",
+  "v": 1,
+  "voiced": 25.0
  },
  "ひまわりの約束|秦基博": {
   "checked": "2026-11-08",
@@ -7405,6 +7595,20 @@
   "track": "jp/1499828355",
   "v": 1
  },
+ "らしさ|official髭男dism": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 47,
+  "status": "ok",
+  "track": "jp/1826940240",
+  "v": 1,
+  "voiced": 18.4
+ },
  "わたがし|backnumber": {
   "checked": "2026-11-25",
   "dropped": 2,
@@ -7488,6 +7692,20 @@
   "track": "jp/1679278167",
   "v": 1,
   "voiced": 26.2
+ },
+ "アイネクライネ|米津玄師": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 63,
+  "high_name": "D#4",
+  "low": 49,
+  "low_name": "C#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 77,
+  "status": "ok",
+  "track": "jp/1440792118",
+  "v": 1,
+  "voiced": 24.2
  },
  "アイノカタチfeathide|misia": {
   "checked": "2026-11-18",
@@ -7846,6 +8064,20 @@
   "track": "jp/1688513108",
   "v": 1,
   "voiced": 23.4
+ },
+ "キュートなカノジョfeat可不|syudou": {
+  "checked": "2026-11-27",
+  "dropped": 5,
+  "high": 81,
+  "high_name": "A5",
+  "low": 60,
+  "low_name": "C4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 115,
+  "status": "ok",
+  "track": "jp/1688512543",
+  "v": 1,
+  "voiced": 28.1
  },
  "キリヱ|てにをは": {
   "checked": "2026-11-18",
@@ -8787,6 +9019,20 @@
   "v": 1,
   "voiced": 25.3
  },
+ "バンザイ好きでよかった|ウルフルズ": {
+  "checked": "2026-11-27",
+  "dropped": 0,
+  "high": 67,
+  "high_name": "G4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 57,
+  "status": "ok",
+  "track": "jp/1444197024",
+  "v": 1,
+  "voiced": 18.8
+ },
  "パイパイ仮面でどうかしらん|宝鐘マリン": {
   "checked": "2026-11-18",
   "dropped": 1,
@@ -8857,6 +9103,20 @@
   "v": 1,
   "voiced": 25.8
  },
+ "ビターチョコデコレーション|syudou": {
+  "checked": "2026-11-27",
+  "dropped": 3,
+  "high": 69,
+  "high_name": "A4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 124,
+  "status": "ok",
+  "track": "jp/1838916808",
+  "v": 1,
+  "voiced": 26.6
+ },
  "ビバ|葛葉": {
   "checked": "2026-11-25",
   "dropped": 2,
@@ -8926,6 +9186,20 @@
   "track": "jp/1494664821",
   "v": 1,
   "voiced": 25.2
+ },
+ "フィクサー|ぬゆり": {
+  "checked": "2026-11-27",
+  "dropped": 22,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 95,
+  "status": "ok",
+  "track": "jp/1648875832",
+  "v": 1,
+  "voiced": 22.5
  },
  "フィクサー|ぬゆりfeatflower": {
   "checked": "2026-11-26",
@@ -9010,6 +9284,20 @@
   "track": "jp/1658696551",
   "v": 1,
   "voiced": 21.0
+ },
+ "ブランデーグラス|石原裕次郎": {
+  "checked": "2026-11-27",
+  "dropped": 8,
+  "high": 82,
+  "high_name": "A#5",
+  "low": 69,
+  "low_name": "A4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 20,
+  "status": "ok",
+  "track": "jp/731874403",
+  "v": 1,
+  "voiced": 18.7
  },
  "ブリキノダンス|日向電工": {
   "checked": "2026-11-08",
@@ -9305,6 +9593,20 @@
   "v": 1,
   "voiced": 27.0
  },
+ "マーシャルマキシマイザー|柊マグネタイト": {
+  "checked": "2026-11-27",
+  "dropped": 9,
+  "high": 75,
+  "high_name": "D#5",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 129,
+  "status": "ok",
+  "track": "jp/1688513139",
+  "v": 1,
+  "voiced": 27.3
+ },
  "ミアモーレ|中森明菜": {
   "checked": "2026-11-22",
   "dropped": 0,
@@ -9347,6 +9649,20 @@
   "v": 1,
   "voiced": 24.9
  },
+ "ミライチズ|夜のひと笑い": {
+  "checked": "2026-11-27",
+  "dropped": 4,
+  "high": 74,
+  "high_name": "D5",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 79,
+  "status": "ok",
+  "track": "jp/1569765712",
+  "v": 1,
+  "voiced": 18.2
+ },
  "ムーンライト|星街すいせい": {
   "checked": "2026-11-21",
   "dropped": 6,
@@ -9374,6 +9690,20 @@
   "track": "jp/1745015575",
   "v": 1,
   "voiced": 16.9
+ },
+ "メトロノーム|剣持刀也": {
+  "checked": "2026-11-27",
+  "dropped": 3,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 54,
+  "low_name": "F#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 92,
+  "status": "ok",
+  "track": "jp/6786153275",
+  "v": 1,
+  "voiced": 26.1
  },
  "メランコリック|junkyfeat鏡音リン": {
   "checked": "2026-11-18",
@@ -11703,6 +12033,14 @@
   "v": 1,
   "voiced": 27.3
  },
+ "南部蝉しぐれ|福田こうへい": {
+  "checked": "2026-11-27",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "reason": "few_notes",
+  "status": "none",
+  "track": "jp/1643879310",
+  "v": 1
+ },
  "友よこの先もずっと|ケツメイシ": {
   "checked": "2026-11-25",
   "dropped": 3,
@@ -11955,6 +12293,20 @@
   "v": 1,
   "voiced": 27.2
  },
+ "君はロックを聴かない|あいみょん": {
+  "checked": "2026-11-27",
+  "dropped": 14,
+  "high": 74,
+  "high_name": "D5",
+  "low": 64,
+  "low_name": "E4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 70,
+  "status": "ok",
+  "track": "jp/1261937430",
+  "v": 1,
+  "voiced": 21.7
+ },
  "君をのせて|井上あずみ": {
   "checked": "2026-11-27",
   "dropped": 0,
@@ -12046,6 +12398,20 @@
   "track": "tw/6817668876",
   "v": 1,
   "voiced": 27.1
+ },
+ "哀愁列車|三橋美智也": {
+  "checked": "2026-11-27",
+  "dropped": 6,
+  "high": 64,
+  "high_name": "E4",
+  "low": 47,
+  "low_name": "B2",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 23,
+  "status": "ok",
+  "track": "jp/1542312282",
+  "v": 1,
+  "voiced": 9.9
  },
  "哇哩勒|欸你這週要幹嘛": {
   "checked": "2026-11-17",
@@ -12341,6 +12707,20 @@
   "v": 1,
   "voiced": 25.9
  },
+ "夏の日の1993|classm": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 58,
+  "high_name": "A#3",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 16,
+  "status": "ok",
+  "track": "jp/545925488",
+  "v": 1,
+  "voiced": 8.6
+ },
  "夏の終りのハーモニー|井上陽水安全地帯": {
   "checked": "2026-11-18",
   "dropped": 0,
@@ -12354,6 +12734,20 @@
   "track": "jp/1440895683",
   "v": 1,
   "voiced": 20.6
+ },
+ "夏色|ゆず": {
+  "checked": "2026-11-27",
+  "dropped": 3,
+  "high": 72,
+  "high_name": "C5",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 66,
+  "status": "ok",
+  "track": "jp/422250979",
+  "v": 1,
+  "voiced": 18.3
  },
  "夏霞|あたらよ": {
   "checked": "2026-11-18",
@@ -12452,6 +12846,20 @@
   "track": "jp/6810389192",
   "v": 1,
   "voiced": 25.5
+ },
+ "夜の踊り子|サカナクション": {
+  "checked": "2026-11-27",
+  "dropped": 3,
+  "high": 66,
+  "high_name": "F#4",
+  "low": 50,
+  "low_name": "D3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 51,
+  "status": "ok",
+  "track": "jp/552294051",
+  "v": 1,
+  "voiced": 12.9
  },
  "夜明けと蛍|nbunafeat初音ミク": {
   "checked": "2026-11-15",
@@ -12936,6 +13344,20 @@
   "track": "jp/926643636",
   "v": 1,
   "voiced": 25.8
+ },
+ "女の一生|古都清乃": {
+  "checked": "2026-11-27",
+  "dropped": 5,
+  "high": 70,
+  "high_name": "A#4",
+  "low": 53,
+  "low_name": "F3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 63,
+  "status": "ok",
+  "track": "jp/896503487",
+  "v": 1,
+  "voiced": 22.8
  },
  "女の港|大月みやこ": {
   "checked": "2026-11-22",
@@ -13667,6 +14089,20 @@
   "v": 1,
   "voiced": 26.6
  },
+ "強風オールバック|ゆこぴ": {
+  "checked": "2026-11-27",
+  "dropped": 9,
+  "high": 67,
+  "high_name": "G4",
+  "low": 51,
+  "low_name": "D#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 67,
+  "status": "ok",
+  "track": "jp/1715782987",
+  "v": 1,
+  "voiced": 15.1
+ },
  "很遺憾很短暫|喻言家": {
   "checked": "2026-11-16",
   "dropped": 1,
@@ -13764,6 +14200,20 @@
   "track": "jp/1521399728",
   "v": 1,
   "voiced": 19.7
+ },
+ "心做し|蝶々pfeatgumi": {
+  "checked": "2026-11-27",
+  "dropped": 2,
+  "high": 81,
+  "high_name": "A5",
+  "low": 69,
+  "low_name": "A4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 72,
+  "status": "ok",
+  "track": "jp/1521399728",
+  "v": 1,
+  "voiced": 19.6
  },
  "心凍らせて|高山厳": {
   "checked": "2026-11-27",
@@ -14073,6 +14523,20 @@
   "v": 1,
   "voiced": 9.2
  },
+ "恋におちてfallinlove|小林明子": {
+  "checked": "2026-11-27",
+  "dropped": 2,
+  "high": 67,
+  "high_name": "G4",
+  "low": 55,
+  "low_name": "G3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 64,
+  "status": "ok",
+  "track": "jp/289049578",
+  "v": 1,
+  "voiced": 23.2
+ },
  "恋の前ならえ|official髭男dism": {
   "checked": "2026-11-22",
   "dropped": 0,
@@ -14221,6 +14685,20 @@
   "track": "jp/6810592480",
   "v": 1
  },
+ "情とは|thisislast": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 69,
+  "high_name": "A4",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 64,
+  "status": "ok",
+  "track": "jp/6769719565",
+  "v": 1,
+  "voiced": 26.6
+ },
  "情人|beyond": {
   "checked": "2026-11-18",
   "dropped": 1,
@@ -14248,6 +14726,20 @@
   "track": "jp/1610069345",
   "v": 1,
   "voiced": 21.2
+ },
+ "情熱的ボーイ|rofmao": {
+  "checked": "2026-11-27",
+  "dropped": 5,
+  "high": 69,
+  "high_name": "A4",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 121,
+  "status": "ok",
+  "track": "jp/1769305967",
+  "v": 1,
+  "voiced": 27.4
  },
  "想你的形影|草屯囝仔": {
   "checked": "2026-11-18",
@@ -14354,6 +14846,34 @@
   "status": "none",
   "track": "jp/1810382629",
   "v": 1
+ },
+ "愛のままで|秋元順子": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 64,
+  "high_name": "E4",
+  "low": 52,
+  "low_name": "E3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 45,
+  "status": "ok",
+  "track": "jp/276284518",
+  "v": 1,
+  "voiced": 24.6
+ },
+ "愛の終着駅|八代亜紀": {
+  "checked": "2026-11-27",
+  "dropped": 0,
+  "high": 72,
+  "high_name": "C5",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 39,
+  "status": "ok",
+  "track": "jp/1743930613",
+  "v": 1,
+  "voiced": 20.7
  },
  "愛をこめて花束を|superfly": {
   "checked": "2026-11-17",
@@ -15554,6 +16074,20 @@
   "track": "jp/1864937286",
   "v": 1,
   "voiced": 22.7
+ },
+ "日常革命|ねぐせ": {
+  "checked": "2026-11-27",
+  "dropped": 2,
+  "high": 74,
+  "high_name": "D5",
+  "low": 62,
+  "low_name": "D4",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 81,
+  "status": "ok",
+  "track": "jp/1639856971",
+  "v": 1,
+  "voiced": 23.1
  },
  "旦那様とのラブラブラブソング|フェンリース": {
   "checked": "2026-11-24",
@@ -16813,6 +17347,20 @@
   "v": 1,
   "voiced": 27.1
  },
+ "浴槽とネオンテトラ|reisai": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 79,
+  "high_name": "G5",
+  "low": 59,
+  "low_name": "B3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 76,
+  "status": "ok",
+  "track": "jp/1577511036",
+  "v": 1,
+  "voiced": 25.6
+ },
  "海上的人|滅火器": {
   "checked": "2026-11-18",
   "dropped": 0,
@@ -17274,6 +17822,20 @@
   "track": "jp/1442865440",
   "v": 1,
   "voiced": 26.7
+ },
+ "熱異常|いよわfeat足立レイ": {
+  "checked": "2026-11-27",
+  "dropped": 13,
+  "high": 82,
+  "high_name": "A#5",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 106,
+  "status": "ok",
+  "track": "jp/1650867230",
+  "v": 1,
+  "voiced": 26.0
  },
  "爆裂愛してる|mlk": {
   "checked": "2026-11-14",
@@ -17764,6 +18326,20 @@
   "track": "tw/1815583986",
   "v": 1,
   "voiced": 18.5
+ },
+ "真夏の果実|サザンオールスターズ": {
+  "checked": "2026-11-27",
+  "dropped": 5,
+  "high": 69,
+  "high_name": "A4",
+  "low": 57,
+  "low_name": "A3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 85,
+  "status": "ok",
+  "track": "jp/949249865",
+  "v": 1,
+  "voiced": 26.1
  },
  "真夜中のドアstay|松原みき": {
   "checked": "2026-11-24",
@@ -19741,6 +20317,20 @@
   "v": 1,
   "voiced": 25.1
  },
+ "限界突破サバイバー|氷川きよし": {
+  "checked": "2026-11-27",
+  "dropped": 1,
+  "high": 68,
+  "high_name": "G#4",
+  "low": 54,
+  "low_name": "F#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 66,
+  "status": "ok",
+  "track": "jp/1296690341",
+  "v": 1,
+  "voiced": 26.7
+ },
  "陪你到這|陳華": {
   "checked": "2026-11-17",
   "dropped": 3,
@@ -20286,6 +20876,20 @@
   "track": "jp/258926443",
   "v": 1,
   "voiced": 23.8
+ },
+ "魔法の絨毯|川崎鷹也": {
+  "checked": "2026-11-27",
+  "dropped": 11,
+  "high": 65,
+  "high_name": "F4",
+  "low": 56,
+  "low_name": "G#3",
+  "model": "game-small-1.0.3+kim-vocal-2",
+  "notes": 62,
+  "status": "ok",
+  "track": "jp/1573810335",
+  "v": 1,
+  "voiced": 18.9
  },
  "魔法少女とチョコレゐト|ピノキオピー": {
   "checked": "2026-11-24",
