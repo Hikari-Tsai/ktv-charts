@@ -1502,7 +1502,11 @@ function seenLine(row) {
 function noteSelect(id, value) {
   const select = el("select", { id, onchange: () => updateRange() });
   select.append(el("option", { value: "", text: t("rfAny") }));
-  for (let m = PICK_NOTES[0]; m <= PICK_NOTES[1]; m++) {
+  // A note from the address outside the menu (?low=A1) still gets an entry, so the form shows it.
+  const notes = [];
+  for (let m = PICK_NOTES[0]; m <= PICK_NOTES[1]; m++) notes.push(m);
+  if (value != null && !notes.includes(value)) notes.push(value);
+  for (const m of notes.sort((a, b) => a - b)) {
     select.append(el("option", { value: String(m), text: noteName(m), selected: m === value }));
   }
   return select;
@@ -1677,9 +1681,12 @@ async function init() {
   state.index.sources.push({ id: RANGE_ID, kind: RANGE_ID, region: "all", name: "", site_url: null });
   const ids = state.index.sources.map((s) => s.id);
   const fromHash = readHash();
-  const params = readRangeParams(location.search);
+  // "?high=F#4" typed without %23: the browser takes "#4" as the hash, so put it back.
+  const octaveHash = /^#-?\d/.test(location.hash);
+  const params = readRangeParams(location.search + (octaveHash ? "%23" + location.hash.slice(1) : ""));
   if (params) state.range = params;
-  state.source = ids.includes(fromHash.source) ? fromHash.source : params && !fromHash.source ? RANGE_ID : ids[0];
+  state.source = ids.includes(fromHash.source) ? fromHash.source
+    : params && (!fromHash.source || octaveHash) ? RANGE_ID : ids[0];
   state.chart = fromHash.chart;
   window.addEventListener("hashchange", () => {
     const h = readHash();
