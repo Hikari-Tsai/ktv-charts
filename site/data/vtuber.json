@@ -8,7 +8,7 @@
  "region": "tw",
  "kind": "cover",
  "site_url": "https://www.youtube.com/playlist?list=PLg42Bx1jWLfnUmAMCEEwsKE0yNUW5X6Jl",
- "checked_at": "2026-11-27T14:12:41+08:00",
+ "checked_at": "2026-11-27T14:47:39+08:00",
  "errors": [],
  "charts": [
   {
@@ -8763,6 +8763,21 @@
      "apple": "jp/1604539599",
      "spotify": "4X3L6G6KDs0jBKvfTkmKmi",
      "bpm": 147,
+     "range": {
+      "low": 57,
+      "high": 74,
+      "m": {
+       "v": "vhigh",
+       "key": 0,
+       "oct": -12
+      },
+      "f": {
+       "v": "high",
+       "key": -2,
+       "oct": 0
+      },
+      "fit": "f"
+     },
      "tags": {
       "genre": [
        "Synth-pop",
@@ -13449,7 +13464,7 @@
    ],
    "period_key": "2026-11-27",
    "rank_change": "history",
-   "fetched_at": "2026-11-27T14:12:41+08:00",
+   "fetched_at": "2026-11-27T14:47:39+08:00",
    "stale": false
   },
   {
@@ -21383,7 +21398,7 @@
    ],
    "period_key": "2026-08-30_2026-11-27",
    "rank_change": "history",
-   "fetched_at": "2026-11-27T14:12:41+08:00",
+   "fetched_at": "2026-11-27T14:47:39+08:00",
    "stale": false
   }
  ]
