@@ -235,6 +235,59 @@ h1 { margin: 0; font-size: 1.6rem; letter-spacing: 0.01em; }
 .source-intro .intro-link:hover { background: var(--accent-soft); }
 .source-intro .intro-curator { color: var(--accent); font-weight: 600; }
 
+/* Range finder: the filter form and its list */
+.range-filter {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  margin-bottom: 10px;
+  display: grid;
+  gap: 8px;
+}
+.range-filter[hidden] { display: none; }
+.rf-row { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 8px 12px; }
+.rf-field { display: grid; gap: 2px; font-size: 0.8rem; color: var(--muted); }
+.rf-field select {
+  font: inherit;
+  font-size: 0.92rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 5px 8px;
+  min-width: 5.5rem;
+}
+.rf-dash { color: var(--muted); padding-bottom: 7px; }
+.rf-presets { align-items: center; font-size: 0.85rem; }
+.rf-presets-label { color: var(--muted); }
+.rf-preset {
+  font: inherit;
+  font-size: 0.85rem;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 3px 12px;
+  cursor: pointer;
+}
+.rf-preset:hover { border-color: var(--accent); color: var(--accent); }
+.rf-clear { color: var(--muted); }
+.key-shift { font-weight: 700; color: var(--accent); white-space: nowrap; font-size: 0.9rem; }
+.key-shift.key-zero { color: var(--up); font-weight: 600; font-size: 0.8rem; }
+.seen { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; margin-top: 4px; font-size: 0.78rem; }
+.seen-label { color: var(--muted); }
+.seen-chip {
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0 8px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.seen-chip:hover { color: var(--accent); border-color: var(--accent); }
+.seen-more { color: var(--muted); }
+
 .meta {
   display: flex;
   flex-wrap: wrap;

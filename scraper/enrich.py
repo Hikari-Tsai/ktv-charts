@@ -22,7 +22,7 @@ import time
 import urllib.parse
 from pathlib import Path
 
-from . import hashtags, info, match
+from . import hashtags, info, match, rangeindex
 from .singrange import advise as vocal_advice
 from .net import get_text
 
@@ -323,6 +323,9 @@ def apply_files(site_dir: Path = SITE_DATA) -> dict:
                       (load_cache(NCL_CACHE), load_cache(MB_CACHE), load_cache(APPLE_ALBUM_CACHE)),
                       load_cache(RANGE_CACHE))
     write_sites(sites, site_dir)
+    index = rangeindex.build(sites, dt.datetime.now(TZ).isoformat(timespec="seconds"))
+    _save(site_dir / "range.json", index, compact=True)
+    counts["range_finder"] = len(index["rows"])
     return counts
 
 

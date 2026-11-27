@@ -9,7 +9,7 @@ from unittest import mock
 import datetime as dt
 
 import scraper.__main__ as main
-from scraper import bpm, covers, credits, enrich, hashtags, info, match, singrange, spotify
+from scraper import bpm, covers, credits, enrich, hashtags, info, match, rangeindex, singrange, spotify
 from scraper.history import History, period_key, song_key
 from scraper.sources import dam, joysound, kkbox, vtuber
 
@@ -742,3 +742,29 @@ class VtuberChartTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RangeIndexTest(unittest.TestCase):
+    def test_one_row_per_song_with_where_it_charts(self):
+        rng = {"low": 50, "high": 64}
+        sites = {
+            "holiday": {"charts": [{"id": "tc", "title": {"zh": "國語點播"}, "rows": [
+                {"rank": 5, "title": "晴天", "artist": "周杰倫", "range": rng, "last_rank": 4},
+                {"rank": 1, "title": "無音域", "artist": "某人"},
+            ]}]},
+            "kkbox": {"charts": [{"id": "d", "title": {"zh": "華語日榜"}, "rows": [
+                {"rank": 2, "title": "晴天", "artist": "周杰倫", "range": rng, "kkbox": "K1"},
+                {"rank": 9, "title": "小幸運", "artist": "田馥甄", "range": {"low": 55, "high": 70}},
+            ]}]},
+            "vtuber": {"charts": [{"id": "all", "title": {"zh": "累計"}, "rows": [
+                {"rank": 1, "title": "不知原唱", "artist": "", "range": rng, "covers": 9},
+            ]}]},
+        }
+        out = rangeindex.build(sites, "2026-11-27T12:00:00+08:00")
+        self.assertEqual([r["title"] for r in out["rows"]], ["晴天", "小幸運"])  # on two charts first
+        sunny = out["rows"][0]
+        self.assertEqual(sunny["seen"], [["kkbox", "d", 2], ["holiday", "tc", 5]])
+        self.assertEqual(sunny["kkbox"], "K1")  # the best-ranked row's fields win
+        self.assertNotIn("rank", sunny)
+        self.assertNotIn("last_rank", sunny)
+        self.assertEqual(out["titles"], {"holiday/tc": {"zh": "國語點播"}, "kkbox/d": {"zh": "華語日榜"}})

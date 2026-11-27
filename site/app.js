@@ -143,6 +143,29 @@ const I18N = {
     intro_vtuber: "依 YouTube 播放清單「台灣 Vtuber Cover 華語&港馬歌曲總整理」，用 YouTube Data API 計算每首歌被翻唱的次數。歌曲由影片標題自動辨識，原唱無法確認時顯示「--」。每天自動更新。",
     introThanks_vtuber: "特別感謝{curator}長期整理這份播放清單。",
     introLink_vtuber: "前往播放清單 ↗",
+    rangeTabName: "音域找歌",
+    rangeTabSub: "依音域篩選",
+    intro_range: "從各排行榜中有副歌音域資料的歌曲裡，找出適合你音域的歌。選擇你唱得舒服的最低音與最高音；允許移調時，會標出 KTV 要升降幾個 Key。設定會寫進網址，可以分享或加入書籤，也可以直接用網址參數，例如 ?low=C3&high=G4&shift=2&region=tw。",
+    rfLow: "最低音",
+    rfHigh: "最高音",
+    rfAny: "不限",
+    rfShift: "可移調",
+    rfShift0: "不移調",
+    rfShiftN: "±{n} Key 內",
+    rfRegion: "地區",
+    rfRegionAll: "全部",
+    rfPresets: "快速設定",
+    rfPreset_m: "男生一般",
+    rfPreset_f: "女生一般",
+    rfClear: "清除",
+    rfCount: "符合 {n} 首，共 {total} 首有音域資料",
+    rfNone: "沒有符合的歌。試著放寬音域，或允許移調。",
+    rfUpdated: "資料時間",
+    colKey: "移調",
+    keyOriginal: "原調",
+    keyShiftHint: "KTV 移調 {s} 後，副歌 {r} 落在你的音域內",
+    keyOriginalHint: "原調的副歌 {r} 就在你的音域內",
+    seenLabel: "上榜",
     disclaimer: "資料取自各 KTV 與 KKBOX 官方網站公開頁面，著作權屬原網站所有；VTuber 翻唱排行依社群整理的 YouTube 公開播放清單，透過 YouTube Data API 計算。本站與各業者無關。",
     sources: "資料來源",
     starCta: "在 GitHub 給我星星",
@@ -285,6 +308,29 @@ const I18N = {
     intro_vtuber: "How many times each song has been covered in the YouTube playlist \"台灣 Vtuber Cover 華語&港馬歌曲總整理\", counted with the YouTube Data API. Songs are identified from video titles automatically; \"--\" means the original artist could not be confirmed. Updated daily.",
     introThanks_vtuber: "Special thanks to {curator} for curating this playlist.",
     introLink_vtuber: "Open the playlist ↗",
+    rangeTabName: "Range finder",
+    rangeTabSub: "By vocal range",
+    intro_range: "Find songs that suit your voice among every charted song with a chorus range. Pick the lowest and highest notes you sing comfortably; if you allow a key change, each song shows how many keys to raise or lower it at karaoke. The settings go into the address so you can share or bookmark them, or set them directly, e.g. ?low=C3&high=G4&shift=2&region=tw.",
+    rfLow: "Lowest",
+    rfHigh: "Highest",
+    rfAny: "Any",
+    rfShift: "Key change",
+    rfShift0: "None",
+    rfShiftN: "Up to ±{n}",
+    rfRegion: "Region",
+    rfRegionAll: "All",
+    rfPresets: "Presets",
+    rfPreset_m: "Typical male",
+    rfPreset_f: "Typical female",
+    rfClear: "Clear",
+    rfCount: "{n} songs fit, of {total} with a known range",
+    rfNone: "No songs fit. Try a wider range or allow a key change.",
+    rfUpdated: "Data as of",
+    colKey: "Key",
+    keyOriginal: "As is",
+    keyShiftHint: "With the key changed by {s}, the chorus ({r}) is in your range",
+    keyOriginalHint: "In the original key the chorus ({r}) is in your range",
+    seenLabel: "Charts",
     disclaimer: "Data comes from the public websites of each KTV operator and KKBOX; rights belong to the original sites. The VTuber cover ranking counts a public, community-curated YouTube playlist through the YouTube Data API. This site is not affiliated with any of them.",
     sources: "Sources",
     starCta: "Star on GitHub",
@@ -427,6 +473,29 @@ const I18N = {
     intro_vtuber: "YouTube の再生リスト「台灣 Vtuber Cover 華語&港馬歌曲總整理」で各曲が何回カバーされたかを YouTube Data API で集計しています。曲は動画タイトルから自動で判別し、原曲アーティストを確認できないものは「--」と表示します。毎日自動更新。",
     introThanks_vtuber: "この再生リストを整理している{curator}さんに感謝します。",
     introLink_vtuber: "再生リストを開く ↗",
+    rangeTabName: "音域で探す",
+    rangeTabSub: "音域で絞り込み",
+    intro_range: "各ランキングのサビ音域が分かる曲から、あなたの音域に合う曲を探します。無理なく歌える最低音と最高音を選んでください。キー変更を許可すると、カラオケで何キー上げ下げすればよいかを表示します。設定は URL に保存されるので共有やブックマークができ、?low=C3&high=G4&shift=2&region=tw のように直接指定することもできます。",
+    rfLow: "最低音",
+    rfHigh: "最高音",
+    rfAny: "指定なし",
+    rfShift: "キー変更",
+    rfShift0: "しない",
+    rfShiftN: "±{n} まで",
+    rfRegion: "地域",
+    rfRegionAll: "すべて",
+    rfPresets: "プリセット",
+    rfPreset_m: "男性の標準",
+    rfPreset_f: "女性の標準",
+    rfClear: "クリア",
+    rfCount: "{n} 曲が該当（音域データのある {total} 曲中）",
+    rfNone: "該当する曲がありません。音域を広げるか、キー変更を許可してください。",
+    rfUpdated: "データ更新",
+    colKey: "キー",
+    keyOriginal: "原曲キー",
+    keyShiftHint: "キーを {s} 変えるとサビ（{r}）があなたの音域に収まります",
+    keyOriginalHint: "原曲キーのままでサビ（{r}）があなたの音域に収まります",
+    seenLabel: "ランクイン",
     disclaimer: "データは各カラオケ事業者と KKBOX の公式サイトの公開ページから取得しています。権利は各サイトに帰属します。VTuber カバーのランキングは、コミュニティが整理した YouTube の公開再生リストを YouTube Data API で集計しています。本サイトは各事業者とは関係ありません。",
     sources: "データ提供元",
     starCta: "GitHub でスターをください",
@@ -457,6 +526,7 @@ const state = {
   source: null,
   chart: null,
   cache: new Map(),
+  range: { low: null, high: null, shift: 0, region: "all" },  // the range finder's filter
 };
 
 function storageGet(key) {
@@ -479,8 +549,11 @@ function readHash() {
 }
 
 function writeHash() {
-  const hash = `#${state.source}/${state.chart}`;
-  if (location.hash !== hash) history.replaceState(null, "", location.pathname + location.search + hash);
+  const hash = state.source === RANGE_ID ? `#${RANGE_ID}` : `#${state.source}/${state.chart}`;
+  const search = rangeSearch(state.source === RANGE_ID ? state.range : null);
+  if (location.hash !== hash || location.search !== search) {
+    history.replaceState(null, "", location.pathname + search + hash);
+  }
 }
 
 /* ---------- dom helpers ---------- */
@@ -757,8 +830,9 @@ function renderSourceTabs() {
         "aria-selected": String(s.id === state.source),
         onclick: () => selectSource(s.id),
       },
-      el("span", { text: pick(s.name).replace(/\s*\(.*\)$/, "") }),
-      el("span", { class: "region", text: t("region_" + s.region) + (s.kind === "streaming" ? " · " + t("streaming") : s.kind === "cover" ? " · YouTube" : "") }))
+      el("span", { text: s.kind === "range" ? t("rangeTabName") : pick(s.name).replace(/\s*\(.*\)$/, "") }),
+      el("span", { class: "region", text: s.kind === "range" ? t("rangeTabSub")
+        : t("region_" + s.region) + (s.kind === "streaming" ? " · " + t("streaming") : s.kind === "cover" ? " · YouTube" : "") }))
     )
   );
 }
@@ -1255,9 +1329,10 @@ function renderRows(chart, tbody, start) {
   const end = Math.min(start + ROWS_PER_BATCH, chart.rows.length);
   for (const row of chart.rows.slice(start, end)) {
     const songCellNode = el("td", { class: "col-song" }, ...songCell(row));
+    if (chart.kind === RANGE_ID) songCellNode.insertBefore(seenLine(row), songCellNode.children[2] ?? null);
     const tr = el("tr", { class: row.rank <= 3 ? "podium" : null },
       el("td", { class: "col-rank", text: String(row.rank) }),
-      el("td", { class: "col-change" }, changeCell(row, chart)),
+      el("td", { class: "col-change" }, chart.kind === RANGE_ID ? keyCell(row) : changeCell(row, chart)),
       songCellNode);
     songCellNode.append(linkRow(row, tr));
     frag.append(tr);
@@ -1329,6 +1404,178 @@ function showMessage(text) {
   $("#empty").hidden = false;
 }
 
+/* ---------- range finder ---------- */
+
+// A tab of its own built from data/range.json (scraper/rangeindex.py): every charted song with a
+// chorus range, filtered by the visitor's lowest and highest note. The filter lives in the query
+// string (?low=C3&high=G4&shift=2&region=tw) so a search can be shared, bookmarked or linked to.
+const RANGE_ID = "range";
+const PICK_NOTES = [36, 84];  // C2 to C6 in the note menus
+const NOTE_INDEX = { C: 0, D: 2, E: 4, F: 5, G: 7, A: 9, B: 11 };
+
+// "C3", "F#4", "Bb3", "B♭3", "c#4" or a MIDI number such as "48" -> MIDI number, else null.
+function parseNote(text) {
+  const s = String(text ?? "").trim().replace(/♯/g, "#").replace(/♭/g, "b");
+  if (/^\d{2,3}$/.test(s)) {
+    const n = Number(s);
+    return n >= 12 && n <= 120 ? n : null;
+  }
+  const m = /^([A-Ga-g])([#b]?)(-?\d)$/.exec(s);
+  if (!m) return null;
+  const n = (Number(m[3]) + 1) * 12 + NOTE_INDEX[m[1].toUpperCase()] + (m[2] === "#" ? 1 : m[2] === "b" ? -1 : 0);
+  return n >= 12 && n <= 120 ? n : null;
+}
+
+// The filter from a query string, or null when it sets none of it.
+function readRangeParams(search) {
+  const q = new URLSearchParams(search);
+  if (!["low", "high", "shift", "region"].some((k) => q.has(k))) return null;
+  let low = parseNote(q.get("low")), high = parseNote(q.get("high"));
+  if (low != null && high != null && low > high) [low, high] = [high, low];
+  const shift = Math.min(Math.max(Number.parseInt(q.get("shift") ?? "0", 10) || 0, 0), MAX_SHIFT);
+  const region = ["tw", "jp"].includes(q.get("region")) ? q.get("region") : "all";
+  return { low, high, shift, region };
+}
+
+// The query string for a filter (other parameters such as ?lang= are kept).
+function rangeSearch(f) {
+  const q = new URLSearchParams(location.search);
+  for (const k of ["low", "high", "shift", "region"]) q.delete(k);
+  if (f) {
+    if (f.low != null) q.set("low", noteName(f.low));
+    if (f.high != null) q.set("high", noteName(f.high));
+    if (f.shift) q.set("shift", String(f.shift));
+    if (f.region !== "all") q.set("region", f.region);
+  }
+  const s = q.toString();
+  return s ? `?${s}` : "";
+}
+
+// The smallest key change (0 first) that puts the chorus inside the filter, nearest the middle
+// of the visitor's range when two work equally well; null when none within the allowed shift.
+function fitShift(r, f) {
+  const mid = f.low != null && f.high != null ? (f.low + f.high) / 2 : null;
+  for (let n = 0; n <= f.shift; n++) {
+    const ok = [...new Set([-n, n])].filter((k) =>
+      (f.low == null || r.low + k >= f.low) && (f.high == null || r.high + k <= f.high));
+    if (ok.length) {
+      return mid == null ? ok[0] : ok.sort((a, b) => Math.abs((r.low + r.high) / 2 + a - mid) - Math.abs((r.low + r.high) / 2 + b - mid))[0];
+    }
+  }
+  return null;
+}
+
+function rangeRows(data, f) {
+  const regionOf = Object.fromEntries(state.index.sources.map((s) => [s.id, s.region]));
+  const out = [];
+  for (const row of data.rows) {
+    if (f.region !== "all" && !row.seen.some(([src]) => regionOf[src] === f.region)) continue;
+    const key = fitShift(row.range, f);
+    if (key == null) continue;
+    out.push({ ...row, key });
+  }
+  // Songs that fit as they are first; the list is already in popularity order (scraper/rangeindex.py).
+  out.sort((a, b) => Math.abs(a.key) - Math.abs(b.key));
+  return out.map((row, i) => ({ ...row, rank: i + 1 }));
+}
+
+function keyCell(row) {
+  const r = rangeText(row.range.low + row.key, row.range.high + row.key);
+  if (!row.key) return el("span", { class: "key-shift key-zero", title: t("keyOriginalHint", { r }), text: t("keyOriginal") });
+  const s = row.key > 0 ? `+${row.key}` : `−${-row.key}`;
+  return el("span", { class: "key-shift", title: t("keyShiftHint", { s, r }), text: s });
+}
+
+// "Charts: KKBOX 華語單曲日榜 #2 · JOYSOUND 動畫週榜 #3": links to where the song is charting.
+function seenLine(row) {
+  const names = Object.fromEntries(state.index.sources.map((s) => [s.id, s.name]));
+  const titles = state.cache.get(RANGE_ID + ":titles") || {};
+  const line = el("div", { class: "seen" }, el("span", { class: "seen-label", text: t("seenLabel") }));
+  for (const [src, chart, rank] of row.seen.slice(0, 3)) {
+    line.append(el("a", { class: "seen-chip", href: `#${src}/${chart}`,
+                          text: `${pick(names[src]).replace(/\s*\(.*\)$/, "")} ${pick(titles[`${src}/${chart}`] ?? "")} #${rank}` }));
+  }
+  if (row.seen.length > 3) line.append(el("span", { class: "seen-more", text: `+${row.seen.length - 3}` }));
+  return line;
+}
+
+function noteSelect(id, value) {
+  const select = el("select", { id, onchange: () => updateRange() });
+  select.append(el("option", { value: "", text: t("rfAny") }));
+  for (let m = PICK_NOTES[0]; m <= PICK_NOTES[1]; m++) {
+    select.append(el("option", { value: String(m), text: noteName(m), selected: m === value }));
+  }
+  return select;
+}
+
+function renderRangeForm() {
+  const f = state.range;
+  const box = $("#range-filter");
+  const field = (label, control) => el("label", { class: "rf-field" }, el("span", { text: label }), control);
+  const shift = el("select", { id: "rf-shift", onchange: () => updateRange() });
+  for (let n = 0; n <= MAX_SHIFT; n++) {
+    shift.append(el("option", { value: String(n), text: n ? t("rfShiftN", { n }) : t("rfShift0"), selected: n === f.shift }));
+  }
+  const region = el("select", { id: "rf-region", onchange: () => updateRange() });
+  for (const r of ["all", "tw", "jp"]) {
+    region.append(el("option", { value: r, text: r === "all" ? t("rfRegionAll") : t("region_" + r), selected: r === f.region }));
+  }
+  const preset = (g) => el("button", { type: "button", class: "rf-preset", onclick: () => {
+    state.range = { ...state.range, low: VOICE_ZONES[g][0], high: VOICE_ZONES[g][1] };
+    render();
+  }, text: `${t("rfPreset_" + g)} ${rangeText(VOICE_ZONES[g][0], VOICE_ZONES[g][1])}` });
+  box.replaceChildren(
+    el("div", { class: "rf-row" },
+      field(t("rfLow"), noteSelect("rf-low", f.low)),
+      el("span", { class: "rf-dash", text: "–" }),
+      field(t("rfHigh"), noteSelect("rf-high", f.high)),
+      field(t("rfShift"), shift),
+      field(t("rfRegion"), region)),
+    el("div", { class: "rf-row rf-presets" },
+      el("span", { class: "rf-presets-label", text: t("rfPresets") }),
+      preset("m"), preset("f"),
+      el("button", { type: "button", class: "rf-preset rf-clear", onclick: () => {
+        state.range = { low: null, high: null, shift: 0, region: "all" };
+        render();
+      }, text: t("rfClear") })));
+  box.hidden = false;
+}
+
+function updateRange() {
+  const num = (id) => ($(id).value === "" ? null : Number($(id).value));
+  let low = num("#rf-low"), high = num("#rf-high");
+  if (low != null && high != null && low > high) [low, high] = [high, low];
+  state.range = { low, high, shift: Number($("#rf-shift").value), region: $("#rf-region").value };
+  render();
+}
+
+async function renderRangeFinder(token) {
+  $("#charts").hidden = true;
+  renderRangeForm();
+  let data;
+  try {
+    if (!state.cache.has(RANGE_ID)) showMessage(t("loading"));
+    data = await loadSource(RANGE_ID);
+  } catch (err) {
+    console.error(err);
+    if (token === renderToken) showMessage(t("loadError"));
+    return;
+  }
+  if (token !== renderToken) return;
+  state.cache.set(RANGE_ID + ":titles", data.titles);
+  writeHash();
+  const rows = rangeRows(data, state.range);
+  const meta = [el("span", { text: t("rfCount", { n: rows.length, total: data.rows.length }) })];
+  if (data.updated_at) meta.push(el("span", { text: t("rfUpdated") + t("colon") + formatTime(data.updated_at) }));
+  $("#meta").replaceChildren(...meta);
+  $("#notice").hidden = true;
+  openPlayer = null;
+  $("#rows").replaceChildren();
+  renderRows({ kind: RANGE_ID, rows }, $("#rows"), 0);
+  $("#empty").textContent = t("rfNone");
+  $("#empty").hidden = rows.length > 0;
+}
+
 /* ---------- actions ---------- */
 
 let renderToken = 0;
@@ -1339,6 +1586,13 @@ async function render() {
   if (!state.index) return;
   renderSourceTabs();
   renderSourceIntro();
+  $("#ranking .col-change").textContent = t(state.source === RANGE_ID ? "colKey" : "colChange");
+  if (state.source === RANGE_ID) {
+    await renderRangeFinder(token);
+    return;
+  }
+  $("#range-filter").hidden = true;
+  $("#charts").hidden = false;
   let data;
   try {
     if (!state.cache.has(state.source)) showMessage(t("loading"));
@@ -1420,9 +1674,12 @@ async function init() {
     showMessage(t("loadError"));
     return;
   }
+  state.index.sources.push({ id: RANGE_ID, kind: RANGE_ID, region: "all", name: "", site_url: null });
   const ids = state.index.sources.map((s) => s.id);
   const fromHash = readHash();
-  state.source = ids.includes(fromHash.source) ? fromHash.source : ids[0];
+  const params = readRangeParams(location.search);
+  if (params) state.range = params;
+  state.source = ids.includes(fromHash.source) ? fromHash.source : params && !fromHash.source ? RANGE_ID : ids[0];
   state.chart = fromHash.chart;
   window.addEventListener("hashchange", () => {
     const h = readHash();
