@@ -98,6 +98,17 @@
   "status": "ok",
   "track": "tw/1868481914"
  },
+ "247365|elijahwoods": {
+  "avg_bpm": 75.0,
+  "beats": 37,
+  "bpm": 75.024,
+  "checked": "2026-11-28",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "jp/1877125447"
+ },
  "33|張語噥": {
   "avg_bpm": 84.963,
   "beats": 43,
@@ -141,6 +152,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1857509406"
+ },
+ "abracadabra|ladygaga": {
+  "avg_bpm": 126.016,
+  "beats": 63,
+  "bpm": 125.994,
+  "checked": "2026-11-28",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1792667005"
  },
  "actor|友成空": {
   "avg_bpm": 132.924,
@@ -878,6 +900,17 @@
   "signature": 4,
   "status": "ok",
   "track": "jp/1720332181"
+ },
+ "bluebird|落日飛車sunsetrollercoaster": {
+  "avg_bpm": 77.131,
+  "beats": 39,
+  "bpm": 77.131,
+  "checked": "2026-11-28",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1830256693"
  },
  "bluejeans|hana": {
   "avg_bpm": 110.054,
@@ -1791,6 +1824,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/6781076777"
+ },
+ "drama|aespa": {
+  "avg_bpm": 76.056,
+  "beats": 37,
+  "bpm": 76.056,
+  "checked": "2026-11-28",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/1715939931"
  },
  "drip|ateez": {
   "avg_bpm": 79.054,
@@ -5740,6 +5784,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/6821861811"
+ },
+ "testme|chanmina": {
+  "avg_bpm": 129.993,
+  "beats": 65,
+  "bpm": 129.998,
+  "checked": "2026-11-28",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1866862252"
  },
  "testme|thexx": {
   "avg_bpm": 53.682,
@@ -10867,6 +10922,17 @@
   "status": "ok",
   "track": "jp/1537335251"
  },
+ "ロンリーチャップリン|鈴木聖美withratsstar": {
+  "avg_bpm": 113.055,
+  "beats": 57,
+  "bpm": 113.091,
+  "checked": "2026-11-28",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "jp/1536764195"
+ },
  "ロンリーチャップリン|鈴木聖美withラッツスター": {
   "avg_bpm": 113.055,
   "beats": 57,
@@ -11372,6 +11438,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/1668533653"
+ },
+ "不情之請|amei張惠妹": {
+  "avg_bpm": 130.261,
+  "beats": 66,
+  "bpm": 130.261,
+  "checked": "2026-11-28",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6837211884"
  },
  "不愛就不愛|艾薇": {
   "avg_bpm": 85.003,
@@ -13363,6 +13440,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/6785850147"
+ },
+ "國際孤獨等級|garetht": {
+  "avg_bpm": 68.088,
+  "beats": 34,
+  "bpm": 68.088,
+  "checked": "2026-11-28",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1674509617"
  },
  "在加納共和國離婚|菲道爾dior大穎": {
   "avg_bpm": 60.0,
@@ -18347,6 +18435,28 @@
   "status": "ok",
   "track": "jp/6776638102"
  },
+ "淺粉紅babypink|garetht": {
+  "avg_bpm": 115.385,
+  "beats": 58,
+  "bpm": 115.385,
+  "checked": "2026-11-28",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": null,
+  "status": "ok",
+  "track": "tw/6814412781"
+ },
+ "淺粉紅palepink|garetht": {
+  "avg_bpm": 65.041,
+  "beats": 33,
+  "bpm": 65.003,
+  "checked": "2026-11-28",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/6814412779"
+ },
  "渡月橋|倉木麻衣": {
   "avg_bpm": 94.005,
   "beats": 47,
@@ -19612,6 +19722,17 @@
   "status": "ok",
   "track": "jp/270405388"
  },
+ "終身美麗|鄭秀文": {
+  "avg_bpm": 207.105,
+  "beats": 104,
+  "bpm": 207.104,
+  "checked": "2026-11-28",
+  "mode": "variable",
+  "model": "beat-this-final0",
+  "signature": 6,
+  "status": "ok",
+  "track": "tw/201586923"
+ },
  "絆ノ奇跡|manwithamissionmilet": {
   "avg_bpm": 169.926,
   "beats": 85,
@@ -20425,6 +20546,17 @@
   "signature": 4,
   "status": "ok",
   "track": "tw/6770795382"
+ },
+ "記憶棉|mc張天賦": {
+  "avg_bpm": 75.0,
+  "beats": 37,
+  "bpm": 74.984,
+  "checked": "2026-11-28",
+  "mode": "constant",
+  "model": "beat-this-final0",
+  "signature": 4,
+  "status": "ok",
+  "track": "tw/1590828011"
  },
  "該怎麼|郁欣ivy": {
   "avg_bpm": 123.984,
